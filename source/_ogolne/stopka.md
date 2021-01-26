@@ -1,0 +1,1 @@
+© 2021 | Treść strony jest udostępniana na licencji [CC BY-SA 3.0 PL](/strony/licencja) | [Wesprzyj projekt](/strony/wsparcie-projektu)

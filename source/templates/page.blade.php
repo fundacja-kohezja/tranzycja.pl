@@ -1,0 +1,11 @@
+@extends('templates.master')
+
+@section('body')
+<div class="container max-w-6xl mx-auto px-6 py-4">
+    <main class="flex flex-col lg:flex-row">
+        <div class="DocSearch-content w-full lg:w-3/5 break-words pb-16">
+            @yield('content')
+        </div>
+    </main>
+</div>
+@endsection
