@@ -31,7 +31,7 @@ artykułach znajdziesz informacje na temat poszczególnych elementów tranzycji 
 
 
 :::info
-Więcej materiałów, takich jak ulotki, publikacje czy komiksy o transpłciowości, znajdziesz w [oddzielnej sekcji](adres).
+Więcej materiałów, takich jak ulotki, publikacje czy komiksy o transpłciowości, znajdziesz w [oddzielnej sekcji](/materialy).
 :::
 
 [^1]: https://www.standardy.pl/newsy/id/201
