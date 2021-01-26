@@ -55,7 +55,7 @@ Przed zapisaniem hormonów, lekarz ma obowiązek poinformować Cię o wpływie t
 ![](https://i.imgur.com/RlpMAl0.png)
 :::
 
-## Wideo
+## Materiały wideo
 
 :::spoiler Angry Trans: 3 miesiące na T w żelu - porównanie głosu
 {%youtube nUdGWuqzaPc %}
@@ -67,7 +67,7 @@ Przed zapisaniem hormonów, lekarz ma obowiązek poinformować Cię o wpływie t
 {%youtube qvnDXuKePS4 %}
 :::
 
-## Blokery dojrzewania
+# Blokery dojrzewania
 
 Blokery są to leki zatrzymujące naturalne dojrzewanie, aby dziecko mogło upewnić się w swojej tożsamości, a lekarze mieli więcej czasu na obserwację i upewnienie się w dalszym kierunku leczenia. Jest to o tyle ważne, że część aspektów dojrzewania jest całkowicie nieodwracalnych, natomiast niektóre inne wymagają znaczących ingerencji chirurgicznych.
 
