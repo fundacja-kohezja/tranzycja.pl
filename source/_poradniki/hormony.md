@@ -27,7 +27,7 @@ Jeśli interesują Cię naukowe aspekty terapii transżeńskiej, zapoznaj się z
 Najczęściej w Polsce testosteron przyjmuje się w formie zastrzyków lub żelu. Zdarza się także, że tymczasowo lekarze przypisują tabletki, ale z przyczyn zdrowotnych nigdy na dłuższą metę. Osoby transmęskie przyjmujące testosteron na ogół nie stosują żadnych dodatkowych środków blokujących wydzielane przez organizm hormony płciowe - powinno to nastąpić samo, w konsekwencji leczenia testosteronem. Niektóre osoby stosujące testosteron, stosują natomiast środki mające zapobiec niechcianym efektów, jak np. nadmierne łysienie. Jeśli masz  tego typu obawy, możesz zapytać o to swojego lekarza.
 
 :::spoiler Kaj: o terapii testosteronem
-{%youtube Wp2q28bvAGo%}
+{%youtube Wp2q28bvAGo %}
 :::
 :::spoiler Kaj: o zastrzykach
 {%youtube P_owyewTvZQ %}
@@ -37,26 +37,34 @@ Najczęściej w Polsce testosteron przyjmuje się w formie zastrzyków lub żelu
 
 Przed zapisaniem hormonów, lekarz ma obowiązek poinformować Cię o wpływie terapii na twoje zdrowie. Aby wiedzieć czego się spodziewać, możesz się zapoznać z poniższymi tabelami efektów terapii hormonalnej, zapożyczonych ze [Standardów opieki (wersja 7)](https://www.wpath.org/publications/soc) autorstwa Światowego Stowarzyszenia Specjalistów ds. Zdrowia Osób Transpłciowych (WPATH).
 
+## Tabelki
+
+:::spoiler Efekty terapii feminizującej
+
+![](https://i.imgur.com/IUJ2SXd.png)
+
+:::
+
+:::spoiler Efekty terapii maskulinizującej
+
+![](https://i.imgur.com/mcDpCrf.png)
+
+:::
+
 :::spoiler Legenda
 ![](https://i.imgur.com/RlpMAl0.png)
 :::
 
-## Efekty terapii feminizującej
-
-![](https://i.imgur.com/IUJ2SXd.png)
-
-## Efekty terapii maskulinizującej
-
-![](https://i.imgur.com/mcDpCrf.png)
+## Wideo
 
 :::spoiler Angry Trans: 3 miesiące na T w żelu - porównanie głosu
-{%youtube nUdGWuqzaPc%}
+{%youtube nUdGWuqzaPc %}
 :::
 :::spoiler Angry Trans: 10 miesięcy HRT
-{%youtube 5dV_D1InHgU%}
+{%youtube 5dV_D1InHgU %}
 :::
 :::spoiler Oliwier: 3 lata na Testosteronie
-{%youtube qvnDXuKePS4%}
+{%youtube qvnDXuKePS4 %}
 :::
 
 ## Blokery dojrzewania
