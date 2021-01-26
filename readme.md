@@ -1,6 +1,6 @@
 # Instrukcja obsługi
 
-Wzystkie pliki przewidziane do edycji znajdują się w folderze *source*, w podfolderach, których nazwy **zaczynają się od znaku podkreślnia** (pozostałe stanowią strukturę strony i ich zmiana może sprawić, że strona się nie zbuduje).
+Wszystkie pliki przewidziane do edycji znajdują się w folderze *source*, w podfolderach, których nazwy **zaczynają się od znaku podkreślnia** (pozostałe stanowią strukturę strony i ich zmiana może sprawić, że strona się nie zbuduje).
 
 W momencie zmiany lub dodania nowego pliku, strona automatycznie się zbuduje i będzie od razu widać na niej zmiany.
 
