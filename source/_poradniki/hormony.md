@@ -33,7 +33,7 @@ Najczęściej w Polsce testosteron przyjmuje się w formie zastrzyków lub żelu
 {%youtube P_owyewTvZQ %}
 :::
 
-# Efektów terapii hormonalnej
+# Efekty terapii hormonalnej
 
 Przed zapisaniem hormonów, lekarz ma obowiązek poinformować Cię o wpływie terapii na twoje zdrowie. Aby wiedzieć czego się spodziewać, możesz się zapoznać z poniższymi tabelami efektów terapii hormonalnej, zapożyczonych ze [Standardów opieki (wersja 7)](https://www.wpath.org/publications/soc) autorstwa Światowego Stowarzyszenia Specjalistów ds. Zdrowia Osób Transpłciowych (WPATH).
 

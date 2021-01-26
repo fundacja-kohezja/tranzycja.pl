@@ -1,6 +1,6 @@
 ## Nauka
 
-:::spoiler Dlaczego podręczniki nie mówią o transpłciowości?
+:::spoiler Dlaczego podręczniki szkolne nie mówią o transpłciowości?
 
 Im bardziej podstawowy poziom, tym większe stosuje się uproszczenia. Ponieważ jest dość duża korelacja pomiędzy płcią fenotypową, chromosalną i tożsamością płciową, gdy uczy się podstaw biologii, np. w szkole podstawowej, najłatwiej jest zignorować bardziej skomplikowane przypadki.
 
