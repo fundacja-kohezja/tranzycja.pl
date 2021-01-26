@@ -186,7 +186,7 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
             $toc = '<aside class="bg-white dark:bg-gray-800 shadow rounded-lg px-4 py-1 lg:py-0 toc my-8 lg:my-4"><p class="text-2xl leading-tight px-3 font-extrabold text-indigo-800 dark:text-indigo-200">Spis treści</p><nav><ul class="list-none pl-0">';
 
             foreach ($processed_headings as $h) {
-                $toc .= '<li><a class="block leading-tight border-b-0 text-gray-700 dark:text-gray-300 hover:bg-indigo-100 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white p-4 font-medium rounded-md' . ($h['level'] != 2 ? ' pl-8' : '') . '" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
+                $toc .= '<li><a class="block leading-tight border-b-0 text-gray-700 dark:text-gray-300 hover:bg-indigo-100 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white py-4 px-4 font-medium rounded-md' . ($h['level'] != 2 ? ' pl-8' : '') . '" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
             }
     
             $toc .= '</ul></nav></aside>';
