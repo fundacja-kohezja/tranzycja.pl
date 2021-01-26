@@ -16,9 +16,9 @@ Co należy zaznaczyć - tzw. ROGD nie zostało nigdy potwierdzone metodą naukow
 
 :::
 
-## Detranzycje
-
 ---
+
+## Detranzycje
 
 :::spoiler Czy detranzycje zdarzają się często?
 
