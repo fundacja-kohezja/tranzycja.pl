@@ -135,10 +135,10 @@ details {
             @apply .text-purple-300;
         }
     }
+    > :nth-child(2) {
+        @apply .mt-0;
+    }
     &.on-homepage {
-        > :nth-child(2) {
-            @apply .mt-0;
-        }
         @apply .text-sm;
         h1 {
             @apply .text-3xl;

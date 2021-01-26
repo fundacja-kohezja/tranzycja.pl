@@ -2,6 +2,7 @@
 
 use App\Listeners\GenerateSitemap;
 use GuzzleHttp\Client;
+use Illuminate\Support\Facades\Date;
 use Illuminate\Support\Str;
 
 /** @var $container \Illuminate\Container\Container */
@@ -32,6 +33,8 @@ $block_types = ['success', 'info', 'warning', 'danger'];
 
 
 $events->beforeBuild(function($jigsaw){
+
+
     $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_strony');
     foreach ($files as $file) {
         $new_content = 
@@ -44,30 +47,79 @@ section: content
         $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
     }
     
+
+
     $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_aktualnosci');
     foreach ($files as $file) {
-        $new_content = 
+        $parser = new Mni\FrontYAML\Parser();
+
+        $document = $parser->parse($jigsaw->getFilesystem()->get($file), false);
+
+        $yaml = $document->getYAML();
+        if (isset($yaml['data']) && strlen($yaml['data']) === 19) {
+
+            $new_content = 
 '---
+data: \'' . $yaml['data'] . '\'
 extends: templates.post
 section: content
 ---
-' . $jigsaw->getFilesystem()->get($file);
+' . $document->getContent();
+
+        } else {
+
+            $new_content = 
+'---
+data: \'' . Date::now() . '\'
+extends: templates.post
+section: content
+---
+' . $document->getContent();
+
+        }
         
         $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
     }
+
+
 
 
     $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_poradniki');
+
     foreach ($files as $file) {
-        $new_content = 
+
+        $parser = new Mni\FrontYAML\Parser();
+
+        $document = $parser->parse($jigsaw->getFilesystem()->get($file), false);
+
+        $yaml = $document->getYAML();
+        if (isset($yaml['data']) && strlen($yaml['data']) === 19) {
+
+            $new_content = 
 '---
+data: \'' . $yaml['data'] . '\'
 extends: templates.artl
 section: content
 ---
-' . $jigsaw->getFilesystem()->get($file);
+' . $document->getContent();
+
+        } else {
+
+            $new_content = 
+'---
+data: \'' . Date::now() . '\'
+extends: templates.artl
+section: content
+---
+' . $document->getContent();
+
+        }
+
         
         $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
     }
+
+
 
 });
 
@@ -76,14 +128,21 @@ $events->afterBuild(GenerateSitemap::class);
 
 $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replacements, $block_types) {
 
+    $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_strony');
+    foreach ($files as $file) {
+
+        $new_content = substr($jigsaw->getFilesystem()->get($file), 49);
+        
+        $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
+    }
+    
     $files = array_merge(
-        $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_strony'),
         $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_poradniki'),
         $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_aktualnosci')
     );
     foreach ($files as $file) {
-
-        $new_content = substr($jigsaw->getFilesystem()->get($file), 49);
+        $file_content = $jigsaw->getFilesystem()->get($file);
+        $new_content = substr($file_content, 0, 32) . substr($file_content, 73);
         
         $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
     }
@@ -107,7 +166,7 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
         $http = new Client(['base_uri' => 'http://noembed.com']);
 
         foreach ($noembed_replacements as $service => $prefix) {
-            $callables["/{%$service (.*?) %}/"] = function (&$matches) use ($prefix, $http) {
+            $callables["/{%$service +(.*?) *%}/"] = function (&$matches) use ($prefix, $http) {
                 $resp = json_decode($http->get('/embed?url=' . urlencode($prefix . $matches[1]))
                     ->getBody()
                     ->getContents()
@@ -148,7 +207,7 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
         /* Markdown spoiler */
 
         $new_content = preg_replace('/(<p>:::|:::)spoiler (.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<details><summary>$2</summary><p>$4</p></details>', $new_content);
-        $new_content = preg_replace('/(<p>:::|:::)poiler(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<details><p>$3</p></details>', $new_content);
+        $new_content = preg_replace('/(<p>:::|:::)spoiler(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<details><p>$3</p></details>', $new_content);
 
         
 
@@ -186,7 +245,7 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
             $toc = '<aside class="bg-white dark:bg-gray-800 shadow rounded-lg px-4 py-1 lg:py-0 toc my-8 lg:my-4"><p class="text-2xl leading-tight px-3 font-extrabold text-indigo-800 dark:text-indigo-200">Spis treści</p><nav><ul class="list-none pl-0">';
 
             foreach ($processed_headings as $h) {
-                $toc .= '<li><a class="block leading-tight border-b-0 text-gray-700 dark:text-gray-300 hover:bg-indigo-100 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white py-4 px-4 font-medium rounded-md' . ($h['level'] != 2 ? ' pl-8' : '') . '" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
+                $toc .= '<li><a class="block leading-tight border-b-0 text-gray-700 dark:text-gray-300 hover:bg-indigo-100 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white p-3 font-medium rounded-md' . ($h['level'] != 2 ? ' pl-8' : '') . '" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
             }
     
             $toc .= '</ul></nav></aside>';
