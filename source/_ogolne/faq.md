@@ -12,6 +12,10 @@ Badania wykazują, że główne przyczyny detranzycji to naciski rodzica (36%), 
 
 Wśród innych powodów wymieniane są także presja ze strony małżonka lub partnera (18%), pracodawcy (17%), przyjaciół (13%).
 
+:::spoiler Kaj: wideo w temacie detranzycji
+
+{%youtube CFD-M_PsVHE %}
+
 :::
 
 ---
