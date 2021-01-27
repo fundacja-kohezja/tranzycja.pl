@@ -1,5 +1,5 @@
 # Witaj na stronie projektu **tranzycja.pl**!
 
-Strona na której się znajdujesz powstała w celu zebrania i opracowania wiedzy na temat transpłciowości. Niezależnie od tego czy jesteś osobą trans, czy jeszcze tego nie wiesz, osobą wspierającą, a może pracownikiem służb publicznych, urzędnikiem czy też nauczycielem lub osobą szukającą materiałów do pracy naukowej, mamy nadzieję, że najdziesz tu odpowiedzi na wszelkie nurtujące Cię pytania.
+Niezależnie od tego czy jesteś osobą trans, kwestionującą czy wspierającą, a może pracownikiem służb publicznych; urzędnikiem, nauczycielem albo osobą szukającą materiałów do pracy naukowej, znajdziesz tutaj wiele pomocnych informacji - w postaci artykułów, poradników i odniesień do innych źródeł.
 
-Zapraszamy do czerpania wiedzy, a także, jeśli możesz, do [podzielenia się swoimi doświadczeniami](/strony/wsparcie-projektu). Dzięki temu cała społeczność zyskuje :)
+Celem tej strony jest zbieranie wszelkiej wiedzy związanej z transpłciowością - od tranzycji, poprzez transpłciową codzienność, po informacje z zakresu historii czy kultury. Zapraszamy do czerpania oraz [dzielenia się swoimi doświadczeniami](/strony/wsparcie-projektu). Dzięki temu cała społeczność zyskuje :)

@@ -3,14 +3,12 @@
 
 Ten wpis jest w dużym stopniu kierowany dla nauczycieli, ale nie tylko. Znajdziesz w nim informacje na temat potrzeb transpłciowej młodzieży w szkole, trudnych sytuacji z jakimi się zmaga, ale przykłady rozwiązań i podpowiedzi. W zależności od preferencji, możesz zapoznać się tutaj z tekstowym podsumowaniem, załączonymi materiałami wideo, a nawet znaleźć gotowe poradniki do zapoznania się czy wydrukowania i zaniesienia do szkoły.
 
-### Przede wszystkim: brak obojętności
+## Przede wszystkim: brak obojętności
 Transpłciowa młodzież w środowisku szkolnym potrzebuje aktywnych sojuszników, do których może się zwrócić o pomoc i wie o tym. Sama obojętna tolerancja to zdecydowanie za mało, żeby móc się dumnie nazwać "sojusznikiem". Największą udręka trans dzieciaków w szkole są nauczyciele, którzy aktywnie je zwalczają, upokarzają i przy każdej okazji udowadniają kim mają, być przy całej klasie. Takie osoby nie przyjdą na warsztaty, nie przeczytają poradnika ani nie postanowią się z własnej inicjatywy doedukować. Dlatego tak ważna jest aktywna postawa sojuszników i rzeczywiste wsparcie, bo dziecko w takiej nierównej konfrontacji z osobą posiadającą nad nią władzę nie ma żadnych szans.
 
-Dlatego właśnie tak ważne jest, żeby dzieci wiedziały, że jesteś ich sojuszniczką, osobą do której mogą przyjść i porozmawiać gdy mają problem, gdy czują się z czymś niekomfortowo lub też inny nauczyciel zwyczajnie je prześladuje. Żeby wiedziały, że staniesz w ich obronie, a nie po stronie nauczyciela, dorosłego. Statystyki są nieubłagane - w całym społeczeństwie, w tym wokół Ciebie są osoby LGBT+. W miarę postępowania otwartośc i bezpieczeństwa społeczeństwa wydaje się, że takich osób jest więcej, do tego stopnia, że niektóre osoby o prawicowych poglądach snują nie mające nic wspólnego z nauką wizje o "tęczowej zarazie" - w dosłownym tego rozumieniu. Rzeczywistość jest jednak dużo prostsza:
+Dlatego właśnie tak ważne jest, żeby dzieci wiedziały, że jesteś ich sojuszniczką, osobą do której mogą przyjść i porozmawiać gdy mają problem, gdy czują się z czymś niekomfortowo lub też inny nauczyciel zwyczajnie je prześladuje. Żeby wiedziały, że staniesz w ich obronie, a nie po stronie nauczyciela, dorosłego. Statystyki są nieubłagane - w całym społeczeństwie, w tym wokół Ciebie są osoby LGBT+. W miarę postępowania otwartość i bezpieczeństwa społeczeństwa wydaje się, że takich osób jest więcej, do tego stopnia, że niektóre osoby o prawicowych poglądach snują nie mające nic wspólnego z nauką wizje o "tęczowej zarazie" - w dosłownym tego rozumieniu. Rzeczywistość jest jednak dużo prostsza:
 
-:::warning
-
-#### Nie masz w swoim otoczeniu osób LGBT+?
+:::warning Nie masz w swoim otoczeniu osób LGBT+?
 
 Z badań wynika, że w każdym społeczeństwie średnio od 5 do 10 procent populacji to osoby LGBT+, a więc w Polsce jest ok. 2 milionów gejów, lesbijek, osób bi- i transpłciowych. Jeśli nie widzisz ich w swoim otoczeniu, może to oznaczać, że z jakiegoś powodu nie czują się przy Tobie bezpiecznie lub nie wiedzą, że mogą być sobą. [Czytaj więcej](https://mnw.org.pl/orientujsie/).
 
@@ -22,15 +20,13 @@ Warto nad tym popracować, bo bez tej atmosfery bezpieczeństwa i zaufania wokó
 ## Słowo potężniejsze od miecza
 Najczęstsze szkolne problemy zgłaszane przez transpłciowe dzieci i młodzież są natury językowej. To właśnie tym narzędziem są najsilniej krzywdzone i na tej płaszczyźnie potrzebują najwięcej wsparcia.
 
-:::info
+:::info Niebinarny język i neutratywy
 
-#### Niebinarny język i neutratywy
-
-Jeśli nie wiesz jak funkcjonuje język osób niebinarnych, poratuje Cię projekt [zaimki.pl](https://zaimki.pl/)
+Jeśli nie wiesz jak funkcjonuje język osób niebinarnych, poratuje Cię projekt [zaimki.pl](https://zaimki.pl/)
 
 :::
 
-Za: [Stanowisko PTS ws. sytuacji społecznej, zdrowotnej i prawnej osób transpłciowych](https://pts-seksuologia.pl/sites/strona/83/stanowisko-pts-ws-sytuacji-spolecznej-zdrowotnej-i-prawnej-osob-transplciowych):
+Za: [Stanowisko PTS ws. sytuajci społecznej, zdrowotnej i prawnej osób transpłciowych](https://pts-seksuologia.pl/sites/strona/83/stanowisko-pts-ws-sytuacji-spolecznej-zdrowotnej-i-prawnej-osob-transplciowych):
 > Na jakość życia osób transpłciowych silnie wpływa sposób, w jaki odnoszą się do nich inni [10]. Ich doświadczenia w relacjach społecznych wyraźnie pokazują, jak ważne jest poszanowanie potrzeby każdego człowieka, by zwracano się do niego zgodnie z przeżywaną tożsamością, w tym tożsamością płciową. Dotyczy to między innymi przyjętej przez daną osobę formy imienia, form rodzajowych wypowiadanych wobec niej zdań, a także zwracania się do niej zwrotami typowymi wobec płci, w której psychologicznie funkcjonuje [9].
 
 > Wiąże się z powyższym także postulat akceptacji funkcjonowania każdej osoby w określonych rolach płciowych w sposób przez nią preferowany, zgodny z jej potrzebami, a także umożliwienia każdemu wyrażania i określania swoich oczekiwań w tym zakresie [8,9].
@@ -39,21 +35,19 @@ Za: [Stanowisko PTS ws. sytuacji społecznej, zdrowotnej i prawnej osób transp�
 
 Nauczyciele bardzo często nie chcą się posługiwać poprawnym imieniem czy zaimkami z którymi uczeń czuje się komfortowo, złośliwie podkreślają deadname, a bywa też, że wyświetlają e-dziennik z danymi ucznia na projektorze, aby go jeszcze bardziej upokorzyć. Tego typu skrajne sytuacje łamią oczywiście przepisy RODO i dyrektor szkoły ma obowiązek interweniować. Jeśli masz podejrzenia, że pracownik szkoły niepoprawnie obchodzi się z Twoimi danymi osobowymi, możesz zapoznać się a następnie odwołać do [poradnika na temat ochrony danych osobowych w szkole](https://www.gov.pl/web/edukacja/ochrona-danych-osobowych-w-szkole--poradnik-uodo-i-men).
 
-:::info
+:::info "Deadname"
 
-#### "Deadname"
-
-Jest to imię nadane przy urodzeniu, podczas gdy osoba posługuje się innym (niezależnie od tego, czy zmieniła je prawnie czy nie). Dla wielu osób transpłciowych ciągła konfrontacja z nim jest trudna, a nawet traumatyczna.
+Jest to imię nadane przy urodzeniu, podczas gdy osoba posługuje się innym (niezależnie od tego, czy zmieniła je prawnie czy nie). Dla wielu osób transpłciowych ciągła konfrontacja z nim jest trudna, a bywa i traumatyczna.
 
 :::
 
-**Używanie poprawnego imienia i zaimków redukuje depresję oraz ryzyko samobójstw[^1] [^2] wśród osób transpłciowych**, dlatego należy unikać stosowania określeń i danych z którymi uczeń czuje się niekomfortowo i ograniczyć je do niezbędnego minimum. W sytuacji, gdy do szkoły przychodzi nowe ucznium i na starcie dostajemy informację od rodziców, że posługuje się innymi danymi niż w dokumentach, reszta uczniów nie musi o tym wiedzieć. Pomoże to uniknąć nieprzyjemnych sytuacji i nękania.
+**Używanie poprawnego imienia i zaimków redukuje depresję oraz ryzyko samobójstw[^1][^2] wśród osób transpłciowych**, dlatego należy unikać stosowania określeń i danych z którymi uczeń czuje się niekomfortowo i ograniczyć je do niezbędnego minimum. W sytuacji, gdy do szkoły przychodzi nowe ucznium i na starcie dostajemy informację od rodziców, że posługuje się innymi danymi niż w dokumentach, reszta uczniów nie musi o tym wiedzieć. Pomoże to uniknąć nieprzyjemnych sytuacji i nękania.
 
 Dobrą praktyką jest danie nowym uczniom możliwości podzielenia się swoimi zaimkami i preferowanym imieniem na początku nauki, jednak dużo osób trans nie doważy się wyjść z taką inicjatywą w nowej szkole, bez uprzedniego wybadania gruntu. Jeśli przedstawiając się klasie poinformujesz o swoich zaimkach, wyślesz jasny sygnał, że jest na to otwartość i inne osoby mogą zrobić tak samo.
 
  Niektóre osoby też rozdają na początku pierwszej lekcji kartki na których uczniowie mogą się podzielić takimi informacjami jak preferowane imię, zaimki i czy stosować się da nich przy innych czy nie, ponieważ niektórzy uczniowie mogą nie czuć się komfortowo dzielić się takimi informacjami przy całej klasie.
 
-#### Dlaczego to takie ważne?
+### Dlaczego to takie ważne?
 
 Usilne, celowe używane błędnego imienia i zaimków, stanowi formę przemocy. Świetnie opisuje to osoba prowadząca bloga [lingwoholik.pl](http://lingwoholik.pl/misgenderowanie-czyli-przemoc-zakleta-jezyku/):
 >Celowe misgenderowanie to forma przemocy. Język jest potężnym narzędziem i może wyrządzać krzywdę psychiczną i jako element kultury przemocowej prowadzić do fizycznego zagrożenia życia.
@@ -68,15 +62,13 @@ Usilne, celowe używane błędnego imienia i zaimków, stanowi formę przemocy. 
 
 Jeśli dziecko outuje się już w trakcie nauki, warto docenić zaufanie. Bardzo często taka osoba jest dopiero w trakcie odkrywania siebie, nie musi jeszcze wszystkiego rozumieć i może też nie być pewna jakie właściwie ma w związku z tym potrzeby. Zawsze dobrym pomysłem jest zapewnienie o swoim wsparciu i zapytanie czy oczekuje czegoś konkretnego, ale nie powinniśmy nic narzucać ani rzucać się do konkretnych procedur "automatycznie" - nie wiemy na ile taka osoba jest gotowa ani czy czuje się komfortowo z wyoutowaniem przed innymi.
 
-:::warning
-
-#### Uważaj, żeby przypadkiem nie wyoutować ucznia
+:::warning Uważaj, żeby przypadkiem nie wyoutować ucznia
 
 Warto ostrożnie wybadać, czy rodzice wiedzą i jakie mają poglądy, żeby przypadkiem nie wyoutować ucznia. Przypadki przemocy w rodzinie wobec queerowych dzieci są w Polsce na tyle powszechne, że możesz w ten sposób potencjalnie narazić ucznia na olbrzymie niebezpieczeństwo.
 
 :::
 
-### Wsparcie wychowawcy
+## Wsparcie wychowawcy
 
 Jako wspierający wychowawca, możesz zaoferować uczniowi przeprowadzenie rozmowy z nauczycielami lub klasą, aby poinformować o zmianie i podpowiedziećjak powinni się zachować w nowej sytuacji. Uczniowie bardzo często pytają na grupach wsparcia, czy istnieje możliwość zmiany imienia w dzienniku, aby nauczyciele nie wyczytywali ich danych przy całej klasie. Choć przepisy nie przewidują takiej możliwości, zdarzają się wychowawcy oraz dyrektorzy, którzy uznają dobrostan ucznia za priorytetowy, w związku z czym poprawiają imię w dzienniku (np. przez dopisanie ołówkiem), a czasem nawet wystawiają poprawioną legitymację szkolną, co ratuje od wielu traum i nieprzyjemności np. gdy wygląd ucznia nie wskazuje na nadaną przy urodzeniu płeć.
 
@@ -84,9 +76,7 @@ Pamiętaj, że w momencie generowania trwałych dokumentów, w e-dzienniku musz�
 
 Niezależnie od tego jakie dane zapisane są w dzienniku, nie musimy przecież ich wyczytywać na głos. Nie jest niczym zaskakującym, gdy nauczyciele zwracają się do uczniów zdrobnieniem imienia czy wręcz pseudonimem, czemu więc robić wyjątek i upierać się przy pełnych formalnościach w przypadku uczniów transpłciowych? Nader często niestety zdarzają się nauczyciele, którzy twierdzą, że "nie mogą" zwracać się do uczniów zaimkami o które są proszeni. Oczywiście nie jest to prawdą. Warto w takiej sytuacji powiedzieć "sprawdzam" i poprosić o uzasadnienie wraz z wskazaniem podstawy prawnej.
 
-:::danger
-
-#### Nie ma prawa zabraniającego uprzejmości
+:::danger Nie ma prawa zabraniającego uprzejmości
 
 Nie istnieją żadne przepisy określające jakimi zaimkami zwracać się do innych osób - zależy to jedynie od Twojego szacunku i dobrej woli. Zwroty **grzecznościowe** np."Pan/Pani" są z założenia wyrazem uprzejmości, dlatego upieranie się przy stosowaniu ich w sposób niekomfortowy dla danej osoby stanowi ich wypaczenie.
 
@@ -94,19 +84,15 @@ Nie istnieją żadne przepisy określające jakimi zaimkami zwracać się do inn
 
 Dlatego też wymagania od uczniów dodatkowych zaświadczeń np. od lekarza prowadzącego, psychologa czy terapeuty, tylko po to, aby zgodzić się na posługiwanie się językiem z którym będzie czuć się komfortowo, jest zbędną formalizacją i medykalizacją zwykłej ludzkiej uprzejmości. Niemniej jednak, niektórych upartych nauczycieli udaje się za pomocą takiego zaświadczenia przekonać, jeśli więc inne metody zawiodły - warto spróbować.
 
-:::info
-
-#### Pismo do szkoły
+:::info Pismo do szkoły
 
 Niektóre osoby próbują walczyć z prześladującymi ich nauczycielami za pomocą oficjalnego pisma do dyrekcji szkoły. Przykład takiego pisma znajdziesz [tutaj](https://docs.google.com/document/d/1yRanhZei8W71Wt6bPuUdF852s142AX1PYVqewyOoG78/edit?usp=sharing).
 
 :::
 
-W skrajnej sytuacji można również spróbować zwrócić się do publicznej poradni psychologiczno-pedagogicznej właściwej do rejonu szkoły z prośbą o wydanie orzeczenia o potrzebie kształcenia specjalnego. Dyrektor szkoły wraz z nauczycielami ma wtedy obowiązek dostosować sposób organizacji zajęć szkolnych do wskazań zawartych w tym dokumencie oraz potrzeb ucznia.[^4] W razie nie wywiązywania się z tego obowiązku, następnym właściwym krokiem byłaby już interwencja właściwego terytorialnie kuratora oświaty. Niestety trudno przewidzieć, czy lokalkna poradnia psychologiczno-pedagogiczna oraz kurator posiadają aktualną wiedzę na temat potrzeb transpłciowych uczniów i rzeczywiście staną po stronie ucznia.
+W skrajnej sytuacji można również spróbować zwrócić się do publicznej poradni psychologiczno-pedagogicznej właściwej do rejonu szkoły z prośbą o wydanie orzeczenia o potrzebie kształcenia specjalnego. Dyrektor szkoły wraz z nauczycielami ma wtedy obowiązek dostosować sposób organizacji zajęć szkolnych do wskazań zawartych w tym dokumencie oraz potrzeb ucznia.[^4] W razie nie wywiązywania się z tego obowiązku, następnym właściwym krokiem byłaby już interwencja właściwego terytorialnie kuratora oświaty. Niestety trudno przewidzieć, czy lokalna poradnia psychologiczno-pedagogiczna oraz kurator posiadają aktualną wiedzę na temat potrzeb transpłciowych uczniów i rzeczywiście staną po stronie ucznia.
 
-:::info
-
-#### Ochrona prawna poczucia przynależności do płci
+:::info Ochrona prawna poczucia przynależności do płci
 
 Niezależnie od innych przepisów, ochronie prawnej podlegają dobra osobiste, m.in. nazwisko i pseudonim, cześć i godność[^5] oraz poczucie przynależności do określonej płci[^6].
 
@@ -115,13 +101,12 @@ Niezależnie od innych przepisów, ochronie prawnej podlegają dobra osobiste, m
 Bardzo ciężko jest wygrać w pojedynkę ze złośliwym nauczycielem. Jeśli klasa jest pozytywnie nastawiona do transpłciowego ucznia, warto poprosić ją o wsparcie. Jeśli co i raz inny uczeń poprawi nauczyciela używającego złego imienia, a może nawet przewodnicząca klasy wstawi się za osobą w imieniu całej klasy, tak nauczyciel z pewnością będzie czuć mniej pewnie. W skrajnych sytuacjach może się okazać konieczna interwencja rodziców lub dyrektora szkoły.
 
 ## Warunki w szkole
-Trans uczniowie mogą czuć się niekomfortowo z przebieraniem się na WF z innymi uczniami danej płci lub w ogóle przy innych osobach. Może to wynikać z dysforii płciowej, rozpoczętej już tranzycji lub też zwyczajnie poczucia inności. Czasem tego typu dyskomfort może też być efektem gnębienia przez innych uczniów.
 
-:::info
+Trans uczniowie mogą czuć się niekomfortowo z przebieraniem się na WF z innymi uczniami nadej płci lub w ogóle przy innych osobach. Może to wynikać z dysforii płciowej, rozpoczętej już tranzycji lub też zwyczajnie poczucia inności. Czasem tego typu dyskomfort może też być efektem gnębienia przez innych uczniów.
 
-#### Dysforia płciowa
+:::info Dysforia płciowa
 
-Jest to nazwa na cierpienie odczuwane przez daną osobę z powodu niedopasowania jej tożsamości płciowej do płci przypisanej w chwili urodzenia.
+Jest to cierpienie odczuwane przez daną osobę z powodu niedopasowania jej tożsamości płciowej do płci przypisanej w chwili urodzenia.
 
 :::
 
@@ -131,29 +116,15 @@ W idealnym świecie uczeń powinien mieć możliwość samodzielnego wyboru szat
 
 Jeśli uczysz WdŻ, jesteś wychowawcą, albo po prostu chcesz poruszyć na lekcji temat transpłciowości, możesz skorzystać z materiałów przygotowanych w ramach następujących projektów:
 
-* #### ["WdŻ dla zaawansowanych"](https://www.facebook.com/permalink.php?story_fbid=1259048871123262&id=775424922818995)
-
-  ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-1.jpg){.w-half}
-  ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-2.jpg){.w-half}
-
-  ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-3.jpg){.w-half}
-  ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/wdz-dla-zaaw-szkola-4.jpg){.w-half}
-
-* #### [Uczniowie LGBT+ *rozumiem i wspieram*](https://www.facebook.com/events/382660666254175/?post_id=390404728813102)
-
-  ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/uczniowie-lgbt-szkola-1.png){.w-half}
-  ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/uczniowie-lgbt-szkola-2.png){.w-half}
-
-  ![](https://tash-feneko.github.io/stronatestowa5000/assets/images/szkola/uczniowie-lgbt-szkola-3.png){.w-half}
+* ["WdŻ dla zaawansowanych"](https://www.facebook.com/permalink.php?story_fbid=1259048871123262&id=775424922818995)
+* [Uczniowie LGBT+ *rozumiem i wspieram*](https://www.facebook.com/events/382660666254175/?post_id=390404728813102)
 
 ### Widoczność i reprezentacja
 Jeśli społeczeństwo nas wymazuje, ignorując osoby takie jak my na przestrzeni historii oraz pokazując nam w mediach i kulturze jedynie osoby cishetnormatywne, nabieramy poczucia, że coś jest z nami nie tak. Brak pozytywnych wzorców, przykładów osób "takich jak ja" utrudnia zdrowy rozwój uczniów, odbiera pewność siebie i przyczynia się do depresji. Bardzo ciężko jest odkrywać siebie w atmosferze w której osoby takie jak my są stygmatyzowane lub przemilczane. Będzie to stanowić w przyszłości źródło zinternalizowanej transfobii - poczucia, że bycie "kimś takim jak ja" jest czymś złym i wyparcia. Wielu uczniów z tego powodu zaczyna rozumieć swoją tożsamość lub orientację dopiero po szkole, nierzadko dużo później.
 
 Dlatego tak ważne jest, żeby uczniowie mieli poczucie, że szkoła jest miejscem, gdzie bezpiecznie mogą być sobą. Stąd inicjatywy takie jak Tęczowy Piątek czy warsztaty antydyskryminacyjne dla nauczycieli i uczniów. Mało co natomiast da uczniom większe poczucie pewności siebie niż uwzględnienie postaci queerowych w ramach prowadzonego przez siebie przedmiotu. Jasne, warsztaty antydyskryminacyjne mogą poprawić sytuację ucznia i sprawić, że poczuje się bezpieczniej, ale jeśli w trakcie zwykłej, codzinnej lekcji natknie się na postać "taką jak ja" potraktowaną jak każda inna osoba, pomoże mu się również czuć normalną osobą. To jest coś, czego nie dadzą żadne warsztaty. Może warto więc np. przy okazji Pułaskiego na historii wspomnieć, że najprawdopodobniej był osobą interpłciową, a na polskim poczytać poezję Piotra Własta, transpłciowego pisarza z okresu Młodej Polski? Osoby LGBT+ istniały od zawsze, nawet jeśli nie istniały na nie określenia. Bez problemu znajdziesz je w kontekście każdego przedmiotu, choć czasem trzeba się trochę postarać i przedzierać między wierszami cenzury.
 
-:::info
-
-#### Przeprowadź zajęcia o ewolucji języka
+:::info Przeprowadź zajęcia o ewolucji języka
 
 Jeśli chcesz rozbudzić w uczniach zainteresowanie językiem polskim, spróbuj odejść choć na jedną lekcję od sztywnych reguł i z pomocą [kategorii Literatura strony zaimki.pl](https://zaimki.pl/literatura) porozmawiać o ewolucji języka i neutratywach. Może uczniowie spróbują wymyślić własne?
 
@@ -163,12 +134,23 @@ Jeśli chcesz rozbudzić w uczniach zainteresowanie językiem polskim, spróbuj 
 
 Jeśli wolisz formę audio-wideo lub po prostu chcesz się zapoznać z doświadczeniami poszczególnych uczniów, zapraszam do obejrzenia następnujących materiałów:
 
+:::spoiler Tomasz: Film dla nauczycieli
+
 {%youtube lPIe_LEdqTE %}
+
+:::
+
+:::spoiler  Nataniel: o byciu trans w szkole
 
 {%youtube 3Os3JGETTqE %}
 
+:::
+
+:::spoiler Natan: o byciu trans w szkole
+
 {%youtube grgUXOBv_po %}
 
+:::
 
 ## Dodatkowe materiały
 
@@ -178,16 +160,14 @@ Jeśli wolisz formę audio-wideo lub po prostu chcesz się zapoznać z doświadc
 
 * [Transpłciowa młodzież w polskiej szkole Raport z badań // 2016](https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/transplciowa_mlodziez.pdf)
 
-## Możesz ulepszyć ten artykuł!
-
-:::info
+## Możesz ulepszyć ten tekst!
+Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 
 * Jakiego polskiego określenia używasz na deadname?
 * Znasz jakieś materiały i źródła po polsku?
 * Masz doświadczenia którymi chcesz się podzielić?
-* ==Zostaw komentarz!==
 
-:::
+Uwagi do tekstu możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/r1Yt95pJd).
 
 [^1]: [Calling transgender youth by their name dramatically reduces their chance of suicide](https://www.lgbtqnation.com/2019/01/calling-transgender-youth-name-dramatically-reduces-chance-suicide/)
 
