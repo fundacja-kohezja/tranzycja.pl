@@ -231,6 +231,9 @@ details {
         height: 100%;
     }
 }
+.numbered-container {
+    counter-reset: cnt;
+}
 .excerpt-card {
     position: relative;
     z-index: 1;
@@ -248,6 +251,17 @@ details {
     &.placeholder::before {
         background-position: center;
         background-size: 12rem 9rem;
+    }
+    &.numbered::before {
+        background-image: none;
+        counter-increment: cnt;
+        content: counter(cnt);
+        font-size: 6rem;
+        font-weight: 800;
+        text-align: right;
+        color: #A0AEC0;
+        top: -2rem;
+        pointer-events: none;
     }
 }
 .w-half {
