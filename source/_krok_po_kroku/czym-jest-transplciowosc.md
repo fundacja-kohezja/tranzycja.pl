@@ -22,20 +22,17 @@ Przykładowy podział na tranzycję:
 * Prawną, np. przejście procedury prawnej zmiany metryki, zmiana danych, nadanie nowego PESELu
 * Medyczną, np. hormony, mastektomia, zabiegi chirurgiczne na narządach płciowych
 
-
-
- W kolejnych
-artykułach znajdziesz informacje na temat poszczególnych elementów tranzycji prawnej i medycznej oraz warunków jakie musisz do nich spełnić. Należy mieć jednak przy tym świadomość rozbieżności pomiędzy aktualnym stanem wiedzy naukowej wraz ze współczesnymi światowymi standardami, a stanem wiedzy lekarzy i realną sytuacją w Polsce. Intencją tego repozytorium jest zawsze podawanie aktualnych informacji, a gdzie zaistnieje potrzeba także opatrzonych ich dodatkowymi wskazówkami praktycznymi.
+W kolejnych tekstach znajdziesz informacje na temat poszczególnych elementów tranzycji oraz warunków jakie musisz do nich spełnić. Należy mieć jednak przy tym świadomość rozbieżności pomiędzy aktualnym stanem wiedzy naukowej wraz ze współczesnymi światowymi standardami, a stanem wiedzy lekarzy i realną sytuacją w Polsce. Intencją tego repozytorium jest zawsze podawanie aktualnych informacji, a gdzie zaistnieje potrzeba wzbogacania ich dodatkowymi wskazówkami praktycznymi.
 
 ## Materiały dodatkowe
 :::spoiler TransGrysy: Transpłciowość - czym jest, a czym nie jest
 {%youtube N2iglx-iH_s %}
 :::
 
+## Możesz pomóc ulepszyć ten tekst!
+Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 
-:::info
-Więcej materiałów, takich jak ulotki, publikacje czy komiksy o transpłciowości, znajdziesz w [oddzielnej sekcji](/materialy).
-:::
+Uwagi do tekstu możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/ByCqftaJd).
 
 [^1]: https://www.standardy.pl/newsy/id/201
 [^2]: World Health Organization. International statistical classification of diseases and related health problems (11th Revision). https://icd.who.int/browse11/l-m/en (dostęp: 28.04.2019).
