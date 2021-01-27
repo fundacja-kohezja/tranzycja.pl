@@ -41,7 +41,7 @@ Ponieważ transpłciowość nie jest czymś co może zostać jednoznacznie zdiag
 
 :::spoiler Częste
 Bardzo często lekarze wymagają badań neurologicznych:
-* MRI główy - jeśli nie masz podejrzenia prolaktynomy, nie ma podstaw do wykonywania tego badania.
+* MRI głowy - jeśli nie masz podejrzenia prolaktynomy, nie ma podstaw do wykonywania tego badania.
 * EEG - trudno stwierdzić dlaczego niektórzy lekarze go wymagają. Jest dość proste i niedrogie, więc jeśli Twój lekarz go wymaga to możesz po prostu wykonać, natomiast jeśli pójdziesz po skierowanie do neurologa, może się okazać że odmówi wystawienia z braku podstaw.
 :::
 
@@ -53,7 +53,7 @@ Inne przykładowe badania wymagane czasem przez lekarzy to np.:
 
 ## Sąd
 
-Najaktualniejsze informacje na temat sądowej zmiany płci metrykalnej, znajdziesz w przygotowanego przez Rzecznika Praw Obywatelskich poradnika (Postępowania w sprawach
-o ustalenie płci)[/docs/prawo/Postepowania_w_sprawach_o_ustalenie_plci.pdf].
+Najaktualniejsze informacje na temat sądowej zmiany płci metrykalnej, znajdziesz w przygotowanego przez Rzecznika Praw Obywatelskich poradnika [Postępowania w sprawach
+o ustalenie płci](/docs/prawo/Postepowania_w_sprawach_o_ustalenie_plci.pdf).
 
 ## Zabiegi
