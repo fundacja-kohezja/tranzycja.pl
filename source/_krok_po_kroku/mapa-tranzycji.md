@@ -1,7 +1,7 @@
 ---
 kolejnosc: 2
 ---
-# Mapa tranzycji?
+# Mapa tranzycji
 
 Wbrew opinii niektórych lekarzy prowadzących, nie istnieje nic takiego jak uniwersalna mapa tranzycji. Każda osoba trans i niebinarna ma swoje indywidualne trudności i potrzeby. Istnieją pewne schematy które z braku oficjalnych wytycznych w pewnym sensie się przyjęły i mogą być oczekiwane przez niektóre osoby, które napotkasz na swojej drodze. Poniższa rozpiska skrótowo przedstawi poszczególne elementy które przyjęło się wliczać w proces tranzycji wraz z informacją jakie mogą pojawić się do nich wymogi.
 
@@ -35,25 +35,25 @@ Może się zdarzyć sytuacja, że seksuolog zleci Ci badanie rezonansem magnetyc
 Ponieważ transpłciowość nie jest czymś co może zostać jednoznacznie zdiagnozowane przez osobę trzecią, wokół procesu tranzycji w Polsce narosła olbrzymia ilość badań, które wykonuje się w celu wykluczenia innych ewentualności. Każdy lekarz chce zdobyć wszelkie możliwe "podkładki", natomiast sędziowie nierzadko wymagają dostarczenia dodatkowych badań tylko dlatego, że w innych procesach o ustalenie płci ktoś je załączył. Na szczęście, bardziej zaznajomieni ze współczesnymi standardami lekarze zaczęli niedawno wystawiać zaświadczenia z uzasadnieniem, że nie kierują na niektóre zwyczajowe badania, bo nie ma takich podstaw. Być może dzięki temu uda nam się w końcu wyjść z tego absurdu narastającej ilośći badań i dokumentów.
 
 :::spoiler Najczęstsze
-- Hormony i inne badania krwi - jeśli planujesz terapię hormonalną, na pewno zostaną Ci zlecone przed zapisaniem leków, a także później w trakcie monitorowania terapii.
-- Kariotyp - badanie jest bardzo drogie (ok. 400-700zł) i zupełnie niepotrzebne. Służy np. wykluczeniu czy nie jesteś osobą interpłciową. Większość sądów i seksuologów nadal badanie kariotypu traktuje jako standard.
+ * Hormony i inne badania krwi - jeśli planujesz terapię hormonalną, na pewno zostaną Ci zlecone przed zapisaniem leków, a także później w trakcie monitorowania terapii.
+ * Kariotyp - badanie jest bardzo drogie (ok. 400-700zł) i zupełnie niepotrzebne. Służy np. wykluczeniu czy nie jesteś osobą interpłciową. Większość sądów i seksuologów nadal badanie kariotypu traktuje jako standard.
 :::
 
 :::spoiler Częste
 Bardzo często lekarze wymagają badań neurologicznych:
-- MRI głowy - jeśli nie masz podejrzenia prolaktynomy, nie ma podstaw do wykonywania tego badania.
-- EEG - trudno stwierdzić dlaczego niektórzy lekarze go wymagają. Jest dość proste i niedrogie, więc jeśli Twój lekarz go wymaga to możesz po prostu wykonać, natomiast jeśli pójdziesz po skierowanie do neurologa, może się okazać że odmówi wystawienia z braku podstaw.
+ * MRI głowy - jeśli nie masz podejrzenia prolaktynomy, nie ma podstaw do wykonywania tego badania.
+ * EEG - trudno stwierdzić dlaczego niektórzy lekarze go wymagają. Jest dość proste i niedrogie, więc jeśli Twój lekarz go wymaga to możesz po prostu wykonać, natomiast jeśli pójdziesz po skierowanie do neurologa, może się okazać że odmówi wystawienia z braku podstaw.
 :::
 
 :::spoiler Rzadkie
 Inne przykładowe badania wymagane czasem przez lekarzy to np.:
-- Badanie dna oka
-- Badanie siodełka tureckiego
+ * Badanie dna oka
+ * Badanie siodełka tureckiego
 :::
 
 ## Sąd
 
 Najaktualniejsze informacje na temat sądowej zmiany płci metrykalnej, znajdziesz w przygotowanego przez Rzecznika Praw Obywatelskich poradnika [Postępowania w sprawach
-o ustalenie płci](/docs/prawo/Postepowania_w_sprawach_o_ustalenie_plci.pdf).
+o ustalenie płci](/media/docs/prawo/Postepowania_w_sprawach_o_ustalenie_plci.pdf).
 
 ## Zabiegi
