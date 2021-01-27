@@ -34,6 +34,13 @@ Jeśli chcesz skompletować najczęściej wymagany zestaw dokumentów do sądu, 
 
 :::
 
+:::spoiler Endokrynolog
+
+W kwestii hormonów zawsze konsultuj się z **endokrynologiem**, bo to jest właśnie jego specjalizacja.  Bez zaświadczeń od seksuologa lub psychologa endokrynolog nie podejmie samodzielnie decyzji o rozpoczęciu terapii. Seksuologowie starej daty często wystawiają sami recepty na hormony, ale uważaj! To nie jest ich specjalizacja i bardzo często nie robią tego poprawnie i mogą Ci zaszkodzić.
+
+
+:::
+
 :::spoiler Neurolog
 
 Może się zdarzyć sytuacja, że seksuolog zleci Ci badanie rezonansem magnetycznym lub EEG - w takiej sytuacji, byćmoże odwiedzisz neurologa po odpowiednie skierowanie. Oba te badania, o ile nie ma konkretnego powodu, nie są wskazane zgodnie ze współczesnym standardem opieki nad osobami transpłciowymi.
