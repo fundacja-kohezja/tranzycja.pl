@@ -163,14 +163,16 @@ Jeśli wolisz formę audio-wideo lub po prostu chcesz się zapoznać z doświadc
 
 * [Transpłciowa młodzież w polskiej szkole Raport z badań // 2016](https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/transplciowa_mlodziez.pdf)
 
-## Możesz ulepszyć ten tekst!
+:::warning Możesz ulepszyć ten tekst!
 Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 
 * Jakiego polskiego określenia używasz na deadname?
 * Znasz jakieś materiały i źródła po polsku?
 * Masz doświadczenia którymi chcesz się podzielić?
 
-Uwagi do tekstu możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/r1Yt95pJd).
+Propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/r1Yt95pJd).
+
+:::
 
 [^1]: [Calling transgender youth by their name dramatically reduces their chance of suicide](https://www.lgbtqnation.com/2019/01/calling-transgender-youth-name-dramatically-reduces-chance-suicide/)
 
