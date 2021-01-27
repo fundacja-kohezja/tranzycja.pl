@@ -1,3 +1,6 @@
+---
+data: '2021-01-27 10:47:21'
+---
 # Hormony
 
 Hormonalna terapia zastępcza dla wielu osób transpłciowych i niebinarnych jest źródłem ulgi i ułatwia funkcjonowanie społeczne, ale co ważne, nie jest obowiązkowa. Osoby trans i niebinarne są trans i niebinarne bez względu na to, czy podejmują jakąś formę tranzycji, czy nie. Aktualnie bez podejmowania tranzycji da się nawet zmienić płeć metrykalną. Warto też zaznaczyć, że usunięcie gonad również nie jest obowiązkowe, nawet przy długotrwałej terapii hormonalnej; nie ma jednoznacznych badań, które wyróżniałyby usunięcie jajników/jąder jako wskazanie medyczne przy długotrwałym stosowaniu HTZ.
