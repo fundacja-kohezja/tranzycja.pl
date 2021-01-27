@@ -46,12 +46,30 @@ return (array)$yaml_config + [
                 return isset($matches[1]) ? Str::of($matches[1])->words(120, '… <b>Czytaj dalej</b>') : Str::of(strip_tags($tresc))->words(120, '… <b>Czytaj dalej</b>');
             }
         ],
+        'krok_po_kroku' => [
+            'sort' => 'kolejnosc',
+            'title' => function ($page) {
+                $tresc = $page->getContent();
+                preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
+                preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
+                return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
+            },
+            'excerpt' => function ($page) {
+                $tresc = $page->getContent();
+                preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches);
+                return isset($matches[1]) ? Str::of($matches[1])->words(80, '… <b>Czytaj dalej</b>') : Str::of(strip_tags($tresc))->words(80, '… <b>Czytaj dalej</b>');
+            }
+        ],
         'aktualnosci' => [
             'sort' => '-data'
         ]
     ],
 
     'mainNav' => [
+        (object)[
+            'title' => 'Krok po kroku',
+            'path' => '/krok-po-kroku',
+        ],
         (object)[
             'title' => 'Poradniki',
             'path' => '/poradniki',
