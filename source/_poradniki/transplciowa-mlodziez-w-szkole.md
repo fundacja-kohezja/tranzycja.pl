@@ -169,11 +169,11 @@ Jeśli wolisz formę audio-wideo lub po prostu chcesz się zapoznać z doświadc
 
 Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 
+* Masz uwagi albo widzisz jakiś błąd?
+* Znasz dodatkowe materiały i źródła, najlepiej po polsku?
 * Jakiego polskiego określenia używasz na deadname?
-* Znasz jakieś materiały i źródła po polsku?
-* Masz doświadczenia którymi chcesz się podzielić?
 
-Propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/r1Yt95pJd).
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/r1Yt95pJd).
 
 :::
 

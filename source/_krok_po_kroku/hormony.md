@@ -76,13 +76,24 @@ Blokery są to leki zatrzymujące naturalne dojrzewanie, aby dziecko mogło upew
 
 Przyjmowanie tzw. "blokerów" zatrzymuje wydzielanie hormonów płciowych, i tym samym odkłada w czasie rozwój drugorzędnych cech płciowych. Jest to praktyka stosowana bezpiecznie od dekad w u zbyt szybko rozwijających się dzieci, w związku z przypadłością zwaną przedwczesnym dojrzewaniem. W 2008 roku Towarzystwo Endokrynologiczne zatwierdziło stosowanie blokerów dojrzewania jako formę leczenia transpłciowych dzieci od 12 roku życia. Towarzystwo, z członkami w ponad 100 krajach, od tego czasu zadeklarowało, że leczenie to jest bezpieczne i efektywne. Od 2011 roku Światowe Stowarzyszenie Specjalistów(-tek) do spraw Zdrowia Osób Transpłciowych (WPATH) włączyło blokery dojrzewania do swoich wytycznych leczenie dysforii płciowej[^1].
 
-## Możesz pomóc ulepszyć ten tekst!
-Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało! Szczególnie warto uzupełnić o:
-* szczegółowe sekcje dotyczące różnych form przyjmowania hormonów
-* szczegółowe informacje o zastrzykach - co i gdzie kupić, jak zrobić itd.
-* materiały wideo dot. terapii transżeńskiej
+:::warning
 
-Uwagi do tekstu możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/r1Yt95pJd).
+## Możesz ulepszyć ten tekst!
+
+Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
+
+* Masz uwagi albo widzisz jakiś błąd?
+* Znasz dodatkowe materiały i źródła, najlepiej po polsku?
+
+**Do uzupełnienia są m.in.:**
+
+* Szczegółowe informacje dotyczące różnych form przyjmowania hormonów
+* Szczegółowe informacje o zastrzykach - co i gdzie kupić, jak zrobić itd.
+* Materiały wideo dot. terapii transżeńskiej
+
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/r1Yt95pJd).
+
+:::
 
 ## Zastrzeżenia o autorstwie
 :::info

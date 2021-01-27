@@ -25,14 +25,29 @@ Przykładowy podział na tranzycję:
 W kolejnych tekstach znajdziesz informacje na temat poszczególnych elementów tranzycji oraz warunków jakie musisz do nich spełnić. Należy mieć jednak przy tym świadomość rozbieżności pomiędzy aktualnym stanem wiedzy naukowej wraz ze współczesnymi światowymi standardami, a stanem wiedzy lekarzy i realną sytuacją w Polsce. Intencją tego repozytorium jest zawsze podawanie aktualnych informacji, a gdzie zaistnieje potrzeba wzbogacania ich dodatkowymi wskazówkami praktycznymi.
 
 ## Materiały dodatkowe
+
 :::spoiler TransGrysy: Transpłciowość - czym jest, a czym nie jest
 {%youtube N2iglx-iH_s %}
 :::
 
-## Możesz pomóc ulepszyć ten tekst!
+:::warning
+
+## Możesz ulepszyć ten tekst!
+
 Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 
-Uwagi do tekstu możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/ByCqftaJd).
+* Masz uwagi albo widzisz jakiś błąd?
+* Znasz dodatkowe materiały i źródła, najlepiej po polsku?
+
+**Do uzupełnienia są m.in.:**
+
+* Szczegółowe informacje dotyczące różnych form przyjmowania hormonów
+* Szczegółowe informacje o zastrzykach - co i gdzie kupić, jak zrobić itd.
+* Materiały wideo dot. terapii transżeńskiej
+
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/ByCqftaJd).
+
+:::
 
 [^1]: https://www.standardy.pl/newsy/id/201
 [^2]: World Health Organization. International statistical classification of diseases and related health problems (11th Revision). https://icd.who.int/browse11/l-m/en (dostęp: 28.04.2019).
