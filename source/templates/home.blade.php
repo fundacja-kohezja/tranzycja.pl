@@ -18,6 +18,41 @@
         <div>
             <h1 class="inline-block mr-4 text-purple-700 dark:text-purple-300 mb-0 text-4xl">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-3 h-12 align-middle -mt-8 -mb-6">
+                    <path d="M.06,4.71,0,0,4.62.66,4.4,2.18,2.81,2l2,2.83a5.53,5.53,0,0,1,7.41,4.41h.87V7.78h1.54V9.19h2.1l-1.47-1,.9-1.25L20,9.64,16.72,13l-1.09-1.08,1.12-1.14h-2.1v1.41H13.11V10.74h-.87A5.55,5.55,0,0,1,6.77,15.5,5.77,5.77,0,0,1,4.49,15l-.8,1.31,1.21.74-.8,1.3-1.21-.74L1.43,20,.12,19.2l1.45-2.38-1.2-.74.8-1.31,1.2.74.82-1.32A5.53,5.53,0,0,1,2.55,6.4a5.46,5.46,0,0,1,.93-.87L1.58,2.87V4.68ZM3.77,10a3,3,0,1,0,3-3A3,3,0,0,0,3.77,10Z" />
+                </svg>
+                <span class="align-middle">Krok po kroku</span>
+            </h1>
+            <p class="inline-block">
+                <a href="/krok-po-kroku" class="border-b-0">
+                    Zobacz wszystkie
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 inline-block align-middle mb-1 mr-1">
+                        <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+                    </svg>
+                </a>
+            </p>
+        </div>
+        <ul class="flex-1 flex list-none -mr-6 md:-mr-2 -ml-6 py-2 overflow-auto numbered-container">
+            @foreach($krok_po_kroku as $poradnik)
+                    <li class="slider-item flex flex-1 md:w-auto md:flex-shrink mx-2">
+                        <a class="excerpt-card numbered flex flex-grow border-b-0 bg-gray-200 hover:bg-indigo-100 dark:bg-gray-800 dark:hover:bg-blue-900 shadow rounded-lg break-words px-4 py-6" href="{{ $poradnik->getUrl() }}">
+                            <article class="flex flex-grow flex-col">
+                                <h2 class="font-semibold leading-tight text-2xl mb-0">
+                                    {!! $poradnik->title() !!}
+                                </h2>
+                                <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">
+                                    {!! $poradnik->excerpt() !!}
+                                </p>
+                            </article>
+                        </a>
+                    </li>
+                @break($loop->iteration === 2)
+            @endforeach
+        </ul>
+    </section>
+    <section class="mb-24">
+        <div>
+            <h1 class="inline-block mr-4 text-purple-700 dark:text-purple-300 mb-0 text-4xl">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-3 h-12 align-middle -mt-8 -mb-6">
                     <path d="M15.46,5.14,14.05,3.75l1.93-2,1.41,1.4ZM11,.09H9V2.86h2ZM3.66,7.68H.91v2H3.66Zm15.43,0H16.34v2h2.75ZM6,3.75,4,1.79,2.61,3.19,4.54,5.14Zm6.71,12.72h0A2.53,2.53,0,0,1,10.13,19H9.87a2.53,2.53,0,0,1-2.53-2.53h5.32ZM10,3.89A5.24,5.24,0,0,0,4.62,9,5.34,5.34,0,0,0,6.41,12.9a3.11,3.11,0,0,1,1.2,2.39v.55h4.78v-.55a3.11,3.11,0,0,1,1.2-2.39A5.34,5.34,0,0,0,15.38,9,5.24,5.24,0,0,0,10,3.89Zm2,7a5.85,5.85,0,0,0-1.75,2.37H9.77A5.85,5.85,0,0,0,8,10.92,2.8,2.8,0,0,1,7.17,9,2.7,2.7,0,0,1,10,6.44,2.7,2.7,0,0,1,12.83,9,2.8,2.8,0,0,1,12,10.92Z" />
                 </svg>
                 <span class="align-middle">Poradniki</span>
