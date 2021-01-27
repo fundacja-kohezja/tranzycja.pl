@@ -33,6 +33,8 @@ jobs:
           # Optional but recommended
           # Defaults to "Apply automatic changes"
           commit_message: 'Uzupełnienie dat w treściach'
+          
+          file_pattern: source/**
 
           # Optional: Disable dirty check and always try to create a commit and push
           skip_dirty_check: false
