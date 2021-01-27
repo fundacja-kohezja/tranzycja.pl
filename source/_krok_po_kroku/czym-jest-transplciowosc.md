@@ -1,5 +1,5 @@
 ---
-data: '2021-01-27 11:59:57'
+kolejnosc: 1
 ---
 # Czym jest transpłciowość? Skąd mam wiedzieć, czy jestem trans?
 
