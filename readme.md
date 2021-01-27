@@ -1,8 +1,8 @@
 # Instrukcja obsługi
 
-Wzystkie pliki przewidziane do edycji znajdują się w folderze *source*, w podfolderach, których nazwy **zaczynają się od znaku podkreślnia** (pozostałe stanowią strukturę strony i ich zmiana może sprawić, że strona się nie zbuduje).
+Wszystkie pliki przewidziane do edycji znajdują się w folderze *source*, w podfolderach, których nazwy **zaczynają się od znaku podkreślnia** (pozostałe stanowią strukturę strony i ich zmiana może sprawić, że strona się nie zbuduje).
 
-W momencie zmiany lub dodania nowego pliku, [strona](https://mystifying-raman-b251f5.netlify.app/) automatycznie się zbuduje i będzie od razu widać na niej zmiany.
+W momencie zmiany lub dodania nowego pliku, strona automatycznie się zbuduje i będzie od razu widać na niej zmiany.
 
 Folder **\_ogolne** zawiera treść występującą na stronie głównej i w różnych innych miejscach witryny. Te pliki można swobodnie edytować, ale lepiej ich nie usuwać, nie ma też po co dodawać tam nowych.
 

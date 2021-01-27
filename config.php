@@ -28,7 +28,7 @@ return (array)$yaml_config + [
             }
         ],
         'poradniki' => [
-            'sort' => 'date',
+            'sort' => '-data',
             'title' => function ($page) {
                 $tresc = $page->getContent();
                 preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
@@ -47,7 +47,7 @@ return (array)$yaml_config + [
             }
         ],
         'aktualnosci' => [
-            'sort' => 'date'
+            'sort' => '-data'
         ]
     ],
 
