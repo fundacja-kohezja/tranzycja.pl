@@ -1,3 +1,6 @@
+---
+data: '2021-01-27 10:32:37'
+---
 
 # Ten wpis jest najnowszy
 

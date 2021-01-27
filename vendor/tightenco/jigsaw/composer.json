@@ -1,0 +1,60 @@
+{
+    "name": "tightenco/jigsaw",
+    "description": "Simple static sites with Laravel's Blade.",
+    "keywords": ["blade", "laravel", "static", "site", "generator"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Wathan",
+            "email": "adam.wathan@gmail.com"
+        },
+        {
+            "name": "Keith Damiani",
+            "email": "keith@tighten.co"
+        }
+    ],
+    "require": {
+        "php": "^7.2|^8.0",
+        "illuminate/container": "^7.0",
+        "illuminate/support": "^7.0",
+        "illuminate/view": "^7.0",
+        "michelf/php-markdown": "^1.9",
+        "mnapoli/front-yaml": "^1.5|^1.8",
+        "mockery/mockery": "^1.0.0",
+        "symfony/console": "^4.0|^5.0",
+        "symfony/process": "^4.0|^5.0",
+        "symfony/var-dumper": "^4.0|^5.0",
+        "symfony/yaml": "^4.0|^5.0",
+        "vlucas/phpdotenv": "^4.0"
+    },
+    "require-dev": {
+        "mikey179/vfsstream": "^1.6",
+        "phpunit/phpunit": "~7.0|^9.3.3",
+        "friendsofphp/php-cs-fixer": "^2.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "TightenCo\\Jigsaw\\": "src/"
+        },
+        "files": [
+            "src/Support/helpers.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "bin": [
+        "jigsaw"
+    ],
+    "scripts": {
+        "fix" : "php vendor/bin/php-cs-fixer fix --using-cache=no"
+    },
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true,
+        "preferred-install": "dist",
+        "optimize-autoloader": true
+    }
+}

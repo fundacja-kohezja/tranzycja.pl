@@ -1,0 +1,113 @@
+Running php-build composer
+WARNING! Your password will be stored unencrypted in /home/runner/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+Pulling docker.pkg.github.com/kac-per/jigsaw-test/php-actions_composer_jigsaw-test:php-latest-build2
+Error response from daemon: repository docker.pkg.github.com/kac-per/jigsaw-test/php-actions_composer_jigsaw-test not found: name unknown: docker package "php-actions_composer_jigsaw-test" does not exist under owner "kac-per/jigsaw-test"
+Dockerfile:
+FROM php:cli-alpine
+RUN apk add --update --no-cache zip git bash openssh
+Sending build context to Docker daemon  2.418MB
+Step 1/2 : FROM php:cli-alpine
+cli-alpine: Pulling from library/php
+596ba82af5aa: Pulling fs layer
+af74f285bb27: Pulling fs layer
+2ab8440e5667: Pulling fs layer
+64889fa545ec: Pulling fs layer
+94168e648735: Pulling fs layer
+3898f14298ef: Pulling fs layer
+c3747e5f2167: Pulling fs layer
+7c3df0f80888: Pulling fs layer
+e1f6ddeaf0bd: Pulling fs layer
+64889fa545ec: Waiting
+94168e648735: Waiting
+3898f14298ef: Waiting
+c3747e5f2167: Waiting
+7c3df0f80888: Waiting
+e1f6ddeaf0bd: Waiting
+2ab8440e5667: Verifying Checksum
+2ab8440e5667: Download complete
+af74f285bb27: Verifying Checksum
+af74f285bb27: Download complete
+596ba82af5aa: Verifying Checksum
+596ba82af5aa: Download complete
+596ba82af5aa: Pull complete
+64889fa545ec: Verifying Checksum
+64889fa545ec: Download complete
+af74f285bb27: Pull complete
+3898f14298ef: Verifying Checksum
+3898f14298ef: Download complete
+2ab8440e5667: Pull complete
+64889fa545ec: Pull complete
+94168e648735: Verifying Checksum
+94168e648735: Download complete
+7c3df0f80888: Verifying Checksum
+7c3df0f80888: Download complete
+94168e648735: Pull complete
+3898f14298ef: Pull complete
+e1f6ddeaf0bd: Verifying Checksum
+e1f6ddeaf0bd: Download complete
+c3747e5f2167: Verifying Checksum
+c3747e5f2167: Download complete
+c3747e5f2167: Pull complete
+7c3df0f80888: Pull complete
+e1f6ddeaf0bd: Pull complete
+Digest: sha256:0a4250b174dc6a1f1949f48b2ac56c9a5491a8329d0dc9b139668a968da0bdc7
+Status: Downloaded newer image for php:cli-alpine
+ ---> 1465a4df7e97
+Step 2/2 : RUN apk add --update --no-cache zip git bash openssh
+ ---> Running in 638ec7127973
+fetch https://dl-cdn.alpinelinux.org/alpine/v3.13/main/x86_64/APKINDEX.tar.gz
+fetch https://dl-cdn.alpinelinux.org/alpine/v3.13/community/x86_64/APKINDEX.tar.gz
+(1/13) Installing readline (8.1.0-r0)
+(2/13) Installing bash (5.1.0-r0)
+Executing bash-5.1.0-r0.post-install
+(3/13) Installing expat (2.2.10-r1)
+(4/13) Installing pcre2 (10.36-r0)
+(5/13) Installing git (2.30.0-r0)
+(6/13) Installing openssh-keygen (8.4_p1-r2)
+(7/13) Installing openssh-client (8.4_p1-r2)
+(8/13) Installing openssh-sftp-server (8.4_p1-r2)
+(9/13) Installing openssh-server-common (8.4_p1-r2)
+(10/13) Installing openssh-server (8.4_p1-r2)
+(11/13) Installing openssh (8.4_p1-r2)
+(12/13) Installing unzip (6.0-r8)
+(13/13) Installing zip (3.0-r9)
+Executing busybox-1.32.1-r0.trigger
+OK: 32 MiB in 45 packages
+Removing intermediate container 638ec7127973
+ ---> 590b73d73cd5
+Successfully built 590b73d73cd5
+Successfully tagged docker.pkg.github.com/kac-per/jigsaw-test/php-actions_composer_jigsaw-test:php-latest-build2
+The push refers to repository [docker.pkg.github.com/kac-per/jigsaw-test/php-actions_composer_jigsaw-test]
+539341b1d776: Preparing
+05c447e0cda9: Preparing
+295222afdd21: Preparing
+8b1c1f74ffe5: Preparing
+44704c5e3294: Preparing
+fbceb84436b1: Preparing
+e6df0e6ce219: Preparing
+e27314bbe0d2: Preparing
+6e9b846148a4: Preparing
+c04d1437198b: Preparing
+fbceb84436b1: Waiting
+e6df0e6ce219: Waiting
+e27314bbe0d2: Waiting
+6e9b846148a4: Waiting
+c04d1437198b: Waiting
+05c447e0cda9: Pushed
+44704c5e3294: Pushed
+295222afdd21: Pushed
+539341b1d776: Pushed
+e6df0e6ce219: Pushed
+e27314bbe0d2: Pushed
+8b1c1f74ffe5: Pushed
+fbceb84436b1: Pushed
+6e9b846148a4: Pushed
+c04d1437198b: Pushed
+php-latest-build2: digest: sha256:ddcf53563fa26e63d06a0e16bc5bb90252cf24567e94df1c74240dc27f8fcf4a size: 2413
+Docker tag: docker.pkg.github.com/kac-per/jigsaw-test/php-actions_composer_jigsaw-test:php-latest-build2
+No private keys supplied
+Command: composer install --no-progress --no-interaction
