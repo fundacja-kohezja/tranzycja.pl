@@ -206,7 +206,7 @@ details {
 }
 .long-article {
     @media (min-width: 1024px) {
-        h1 {
+        h1:first-of-type {
             margin-right: -66.666%;
         }
         .toc {
