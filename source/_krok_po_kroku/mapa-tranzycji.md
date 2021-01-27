@@ -34,6 +34,13 @@ Jeśli chcesz skompletować najczęściej wymagany zestaw dokumentów do sądu, 
 
 :::
 
+:::spoiler Endokrynolog
+
+W kwestii hormonów zawsze konsultuj się z **endokrynologiem**, bo to jest właśnie jego specjalizacja.  Bez zaświadczeń od seksuologa lub psychologa endokrynolog nie podejmie samodzielnie decyzji o rozpoczęciu terapii. Seksuologowie starej daty często wystawiają sami recepty na hormony, ale uważaj! To nie jest ich specjalizacja i bardzo często nie robią tego poprawnie i mogą Ci zaszkodzić.
+
+
+:::
+
 :::spoiler Neurolog
 
 Może się zdarzyć sytuacja, że seksuolog zleci Ci badanie rezonansem magnetycznym lub EEG - w takiej sytuacji, byćmoże odwiedzisz neurologa po odpowiednie skierowanie. Oba te badania, o ile nie ma konkretnego powodu, nie są wskazane zgodnie ze współczesnym standardem opieki nad osobami transpłciowymi.
@@ -78,7 +85,21 @@ W Polsce na ogół lekarze trzymają się ściśle zasady, że jeśli zabiegi ni
 
 Jeśli zabieg mógłby pozbawić Cię płodności, lekarze będą nalegać na uprzednią zmianę płci metrykalnej. Znane są natomiast wyjątki, np. pojedyncze osoby, którym udało się uzyskać orchiektomię bez pozwu o ustalenie płci.
 
-## Możesz pomóc ulepszyć ten tekst!
+:::warning
+
+## Możesz ulepszyć ten tekst!
+
 Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 
-Uwagi do tekstu możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/SkOAk-1ed).
+* Masz uwagi albo widzisz jakiś błąd?
+* Znasz dodatkowe materiały i źródła, najlepiej po polsku?
+
+**Do uzupełnienia są m.in.:**
+
+* Szczegółowe informacje dotyczące różnych form przyjmowania hormonów
+* Szczegółowe informacje o zastrzykach - co i gdzie kupić, jak zrobić itd.
+* Materiały wideo dot. terapii transżeńskiej
+
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/SkOAk-1ed).
+
+:::
