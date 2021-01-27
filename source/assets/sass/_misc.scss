@@ -135,10 +135,10 @@ details {
             @apply .text-purple-300;
         }
     }
+    > :nth-child(2) {
+        @apply .mt-0;
+    }
     &.on-homepage {
-        > :nth-child(2) {
-            @apply .mt-0;
-        }
         @apply .text-sm;
         h1 {
             @apply .text-3xl;
@@ -206,7 +206,7 @@ details {
 }
 .long-article {
     @media (min-width: 1024px) {
-        h1 {
+        h1:first-of-type {
             margin-right: -66.666%;
         }
         .toc {
