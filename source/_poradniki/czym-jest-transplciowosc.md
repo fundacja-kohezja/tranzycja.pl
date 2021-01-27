@@ -1,3 +1,6 @@
+---
+data: '2021-01-27 11:59:57'
+---
 # Czym jest transpłciowość? Skąd mam wiedzieć, czy jestem trans?
 
 Wraz z rokiem 2022 wejdzie w życie Międzynarodowa Klasyfikacja Chorób i Problemów Zdrowotnych w wersji 11 (ICD-11), dzięki czemu ostatecznie pożegnamy się z określeniem "transseksualizm", którą zastąpi „niezgodność płciowa”.
