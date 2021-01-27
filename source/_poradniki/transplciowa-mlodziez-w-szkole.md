@@ -163,7 +163,10 @@ Jeśli wolisz formę audio-wideo lub po prostu chcesz się zapoznać z doświadc
 
 * [Transpłciowa młodzież w polskiej szkole Raport z badań // 2016](https://tash-feneko.github.io/stronatestowa5000/assets/docs/szkola/transplciowa_mlodziez.pdf)
 
-:::warning Możesz ulepszyć ten tekst!
+:::warning
+
+## Możesz ulepszyć ten tekst!
+
 Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 
 * Jakiego polskiego określenia używasz na deadname?
