@@ -11,8 +11,11 @@ mix.sass('source/assets/sass/main.scss', 'css/main.css')
     .options({
         processCssUrls: false,
         postCss: [
-            require('tailwindcss'),
+            require('tailwindcss')('./tailwind.config.js')
         ],
     })
+    .sass('source/assets/sass/manual_mode.scss', 'css/manual_mode.css', {processCssUrls: false}, [
+        require('tailwindcss')('./tailwind_manualdark.config.js')
+    ])
     .sourceMaps()
     .version();
