@@ -27,15 +27,25 @@
 
         @stack('meta')
 
-        <link rel="stylesheet" href="{{ mix('css/main.css', 'dist/build') }}">
+        <link id="stylesheet_link" rel="stylesheet" href="{{ mix('css/main.css', 'dist/build') }}" data-mainsheeturl="{{ mix('css/main.css', 'dist/build') }}" data-manualmodesheeturl="{{ mix('css/manual_mode.css', 'dist/build') }}">
 
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
         @endif
+
+        <script>
+            if (localStorage.theme === 'dark' || localStorage.theme === 'light') {
+                el = document.getElementById('stylesheet_link')
+                el.href = el.dataset.manualmodesheeturl
+            }
+            if (localStorage.theme === 'dark') {
+                document.documentElement.classList.add('dark')
+            }
+        </script>
     </head>
 
-    <body class="flex flex-col justify-between min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
-        <header class="shadow bg-white mb-8 dark:bg-gray-800 z-10" role="banner">
+    <body tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
+        <header class="shadow bg-gray-100 mb-8 dark:bg-gray-800 z-10" role="banner">
             @include('templates.nav.menu', ['items' => $page->mainNav])
         </header>
 
@@ -44,8 +54,17 @@
         </div>
         
         @stack('scripts')
+        <script>
+            if (localStorage.theme === 'dark') {
+                document.getElementById('theme_dark').checked = true
+            } else if (localStorage.theme === 'light') {
+                document.getElementById('theme_light').checked = true
+            } else {
+                document.getElementById('theme_auto').checked = true
+            }
+        </script>
 
-        <footer class="bg-white shadow dark:bg-gray-900 text-center text-sm mt-12 py-4" role="contentinfo">
+        <footer class="bg-gray-100 shadow dark:bg-gray-900 text-center text-sm mt-12 py-4" role="contentinfo">
             @include('_ogolne.stopka')
         </footer>
     </body>

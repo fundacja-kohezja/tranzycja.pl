@@ -19,9 +19,6 @@ module.exports = {
   },
   theme: {
     extend: {
-      screens: {
-        'dark': {'raw': '(prefers-color-scheme: dark)'}
-      },
       colors: {
         gray: {
           ...colors.gray,
@@ -79,7 +76,7 @@ module.exports = {
     borderRadius: ['responsive', 'focus'],
     borderWidth: ['responsive', 'active', 'focus'],
     width: ['responsive', 'focus'],
-    textColor: ['responsive', 'active', 'focus', 'hover', 'group-hover'],
+    textColor: ['responsive', 'active', 'focus', 'hover', 'group-hover', 'dark'],
   },
   plugins: [
     function({ addUtilities }) {
@@ -93,5 +90,9 @@ module.exports = {
       }
       addUtilities(newUtilities)
     }
-  ]
+  ],
+  experimental: {
+    darkModeVariant: true
+  },
+  dark: 'class'
 }
