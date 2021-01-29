@@ -17,5 +17,7 @@ mix.sass('source/assets/sass/main.scss', 'css/main.css')
     .sass('source/assets/sass/manual_mode.scss', 'css/manual_mode.css', {processCssUrls: false}, [
         require('tailwindcss')('./tailwind_manualdark.config.js')
     ])
+    .js('source/assets/js/main.js', 'js/main.js')
+    .js('source/assets/js/section-highlight.js', 'js/section-highlight.js')
     .sourceMaps()
     .version();
