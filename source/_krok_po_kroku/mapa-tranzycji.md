@@ -22,6 +22,8 @@ Wielu lekarzy ma swoje prywatne przyzwyczajenia względem wymogów dot. tranzycj
 
 :::
 
+:::
+
 :::spoiler Psycholog
 
 Seksuolog najczęściej nie będzie Cię samodzielnie diagnozować, tylko skieruje Cię w tym celu do **psychologa**. Niektóre osoby aby zaoszczędzić czas zaczynają od psychologa i do seksuologa idą już z gotową diagnozą. Nie zawsze jednak się to opłaci - bywają seksuologowie, którzy preferują współpracę z konkretnymi psychologami, lub mają w zwyczaju "przetrzymać" osobę wyznaczoną przez siebie minimalną ilość miesięcy. Psycholog najprawdopodobnie da Ci szereg testów mających oszacować Twóje zdrowie psychiczne i stwierdzić brak przeciwwskazań do tranzycji.
