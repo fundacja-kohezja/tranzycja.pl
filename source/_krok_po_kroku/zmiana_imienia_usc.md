@@ -87,7 +87,8 @@ Jeśli Twój wniosek został odrzucony z powodu transpłciowości, możesz popro
 > (...) należy zwrócić uwagę, że powyższy katalog przesłanek pozytywnych nie jest katalogiem zamkniętym, na co wskazuje zwrot „istnieją w szczególności”. Co więcej, podkreślenia przez ustawodawcę, iż zmiany można dokonać „wyłącznie” z ważnych powodów, nie było w poprzednio obowiązującej ustawie, co w praktyce wpływać mogło na całkowicie dowolną ocenę przyczyn dokonywaną przez kierowników urzędu stanu cywilnego[^38]. Nadto podkreślenie to w większym zakresie uwypukla zasadę stabilizacji nazwisk. Jednak obecna ustawa nie zawiera definicji pojęcia „ważne powody”, pozostawiając tym samym dużą swobodę i luz decyzyjny organowi administracji w wydaniu rozstrzygnięcia, które ma charakter wysoce uznaniowy. Wydanie decyzji uznaniowej, której treść oparta jest na klauzuli odsyłającej, podlega zaś — jak wcześniej wspomniano — kontroli sądowej. Na potwierdzenie warto przywołać stanowisko Naczelnego Sądu administracyjnego, zgodnie z którym „użycie przez prawodawcę określeń prawnie niezdefiniowanych (tzw. wyrażeń nieostrych) zobowiązuje organ sprawujący kontrolę legalności decyzji wydanych na podstawie przepisów używających takich określeń — do rozważenia, czy dokonana przez organ administracji państwowej ocena okoliczności sprawy nie nosi cech dowolności lub nie przekroczyła dopuszczalnej granicy swobody interpretacji tych określeń na tle konkretnego stanu faktycznego”[^39][^2]
 
 ### Powiedzieć, czy nie powiedzieć?
-W wielu urzędach najlepiej w ogóle nie wspominać o transpłciowości, ponieważ albo nie będą wiedzieli co z tym zrobić, albo odeślą Cię do sądowej procedury ustalania płci metrykalnej. Bywają jednak urzędnicy bardziej w temacie, którzy wiedząc o Twojej sytuacji spojrzą na wniosek przychylniejszym wzrokiem i będę starali się Tobie pomóc, np. podpowiadając jak wniosek poprawić żeby łatwiej im było go przyjąć. W niektórych urzędach można też wspomnieć o transpłciowości w swoim wniosku, ale nadal nie jako główny argument, jedynie dodatkowo - skupiając się przy tym raczej na cierpieniu i utrudniach w codziennym funkcjonowaniu jakie wynikają z posiadanego imienia w swojej sytuacji.
+
+To jest podchwytliwe pytanie, bo mocno zależy od urzędu i prywatnych poglądów urzędnika. W wielu urzędach najlepiej w ogóle nie wspominać o transpłciowości, ponieważ albo nie będą wiedzieli co z tym zrobić, albo odeślą Cię do sądowej procedury ustalania płci metrykalnej. Bywają jednak życzliwi urzędnicy, bardziej w temacie, którzy wiedząc o Twojej sytuacji spojrzą na wniosek przychylniejszym wzrokiem i będę starali się Tobie pomóc, np. podpowiadając jak wniosek poprawić żeby łatwiej im było go przyjąć. W niektórych urzędach można też wspomnieć o transpłciowości w swoim wniosku, ale nadal nie jako główny argument, a jedynie dodatkowo - skupiając się przy tym raczej na cierpieniu i utrudnieniach w codziennym funkcjonowaniu jakie wynikają z posiadanego imienia w swojej sytuacji. Dlatego tak ważne jest, aby uprzednio wybadać opinie o danym USC i wiedzieć jak się przygotować.
 
 :::info
 Jeśli wiesz, że dany urzędnik spojrzy przychylniej na wniosek osoby transpłciowej, warto załączyć zaświadczenie od psychologa - [przykładowy wzór](https://docs.google.com/document/d/1pA4umMcSv6EqD0F5q8u3p_kevtQU2JUrT9R5NxfIPvA/edit?usp=sharing).
@@ -259,9 +260,6 @@ Wniosek możesz złożyć w dowolnym Urzędzie Stanu Cywilnego - nie musi mieć 
 
 Urzędnik może z ciekawości zapytać dlaczego składasz wniosek akurat u niego. Nie musisz mieć specjalnego uzasadnienia, możesz na to odpowiedzieć cokolwiek.
 
-## Czy mogę powiedzieć, że jestem trans?
-To jest podchwytliwe pytanie, bo mocno zależy od urzędu i prywatnych poglądów urzędnika. Są takie urzędy, gdy na wzmiankę o transpłciowości od razu odeślą Cię do sądu, są też natomiast takie, gdzie spojrzą na Twój wniosek przychylniejszym wzrokiem i jak mogą będą Ci pomagać żeby Twój wniosek mógł zostać pozytywnie rozpatrzony. Dlatego tak ważne jest, aby uprzednio wybadać opinie o danym USC i wiedzieć jak się przygotować.
-
 ## Ile trwa zmiana imienia drogą urzędową?
 Termin rozstrzygnięcia sprawy różni się między urzędami. Np. na stronie krakowskiego BIPu jest podane, że sprawy mogą być rozstrzygnięte od ręki, ale jeśli są szczególnie skomplikowane to urząd ma do dwóch miesięcy na wydanie decyzji.
 
@@ -274,10 +272,6 @@ W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiąc
 ### Koszty
 
 Wniosek o zmianę imienia lub nazwiska podlega opłacie skarbowej w wysokości 37 zł – dowód jej uiszczenia należy załączyć do wniosku. Opłatę można uiścić uprzednio na miejscu w kasie, a niektóre urzędy dodatkowo udostępniają też w Internecie dane do przelewu.
-
-## Mam decyzję - co dalej?
-
-Zmiana wchodzi w życie dopiero gdy minie ustawowy okres odwoławczy, chociaż jeśli odbierasz decyzję osobiście, możesz podpisać oświadczenie, że zrzekasz się od możliwości odwołania się od decyzji. W takiej sytuacji urząd może zmianę od razu wprowadzić do systemu. Warto dać systemowi dzień czy dwa na przetworzenie zmiany, można też zalogować się do systemu ePUAP i sprawdzić czy dane są już zaktualizowane. Jeśli dane w cyfrowym systemie zostały zmienione, możesz od razu złożyć wniosek o wydanie nowego dowodu osobistego z powodu zmiany danych - to również możesz zrobić przez Internet, za pomocą profilu zaudanego.
 
 ## Wniosek odrzucony
 
@@ -293,11 +287,16 @@ Jeśli jednak Twój wniosek został już odrzucony i zależy Ci na uzyskaniu tej
 
 Choć katalog przesłanek pozytywnych nie jest katalogiem zamkniętym, na co wskazuje zwrot „istnieją w szczególności”, podkreślenia przez ustawodawcę, iż zmiany można dokonać „wyłącznie” z ważnych powodów, wsmacnia zasadę stabilizacji nazwisk, w związku z którą urzędnicy starają się zachować dużą ostrożność akceptując wniosek. Obecna ustawa nie zawiera definicji pojęcia „ważne powody”, pozostawiając tym samym dużą swobodę organowi administracji w wydaniu rozstrzygnięcia, które ma charakter wysoce uznaniowy. Wydanie decyzji uznaniowej, której treść oparta jest na klauzuli odsyłającej, podlega zaś kontroli sądowej. Na potwierdzenie warto przywołać stanowisko Naczelnego Sądu administracyjnego, zgodnie z którym „użycie przez prawodawcę określeń prawnie niezdefiniowanych (tzw. wyrażeń nieostrych) zobowiązuje organ sprawujący kontrolę legalności decyzji wydanych na podstawie przepisów używających takich określeń — do rozważenia, czy dokonana przez organ administracji państwowej ocena okoliczności sprawy nie nosi cech dowolności lub nie przekroczyła dopuszczalnej granicy swobody interpretacji tych określeń na tle konkretnego stanu faktycznego.
 
-## Zmiana płci metrykalnej
+## Mam decyzję - co dalej?
 
+Zmiana wchodzi w życie dopiero gdy minie ustawowy okres odwoławczy, chociaż jeśli odbierasz decyzję osobiście, możesz podpisać oświadczenie, że zrzekasz się od możliwości odwołania się od decyzji. W takiej sytuacji urząd może zmianę od razu wprowadzić do systemu. Warto dać systemowi dzień czy dwa na przetworzenie zmiany, można też zalogować się do systemu ePUAP i sprawdzić czy dane są już zaktualizowane. Jeśli dane w cyfrowym systemie zostały zmienione, możesz od razu złożyć wniosek o wydanie nowego dowodu osobistego z powodu zmiany danych - to również możesz zrobić przez Internet, za pomocą profilu zaufanego.
+
+:::info
 Zmiana imienia w USC nie stoi na przeszkodzie późniejszej zmianie metryki i ponownej zmiany danych.
 
-## ePUAP i inne systemy elektroniczne
+:::
+
+### ePUAP i inne systemy elektroniczne
 
 Jeśli przed zmianą istniał już profil ePUAP na Twoje dane, niestety jako składowe loginu pozostają Twoje stare imię i nazwisko. Istnieją też doniesienia, że dowolny polski urzędnik mający wgląd do Twoich danych w systemie może także widzieć informację o Twojej zmianie danych i poprzednie dane, również w przypadku zmiany płci i PESELu metodą sądową. Zdecydowanie jest to sprawa wymagająca dalszego zbadania i działań. [Dotychczasowe próby](http://inter-link.pl/wp-content/uploads/2018/09/ePUAP-Rzecznik-A.pdf) zaadresowania problemu, póki co nie przyniosły niestety oczekiwanych rezultatów. Dość zawiłą i z pewnością jednostroną opowieśćna ten temat można odsłuchać pod [tym adresem](https://www.youtube.com/watch?v=IljqeBDJyNw).
 
