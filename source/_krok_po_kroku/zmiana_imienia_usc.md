@@ -30,19 +30,8 @@ Dzięki tej stronie dowiesz się jak zmienić imię łatwo, szybko i bez zbędne
 * Cudzoziemiec nieposiadający obywatelstwa żadnego państwa, jeżeli ma w Rzeczypospolitej Polskiej miejsce zamieszkania
 * Cudzoziemiec, który uzyskał w Rzeczypospolitej Polskiej status uchodźcy[^14]
 
-### Osoby zamieszkałe za granicą
+#### Osoby zamieszkałe za granicą
 Choć z zasady wniosek powinien być złożony osobiście, osoby zamieszkałe za granicą mogą go złożyć za pośrednictwem konsula Rzeczypospolitej, wskazując kierownika urzędu stanu cywilnego, któremu ma zostać przekazany wniosek[^23]. Można też samodzielnie wysłać go pocztą lub przez ePUAP.
-
-### Więcej niż jedno imię lub nazwisko
-W myśl przepisów, zmiana imienia oznacza zastąpienie wybranego imienia innym imieniem, zastąpienie dwóch imion jednym imieniem lub odwrotnie — dodanie drugiego imienia, zmianę pisowni imienia lub imion lub zmianę kolejności imion[^15]. Mamy więc w tej kwestii bardzo pełną dowolność.
-
-> Należy pamiętać, że gdy osoba zamierza pozbyć się swojego drugiego imienia, to mimo iż wydawać by się mogło, że powinna kierować wniosek o usunięcie drugiego imienia, to jednak musi być to wniosek o zmianę imienia z racji tego, iż formalnie w tym przypadku następuje zmiana w postaci usunięcia drugiego imienia. Z prawnego oraz administracyjnego punktu widzenia jest to zasadnicza różnica, gdyż oficjalnie pierwsze i drugie imię są traktowane jako dwa kompatybilne elementy, które składają się na jedno, pełne imię. A więc niedopuszczalne jest postulowanie wobec kierownika urzędu stanu cywilnego o usunięcie drugiego imienia, ponieważ teoretycznie istnieje tylko jedno imię, które może składać się z dwóch członów.
-
-> Zmiana nazwiska oznacza zaś zmianę na inne nazwisko, zmianę pisowni nazwiska lub zmianę nazwiska ze względu na formę właściwą dla rodzaju żeńskiego lub męskiego. Tak więc może ona dotyczyć zarówno nazwiska rodowego, czyli wpisanego do aktu urodzenia w związku z urodzeniem się (...) jak i nazwiska noszonego w wyniku administracyjnej zmiany. Zmiana może polegać na przybraniu nowego nazwiska składającego się z dwóch członów, z których żaden nie ma nic wspólnego z dotychczasowym.[^2]
-
-:::warning
-Nie ma możliwości zmiany na nazwisko historyczne czy wsławione w dziedzinie kultury, nauki, działalności politycznej, społecznej albo wojskowej, chyba że osoba ubiegająca się o zmianę ma członków rodziny o tym nazwisku. Jest to tzw. przesłanka negatywna.
-:::
 
 ## Wniosek
 
@@ -86,7 +75,7 @@ Jeśli Twój wniosek został odrzucony z powodu transpłciowości, możesz popro
 
 > (...) należy zwrócić uwagę, że powyższy katalog przesłanek pozytywnych nie jest katalogiem zamkniętym, na co wskazuje zwrot „istnieją w szczególności”. Co więcej, podkreślenia przez ustawodawcę, iż zmiany można dokonać „wyłącznie” z ważnych powodów, nie było w poprzednio obowiązującej ustawie, co w praktyce wpływać mogło na całkowicie dowolną ocenę przyczyn dokonywaną przez kierowników urzędu stanu cywilnego[^38]. Nadto podkreślenie to w większym zakresie uwypukla zasadę stabilizacji nazwisk. Jednak obecna ustawa nie zawiera definicji pojęcia „ważne powody”, pozostawiając tym samym dużą swobodę i luz decyzyjny organowi administracji w wydaniu rozstrzygnięcia, które ma charakter wysoce uznaniowy. Wydanie decyzji uznaniowej, której treść oparta jest na klauzuli odsyłającej, podlega zaś — jak wcześniej wspomniano — kontroli sądowej. Na potwierdzenie warto przywołać stanowisko Naczelnego Sądu administracyjnego, zgodnie z którym „użycie przez prawodawcę określeń prawnie niezdefiniowanych (tzw. wyrażeń nieostrych) zobowiązuje organ sprawujący kontrolę legalności decyzji wydanych na podstawie przepisów używających takich określeń — do rozważenia, czy dokonana przez organ administracji państwowej ocena okoliczności sprawy nie nosi cech dowolności lub nie przekroczyła dopuszczalnej granicy swobody interpretacji tych określeń na tle konkretnego stanu faktycznego”[^39][^2]
 
-### Powiedzieć, czy nie powiedzieć?
+#### Powiedzieć, czy nie powiedzieć?
 
 To jest podchwytliwe pytanie, bo mocno zależy od urzędu i prywatnych poglądów urzędnika. W wielu urzędach najlepiej w ogóle nie wspominać o transpłciowości, ponieważ albo nie będą wiedzieli co z tym zrobić, albo odeślą Cię do sądowej procedury ustalania płci metrykalnej. Bywają jednak życzliwi urzędnicy, bardziej w temacie, którzy wiedząc o Twojej sytuacji spojrzą na wniosek przychylniejszym wzrokiem i będę starali się Tobie pomóc, np. podpowiadając jak wniosek poprawić żeby łatwiej im było go przyjąć. W niektórych urzędach można też wspomnieć o transpłciowości w swoim wniosku, ale nadal nie jako główny argument, a jedynie dodatkowo - skupiając się przy tym raczej na cierpieniu i utrudnieniach w codziennym funkcjonowaniu jakie wynikają z posiadanego imienia w swojej sytuacji. Dlatego tak ważne jest, aby uprzednio wybadać opinie o danym USC i wiedzieć jak się przygotować.
 
@@ -102,6 +91,16 @@ Prawo o aktach stanu cywilnego (z 28.11.2014) zgodnie z art. 70 umożliwia w ci�
 
 Czy to znaczy, że w żaden sposób nam ta ustawa nie pomoże? Jeśli masz obawy, że urzędnik odrzuci Twój wniosek właśnie z powodu wybrania imienia które nie wskazuje na Twoją płeć metrykalną, nie zaszkodzi pomicniczo wspomnieć o zapisach z tej ustawy. Należy jednak mieć przy tym świadomość, że jeśli zbyt mocno się na tym argumencie skupisz, niektórzy urzędnicy mogą odrzucić taki wniosek lub poprosić o usunięcie z niego tego argumentu, gdyż to nie jest w Twoim przypadku poprawna podstawa prawna, a jedynie pomocny kontekst do kwestii nieregulowanych w odpowiedniej dla Twojego przypadku ustawy.
 
+### Więcej niż jedno imię lub nazwisko
+W myśl przepisów, zmiana imienia oznacza zastąpienie wybranego imienia innym imieniem, zastąpienie dwóch imion jednym imieniem lub odwrotnie — dodanie drugiego imienia, zmianę pisowni imienia lub imion lub zmianę kolejności imion[^15]. Mamy więc w tej kwestii bardzo pełną dowolność.
+
+> Należy pamiętać, że gdy osoba zamierza pozbyć się swojego drugiego imienia, to mimo iż wydawać by się mogło, że powinna kierować wniosek o usunięcie drugiego imienia, to jednak musi być to wniosek o zmianę imienia z racji tego, iż formalnie w tym przypadku następuje zmiana w postaci usunięcia drugiego imienia. Z prawnego oraz administracyjnego punktu widzenia jest to zasadnicza różnica, gdyż oficjalnie pierwsze i drugie imię są traktowane jako dwa kompatybilne elementy, które składają się na jedno, pełne imię. A więc niedopuszczalne jest postulowanie wobec kierownika urzędu stanu cywilnego o usunięcie drugiego imienia, ponieważ teoretycznie istnieje tylko jedno imię, które może składać się z dwóch członów.
+
+> Zmiana nazwiska oznacza zaś zmianę na inne nazwisko, zmianę pisowni nazwiska lub zmianę nazwiska ze względu na formę właściwą dla rodzaju żeńskiego lub męskiego. Tak więc może ona dotyczyć zarówno nazwiska rodowego, czyli wpisanego do aktu urodzenia w związku z urodzeniem się (...) jak i nazwiska noszonego w wyniku administracyjnej zmiany. Zmiana może polegać na przybraniu nowego nazwiska składającego się z dwóch członów, z których żaden nie ma nic wspólnego z dotychczasowym.[^2]
+
+:::warning
+Nie ma możliwości zmiany na nazwisko historyczne czy wsławione w dziedzinie kultury, nauki, działalności politycznej, społecznej albo wojskowej, chyba że osoba ubiegająca się o zmianę ma członków rodziny o tym nazwisku. Jest to tzw. przesłanka negatywna.
+:::
 
 ## Imię
 
