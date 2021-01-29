@@ -33,6 +33,19 @@ Dzięki tej stronie dowiesz się jak zmienić imię łatwo, szybko i bez zbędne
 #### Osoby zamieszkałe za granicą
 Choć z zasady wniosek powinien być złożony osobiście, osoby zamieszkałe za granicą mogą go złożyć za pośrednictwem konsula Rzeczypospolitej, wskazując kierownika urzędu stanu cywilnego, któremu ma zostać przekazany wniosek[^23]. Można też samodzielnie wysłać go pocztą lub przez ePUAP.
 
+### Ile trwa zmiana imienia drogą urzędową?
+Termin rozstrzygnięcia sprawy różni się między urzędami. Np. na stronie krakowskiego BIPu jest podane, że sprawy mogą być rozstrzygnięte od ręki, ale jeśli są szczególnie skomplikowane to urząd ma do dwóch miesięcy na wydanie decyzji.
+
+W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiące, jesli natomiast trafisz na urzędnika który chce Ci pomóc, możesz na każdym etapie od razu dostawać zawiadomienia do podpisania (zamiast czekać na dostarczenie ich pocztą), a nawet jeśli na koniec odbierzesz decyzję osobiście, zrzec się od razu pisemnie terminu odwoławczego, co znacząco przyśpieszy całą procedurę i umożliwi wprowadzenie od razu zmian w cyfrowym systemie. W takiej sytuacji istnieje realna szansa zamknięcia się nawet w 2 tygodniach, choć wymagałoby to nadzwyczajnej ilości dobrej woli ze strony urzędu.
+
+:::info
+✏ ==Ta sekcja wymaga uzupełnienia o konkretne terminy wynikające z przepisów!==
+:::
+
+### Koszty
+
+Wniosek o zmianę imienia lub nazwiska podlega opłacie skarbowej w wysokości 37 zł – dowód jej uiszczenia należy załączyć do wniosku. Opłatę można uiścić uprzednio na miejscu w kasie, a niektóre urzędy dodatkowo udostępniają też w Internecie dane do przelewu.
+
 ## Wniosek
 
 Zgodnie z art. 11 ustawy wniosek powinien zawierać:
@@ -112,7 +125,7 @@ Większość urzędników trzyma się dwóch podstawowych zasad:
 
 Co ważne, ani jedna ani druga robocza reguła aktualnie nie znajduje uzasadnienia prawnego, a jedynie w tradycji. Większość osób składających wnioski stara się ich trzymać, bo dzięki temu maksymalizujesz szanse powodzenia. Jeśli jednak Twój wniosek został odrzucony z tych powodów, możesz spróbować odwołać się a nawet zaskarżyć decyzję do właściwego sądu - przy odrobinie szcześcia, być może ułatwisz procedurę następnym osobom.
 
-### Imiona obcojęzyczne
+#### Imiona obcojęzyczne
 
 Naczelny Sąd Administracyjny wyraził pogląd w sprawie imion obcojęzycznych w wyroku, w którym stwierdził, że dopuszczalna jest zmiana polskich imion i nazwisk na inne, o niepolskim brzmieniu, jeżeli wynika ona z istnienia dostatecznie ważnych przyczyn[^34]. Z kolei w ustawie z 2008 r. o zmianie imienia i nazwiska ustawodawca pośród ważnych powodów do zmiany imienia nie wskazał jego niepolskiego brzmienia, co stanowiło potwierdzenie braku przeciwwskazań do posiadania imienia niepolskiego.
 
@@ -131,7 +144,7 @@ Zakładając, że wnioskujesz o zmianę na imię co do którego urzędnik może 
 
 :::
 
-### Dowody na istnienie imienia i przynależność do płci
+### Na istnienie imienia
 
 :::info
 Listę przykładowych neutralnych imion uznawanych w Polsce, wraz z dużą ilością informacji na temat zmiany imienia znajdziesz [tutaj](https://docs.google.com/spreadsheets/d/1aP8id2ZpGUZ8RqcCjdBgM8Kk8zSgi3V6jSwcD7tNdnQ/).
@@ -147,7 +160,7 @@ Możesz też posiłkować się rejestrami zagranicznymi, np. [tutaj znajdziesz w
 
 Można spróbować też wskazać przykładowe konkretne osoby posługujące się danym imieniem, natomiast warto uważać w przypadku celebrytów i zwrócić uwagę czy rzeczywiście mają tak na imię, czy posługują się jedynie takim pseudonimem artystycznym. W takiej sytuacji urzędnik może łatwo odrzucić taki argument.
 
-### Dowody na posługiwanie się imieniem
+### Na posługiwanie się imieniem
 
 Jest wiele rożnych rodzajów dowodów, które możesz przedstawić na dowód posługiwania się imieniem. Nie ma limitu załączników do wniosku, dlatego warto mieć ich kilka, zwłaszcza jeśli nie są zbyt silne.
 
@@ -184,10 +197,10 @@ Jeśli zmieniasz imię lub nazwisko na obcobrzmiące, to dobrze jest podać w uz
 
 :::
 
-## Oświadczenie od znajomych i rodziny
+#### Oświadczenie od znajomych i rodziny
 W wielu urzędach pomocne bywają oświadczenia od znajomych i rodziny, o tym, że znają Cię pod danym imieniem na które planujesz zmienić i rzeczywiście w codziennym życiu się nim posługujesz. Najlepiej mieć takich zaświadczeń ok. 5, od osób pełnoletnich, ale oczywiście to tylko propozycja - w zależności od preferencji urzędnika to może być za dużo lub za mało.
 
-### Co powinno zawierać oświadczenie
+##### Co powinno zawierać oświadczenie
 
 W oświadczeniu koniecznie muszą się znaleźć imię, nazwisko oraz PESEL lub numer dowodu osoby składającej oświadczenie, oraz Twój PESEL. Warto uwzględnić też numer telefonu. Raczej nie będą dzwonić w celu weryfikacji oświadczeń, ale samo załączenie go zwiększa ich wiarygodność.
 
@@ -208,7 +221,7 @@ Jednym z najważniejszych elementów procesu jest wybranie właściwego urzędu.
 Pamiętaj, aby sprawdzić najpierw, czy urząd, w którym chcesz złożyć wniosek jest przyjazny osobom trans/nb, np. poprzez sprawdzenie polecanych urzędów w swojej okolicy na grupach wsparcia, transowych forach itd.
 :::
 
-### Polecane urzędy ✔
+#### Polecane urzędy ✔
 | Polecane USC | Opis |
 |---|---|
 |Stęszew (p. Poznaniem)|Bardzo miłe panie, pomagają osobm trans i przyśpiszają procedury.|
@@ -221,7 +234,7 @@ Pamiętaj, aby sprawdzić najpierw, czy urząd, w którym chcesz złożyć wnios
 |Kraków|   |
 
 
-### Odradzane urzędy ❌
+#### Odradzane urzędy ❌
 | Odradzane USC | Opis |
 |---|---|
 |Poznań|   |
@@ -232,14 +245,15 @@ Pamiętaj, aby sprawdzić najpierw, czy urząd, w którym chcesz złożyć wnios
 Masz informacje o innym urzędzie? [Zostaw komentarz](https://hackmd.io/@tranzycja/Sy9_lbX5w)!
 :::
 
-## Co będzie Ci potrzebne
+## Jak złożyć wniosek
+
+### Co będzie Ci potrzebne
+
 * **dokument** - najlepiej dowód osobisty, może być też paszport
 * **wniosek** - przykładowy wzór znajdziesz poniżej, ale możesz też napisać swój własny, pod warunkiem, że zawszesz w nim wszystkie wymagane dane. Niektóre urzędzy mają też wzór na stronie Internetowej, ale zdarza się to zaskakująco rzadko.
 * **załączniki** - dowody, opinie, oświadczenia rodziny
 
 Nie potrzebujesz natomiast aktu urodzenia - w dowolnym urzędzie uzyskają do niego dostęp zdalnie, za pomocą swojego systemu cyfrowego.
-
-## Jak złożyć wniosek
 
 Wniosek o zmianę umienia możesz złożyć osobiście, lub też przesłać pocztą, a nawet poprzez internetową platformę ePUAP.
 
@@ -258,19 +272,6 @@ Wniosek możesz złożyć w dowolnym Urzędzie Stanu Cywilnego - nie musi mieć 
 :::
 
 Urzędnik może z ciekawości zapytać dlaczego składasz wniosek akurat u niego. Nie musisz mieć specjalnego uzasadnienia, możesz na to odpowiedzieć cokolwiek.
-
-## Ile trwa zmiana imienia drogą urzędową?
-Termin rozstrzygnięcia sprawy różni się między urzędami. Np. na stronie krakowskiego BIPu jest podane, że sprawy mogą być rozstrzygnięte od ręki, ale jeśli są szczególnie skomplikowane to urząd ma do dwóch miesięcy na wydanie decyzji.
-
-W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiące, jesli natomiast trafisz na urzędnika który chce Ci pomóc, możesz na każdym etapie od razu dostawać zawiadomienia do podpisania (zamiast czekać na dostarczenie ich pocztą), a nawet jeśli na koniec odbierzesz decyzję osobiście, zrzec się od razu pisemnie terminu odwoławczego, co znacząco przyśpieszy całą procedurę i umożliwi wprowadzenie od razu zmian w cyfrowym systemie. W takiej sytuacji istnieje realna szansa zamknięcia się nawet w 2 tygodniach, choć wymagałoby to nadzwyczajnej ilości dobrej woli ze strony urzędu.
-
-:::info
-✏ ==Ta sekcja wymaga uzupełnienia o konkretne terminy wynikające z przepisów!==
-:::
-
-### Koszty
-
-Wniosek o zmianę imienia lub nazwiska podlega opłacie skarbowej w wysokości 37 zł – dowód jej uiszczenia należy załączyć do wniosku. Opłatę można uiścić uprzednio na miejscu w kasie, a niektóre urzędy dodatkowo udostępniają też w Internecie dane do przelewu.
 
 ## Wniosek odrzucony
 
