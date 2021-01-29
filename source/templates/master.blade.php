@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="pl" style="background-color: #A0AEC0">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -44,7 +44,7 @@
         </script>
     </head>
 
-    <body tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
+    <body style="visibility:hidden" tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
         <header class="shadow bg-gray-100 mb-8 dark:bg-gray-800 z-10" role="banner">
             @include('templates.nav.menu', ['items' => $page->mainNav])
         </header>
@@ -53,18 +53,10 @@
             @yield('body')
         </div>
         
+        <script src="{{ mix('js/main.js', 'dist/build') }}"></script>
         @stack('scripts')
-        <script>
-            if (localStorage.theme === 'dark') {
-                document.getElementById('theme_dark').checked = true
-            } else if (localStorage.theme === 'light') {
-                document.getElementById('theme_light').checked = true
-            } else {
-                document.getElementById('theme_auto').checked = true
-            }
-        </script>
 
-        <footer class="bg-gray-100 shadow dark:bg-gray-900 text-center text-sm mt-12 py-4" role="contentinfo">
+        <footer class="bg-gray-100 shadow dark:bg-gray-900 text-center text-sm mt-12 p-4" role="contentinfo">
             @include('_ogolne.stopka')
         </footer>
     </body>
