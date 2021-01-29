@@ -82,10 +82,10 @@ return (array)$yaml_config + [
             'title' => 'Pytania i odpowiedzi',
             'path' => '/#faq',
         ],
-        (object)[
+        /* (object)[
             'title' => 'Materiały',
             'path' => '/materialy',
-        ]
+        ] */
     ],
 
     // helpers
