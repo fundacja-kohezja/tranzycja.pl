@@ -343,7 +343,7 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
 
         foreach($jigsaw->getCollection('krok_po_kroku') as $krok) {
 
-            if (str_contains($file->getPath(), strtolower($krok->getFilename())) && $processed_headings) {
+            if (str_contains($file->getPath(), Str::slug($krok->getFilename())) && $processed_headings) {
                 $toc .= '<li><ul class="list-none pl-0 mt-1">';
                 foreach ($processed_headings as $h) {
                     if ($h['level'] == 1){
