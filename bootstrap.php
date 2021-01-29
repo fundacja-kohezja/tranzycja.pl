@@ -338,13 +338,13 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
             },
             $new_content
         );
-        $toc = '<aside class="bg-gray-100 dark:bg-gray-800 shadow rounded-lg px-4 py-1 lg:py-0 toc my-8 lg:my-4"><p class="text-2xl leading-tight px-3 font-extrabold text-indigo-800 dark:text-indigo-200">Tranzycja krok po kroku</p><nav><ul class="list-none pl-0">';
+        $toc = '<aside class="bg-gray-100 dark:bg-gray-800 shadow rounded-lg px-4 py-1 lg:py-0 toc my-8 lg:my-4"><p class="text-2xl leading-tight px-3 font-extrabold text-indigo-800 dark:text-indigo-200">Tranzycja krok po kroku</p><nav><ol class="pl-0">';
 
 
         foreach($jigsaw->getCollection('krok_po_kroku') as $krok) {
 
             if (str_contains($file->getPath(), $krok->getFilename()) && $processed_headings) {
-                $toc .= '<ul class="list-none pl-0 mt-1">';
+                $toc .= '<li><ul class="list-none pl-0 mt-1">';
                 foreach ($processed_headings as $h) {
                     if ($h['level'] == 1){
                         $toc .= '<li><a class="block leading-tight font-extrabold text-lg border-b-0 text-pink-700 dark:text-purple-400 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-2 py-4 rounded-md" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
@@ -353,7 +353,7 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
     
                     }
                 }
-                $toc .= '</ul>';
+                $toc .= '</ul></li>';
             }
 
             else {
@@ -362,7 +362,7 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
 
         } 
 
-        $toc .= '</ul></nav></aside>';
+        $toc .= '</ol></nav></aside>';
     
         $new_content = preg_replace('/<\/h1>/iu', "</h1>\n$toc", $new_content, 1);
 
