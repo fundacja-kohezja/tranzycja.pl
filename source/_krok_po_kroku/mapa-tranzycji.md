@@ -64,6 +64,7 @@ Ponieważ transpłciowość nie jest czymś co może zostać jednoznacznie zdiag
 :::spoiler Częste
 
 Bardzo często lekarze wymagają badań neurologicznych:
+
  * MRI głowy - jeśli nie masz podejrzenia prolaktynomy, nie ma podstaw do wykonywania tego badania.
  * EEG - trudno stwierdzić dlaczego niektórzy lekarze go wymagają. Jest dość proste i niedrogie, więc jeśli Twój lekarz go wymaga to możesz po prostu wykonać, natomiast jeśli pójdziesz po skierowanie do neurologa, może się okazać że odmówi wystawienia z braku podstaw.
 
