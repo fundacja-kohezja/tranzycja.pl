@@ -14,6 +14,8 @@ Określenie "transseksualizm" uznawane jest za przestarzałe, medykalizujące, a
 
 :::
 
+---
+
 ## Nauka
 
 :::spoiler Dlaczego podręczniki szkolne nie mówią o transpłciowości?

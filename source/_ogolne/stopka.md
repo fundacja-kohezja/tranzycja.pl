@@ -1,1 +1,1 @@
-Projekt realizowany przy wsparciu [Stowarzyszenia Grupa Stonewall](https://grupa-stonewall.pl/)| Projekt na licencji [CC BY-SA 3.0 PL](/strony/licencja) | [Wsparcie i kontakt](/strony/wsparcie-projektu)
+Projekt realizowany przy wsparciu [Stowarzyszenia Grupa Stonewall](https://grupa-stonewall.pl/) | Projekt na licencji [CC BY-SA 3.0 PL](/strony/licencja) | [Wsparcie i kontakt](/strony/wsparcie-projektu)
