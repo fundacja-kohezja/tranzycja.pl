@@ -1,17 +1,19 @@
-window.docsearch = require('docsearch.js');
+// window.docsearch = require('docsearch.js'); - to może na później
 
-import hljs from 'highlight.js/lib/highlight';
+import smoothscroll from 'smoothscroll-polyfill';
+import 'smoothscroll-anchor-polyfill';
 
-hljs.registerLanguage('bash', require('highlight.js/lib/languages/bash'));
-hljs.registerLanguage('css', require('highlight.js/lib/languages/css'));
-hljs.registerLanguage('html', require('highlight.js/lib/languages/xml'));
-hljs.registerLanguage('javascript', require('highlight.js/lib/languages/javascript'));
-hljs.registerLanguage('json', require('highlight.js/lib/languages/json'));
-hljs.registerLanguage('markdown', require('highlight.js/lib/languages/markdown'));
-hljs.registerLanguage('php', require('highlight.js/lib/languages/php'));
-hljs.registerLanguage('scss', require('highlight.js/lib/languages/scss'));
-hljs.registerLanguage('yaml', require('highlight.js/lib/languages/yaml'));
+smoothscroll.polyfill();
 
-document.querySelectorAll('pre code').forEach((block) => {
-    hljs.highlightBlock(block);
-});
+if (localStorage.theme === 'dark') {
+    document.getElementById('theme_dark').checked = true
+} else if (localStorage.theme === 'light') {
+    document.getElementById('theme_light').checked = true
+} else {
+    document.getElementById('theme_auto').checked = true
+}
+
+var toc = document.getElementById('toc')
+if (toc && window.matchMedia('(min-width: 1024px)').matches) {
+    toc.open = true
+}

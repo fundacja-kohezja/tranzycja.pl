@@ -2,7 +2,7 @@
 
 @section('body')
 <div class="container max-w-6xl mx-auto px-6 py-4">
-    <div class="text-indigo-700 text-xl">
+    <div class="text-indigo-700 dark:text-indigo-300 text-xl">
         <nav>
             <a href="/krok-po-kroku" class="border-b-0">
                 Tranzycja krok po kroku
@@ -19,3 +19,7 @@
     </main>
 </div>
 @endsection
+
+@push('scripts')
+    <script src="{{ mix('js/section-highlight.js', 'dist/build') }}"></script>
+@endpush

@@ -7,30 +7,33 @@ Wbrew opinii niektórych lekarzy prowadzących, nie istnieje nic takiego jak uni
 
 ## Lekarze i inni specjaliści
 
-:::info
+Poniższy tekst opisuje poszczególne specjalizacje, z którymi możesz się spotkać na drodze tranzycji. 
+Bywa, że lekarze mają ich kilka i możesz "odhaczyć" je wtedy na raz.
 
-Poniższy tekst opisuje poszczególne specjalizacje - bywa, że jakiś lekarz ma kilka i możesz "odhaczyć" kilka na raz.
+:::warning
+
+## Zachowaj czujność!
+
+Każdy lekarz ma swój prywatny styl i przyzwyczajenia względem wymogów dot. tranzycji, bardzo często nieaktulanych i nie mających zbyt wiele wspólnego z aktualnymi standardami opieki nad osobami transpłciowymi. Jeśli masz wątpliwości, nie wahaj się szukać aktualnych informacji i konsultować zalecenia lekarzy z innymi specjalistami!
 
 :::
 
 :::spoiler Seksuolog
-Tradycyjnie przyjęło się, że osobą która towarzyszy nam przez większość tranzycji jest **seksuolog**. Jeśli zaczniesz od właśnie niego, powinien wysłać Cię do wszystkich innych specjalistów, wypisać skierowania na badania, a na samym końcu wystawić Ci dokumenty do sądu.
+Tradycyjnie przyjęło się, że lekarzem prowadzącym tranzycję jest **seksuolog**, a właściwie to lekarz psychiatra, neurolog, ginekolog lub endokrynolog ze specjalizacją seksuologiczną. Jeśli zaczniesz właśnie od niego, powinien wysłać Cię do wszystkich innych specjalistów, wypisać skierowania na badania, a na samym końcu wystawić Ci dokumenty do sądu.
 
-:::warning Uważaj na tradycjonalistów
-
-Wielu lekarzy ma swoje prywatne przyzwyczajenia względem wymogów dot. tranzycji, wiele z nich nie jest już aktualnych. Jeśli masz wątpliwości, nie wahaj się poszukać aktualnych informacji i zapytać społeczności!
+Pamiętaj, że masz prawo zapytać się na pierwszej wizycie czy dany lekarz pracuje z osobami niebinarnymi, stosuje tzw. "test życia", albo czeka latami przed skierowaniem na terapię hormonalną. W każdej chwili masz prawo zmienić lekarza prowadzącego.
 
 :::
 
-:::spoiler Psycholog
+:::spoiler Psycholog - seksuolog
 
-Seksuolog najczęściej nie będzie Cię samodzielnie diagnozować, tylko skieruje Cię w tym celu do **psychologa**. Niektóre osoby aby zaoszczędzić czas zaczynają od psychologa i do seksuologa idą już z gotową diagnozą. Nie zawsze jednak się to opłaci - bywają seksuologowie, którzy preferują współpracę z konkretnymi psychologami, lub mają w zwyczaju "przetrzymać" osobę wyznaczoną przez siebie minimalną ilość miesięcy. Psycholog najprawdopodobnie da Ci szereg testów mających oszacować Twóje zdrowie psychiczne i stwierdzić brak przeciwwskazań do tranzycji.
+Seksuolog najczęściej nie będzie Cię samodzielnie diagnozować, tylko skieruje Cię w tym celu do **psychologa**, najczęściej ze specjalizacją seksuologiczną. Niektóre osoby aby zaoszczędzić czas zaczynają od psychologa i do seksuologa idą już z gotową diagnozą. Nie zawsze jednak się to opłaci - bywają seksuologowie, którzy preferują współpracę z konkretnymi psychologami, lub mają w zwyczaju "przetrzymać" osobę wyznaczoną przez siebie minimalną ilość miesięcy. Psycholog najprawdopodobniej przeprowadzi szereg testów mających oszacować Twóje zdrowie psychiczne i stwierdzić brak przeciwwskazań do tranzycji. Czasami na tym etapie możesz się też zetknąć z przestarzałymi testami na "transseksualizm".
 
 :::
 
 :::spoiler Psychiatra
 
-Jeśli chcesz skompletować najczęściej wymagany zestaw dokumentów do sądu, czeka Cię pojedyncze spotkanei z  **psychiatrą**. Nie będzie potrzebna żadna większa dniagnoza z jego strony, a jedynie krótkie zaświadczenie o braku przeciwwskazań.
+W celu skompletowania najczęściej wymaganego zestaw dokumentów do sądu, czeka Cię także spotkane z  **psychiatrą**. Nie będzie potrzebna żadna większa dniagnoza z jego strony, a jedynie krótkie zaświadczenie o braku przeciwwskazań do podjęcia tranzycji - często wystarcza jedno spotkanie.
 
 :::
 
@@ -66,11 +69,12 @@ Bardzo często lekarze wymagają badań neurologicznych:
 
 :::
 
-:::spoiler Rzadkie
+:::spoiler Inne możliwe badania
 Inne przykładowe badania wymagane czasem przez lekarzy to np.:
 
  * Badanie dna oka
- * Badanie siodełka tureckiego
+ * RTG głowy z oceną siodełka tureckiego
+ * Badanie ginekologiczne lub andrologiczne
 
 :::
 

@@ -246,17 +246,17 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
         /* Markdown blocks */
 
         foreach ($block_types as $type) {
-            $new_content = preg_replace('/(<p>:::|:::)' . $type . '(.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<aside class="alert alert-' . $type  . '">$4</aside>', $new_content);
+            $new_content = preg_replace('/(<p>:::|:::)' . $type . '(.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<aside class="alert alert-' . $type  . '">$4</aside>$5$6', $new_content);
         }
 
 
         
         /* Markdown spoiler */
 
-        $new_content = preg_replace('/(<p>:::|:::)spoiler (.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<details><summary>$2</summary><p>$4</p></details>', $new_content);
-        $new_content = preg_replace('/(<p>:::|:::)spoiler(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<details><p>$3</p></details>', $new_content);
+        $new_content = preg_replace('/(<p>:::|:::)spoiler (.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<details><summary>$2</summary><div class="mt-4">$4</div></details>$5$6', $new_content);
+        $new_content = preg_replace('/(<p>:::|:::)spoiler(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<details><div class="mt-4">$3</div></details>$4$5', $new_content);
 
-        
+        $new_content = preg_replace('/(\R|\R<p>)(:::<\/p>|:::)/u', '', $new_content);
 
         $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
     }
@@ -291,13 +291,18 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
 
         if ($processed_headings) {
 
-            $toc = '<aside class="bg-white dark:bg-gray-800 shadow rounded-lg px-4 py-1 lg:py-0 toc my-8 lg:my-4"><p class="text-2xl leading-tight px-3 font-extrabold text-indigo-800 dark:text-indigo-200">Spis treści</p><nav><ul class="list-none pl-0">';
+            $toc = '<aside class="toc-container"><details id="toc" class="bg-gray-100 dark:bg-gray-800 shadow rounded-lg px-4 py-1 lg:py-0 toc my-8 lg:my-4"><summary>Spis treści</summary><nav><ul class="list-none pl-0">';
 
             foreach ($processed_headings as $h) {
-                $toc .= '<li><a class="block leading-tight border-b-0 text-gray-700 dark:text-gray-300 hover:bg-indigo-100 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white p-4 font-medium rounded-md" style="padding-left: ' . $h['level'] . 'rem" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
+                if ($h['level'] == 1){
+                    $toc .= '<li><a onclick="if(window.matchMedia(\'(max-width: 1023px)\').matches)this.parentElement.parentElement.parentElement.parentElement.open = false" class="block leading-tight font-bold text-lg border-b-0 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-2 py-4 rounded-md" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
+                } else {
+                    $toc .= '<li><a onclick="if(window.matchMedia(\'(max-width: 1023px)\').matches)this.parentElement.parentElement.parentElement.parentElement.open = false" class="block leading-tight font-light text-sm border-b-0 text-gray-600 dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-2 py-2 rounded-md" style="padding-left: ' . ($h['level'] - 1) . 'rem" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
+
+                }
             }
     
-            $toc .= '</ul></nav></aside>';
+            $toc .= '</ul></nav></details></aside>';
     
             $new_content = preg_replace('/<\/h1>/iu', "</h1>\n$toc", $new_content, 1);
     
@@ -321,7 +326,7 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
         $processed_headings = [];
 
         $new_content = preg_replace_callback('|<h([^>]+)>(.*)</h([^>]+)>|iU', function (&$matches) use (&$processed_headings) {
-                if (in_array($matches[1][0], ['2', '3'])) {
+                if (in_array($matches[1][0], ['1', '2', '3'])) {
                     $processed_headings[] = [
                         'level' => $matches[1][0],
                         'text' => $matches[2],
@@ -333,24 +338,31 @@ $events->afterBuild(function($jigsaw) use ($emoji_replacements, $noembed_replace
             },
             $new_content
         );
-        $toc = '<aside class="bg-white dark:bg-gray-800 shadow rounded-lg px-4 py-1 lg:py-0 toc my-8 lg:my-4"><p class="text-2xl leading-tight px-3 font-extrabold text-indigo-800 dark:text-indigo-200">Spis treści</p><nav><ul class="list-none pl-0">';
+        $toc = '<aside class="toc-container"><details id="toc" class="bg-gray-100 dark:bg-gray-800 shadow rounded-lg px-4 py-1 lg:py-0 toc my-8 lg:my-4"><summary>Tranzycja krok po kroku</summary><nav><ol class="pl-0">';
 
 
         foreach($jigsaw->getCollection('krok_po_kroku') as $krok) {
 
-            $toc .= '<li><a class="block leading-tight border-b-0 text-gray-700 dark:text-gray-300 hover:bg-indigo-100 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white p-4 font-medium rounded-md" href="' . $krok->getUrl() . '">' . $krok->title() . '</a></li>';
-
-            if (str_contains($file->getPath(), $krok->getFilename()) && $processed_headings) {
-                $toc .= '<ul class="list-none pl-0">';
+            if (str_contains($file->getPath(), Str::slug($krok->getFilename())) && $processed_headings) {
+                $toc .= '<li><ul class="list-none pl-0 mt-1">';
                 foreach ($processed_headings as $h) {
-                    $toc .= '<li><a class="block leading-tight border-b-0 text-gray-700 dark:text-gray-300 hover:bg-indigo-100 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white p-4 font-medium rounded-md" style="padding-left: ' . $h['level'] . 'rem" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
+                    if ($h['level'] == 1){
+                        $toc .= '<li><a onclick="if(window.matchMedia(\'(max-width: 1023px)\').matches)this.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.open = false" class="block leading-tight font-extrabold text-lg border-b-0 text-pink-700 dark:text-purple-400 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-2 py-4 rounded-md" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
+                    } else {
+                        $toc .= '<li><a onclick="if(window.matchMedia(\'(max-width: 1023px)\').matches)this.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.open = false" class="block leading-tight font-light text-sm border-b-0 text-gray-600 dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-2 py-2 rounded-md" style="padding-left: ' . $h['level'] . 'rem" href="#' . $h['slug'] . '">' . $h['text'] . '</a></li>';
+    
+                    }
                 }
-                $toc .= '</ul>';
+                $toc .= '</ul></li>';
+            }
+
+            else {
+                $toc .= '<li><a class="block leading-tight font-bold text-lg border-b-0 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-2 py-4 rounded-md" href="' . $krok->getUrl() . '">' . $krok->title() . '</a></li>';
             }
 
         } 
 
-        $toc .= '</ul></nav></aside>';
+        $toc .= '</ol></nav></details></aside>';
     
         $new_content = preg_replace('/<\/h1>/iu', "</h1>\n$toc", $new_content, 1);
 

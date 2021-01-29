@@ -7,7 +7,6 @@ html {
     }
 }
 body {
-    font-size: 15px;
     @media (min-width: 640px) {
         font-size: 17px;
     }
@@ -23,7 +22,7 @@ a {
     &:hover {
         @apply .text-indigo-800;
     }
-    @media (prefers-color-scheme: dark) {
+    .dark & {
         @apply .text-blue-400;
         &:hover {
             @apply .text-indigo-300;
@@ -40,7 +39,7 @@ blockquote {
     @apply .pl-6;
     @apply .text-gray-800;
     @apply .text-lg;
-    @media (prefers-color-scheme: dark) {
+    .dark & {
         @apply .border-indigo-600;
         @apply .text-gray-200;
     }
@@ -84,7 +83,7 @@ h6 {
     b, strong {
         @apply .text-pink-600;
     }
-    @media (prefers-color-scheme: dark) {
+    .dark & {
 
         @apply .text-gray-100;
 
@@ -98,7 +97,7 @@ h1 {
     @apply .font-extrabold;
     @apply .text-4xl;
     @apply .text-pink-600;
-    @media (prefers-color-scheme: dark) {
+    .dark & {
         @apply .text-purple-400;
     }
 }
@@ -107,7 +106,7 @@ h2 {
     @apply .font-extrabold;
     @apply .text-3xl;
     @apply .text-indigo-800;
-    @media (prefers-color-scheme: dark) {
+    .dark & {
         @apply .text-indigo-200;
     }
 }
@@ -143,7 +142,7 @@ h6 {
 hr {
     @apply .border-b;
     @apply .border-gray-300;
-    @media (prefers-color-scheme: dark) {
+    .dark & {
         @apply .border-gray-800;
     }
     @apply .my-8;
@@ -181,7 +180,7 @@ p {
 pre {
     @apply .bg-gray-200;
 
-    @media (prefers-color-scheme: dark) {
+    .dark & {
         @apply .bg-gray-800;
     }
     @apply .leading-loose;
