@@ -16,7 +16,9 @@ Poniższy tekst opisuje poszczególne specjalizacje - bywa, że jakiś lekarz ma
 :::spoiler Seksuolog
 Tradycyjnie przyjęło się, że osobą która towarzyszy nam przez większość tranzycji jest **seksuolog**. Jeśli zaczniesz od właśnie niego, powinien wysłać Cię do wszystkich innych specjalistów, wypisać skierowania na badania, a na samym końcu wystawić Ci dokumenty do sądu.
 
-:::warning Uważaj na tradycjonalistów
+:::warning
+
+#### Uważaj na tradycjonalistów
 
 Wielu lekarzy ma swoje prywatne przyzwyczajenia względem wymogów dot. tranzycji, wiele z nich nie jest już aktualnych. Jeśli masz wątpliwości, nie wahaj się poszukać aktualnych informacji i zapytać społeczności!
 
