@@ -1,5 +1,17 @@
+html {
+    --scroll-behavior: smooth;
+    scroll-behavior: smooth;
+    font-size: 15px;
+    @media (min-width: 640px) {
+        font-size: 16px;
+    }
+}
 body {
-    font-size: 17px;
+    font-size: 15px;
+    @media (min-width: 640px) {
+        font-size: 17px;
+    }
+    visibility: visible!important;
 }
 
 a {
@@ -84,7 +96,7 @@ h6 {
 
 h1 {
     @apply .font-extrabold;
-    @apply .text-5xl;
+    @apply .text-4xl;
     @apply .text-pink-600;
     @media (prefers-color-scheme: dark) {
         @apply .text-purple-400;
@@ -93,7 +105,7 @@ h1 {
 
 h2 {
     @apply .font-extrabold;
-    @apply .text-4xl;
+    @apply .text-3xl;
     @apply .text-indigo-800;
     @media (prefers-color-scheme: dark) {
         @apply .text-indigo-200;
@@ -102,22 +114,30 @@ h2 {
 
 h3 {
     @apply .font-bold;
-    @apply .text-3xl;
+    @apply .text-2xl;
 }
 
 h4 {
     @apply .font-semibold;
-    @apply .text-2xl;
+    @apply .text-xl;
 }
 
 h5 {
     @apply .font-normal;
-    @apply .text-xl;
+    @apply .text-lg;
 }
 
 h6 {
     @apply .font-light;
     @apply .text-lg;
+}
+
+@media (min-width: 640px) {
+    h1 { @apply .text-5xl }
+    h2 { @apply .text-4xl }
+    h3 { @apply .text-3xl }
+    h4 { @apply .text-2xl }
+    h5 { @apply .text-xl }
 }
 
 hr {
