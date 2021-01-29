@@ -63,15 +63,15 @@ Naczelny Sąd Administracyjny wyraził pogląd w sprawie imion obcojęzycznych w
 ## Wniosek
 
 Zgodnie z art. 11 ustawy wniosek powinien zawierać:
-- [ ] 1) dane osoby, której zmiana dotyczy:
-- [ ] a) imię (imiona) i nazwisko oraz nazwisko rodowe;
-- [ ] b) wskazanie kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tego aktu;
-- [ ] c) numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany;
-- [ ] 2) imię lub nazwisko, na jakie ma nastąpić zmiana;
-- [ ] 3) wskazanie miejsca sporządzenia aktu urodzenia małoletnich dzieci, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tych aktów;
-- [ ] 4) adres do korespondencji wnioskodawcy;
-- [ ] 5) uzasadnienie;
-- [ ] 6) oświadczenie wnioskodawcy, że w tej samej sprawie nie złożył wcześniej wniosku do innego kierownika urzędu stanu cywilnego lub nie została wydana już decyzja odmowna.
+1) dane osoby, której zmiana dotyczy:
+* imię (imiona) i nazwisko oraz nazwisko rodowe;
+* wskazanie kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tego aktu;
+* numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany;
+2) imię lub nazwisko, na jakie ma nastąpić zmiana;
+3) wskazanie miejsca sporządzenia aktu urodzenia małoletnich dzieci, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tych aktów;
+4) adres do korespondencji wnioskodawcy;
+5) uzasadnienie;
+6) oświadczenie wnioskodawcy, że w tej samej sprawie nie złożył wcześniej wniosku do innego kierownika urzędu stanu cywilnego lub nie została wydana już decyzja odmowna.
 
 :::info
 Gotowe wzory znajdziesz w niektórych USC, możesz także skorzystać z tych szablonów: [minimalistyczny](https://docs.google.com/document/d/1xkX0LE1EiwGqRyVFsMImmY2XnsO7f8jFUjUbUC77r6Y/edit#heading=h.alk32jfuumn0), [rozbudowany](https://docs.google.com/document/d/17XJCBhwxy-XcG99NoC2IRxeOVVvYYMGYRyis1tAd440/edit?usp=sharing).
@@ -247,7 +247,7 @@ Masz informacje o innym urzędzie? [Zostaw komentarz](https://hackmd.io/@tranzyc
 
 ## Jak złożyć wniosek
 
-### Co będzie Ci potrzebne
+**Będą Ci potrzebne:**
 
 * **dokument** - najlepiej dowód osobisty, może być też paszport
 * **wniosek** - przykładowy wzór znajdziesz poniżej, ale możesz też napisać swój własny, pod warunkiem, że zawszesz w nim wszystkie wymagane dane. Niektóre urzędzy mają też wzór na stronie Internetowej, ale zdarza się to zaskakująco rzadko.
