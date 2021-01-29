@@ -275,7 +275,7 @@ W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiąc
 
 Wniosek o zmianę imienia lub nazwiska podlega opłacie skarbowej w wysokości 37 zł – dowód jej uiszczenia należy załączyć do wniosku. Opłatę można uiścić uprzednio na miejscu w kasie, a niektóre urzędy dodatkowo udostępniają też w Internecie dane do przelewu.
 
-# Mam decyzję - co dalej?
+## Mam decyzję - co dalej?
 
 Zmiana wchodzi w życie dopiero gdy minie ustawowy okres odwoławczy, chociaż jeśli odbierasz decyzję osobiście, możesz podpisać oświadczenie, że zrzekasz się od możliwości odwołania się od decyzji. W takiej sytuacji urząd może zmianę od razu wprowadzić do systemu. Warto dać systemowi dzień czy dwa na przetworzenie zmiany, można też zalogować się do systemu ePUAP i sprawdzić czy dane są już zaktualizowane. Jeśli dane w cyfrowym systemie zostały zmienione, możesz od razu złożyć wniosek o wydanie nowego dowodu osobistego z powodu zmiany danych - to również możesz zrobić przez Internet, za pomocą profilu zaudanego.
 
