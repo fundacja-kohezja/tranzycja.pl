@@ -19,3 +19,7 @@
     </main>
 </div>
 @endsection
+
+@push('scripts')
+    <script src="{{ mix('js/section-highlight.js', 'dist/build') }}"></script>
+@endpush
