@@ -46,6 +46,20 @@ W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiąc
 
 Wniosek o zmianę imienia lub nazwiska podlega opłacie skarbowej w wysokości 37 zł – dowód jej uiszczenia należy załączyć do wniosku. Opłatę można uiścić uprzednio na miejscu w kasie, a niektóre urzędy dodatkowo udostępniają też w Internecie dane do przelewu.
 
+## Imię
+
+### Na jakie imię mogę zmienić?
+
+Większość urzędników trzyma się dwóch podstawowych zasad:
+* istnienie imienia musi być dobrze udokumentowane
+* imię musi być nadawane (gdzieś na świecie) osobom o Twojej płci metrykalnej
+
+Co ważne, ani jedna ani druga robocza reguła aktualnie nie znajduje uzasadnienia prawnego, a jedynie w tradycji. Większość osób składających wnioski stara się ich trzymać, bo dzięki temu maksymalizujesz szanse powodzenia. Jeśli jednak Twój wniosek został odrzucony z tych powodów, możesz spróbować odwołać się a nawet zaskarżyć decyzję do właściwego sądu - przy odrobinie szcześcia, być może ułatwisz procedurę następnym osobom.
+
+### Imiona obcojęzyczne
+
+Naczelny Sąd Administracyjny wyraził pogląd w sprawie imion obcojęzycznych w wyroku, w którym stwierdził, że dopuszczalna jest zmiana polskich imion i nazwisk na inne, o niepolskim brzmieniu, jeżeli wynika ona z istnienia dostatecznie ważnych przyczyn[^34]. Z kolei w ustawie z 2008 r. o zmianie imienia i nazwiska ustawodawca pośród ważnych powodów do zmiany imienia nie wskazał jego niepolskiego brzmienia, co stanowiło potwierdzenie braku przeciwwskazań do posiadania imienia niepolskiego.
+
 ## Wniosek
 
 Zgodnie z art. 11 ustawy wniosek powinien zawierać:
@@ -63,7 +77,7 @@ Zgodnie z art. 11 ustawy wniosek powinien zawierać:
 Gotowe wzory znajdziesz w niektórych USC, możesz także skorzystać z tych szablonów: [minimalistyczny](https://docs.google.com/document/d/1xkX0LE1EiwGqRyVFsMImmY2XnsO7f8jFUjUbUC77r6Y/edit#heading=h.alk32jfuumn0), [rozbudowany](https://docs.google.com/document/d/17XJCBhwxy-XcG99NoC2IRxeOVVvYYMGYRyis1tAd440/edit?usp=sharing).
 :::
 
-## Podstawa prawna
+### Podstawa prawna
 W polskim prawie dokumentem regulującym zmianę imienia i nazwiska jest *Ustawa o zmianie imienia i nazwiska* z dnia 17 października 2008r, która ogranicza możliwość zmiany wyłacznie do ważnych powodów. Choć w teorii jest to katalog otwarty, w praktyce urzędnicy nie przyjmują innych powodów niż wyszczególnione w ustawie przykłady:
 
 >Art. 4. 1. Zmiany imienia lub nazwiska można dokonać **wyłącznie z ważnych powodów**, w szczególności gdy dotyczą zmiany:
@@ -114,20 +128,6 @@ W myśl przepisów, zmiana imienia oznacza zastąpienie wybranego imienia innym 
 :::warning
 Nie ma możliwości zmiany na nazwisko historyczne czy wsławione w dziedzinie kultury, nauki, działalności politycznej, społecznej albo wojskowej, chyba że osoba ubiegająca się o zmianę ma członków rodziny o tym nazwisku. Jest to tzw. przesłanka negatywna.
 :::
-
-## Imię
-
-### Na jakie imię mogę zmienić?
-
-Większość urzędników trzyma się dwóch podstawowych zasad:
-* istnienie imienia musi być dobrze udokumentowane
-* imię musi być nadawane (gdzieś na świecie) osobom o Twojej płci metrykalnej
-
-Co ważne, ani jedna ani druga robocza reguła aktualnie nie znajduje uzasadnienia prawnego, a jedynie w tradycji. Większość osób składających wnioski stara się ich trzymać, bo dzięki temu maksymalizujesz szanse powodzenia. Jeśli jednak Twój wniosek został odrzucony z tych powodów, możesz spróbować odwołać się a nawet zaskarżyć decyzję do właściwego sądu - przy odrobinie szcześcia, być może ułatwisz procedurę następnym osobom.
-
-#### Imiona obcojęzyczne
-
-Naczelny Sąd Administracyjny wyraził pogląd w sprawie imion obcojęzycznych w wyroku, w którym stwierdził, że dopuszczalna jest zmiana polskich imion i nazwisk na inne, o niepolskim brzmieniu, jeżeli wynika ona z istnienia dostatecznie ważnych przyczyn[^34]. Z kolei w ustawie z 2008 r. o zmianie imienia i nazwiska ustawodawca pośród ważnych powodów do zmiany imienia nie wskazał jego niepolskiego brzmienia, co stanowiło potwierdzenie braku przeciwwskazań do posiadania imienia niepolskiego.
 
 ## Dowody
 
