@@ -16,10 +16,13 @@ Poniższy tekst opisuje poszczególne specjalizacje - bywa, że jakiś lekarz ma
 :::spoiler Seksuolog
 Tradycyjnie przyjęło się, że osobą która towarzyszy nam przez większość tranzycji jest **seksuolog**. Jeśli zaczniesz od właśnie niego, powinien wysłać Cię do wszystkich innych specjalistów, wypisać skierowania na badania, a na samym końcu wystawić Ci dokumenty do sądu.
 
-:::warning Uważaj na tradycjonalistów
+:::warning
+
+#### Uważaj na tradycjonalistów
 
 Wielu lekarzy ma swoje prywatne przyzwyczajenia względem wymogów dot. tranzycji, wiele z nich nie jest już aktualnych. Jeśli masz wątpliwości, nie wahaj się poszukać aktualnych informacji i zapytać społeczności!
 
+:::
 :::
 
 :::spoiler Psycholog
@@ -61,6 +64,7 @@ Ponieważ transpłciowość nie jest czymś co może zostać jednoznacznie zdiag
 :::spoiler Częste
 
 Bardzo często lekarze wymagają badań neurologicznych:
+
  * MRI głowy - jeśli nie masz podejrzenia prolaktynomy, nie ma podstaw do wykonywania tego badania.
  * EEG - trudno stwierdzić dlaczego niektórzy lekarze go wymagają. Jest dość proste i niedrogie, więc jeśli Twój lekarz go wymaga to możesz po prostu wykonać, natomiast jeśli pójdziesz po skierowanie do neurologa, może się okazać że odmówi wystawienia z braku podstaw.
 
