@@ -31,6 +31,10 @@ module.exports = {
           '100': '#F6F8F9',
           '350': '#D6DEE8',
           '850': '#242C3A'
+        },
+        pink: {
+          '600': '#d9a8b5',
+          '700': '#d9a8b5'
         }
       },
       fontFamily: {
