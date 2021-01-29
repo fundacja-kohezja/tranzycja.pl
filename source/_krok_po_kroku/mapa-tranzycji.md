@@ -22,9 +22,7 @@ Tradycyjnie przyjęło się, że osobą która towarzyszy nam przez większość
 
 Wielu lekarzy ma swoje prywatne przyzwyczajenia względem wymogów dot. tranzycji, wiele z nich nie jest już aktualnych. Jeśli masz wątpliwości, nie wahaj się poszukać aktualnych informacji i zapytać społeczności!
 
-:::
-
-:::
+::::::
 
 :::spoiler Psycholog
 
