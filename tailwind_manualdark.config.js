@@ -14,6 +14,9 @@ module.exports = {
         /language/,
         /hljs/,
         /algolia/,
+        'py-1',
+        'lg:py-0',
+        'mt-4'
       ],
     },
   },
