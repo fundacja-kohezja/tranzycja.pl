@@ -1,3 +1,19 @@
+## Język
+
+:::spoiler Dlaczego nie mówimy "zmiana płci"?
+
+Słowo "płeć", jak wiele innych, w zależności od kontekstu może mieć wiele różnych znaczeń. Mamy płeć kulturową, mamy też biologiczną, a ona sama składa się z wielu elementów: od kariotypu, poprzez fenotyp po płeć odczuwaną, czyli tożsamość płciową. To właśnie tę ostatnią na ogół mamy na myśli mówiąc "jakiej jest płci".
+
+w procesie tranzycji dopasowujemy nasze ciało, dokumenty itd. do płci odczuwanej, która się nie zmienia, a określenie "zmiana płci" sugeruje coś odwrotnego. Dlatego właśnie posługujemy się określeniem "tranzycja."
+
+:::
+
+:::spoiler Transpłciowość czy transseksualizm?
+
+Określenie "transseksualizm" uznawane jest za przestarzałe, medykalizujące, a w wielu sytuacjach zwyczajnie nieuprzejme. Zdecydowanie bezpieczniejszym określeniem jest "transpłciowość", które obejmuje o wiele więcej tożsamości - trudniej więc jest też o pomyłkę. Ostatecznie zawsze należy uszanować prawo do samostanowienia i w miarę możliwości używać takich określeń, jak określa się osoba do której się odnosisz.
+
+:::
+
 ## Nauka
 
 :::spoiler Dlaczego podręczniki szkolne nie mówią o transpłciowości?
@@ -12,7 +28,7 @@ Gdy budujesz zamek z piasku na plaży, zwykle nie wliczasz w projekt krzywizny z
 
 Nie, transpłciowość nie jest w żaden sposób zaraźliwa, natomiast większa wiedza i świadomość istnienia zjawiska z pewnością zwiększa ilość osób samoidentyfikujących się jako trans. Niektóre osoby, a w szczególności zdesperowani rodzice, którzy nie mogą się pogodzić z transpłciowością swojego dziecka, zauważając, że obecność osoby identyfikującej się otwarcie jako osoba transpłciowa w otoczeniu sprawia, że inne osoby też mogą się tak identyfikować, wymyśliło fikcyjną jednostkę chorobową, tzw. "Rapid Onset Gender Dysphoria" ("Nagły Przypadek Dysforii Płciowel"). Jest to klasyczny przykład mylenia przyczyny ze skutkiem. Bez powszechnie dostępnej wiedzy o transpłciowości, mamy w społęczeństwie dokładnie tyle samo osób trans, są jedynie przez to bardziej zagubione - mają trudności ze zrozumieniem siebie, zaakceptowaniem i cierpą z tego powodu.
 
-Co należy zaznaczyć - tzw. ROGD nie zostało nigdy potwierdzone metodą naukową, choć osoby które w nie wierzą mogą twierdzić inaczej, odwołując się do tzw. badania Lisy Littman, które zostało przeprowadzone z pominięciem podstawowych zasad metody naukowej. Nie przeprowadzono żadnych badań na transpłciowych dzieciach, ani nie zadbano o obiektywą próbę respondentów. Zamiast tego wniski wyciągnięto z kwestionariuszy rozdanych wyłącznie osobom już przekonanym o istnieniu ROGD. Zostało to bardzo dokładnie opisane w [eseju Julii Serano](https://medium.com/@juliaserano/everything-you-need-to-know-about-rapid-onset-gender-dysphoria-1940b8afdeba) oraz omówione w [tym wideo](https://www.youtube.com/watch?v=6y_REX4wfts). Warto się zainteresować, ponieważ można się z tych materiałów niesamowicie dużo nauczyć o metodach manipulacji jakie stosuje transfobiczne lobby.
+Co należy zaznaczyć - tzw. ROGD nie zostało nigdy potwierdzone metodą naukową, choć osoby które w nie wierzą mogą twierdzić inaczej, odwołując się do tzw. badania Lisy Littman, które zostało przeprowadzone z pominięciem podstawowych zasad metody naukowej. Nie przeprowadzono żadnych badań na transpłciowych dzieciach, ani nie zadbano o obiektywną próbę respondentów. Zamiast tego wnioski wyciągnięto z kwestionariuszy rozdanych wyłącznie osobom już przekonanym o istnieniu ROGD. Zostało to bardzo dokładnie opisane w [eseju Julii Serano](https://medium.com/@juliaserano/everything-you-need-to-know-about-rapid-onset-gender-dysphoria-1940b8afdeba) oraz omówione w [tym wideo](https://www.youtube.com/watch?v=6y_REX4wfts). Warto się zainteresować, ponieważ można się z tych materiałów niesamowicie dużo nauczyć o metodach manipulacji jakie stosuje transfobiczne lobby.
 
 :::
 
