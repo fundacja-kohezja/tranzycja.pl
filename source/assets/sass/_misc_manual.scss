@@ -222,8 +222,12 @@ details {
             top: 2rem;
             margin-right: -66.666%;
             max-height: calc(100vh - 2rem);
-            width: 60%;
+            width: calc(60% - 2rem);
         }
+    }
+    .toc ol {
+        @apply .list-decimal;
+        @apply .pl-8;
     }
 }
 .ratio-iframe {
