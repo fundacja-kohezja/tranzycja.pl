@@ -12,10 +12,9 @@ tocItems.forEach(function(item){
 })
 
 window.addEventListener('scroll', _.throttle(function(){
-    var fromTop = window.scrollY
     
     var cur = scrollItems.reduce(function(prev, item){
-        if (item && item.offsetTop < fromTop + window.innerHeight * 0.25) {
+        if (item && item.getBoundingClientRect().top < window.innerHeight * 0.25) {
             return item;
         } else {
             return prev;
