@@ -14,4 +14,4 @@ Jest jeszcze folder **\_media** - przewidziałem go do wrzucania obrazków, któ
 
 ## Format plików, z których budowana jest treść
 
-Wszytskie pliki w ww. folderach są plikami markdown. Aby jak najbardziej uprościć proces dodawania treści, do plików markdown nie trzba dopisywać żadnego frontmattera na początku. Nie trzeba określać żadnych metadanych, sama treść w zupełności wystarczy (wyjątek stanowi sekcja *krok po kroku*, gdzie we frontmatterze określa się kolejność, by artykuły wyświetlały się w określonym porządku). Takie rzeczy jak tytuł czy spis treści są automatycznie wyciągane z nagłówków, a data wpisu też jest dodawana automatycznie.
+Wszytskie pliki w ww. folderach są plikami markdown. Aby jak najbardziej uprościć proces dodawania treści, do plików markdown nie trzeba dopisywać żadnego frontmattera na początku. Nie trzeba określać żadnych metadanych, sama treść w zupełności wystarczy (wyjątek stanowi sekcja *krok po kroku*, gdzie we frontmatterze określa się kolejność, by artykuły wyświetlały się w określonym porządku). Takie rzeczy jak tytuł czy spis treści są automatycznie wyciągane z nagłówków, a data wpisu też jest dodawana automatycznie.
