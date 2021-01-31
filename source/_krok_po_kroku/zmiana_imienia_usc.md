@@ -309,7 +309,8 @@ Podobnie sytuacja wygląda z wieloma innymi systemami elektronicznymi, np. USOS.
 :::info
 ## Uznanie autorstwa
 
-Tekst zawiera znaczące zapożyczenia z materiałów autorstwa Reza Sałajczyk i Jerusza Krygier dostępnych tutaj: [poradnik](https://docs.google.com/document/d/1xkX0LE1EiwGqRyVFsMImmY2XnsO7f8jFUjUbUC77r6Y/), [arkusz](https://docs.google.com/spreadsheets/d/1aP8id2ZpGUZ8RqcCjdBgM8Kk8zSgi3V6jSwcD7tNdnQ/); a także pracy pt. *Zmiana imienia i nazwiska w trybie administracyjnoprawnym* autorstwa: Mateusz Tubisz, Uniwersytet Warmińsko-Mazurski w Olsztynie, oraz z prywatnych doświadczeń innych osób. Opracowanie: Tash.
+Tekst zawiera znaczące zapożyczenia z materiałów autorstwa Rezy Sałajczyk i Jeruszy Krygier dostępnych tutaj: [poradnik](https://docs.google.com/document/d/1xkX0LE1EiwGqRyVFsMImmY2XnsO7f8jFUjUbUC77r6Y/), [arkusz](https://docs.google.com/spreadsheets/d/1aP8id2ZpGUZ8RqcCjdBgM8Kk8zSgi3V6jSwcD7tNdnQ/); a także pracy pt. *Zmiana imienia i nazwiska w trybie administracyjnoprawnym* autorstwa Mateusza Tubisz.
+Opracowanie: Tash.
 :::
 
 :::warning

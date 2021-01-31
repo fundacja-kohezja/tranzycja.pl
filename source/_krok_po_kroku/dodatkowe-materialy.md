@@ -47,6 +47,6 @@ Koło Naukowe MyGender, 2020
 Wersja 7 (2011), po Polsku
 Światowe Stowarzyszenie Specjalistów(-tek) do spraw Zdrowia Osób Transpłciowych
 
-[![Standardy opieki zdrowotnej WPATH (wersja 7 po Polsku)](/media/docs/standardy/SOC V7_Polish.jpg)](/media/docs/standardy/SOC V7_Polish.pdf)
+[![Standardy opieki zdrowotnej WPATH (wersja 7 po Polsku)](/media/docs/standardy/SOC%20V7_Polish.jpg)](/media/docs/standardy/SOC%20V7_Polish.jpg)
 
 :::
