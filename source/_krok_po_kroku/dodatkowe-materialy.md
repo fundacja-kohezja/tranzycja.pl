@@ -13,11 +13,16 @@ W tym dziale znajdziesz publikacje i ulotki przygotowane przez inne grupy i orga
 
 :::
 
+:::spoiler K⚧️miks o transpłciowości od osób transpłciowych
+
+[![Od A do Z o LGBTQIAP](https://tash-feneko.github.io/stronatestowa5000/assets/docs/faq/komix_plmin.jpg)](https://tash-feneko.github.io/stronatestowa5000/assets/docs/faq/komix_plmin.pdf)
+
+:::
+
 ## Standardy
 
-:::spoiler Od A do Z o LGBTQIAP
+:::spoiler Standardy opieki WPATH (wersja 7 po Polsku)
 
 [![Od A do Z o LGBTQIAP](https://tash-feneko.github.io/stronatestowa5000/assets/docs/standardy/SOC V7_Polish.jpg)](https://tash-feneko.github.io/stronatestowa5000/assets/docs/standardy/SOC V7_Polish.pdf)
-[![Od A do Z o LGBTQIAP](/media/docs/standardy/SOC V7_Polish.pdf)](/media/docs/standardy/SOC V7_Polish.pdf)
 
 :::
