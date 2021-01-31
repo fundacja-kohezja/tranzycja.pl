@@ -2,9 +2,9 @@
 
 :::spoiler Dlaczego nie mówimy "zmiana płci"?
 
-Słowo "płeć", jak wiele innych, w zależności od kontekstu może mieć wiele różnych znaczeń. Mamy płeć kulturową, mamy też biologiczną, a ona sama składa się z wielu elementów: od kariotypu, poprzez fenotyp po płeć odczuwaną, czyli tożsamość płciową. To właśnie tę ostatnią na ogół mamy na myśli mówiąc "jakiej jest płci".
+Słowo "płeć", jak wiele innych, w zależności od kontekstu może mieć różne znaczenia. Mamy płeć kulturową, ale mamy też biologiczną, a ona sama składa się z wielu elementów: od kariotypu, poprzez fenotyp po płeć odczuwaną: tożsamość płciową. To właśnie tę ostatnią na ogół mamy na myśli mówiąc "jakiej ktoś jest płci".
 
-w procesie tranzycji dopasowujemy nasze ciało, dokumenty itd. do płci odczuwanej, która się nie zmienia, a określenie "zmiana płci" sugeruje coś odwrotnego. Dlatego właśnie posługujemy się określeniem "tranzycja."
+W procesie tranzycji dopasowujemy nasze ciało, dokumenty itd. do właśnie płci odczuwanej, która się nie zmienia. A określenie "zmiana płci" sugeruje natomiast coś przeciwnego. Dlatego więc nie posługujemy się określeniem "zmiana płci" - bo płeć [odczuwana] pozostaje bez zmian. Na proces zmian zachodzących w naszym ciele, dokumentach czy społecznie natomiast zbiorczo mówimy tranzycja.
 
 :::
 
