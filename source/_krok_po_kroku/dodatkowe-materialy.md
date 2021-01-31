@@ -40,10 +40,10 @@ Koło Naukowe MyGender, 2020
 
 :::spoiler Standardy opieki zdrowotnej dla osób transseksualnych, transpłciowych i różnorodnych płciowo
 
-Wersja 7 (2011), po Polsku
-Światowe Stowarzyszenie Specjalistów(-tek) do spraw Zdrowia Osób Transpłciowych
+Wersja 7, po Polsku
+Światowe Stowarzyszenie Specjalistów(-tek) do spraw Zdrowia Osób Transpłciowych, 2011
 
-[![Standardy opieki zdrowotnej WPATH (wersja 7 po Polsku)](/media/docs/standardy/SOC%20V7_Polish.jpg)](/media/docs/standardy/SOC%20V7_Polish.jpg)
+[![Standardy opieki zdrowotnej WPATH (wersja 7 po Polsku)](/media/docs/standardy/SOC%20V7_Polish.jpg)](/media/docs/standardy/SOC%20V7_Polish.pdf)
 
 :::
 
@@ -52,9 +52,77 @@ Wersja 7 (2011), po Polsku
 :::spoiler Postępowanie w sprawach o ustalenie płci
 
 Przewodnik dla sędziów i pełnomocników
-Rzecznik Praw Obywatelskich
+Rzecznik Praw Obywatelskich, 2020
 
-[![Postępowanie w sprawach o ustalenie płci](/media/docs/prawo/Postepowania_w_sprawach_o_ustalenie_plci.jpg)](/media/docs/prawo/Postepowania_w_sprawach_o_ustalenie_plci.jpg)
+[![Postępowanie w sprawach o ustalenie płci](/media/docs/prawo/Postepowania_w_sprawach_o_ustalenie_plci.jpg)](/media/docs/prawo/Postepowania_w_sprawach_o_ustalenie_plci.pdf)
+
+:::
+
+:::spoiler Prace Naukowe
+
+* [Zmiana imienia i nazwiska w trybie administracyjnoprawnym](/media/docs/prawo/09_Tubisz_M_Zmiana_imienia_i_nazwiska_w_trybie_administracyjnoprawnym.pdf)
+* [Prawne aspekty zmiany płci – uwagi na gruncie prawa polskiego oraz wybranych krajów europejskich](/media/docs/prawo/09_Tubisz_M_Zmiana_imienia_i_nazwiska_w_trybie_administracyjnoprawnym.pdf)
+* [Analiza procedury zmiany płci metrykalnej w Polsce](/media/docs/prawo/michalik_kiedy_cialo_jest_wiezieniem_a_panstwo_straznikiem_2012.pdf)
+* [Charakter prawny powództwa o ustalenie płci](/media/docs/prawo/powodztwo_o_zmiane_plci.pdf)
+* [Wątpliwości konstytucyjne w zakresie sądowej procedury zmiany płci](/media/docs/prawo/sadowa_procedura_zmiany_plci.pdf)
+
+:::
+
+## Rodzina
+
+:::spoiler TransParent w akcji
+
+Ale po co ty sobie to robisz? Pakiet wiedzy startowej dla rodziców dzieci transpłciowych
+Fundacja Trans-Fuzja, 2019
+
+[![TransParent w akcji](/media/docs/rodzina/Broszura_dla_rodzicow.jpg)](/media/docs/rodzina/Broszura_dla_rodzicow.pdf)
+
+:::
+
+:::spoiler Rodzina przede wszystkim - trans rodzicielstwo w Polsce
+
+Raport z badań
+Fundacja Trans-Fuzja, 2019
+
+[![TransParent w akcji](/media/docs/rodzina/raport_rodzina.jpg)](/media/docs/rodzina/raport_rodzina.pdf)
+
+:::
+
+## Szkoła
+
+:::spoiler Transpłciowe dziecko w szkole
+
+Poradnik **nie tylko** dla nauczycieli/ek
+Fundacja Trans-Fuzja, 2020
+
+[![TransParent w akcji](/media/docs/szkola/Transpłciowe-dziecko-w-szkole.jpg)](/media/docs/szkola/Transpłciowe-dziecko-w-szkole.pdf)
+
+:::
+
+:::spoiler Lekcja równości - materiały dla nauczycieli i nauczycielek
+
+Jak rozmawiać o orientacji seksualnej w szkole i wspierać młodzież
+Kampania Przeciw Homofobii, 2016
+
+[![Lekcja równości](/media/docs/szkola/lekcja-materialy-wyd2-www.jpg)](/media/docs/szkola/lekcja-materialy-wyd2-www.pdf)
+
+:::
+
+:::spoiler Transpłciowa młodzież w polskiej szkole
+
+Specifika pomocy transpłciowym dzieciom i młodzieży. Podręcznik dla nauczycieli.
+Fundacja Trans-Fuzja, 2016
+
+[![Transpłciowa młodzież w polskiej szkole - podręcznik](/media/docs/szkola/trans_mlodziez_net.jpg)](/media/docs/szkola/trans_mlodziez_net.pdf)
+
+:::
+
+:::spoiler Transpłciowa młodzież w polskiej szkole
+
+Raport z badań
+Fundacja Trans-Fuzja, 2016
+
+[![Transpłciowa młodzież w polskiej szkole - raport](/media/docs/szkola/trans_mlodziez_net.jpg)](/media/docs/szkola/trans_mlodziez_net.pdf)
 
 :::
 
@@ -63,8 +131,8 @@ Rzecznik Praw Obywatelskich
 :::spoiler Wiara w kolorach tęczy
 
 Jak pogodzić homoseksualność, biseksualność lub transpłciowość z byciem chrześcijaninem
-Grupa chrześcijan LGBTQ Wiara i Tęcza
+Grupa chrześcijan LGBTQ Wiara i Tęcza, 2017
 
-[![Wiara w kolorach tęczy](/media/docs/religia/KPH_wiara-w-kolorach_preview.jpg)](/media/docs/religia/KPH_wiara-w-kolorach_preview.jpg)
+[![Wiara w kolorach tęczy](/media/docs/religia/KPH_wiara-w-kolorach_preview.jpg)](/media/docs/religia/KPH_wiara-w-kolorach_preview.pdf)
 
 :::
