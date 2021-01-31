@@ -5,6 +5,12 @@ data: '2021-01-29 21:39:12'
 
 Pierwszą reakcją rodziców, gdy dowiadują się o transpłciowości swojego dziecka jest często strach i zaprzeczanie. To zrozumiałe - wiedza na temat transpłciowości w naszym społeczeństwie jest nadal na bardzo niskim poziomie, a jeśli czegoś nie rozumiemy, naturalną reakcją jest strach. Jeśli jesteś w takiej sytuacji, poniżej znajdziesz materiały, które pomogą Ci zrozumieć swoje dziecko. To ważne, bo Twoje wsparcie może mieć olbrzymi wpływ na jego dobrostan psychiczny. Pamiętaj, że nie jesteście w tej sytuacji sami, i zawsze możecie liczyć na wsparcie innych rodziców.
 
+:::info
+
+Potrzebujesz wsparcia innych rodziców osób trans? Napisz na kontakt@tranzycja.pl
+
+:::
+
 ## Poradniki dla rodziców
 
 * Poradnia Synergia: [Poradnik dla rodziców](https://poradnia-synergia.pl/transplciowosc-u-dzieci-i-mlodziezy-poradnik-dla-rodzicow/)

@@ -30,6 +30,10 @@ Dzięki tej stronie dowiesz się jak zmienić imię łatwo, szybko i bez zbędne
 * Cudzoziemiec nieposiadający obywatelstwa żadnego państwa, jeżeli ma w Rzeczypospolitej Polskiej miejsce zamieszkania
 * Cudzoziemiec, który uzyskał w Rzeczypospolitej Polskiej status uchodźcy[^14]
 
+#### Osoby niepełnoletnie
+
+Zmiana danych może nastąpić na wniosek opiekunów prawnych - w przypadku pary rodziców, obojga. Nie muszą natomiast razem jechać do urzędu, zgoda może być pisemna, poświadczona notarialnie.
+
 #### Osoby zamieszkałe za granicą
 Choć z zasady wniosek powinien być złożony osobiście, osoby zamieszkałe za granicą mogą go złożyć za pośrednictwem konsula Rzeczypospolitej, wskazując kierownika urzędu stanu cywilnego, któremu ma zostać przekazany wniosek[^23]. Można też samodzielnie wysłać go pocztą lub przez ePUAP.
 
@@ -250,8 +254,8 @@ Masz informacje o innym urzędzie? [Zostaw komentarz](https://hackmd.io/@tranzyc
 **Będą Ci potrzebne:**
 
 * **dokument** - najlepiej dowód osobisty, może być też paszport
-* **wniosek** - przykładowy wzór znajdziesz poniżej, ale możesz też napisać swój własny, pod warunkiem, że zawszesz w nim wszystkie wymagane dane. Niektóre urzędzy mają też wzór na stronie Internetowej, ale zdarza się to zaskakująco rzadko.
-* **załączniki** - dowody, opinie, oświadczenia rodziny
+* **wniosek** - przykładowy wzór znajdziesz poniżej, ale możesz też napisać swój własny, pod warunkiem, że zawrzesz w nim wszystkie wymagane dane. Niektóre urzędy mają też wzór na stronie Internetowej, ale zdarza się to zaskakująco rzadko.
+* **załączniki** - dowody, opinie, oświadczenia rodziny, w przypadku osób niepełnoletnich poświadczona notarialnie zgoda rodzica, jeśli któryś nie będzie obecny przy składaniu wniosku 
 
 Nie potrzebujesz natomiast aktu urodzenia - w dowolnym urzędzie uzyskają do niego dostęp zdalnie, za pomocą swojego systemu cyfrowego.
 
@@ -305,7 +309,7 @@ Podobnie sytuacja wygląda z wieloma innymi systemami elektronicznymi, np. USOS.
 :::info
 ## Uznanie autorstwa
 
-Tekst zawiera znaczące zapożyczenia z materiałów autorstwa Reza Sałajczyk i Jerusza Krygier dostępnych tutaj: [poradnik](https://docs.google.com/document/d/1xkX0LE1EiwGqRyVFsMImmY2XnsO7f8jFUjUbUC77r6Y/), [arkusz](https://docs.google.com/spreadsheets/d/1aP8id2ZpGUZ8RqcCjdBgM8Kk8zSgi3V6jSwcD7tNdnQ/) a także pracy pt. *Zmiana imienia i nazwiska w trybie administracyjnoprawnym* autorstwa: Mateusz Tubisz, Uniwersytet Warmińsko-Mazurski w Olsztynie, oraz na prywatnych doświadczeniach innych osób.
+Tekst zawiera znaczące zapożyczenia z materiałów autorstwa Reza Sałajczyk i Jerusza Krygier dostępnych tutaj: [poradnik](https://docs.google.com/document/d/1xkX0LE1EiwGqRyVFsMImmY2XnsO7f8jFUjUbUC77r6Y/), [arkusz](https://docs.google.com/spreadsheets/d/1aP8id2ZpGUZ8RqcCjdBgM8Kk8zSgi3V6jSwcD7tNdnQ/); a także pracy pt. *Zmiana imienia i nazwiska w trybie administracyjnoprawnym* autorstwa: Mateusz Tubisz, Uniwersytet Warmińsko-Mazurski w Olsztynie, oraz z prywatnych doświadczeń innych osób. Opracowanie: Tash.
 :::
 
 :::warning
@@ -319,7 +323,8 @@ Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 
 **Do uzupełnienia są m.in.:**
 
-* Informacje o zmianie imienia przez osoby niepełnoletnie - procedura i potrzebne dokumenty
+* Szczegółowe informacje o zmianie imienia przez osoby niepełnoletnie
+* Przykłady dobrych/złych urzędów.
 
 Komentarze i propozycje zmian możesz zostawiać [tutaj](hhttps://hackmd.io/@tranzycja/Sy9_lbX5w).
 
