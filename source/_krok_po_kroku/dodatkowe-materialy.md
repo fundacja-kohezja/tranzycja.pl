@@ -9,6 +9,6 @@ W tym dziale znajdziesz publikacje i ulotki przygotowane przez inne grupy i orga
 
 :::spoiler Od A do Z o LGBTQIAP
 
-![/media/docs/faq/20_updated_LGBT_book_OdAdoZoLGBTQIAP.jpg](/media/docs/faq/20_updated_LGBT_book_OdAdoZoLGBTQIAP.pdf)
+[![Od A do Z o LGBTQIAP](/media/docs/faq/20_updated_LGBT_book_OdAdoZoLGBTQIAP.pdf)](/media/docs/faq/20_updated_LGBT_book_OdAdoZoLGBTQIAP.pdf)
 
 :::
