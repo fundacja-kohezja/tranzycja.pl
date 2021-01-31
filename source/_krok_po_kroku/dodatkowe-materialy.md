@@ -58,13 +58,22 @@ Rzecznik Praw Obywatelskich, 2020
 
 :::
 
-:::spoiler Prace Naukowe
+:::spoiler Tożsamość płciowa a prawa człowieka
 
-* [Zmiana imienia i nazwiska w trybie administracyjnoprawnym](/media/docs/prawo/09_Tubisz_M_Zmiana_imienia_i_nazwiska_w_trybie_administracyjnoprawnym.pdf)
-* [Prawne aspekty zmiany płci – uwagi na gruncie prawa polskiego oraz wybranych krajów europejskich](/media/docs/prawo/09_Tubisz_M_Zmiana_imienia_i_nazwiska_w_trybie_administracyjnoprawnym.pdf)
-* [Analiza procedury zmiany płci metrykalnej w Polsce](/media/docs/prawo/michalik_kiedy_cialo_jest_wiezieniem_a_panstwo_straznikiem_2012.pdf)
-* [Charakter prawny powództwa o ustalenie płci](/media/docs/prawo/powodztwo_o_zmiane_plci.pdf)
-* [Wątpliwości konstytucyjne w zakresie sądowej procedury zmiany płci](/media/docs/prawo/sadowa_procedura_zmiany_plci.pdf)
+Dokument tematyczny
+Komisarz Praw Człowieka Rady Europy, 2011 [Źródło](http://transfuzja.org/pl/artykuly/publikacje/dokument_tematyczny_komisarza_praw_czlowieka_rady_europy_tozsamosc_plciowa_a.htm)
+
+[![Tożsamość płciowa a prawa człowieka](/media/docs/prawo/hberg_pol.jpg)](/hberg_pol.pdf)
+
+:::
+
+:::spoiler Prace naukowe
+
+* Zmiana imienia i nazwiska w trybie administracyjnoprawnym, Mateusz Tubisz, 2017 [PDF](/media/docs/prawo/09_Tubisz_M_Zmiana_imienia_i_nazwiska_w_trybie_administracyjnoprawnym.pdf)
+* Prawne aspekty zmiany płci – uwagi na gruncie prawa polskiego oraz wybranych krajów europejskich, Katarzyna Urbanowicz, Magdalena Bętkowska [PDF](/media/docs/prawo/09_Tubisz_M_Zmiana_imienia_i_nazwiska_w_trybie_administracyjnoprawnym.pdf)
+* Kiedy ciało jest więzieniem a państwo strażnikiem. Analiza procedury zmiany płci metrykalnej w Polsce ze szczególnym uwzględnieniem kryterium ustalenia płci, Jakub Michalik [PDF](/media/docs/prawo/michalik_kiedy_cialo_jest_wiezieniem_a_panstwo_straznikiem_2012.pdf)
+* Charakter prawny powództwa o zmianę płci. Dylematy na gruncie prawa procesowego cywilnego, Łukasz Błaszczak [PDF](/media/docs/prawo/powodztwo_o_zmiane_plci.pdf)
+* Wątpliwości konstytucyjne w zakresie sądowej procedury zmiany płci, Jacek Karakulski, Justyna Pyłko [PDF](/media/docs/prawo/sadowa_procedura_zmiany_plci.pdf)
 
 :::
 
