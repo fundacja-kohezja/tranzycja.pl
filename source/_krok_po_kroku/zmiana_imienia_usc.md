@@ -255,7 +255,7 @@ Masz informacje o innym urzędzie? [Zostaw komentarz](https://hackmd.io/@tranzyc
 
 * **dokument** - najlepiej dowód osobisty, może być też paszport
 * **wniosek** - przykładowy wzór znajdziesz poniżej, ale możesz też napisać swój własny, pod warunkiem, że zawrzesz w nim wszystkie wymagane dane. Niektóre urzędy mają też wzór na stronie Internetowej, ale zdarza się to zaskakująco rzadko.
-* **załączniki** - dowody, opinie, oświadczenia rodziny, w przypadku osób niepełnoletnich poświadczona notarialnie zgoda rodzica, jeśli któryś nie będzie obecny przy składaniu wniosku 
+* **załączniki** - dowody, opinie, oświadczenia rodziny, w przypadku osób niepełnoletnich poświadczona notarialnie zgoda rodzica, jeśli któryś nie będzie obecny przy składaniu wniosku
 
 Nie potrzebujesz natomiast aktu urodzenia - w dowolnym urzędzie uzyskają do niego dostęp zdalnie, za pomocą swojego systemu cyfrowego.
 
@@ -326,7 +326,7 @@ Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 * Szczegółowe informacje o zmianie imienia przez osoby niepełnoletnie
 * Przykłady dobrych/złych urzędów.
 
-Komentarze i propozycje zmian możesz zostawiać [tutaj](hhttps://hackmd.io/@tranzycja/Sy9_lbX5w).
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/HJ5bPZVeO).
 
 :::
 
