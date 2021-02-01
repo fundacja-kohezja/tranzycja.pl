@@ -19,7 +19,7 @@ Fundacja Humanity in Action Poland - 2019
 
 :::spoiler Komiks o transpłciowości od osób transpłciowych
 
-Fundacja Trans-Fuzja 2019
+Fundacja Trans-Fuzja 2019, [Źródło](http://transfuzja.org/pl/artykuly/publikacje/wydalismy_komiks_o_transplciowosci.htm)
 
 [![Komiks o transpłciowości od osób transpłciowych](/media/docs/faq/komix_plmin.jpg)](/media/docs/faq/komix_plmin.pdf)
 
@@ -32,11 +32,11 @@ Fundacja Trans-Fuzja 2019
 Odpowiedzi na pytania, na które nie masz już siły odpowiadać.
 Koło Naukowe MyGender, 2020
 
-[![Komiks o transpłciowości od osób transpłciowych](/media/docs/faq/O%20rety!%20Cishety!.jpg)](/media/docs/faq/O%20rety!%20Cishety!.pdf)
+[![O rety! Cishety!](/media/docs/faq/O%20rety!%20Cishety!.jpg)](/media/docs/faq/O%20rety!%20Cishety!.pdf)
 
 :::
 
-## Standardy opieki zdrowotnej
+## Zdrowie
 
 :::spoiler Standardy opieki zdrowotnej dla osób transseksualnych, transpłciowych i różnorodnych płciowo
 
@@ -61,7 +61,7 @@ Rzecznik Praw Obywatelskich, 2020
 :::spoiler Tożsamość płciowa a prawa człowieka
 
 Dokument tematyczny
-Komisarz Praw Człowieka Rady Europy, 2011 [Źródło](http://transfuzja.org/pl/artykuly/publikacje/dokument_tematyczny_komisarza_praw_czlowieka_rady_europy_tozsamosc_plciowa_a.htm)
+Komisarz Praw Człowieka Rady Europy, 2011, [Źródło](http://transfuzja.org/pl/artykuly/publikacje/dokument_tematyczny_komisarza_praw_czlowieka_rady_europy_tozsamosc_plciowa_a.htm)
 
 [![Tożsamość płciowa a prawa człowieka](/media/docs/prawo/hberg_pol.jpg)](/hberg_pol.pdf)
 
@@ -91,7 +91,7 @@ Fundacja Trans-Fuzja, 2019
 :::spoiler Rodzina przede wszystkim - trans rodzicielstwo w Polsce
 
 Raport z badań
-Fundacja Trans-Fuzja, 2019
+Fundacja Trans-Fuzja, 2019, [Źródło](http://transfuzja.org/pl/artykuly/publikacje/raport_z_badania_rodzina_przede_wszystkim_trans_rodzicielstwo_w_polsce.htm)
 
 [![TransParent w akcji](/media/docs/rodzina/raport_rodzina.jpg)](/media/docs/rodzina/raport_rodzina.pdf)
 
