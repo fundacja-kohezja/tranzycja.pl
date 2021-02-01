@@ -5,9 +5,12 @@ opisWitryny: Repozytorium wiedzy o transpłciowości i tranzycji
 
 # opisy sekcji na stronie głównej
 opisSekcjiKrokPoKroku: Jak przejść przez proces tranzycji – krok po kroku
-opisSekcjiPoradniki: Jak radzić sobie w szkole, pracy i innych codziennych sytuacjach
+opisSekcjiPublikacje: Jak radzić sobie w szkole, pracy i innych codziennych sytuacjach
 opisSekcjiAktualnosci: Bieżące informacje ze społeczności
+<<<<<<< HEAD
 opisSekcjiFAQ:
 opisSekcjiMaterialy: Zbiór wartościowych publikacji do pobrania
+=======
+>>>>>>> 567baa60f400d0b23c9f12ad1d3b4e2e5aa593ab
 
 ---

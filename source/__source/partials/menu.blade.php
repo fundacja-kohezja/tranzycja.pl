@@ -42,7 +42,7 @@
     
       <div class="absolute inset-y-0 right-0 flex items-center flex-1 justify-end text-right">
           @if ($page->docsearchApiKey && $page->docsearchIndexName)
-              @include('templates.nav.search-input')
+              @include('__source.partials.search-input')
           @endif
           <div class="relative inline-block text-left hover-trigger">
             <button type="button" class="inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-purple-800 dark:hover:text-indigo-300 px-3 py-2 rounded-md text-sm font-medium border-0" id="options-menu" aria-haspopup="true">

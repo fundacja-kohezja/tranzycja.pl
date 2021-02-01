@@ -7,6 +7,7 @@ html {
     }
 }
 body {
+    font-size: 15px;
     @media (min-width: 640px) {
         font-size: 17px;
     }
@@ -22,7 +23,7 @@ a {
     &:hover {
         @apply .text-indigo-800;
     }
-    .dark & {
+    @include dark {
         @apply .text-blue-400;
         &:hover {
             @apply .text-indigo-300;
@@ -39,7 +40,7 @@ blockquote {
     @apply .pl-6;
     @apply .text-gray-800;
     @apply .text-lg;
-    .dark & {
+    @include dark {
         @apply .border-indigo-600;
         @apply .text-gray-200;
     }
@@ -83,7 +84,7 @@ h6 {
     b, strong {
         @apply .text-pink-600;
     }
-    .dark & {
+    @include dark {
 
         @apply .text-gray-100;
 
@@ -97,7 +98,7 @@ h1 {
     @apply .font-extrabold;
     @apply .text-4xl;
     @apply .text-pink-600;
-    .dark & {
+    @include dark {
         @apply .text-purple-400;
     }
 }
@@ -106,7 +107,7 @@ h2 {
     @apply .font-extrabold;
     @apply .text-3xl;
     @apply .text-indigo-800;
-    .dark & {
+    @include dark {
         @apply .text-indigo-200;
     }
 }
@@ -142,7 +143,7 @@ h6 {
 hr {
     @apply .border-b;
     @apply .border-gray-300;
-    .dark & {
+    @include dark {
         @apply .border-gray-800;
     }
     @apply .my-8;
@@ -180,7 +181,7 @@ p {
 pre {
     @apply .bg-gray-200;
 
-    .dark & {
+    @include dark {
         @apply .bg-gray-800;
     }
     @apply .leading-loose;
@@ -195,6 +196,42 @@ pre {
         @apply .bg-transparent;
         @apply .block;
         @apply .p-0;
+    }
+}
+
+.table_container {
+    @apply .overflow-auto;
+    @apply .-mx-1;
+    @apply .px-1;
+}
+
+table {
+    @apply .bg-gray-100;
+    @apply .shadow;
+    @apply .overflow-hidden;
+    @apply .rounded-lg;
+    @apply .px-4;
+    @apply .py-5;
+    @apply .my-4;
+    @apply .min-w-full;
+    @include dark {
+        @apply .bg-gray-800;
+        @apply .text-gray-200;
+    }
+    td {
+        @apply .text-sm;
+        @apply .border-t;
+    }
+    th, td {
+        @apply .py-2;
+        @apply .px-4;
+        @apply .border-gray-300;
+        @include dark {
+            @apply .border-gray-800;
+        }
+        &:not(:first-child){
+            @apply .border-l;
+        }
     }
 }
 

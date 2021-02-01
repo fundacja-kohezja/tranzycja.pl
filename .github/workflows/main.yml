@@ -6,7 +6,7 @@ name: UzupelnianieDat
 on:
   push:
     paths: 
-      - source/_poradniki/*
+      - source/_publikacje/*
       - source/_aktualnosci/*
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel

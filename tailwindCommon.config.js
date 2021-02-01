@@ -16,7 +16,10 @@ module.exports = {
         /algolia/,
         'py-1',
         'lg:py-0',
-        'mt-4'
+        'mt-4',
+        'lg:my-4',
+        'mt-0',
+        'sm:text-xs'
       ],
     },
   },
@@ -31,7 +34,7 @@ module.exports = {
         },
         pink: {
           '600': '#d9a8b5',
-          '700': '#d9a8b5'
+          '700': '#cc99a6'
         }
       },
       fontFamily: {
@@ -100,6 +103,5 @@ module.exports = {
   ],
   experimental: {
     darkModeVariant: true
-  },
-  dark: 'class'
+  }
 }

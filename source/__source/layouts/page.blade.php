@@ -1,4 +1,4 @@
-@extends('templates.master')
+@extends('__source.layouts.master')
 
 @section('body')
 <div class="container max-w-6xl mx-auto px-6 py-4">

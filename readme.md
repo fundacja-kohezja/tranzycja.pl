@@ -10,7 +10,6 @@ Folder **\_ogolne** zawiera treść występującą na stronie głównej i w ró
 
 Natomiast pliki w folderach **\_aktualnosci**, **\_strony**, **\_publikacje** i **\_krok_po_kroku** można dowolnie dodawać, edytować i usuwać. Odpowiadają one  treściom widocznym na stronie w odpowiednich sekcjach.
 Pliki z folderu **\_strony**, są podstronami, których nie ma nigdzie wylistowanych, ale można np. wstawić gdzieś do nich link.
-Jest jeszcze folder **\_media** - przewidziałem go do wrzucania obrazków, które potem można wstawić gdzieś do treści.
 
 ## Format plików, z których budowana jest treść
 
