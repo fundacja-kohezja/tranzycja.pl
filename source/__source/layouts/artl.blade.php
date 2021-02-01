@@ -1,4 +1,4 @@
-@extends('templates.master')
+@extends('__source.layouts.master')
 
 @section('body')
 <div class="container max-w-6xl mx-auto px-6 py-4">
@@ -8,14 +8,13 @@
         </svg>
         <span class="align-middle">{{ Jenssegers\Date\Date::create($page->data)->format('j M Y') }}</span>
     </div>
-    <div class="text-indigo-700 dark:text-indigo-300 text-xl">
+    <div class="text-indigo-700 text-xl dark:text-indigo-300">
         <nav>
-            <a href="/aktualnosci" class="border-b-0">
+            <a href="/publikacje" class="border-b-0">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block mb-2 h-6">
-                    <path fill-rule="evenodd" d="M2 5a2 2 0 012-2h8a2 2 0 012 2v10a2 2 0 002 2H4a2 2 0 01-2-2V5zm3 1h6v4H5V6zm6 6H5v2h6v-2z" clip-rule="evenodd" />
-                    <path d="M15 7h1a2 2 0 012 2v5.5a1.5 1.5 0 01-3 0V7z" />
+                    <path d="M14.62,2.74A5.64,5.64,0,0,0,10,5.14a5.61,5.61,0,0,0-8.57-.75V17.52A5.64,5.64,0,0,1,10,18.3a5.64,5.64,0,0,1,8.57-.78V4.39A5.61,5.61,0,0,0,14.62,2.74ZM4.44,13v-7A2.32,2.32,0,0,1,5,5.59,3.9,3.9,0,0,1,9,6.76v6.93a8.68,8.68,0,0,0-3.61-.79C5.07,12.9,4.75,12.92,4.44,13Zm11.14,0c-.31,0-.63,0-1,0a8.62,8.62,0,0,0-3.62.8V6.78a3.89,3.89,0,0,1,4-1.19,2.32,2.32,0,0,1,.6.34Z" />
                 </svg>
-                Aktualności
+                Publikacje
             </a>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block transform -rotate-90 -scale-y-100 mt-1 h-5">
                 <path fill-rule="evenodd" d="M7.707 3.293a1 1 0 010 1.414L5.414 7H11a7 7 0 017 7v2a1 1 0 11-2 0v-2a5 5 0 00-5-5H5.414l2.293 2.293a1 1 0 11-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
@@ -23,9 +22,13 @@
         </nav>
     </div>
     <main class="flex flex-col lg:flex-row clear-both">
-        <article class="DocSearch-content w-full break-words pb-16">
+        <article class="long-article title-wide DocSearch-content w-full lg:w-3/5 break-words pb-16">
             @yield('content')
         </article>
     </main>
 </div>
 @endsection
+
+@push('scripts')
+    <script src="{{ mix('js/section-highlight.js', 'assets/build') }}"></script>
+@endpush

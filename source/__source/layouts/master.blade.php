@@ -10,7 +10,7 @@
         <meta property="og:title" content="{{ $page->title() ?  $page->title() . ' | ' : '' }}{{ $page->nazwaWitryny }}"/>
         <meta property="og:description" content="{{ $page->description ?? $page->opisWitryny }}"/>
         <meta property="og:url" content="{{ $page->getUrl() }}"/>
-        <meta property="og:image" content="/dist/img/logo.png"/>
+        <meta property="og:image" content="/assets/img/logo.png"/>
         <meta property="og:type" content="website"/>
 
         <meta name="twitter:image:alt" content="{{ $page->nazwaWitryny }}">
@@ -27,18 +27,18 @@
 
         @stack('meta')
 
-        <link id="stylesheet_link" rel="stylesheet" href="{{ mix('css/main.css', 'dist/build') }}" data-mainsheeturl="{{ mix('css/main.css', 'dist/build') }}" data-manualmodesheeturl="{{ mix('css/manual_mode.css', 'dist/build') }}">
+        <link id="stylesheet_link" rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}" data-mainsheeturl="{{ mix('css/main.css', 'assets/build') }}" data-manualmodesheeturl="{{ mix('css/manual_mode.css', 'assets/build') }}">
 
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
         @endif
 
         <script>
-            if (localStorage.theme === 'dark' || localStorage.theme === 'light') {
+            if (localStorage.theme == 'dark' || localStorage.theme == 'light') {
                 el = document.getElementById('stylesheet_link')
                 el.href = el.dataset.manualmodesheeturl
             }
-            if (localStorage.theme === 'dark') {
+            if (localStorage.theme == 'dark') {
                 document.documentElement.classList.add('dark')
             }
         </script>
@@ -46,14 +46,14 @@
 
     <body style="visibility:hidden" tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
         <header class="shadow bg-gray-100 mb-8 dark:bg-gray-800 z-10" role="banner">
-            @include('templates.nav.menu', ['items' => $page->mainNav])
+            @include('__source.partials.menu', ['items' => $page->mainNav])
         </header>
 
         <div class="w-full flex-auto">
             @yield('body')
         </div>
         
-        <script src="{{ mix('js/main.js', 'dist/build') }}"></script>
+        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
         @stack('scripts')
 
         <footer class="bg-gray-100 shadow dark:bg-gray-900 text-center text-sm mt-12 p-4" role="contentinfo">

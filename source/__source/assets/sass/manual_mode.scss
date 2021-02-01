@@ -1,26 +1,26 @@
 @tailwind base;
 @tailwind components;
 
-// Code syntax highlighting,
-// powered by https://highlightjs.org
-@import '~highlight.js/styles/a11y-light.css';
-
-
 @font-face {
     font-family: 'Inter';
     font-weight: 100 900;
     font-style: normal;
     font-named-instance: 'Regular';
-    src: url("/dist/fonts/Inter-roman.var.woff2?v=3.15") format("woff2");
+    src: url("/assets/fonts/Inter-roman.var.woff2?v=3.15") format("woff2");
 }
 @font-face {
     font-family: 'Inter';
     font-weight: 100 900;
     font-style: italic;
     font-named-instance: 'Italic';
-    src: url("/dist/fonts/Inter-italic.var.woff2?v=3.15") format("woff2");
+    src: url("/assets/fonts/Inter-italic.var.woff2?v=3.15") format("woff2");
 }
-  
+
+@mixin dark {
+    .dark & {
+        @content;
+    }
+}
 
 @import 'base';
 @import 'navigation';

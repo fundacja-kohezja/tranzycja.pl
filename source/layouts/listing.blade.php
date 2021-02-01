@@ -1,4 +1,7 @@
-@extends('templates.master')
+---
+permalink: krok-po-kroku/index.html
+---
+@extends('__source.layouts.master')
 
 @section('body')
 <main class="container max-w-6xl mx-auto px-6 py-10 md:py-12">

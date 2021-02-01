@@ -7,7 +7,7 @@ use TightenCo\Jigsaw\File\Filesystem;
 
 $files = array_merge(
     (new Filesystem)->files(__DIR__ . '/source/_aktualnosci'),
-    (new Filesystem)->files(__DIR__ . '/source/_poradniki')
+    (new Filesystem)->files(__DIR__ . '/source/_publikacje')
 );
 
 foreach ($files as $file) {

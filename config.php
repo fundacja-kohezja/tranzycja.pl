@@ -27,7 +27,7 @@ return (array)$yaml_config + [
                 return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
             }
         ],
-        'poradniki' => [
+        'publikacje' => [
             'sort' => '-data',
             'title' => function ($page) {
                 $tresc = $page->getContent();
@@ -71,8 +71,8 @@ return (array)$yaml_config + [
             'path' => '/krok-po-kroku',
         ],
         (object)[
-            'title' => 'Poradniki',
-            'path' => '/poradniki',
+            'title' => 'Publikacje',
+            'path' => '/publikacje',
         ],
         (object)[
             'title' => 'Aktualności',
@@ -92,14 +92,7 @@ return (array)$yaml_config + [
 
     'title' => fn() => null,
     'isActive' => function ($page, $path) {
-        return Str::endsWith(trimPath($page->getPath()), trimPath($path));
-    },
-    'isActiveParent' => function ($page, $menuItem) {
-        if (is_object($menuItem) && $menuItem->children) {
-            return $menuItem->children->contains(function ($child) use ($page) {
-                return trimPath($page->getPath()) == trimPath($child);
-            });
-        }
+        return Str::contains(trimPath($page->permalink), trimPath($path));
     },
     'url' => function ($page, $path) {
         return Str::startsWith($path, 'http') ? $path : '/' . trimPath($path);

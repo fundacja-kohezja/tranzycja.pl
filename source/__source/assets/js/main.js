@@ -17,3 +17,7 @@ var toc = document.getElementById('toc')
 if (toc && window.matchMedia('(min-width: 1024px)').matches) {
     toc.open = true
 }
+
+document.querySelectorAll('input[type="checkbox"]').forEach(function(el){
+    if (localStorage[el.value]) el.checked = true
+})
