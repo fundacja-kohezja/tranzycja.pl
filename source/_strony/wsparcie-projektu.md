@@ -22,6 +22,8 @@ Kod strony rozwijany jest na licencji GPLv3 - znajdziesz go w [repozytorium proj
 
 :::
 
+Projekt realizowany jest przy wsparciu [![Stowarzyszenia Grupa Stonewall](/media/img/logo/STOn_logo_transparent.svg){.h-8.inline}](https://grupa-stonewall.pl){.border-b-0}
+
 ## Kontakt
 
 Masz pytanie czy pomysły którymi chcesz się podzielić?
