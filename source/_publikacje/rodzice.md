@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD:source/_publikacje/rodzice.md
 data: '2021-02-01 20:51:12'
+=======
+data: '2021-01-29 21:39:12'
+>>>>>>> 7cea77425f3d4dc20d3afb554dace011cbcad4de:source/_poradniki/rodzice.md
 ---
 # Transpłciowość w rodzinie
 
