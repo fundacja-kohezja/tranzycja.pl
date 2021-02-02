@@ -104,6 +104,6 @@ Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 * Szczegółowe informacje o zastrzykach - co i gdzie kupić, jak zrobić itd.
 * Materiały wideo dot. terapii transżeńskiej
 
-Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/SkOAk-1ed).
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/H1oac8yeO).
 
 :::
