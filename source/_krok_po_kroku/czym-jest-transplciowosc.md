@@ -9,8 +9,7 @@ Według opisu charakteryzuje się ona „wyraźną i trwałą niezgodnością mi
 
 ## Czy ja jestem trans?
 
-Jeśli zadajesz sobie to pytanie, to istnieje możliwość, że tak właśnie jest. Choć wiele świeżowyoutowanych osób trans to dziwi, osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) nie kwestionują regularnie swojej płci. Dla wielu osób mających wątpliwości pomocne okazuje się zanurzenie się w społeczności i wymiana doświadczeń. Nawet jeśli nie masz pewności czy jesteś trans, jako osoba kwestionująca swoją płeć jesteś równie mile widziane na grupach wsparcia. Poznając doświadczenia innych osób łatwiej będzie Ci się zorientować czy czujesz to samo. Dla wielu osób też pomocne są memy.
-sytuację.
+Jeśli zadajesz sobie to pytanie, to istnieje możliwość, że tak właśnie jest. Choć wiele świeżowyoutowanych osób trans to dziwi, osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) nie kwestionują regularnie swojej płci. Dla wielu osób mających wątpliwości pomocne bywa zanurzenie się w społeczności i wymiana doświadczeniami. Nawet jeśli nie masz pewności czy jesteś trans, jako osoba kwestionująca swoją płeć jesteś równie mile widziane na grupach wsparcia. Poznając doświadczenia innych osób łatwiej będzie Ci się zorientować czy czujesz to samo co one. Dla wielu osób pomocne też są internetowe społeczności i memy.
 
 ## Co to jest tranzycja?
 
