@@ -38,7 +38,9 @@ Za: [Stanowisko PTS ws. sytuajci społecznej, zdrowotnej i prawnej osób transp�
 
 Nauczyciele bardzo często nie chcą się posługiwać poprawnym imieniem czy zaimkami z którymi uczeń czuje się komfortowo, złośliwie podkreślają deadname, a bywa też, że wyświetlają e-dziennik z danymi ucznia na projektorze, aby go jeszcze bardziej upokorzyć. Tego typu skrajne sytuacje łamią oczywiście przepisy RODO i dyrektor szkoły ma obowiązek interweniować. Jeśli masz podejrzenia, że pracownik szkoły niepoprawnie obchodzi się z Twoimi danymi osobowymi, możesz zapoznać się a następnie odwołać do [poradnika na temat ochrony danych osobowych w szkole](https://www.gov.pl/web/edukacja/ochrona-danych-osobowych-w-szkole--poradnik-uodo-i-men).
 
-:::info "Deadname"
+:::info
+
+#### "Deadname"
 
 Jest to imię nadane przy urodzeniu, podczas gdy osoba posługuje się innym (niezależnie od tego, czy zmieniła je prawnie czy nie). Dla wielu osób transpłciowych ciągła konfrontacja z nim jest trudna, a bywa i traumatyczna.
 
