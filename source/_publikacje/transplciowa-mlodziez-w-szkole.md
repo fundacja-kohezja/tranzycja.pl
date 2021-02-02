@@ -173,7 +173,7 @@ Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 * Znasz dodatkowe materiały i źródła, najlepiej po polsku?
 * Jakiego polskiego określenia używasz na deadname?
 
-Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/r1Yt95pJd).
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/Hybqz17uv).
 
 :::
 
