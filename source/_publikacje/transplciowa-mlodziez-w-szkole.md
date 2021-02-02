@@ -11,7 +11,9 @@ Transpłciowa młodzież w środowisku szkolnym potrzebuje aktywnych sojusznikó
 
 Dlatego właśnie tak ważne jest, żeby dzieci wiedziały, że jesteś ich sojuszniczką, osobą do której mogą przyjść i porozmawiać gdy mają problem, gdy czują się z czymś niekomfortowo lub też inny nauczyciel zwyczajnie je prześladuje. Żeby wiedziały, że staniesz w ich obronie, a nie po stronie nauczyciela, dorosłego. Statystyki są nieubłagane - w całym społeczeństwie, w tym wokół Ciebie są osoby LGBT+. W miarę postępowania otwartość i bezpieczeństwa społeczeństwa wydaje się, że takich osób jest więcej, do tego stopnia, że niektóre osoby o prawicowych poglądach snują nie mające nic wspólnego z nauką wizje o "tęczowej zarazie" - w dosłownym tego rozumieniu. Rzeczywistość jest jednak dużo prostsza:
 
-:::warning Nie masz w swoim otoczeniu osób LGBT+?
+:::warning
+
+#### Nie masz w swoim otoczeniu osób LGBT+?
 
 Z badań wynika, że w każdym społeczeństwie średnio od 5 do 10 procent populacji to osoby LGBT+, a więc w Polsce jest ok. 2 milionów gejów, lesbijek, osób bi- i transpłciowych. Jeśli nie widzisz ich w swoim otoczeniu, może to oznaczać, że z jakiegoś powodu nie czują się przy Tobie bezpiecznie lub nie wiedzą, że mogą być sobą. [Czytaj więcej](https://mnw.org.pl/orientujsie/).
 
@@ -23,7 +25,9 @@ Warto nad tym popracować, bo bez tej atmosfery bezpieczeństwa i zaufania wokó
 ## Słowo potężniejsze od miecza
 Najczęstsze szkolne problemy zgłaszane przez transpłciowe dzieci i młodzież są natury językowej. To właśnie tym narzędziem są najsilniej krzywdzone i na tej płaszczyźnie potrzebują najwięcej wsparcia.
 
-:::info Niebinarny język i neutratywy
+:::info
+
+#### Niebinarny język i neutratywy
 
 Jeśli nie wiesz jak funkcjonuje język osób niebinarnych, poratuje Cię projekt [zaimki.pl](https://zaimki.pl/)
 
@@ -81,7 +85,9 @@ Pamiętaj, że w momencie generowania trwałych dokumentów, w e-dzienniku musz�
 
 Niezależnie od tego jakie dane zapisane są w dzienniku, nie musimy przecież ich wyczytywać na głos. Nie jest niczym zaskakującym, gdy nauczyciele zwracają się do uczniów zdrobnieniem imienia czy wręcz pseudonimem, czemu więc robić wyjątek i upierać się przy pełnych formalnościach w przypadku uczniów transpłciowych? Nader często niestety zdarzają się nauczyciele, którzy twierdzą, że "nie mogą" zwracać się do uczniów zaimkami o które są proszeni. Oczywiście nie jest to prawdą. Warto w takiej sytuacji powiedzieć "sprawdzam" i poprosić o uzasadnienie wraz z wskazaniem podstawy prawnej.
 
-:::danger Nie ma prawa zabraniającego uprzejmości
+:::danger
+
+#### Nie ma prawa zabraniającego uprzejmości
 
 Nie istnieją żadne przepisy określające jakimi zaimkami zwracać się do innych osób - zależy to jedynie od Twojego szacunku i dobrej woli. Zwroty **grzecznościowe** np."Pan/Pani" są z założenia wyrazem uprzejmości, dlatego upieranie się przy stosowaniu ich w sposób niekomfortowy dla danej osoby stanowi ich wypaczenie.
 
@@ -89,7 +95,9 @@ Nie istnieją żadne przepisy określające jakimi zaimkami zwracać się do inn
 
 Dlatego też wymagania od uczniów dodatkowych zaświadczeń np. od lekarza prowadzącego, psychologa czy terapeuty, tylko po to, aby zgodzić się na posługiwanie się językiem z którym będzie czuć się komfortowo, jest zbędną formalizacją i medykalizacją zwykłej ludzkiej uprzejmości. Niemniej jednak, niektórych upartych nauczycieli udaje się za pomocą takiego zaświadczenia przekonać, jeśli więc inne metody zawiodły - warto spróbować.
 
-:::info Pismo do szkoły
+:::info
+
+#### Pismo do szkoły
 
 Niektóre osoby próbują walczyć z prześladującymi ich nauczycielami za pomocą oficjalnego pisma do dyrekcji szkoły. Przykład takiego pisma znajdziesz [tutaj](https://docs.google.com/document/d/1yRanhZei8W71Wt6bPuUdF852s142AX1PYVqewyOoG78/edit?usp=sharing).
 
@@ -97,7 +105,9 @@ Niektóre osoby próbują walczyć z prześladującymi ich nauczycielami za pomo
 
 W skrajnej sytuacji można również spróbować zwrócić się do publicznej poradni psychologiczno-pedagogicznej właściwej do rejonu szkoły z prośbą o wydanie orzeczenia o potrzebie kształcenia specjalnego. Dyrektor szkoły wraz z nauczycielami ma wtedy obowiązek dostosować sposób organizacji zajęć szkolnych do wskazań zawartych w tym dokumencie oraz potrzeb ucznia.[^4] W razie nie wywiązywania się z tego obowiązku, następnym właściwym krokiem byłaby już interwencja właściwego terytorialnie kuratora oświaty. Niestety trudno przewidzieć, czy lokalna poradnia psychologiczno-pedagogiczna oraz kurator posiadają aktualną wiedzę na temat potrzeb transpłciowych uczniów i rzeczywiście staną po stronie ucznia.
 
-:::info Ochrona prawna poczucia przynależności do płci
+:::info
+
+#### Ochrona prawna poczucia przynależności do płci
 
 Niezależnie od innych przepisów, ochronie prawnej podlegają dobra osobiste, m.in. nazwisko i pseudonim, cześć i godność[^5] oraz poczucie przynależności do określonej płci[^6].
 
@@ -109,7 +119,9 @@ Bardzo ciężko jest wygrać w pojedynkę ze złośliwym nauczycielem. Jeśli kl
 
 Trans uczniowie mogą czuć się niekomfortowo z przebieraniem się na WF z innymi uczniami nadej płci lub w ogóle przy innych osobach. Może to wynikać z dysforii płciowej, rozpoczętej już tranzycji lub też zwyczajnie poczucia inności. Czasem tego typu dyskomfort może też być efektem gnębienia przez innych uczniów.
 
-:::info Dysforia płciowa
+:::info
+
+#### Dysforia płciowa
 
 Jest to cierpienie odczuwane przez daną osobę z powodu niedopasowania jej tożsamości płciowej do płci przypisanej w chwili urodzenia.
 
@@ -129,7 +141,9 @@ Jeśli społeczeństwo nas wymazuje, ignorując osoby takie jak my na przestrzen
 
 Dlatego tak ważne jest, żeby uczniowie mieli poczucie, że szkoła jest miejscem, gdzie bezpiecznie mogą być sobą. Stąd inicjatywy takie jak Tęczowy Piątek czy warsztaty antydyskryminacyjne dla nauczycieli i uczniów. Mało co natomiast da uczniom większe poczucie pewności siebie niż uwzględnienie postaci queerowych w ramach prowadzonego przez siebie przedmiotu. Jasne, warsztaty antydyskryminacyjne mogą poprawić sytuację ucznia i sprawić, że poczuje się bezpieczniej, ale jeśli w trakcie zwykłej, codzinnej lekcji natknie się na postać "taką jak ja" potraktowaną jak każda inna osoba, pomoże mu się również czuć normalną osobą. To jest coś, czego nie dadzą żadne warsztaty. Może warto więc np. przy okazji Pułaskiego na historii wspomnieć, że najprawdopodobniej był osobą interpłciową, a na polskim poczytać poezję Piotra Własta, transpłciowego pisarza z okresu Młodej Polski? Osoby LGBT+ istniały od zawsze, nawet jeśli nie istniały na nie określenia. Bez problemu znajdziesz je w kontekście każdego przedmiotu, choć czasem trzeba się trochę postarać i przedzierać między wierszami cenzury.
 
-:::info Przeprowadź zajęcia o ewolucji języka
+:::info
+
+#### Przeprowadź zajęcia o ewolucji języka
 
 Jeśli chcesz rozbudzić w uczniach zainteresowanie językiem polskim, spróbuj odejść choć na jedną lekcję od sztywnych reguł i z pomocą [kategorii Literatura strony zaimki.pl](https://zaimki.pl/literatura) porozmawiać o ewolucji języka i neutratywach. Może uczniowie spróbują wymyślić własne?
 
