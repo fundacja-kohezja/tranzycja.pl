@@ -9,7 +9,7 @@ Celem tej strony jest zbieranie wszelkiej wiedzy związanej z transpłciowości�
 ## Na ten moment, znajdziesz tutaj:
 
 * Sekcję [o tranzycji krok po kroku](/krok-po-kroku) - na start zawiera ogólny opis procesu tranzycji oraz kilka pierwszych szczegółowych tekstów.
-* Sekcję [poradników](/poradniki) - będą do niej trafiać wszelkie teksty związane z różnymi codziennymi sytuacjami osób trans.
+* Sekcję [poradników](/publikacje) - będą do niej trafiać wszelkie teksty związane z różnymi codziennymi sytuacjami osób trans.
 * Sekcję [pytań i odpowiedzi](/#faq).
 
 Widzisz jakieś błędy? Chcesz coś rozbudować albo masz własne teksty którymi chcesz się podzielić? Śmiało! Zapraszamy do [włączenia się w projekt](/strony/wsparcie-projektu)! :)
