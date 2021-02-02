@@ -12,7 +12,7 @@ Bywa, że lekarze mają ich kilka i możesz "odhaczyć" je wtedy na raz.
 
 :::warning
 
-## Zachowaj czujność!
+### Zachowaj czujność!
 
 Każdy lekarz ma swój prywatny styl i przyzwyczajenia względem wymogów dot. tranzycji, bardzo często nieaktulanych i nie mających zbyt wiele wspólnego z aktualnymi standardami opieki nad osobami transpłciowymi. Jeśli masz wątpliwości, nie wahaj się szukać aktualnych informacji i konsultować zalecenia lekarzy z innymi specjalistami!
 
@@ -46,7 +46,7 @@ W kwestii hormonów zawsze konsultuj się z **endokrynologiem**, bo to jest wła
 
 :::spoiler Neurolog
 
-Może się zdarzyć sytuacja, że seksuolog zleci Ci badanie rezonansem magnetycznym lub EEG - w takiej sytuacji, byćmoże odwiedzisz neurologa po odpowiednie skierowanie. Oba te badania, o ile nie ma konkretnego powodu, nie są wskazane zgodnie ze współczesnym standardem opieki nad osobami transpłciowymi.
+Może się zdarzyć sytuacja, że seksuolog zleci Ci badanie rezonansem magnetycznym lub EEG - w takiej sytuacji, być może odwiedzisz neurologa po odpowiednie skierowanie. Oba te badania, o ile nie ma konkretnego powodu, nie są wskazane zgodnie ze współczesnym standardem opieki nad osobami transpłciowymi.
 
 :::
 
