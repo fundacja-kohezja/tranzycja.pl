@@ -3,9 +3,9 @@ data: '2021-02-07 21:58:31'
 ---
 # Testosteron w żelu
 
-:::info
-Wywiad przeprowadziłi pierwotnie opulikował na swojej stronie FB Angry Trans: [źródło](https://www.facebook.com/AngryTrans/posts/846885065817264).
-:::
+Niniejszy wywiad na temat stosowania testosteronu w żelu, przeprowadził oraz pierwotnie opublikował na swojej stronie Angry Trans: [źródło](https://www.facebook.com/AngryTrans/posts/846885065817264).
+
+---
 
 W ogóle chciałem się z Wami na wstępie podzielić pewną ciekawostką - ku mojemu zaskoczeniu odnośnie testosteronu często piszą do mnie... Cis mężczyźni którzy muszą go również brać z problemów zdrowotnych - podobnych do problemów trans mężczyzn. Ich organizm nie produkuje testosteronu lub produkuje go za mało. Zdarzają się osoby, które myślą, że tylko osoby transpłciowe biorą testosteron - zapominając o osobach cispłciowych.
 
