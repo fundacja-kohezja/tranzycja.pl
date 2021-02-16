@@ -38,12 +38,12 @@ return (array)$yaml_config + [
             'excerpt' => function ($page) {
                 $tresc = $page->getContent();
                 preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches);
-                return isset($matches[1]) ? Str::of($matches[1])->words(40, '… <b>Czytaj dalej</b>') : Str::of(strip_tags($tresc))->words(40, '… <b>Czytaj dalej</b>');
+                return Str::of(strip_tags(isset($matches[1]) ? $matches[1] : $tresc))->words(40) . ' <b class="inline-block">Czytaj dalej →</b>';
             },
             'longerExcerpt' => function ($page) {
                 $tresc = $page->getContent();
                 preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches);
-                return isset($matches[1]) ? Str::of($matches[1])->words(120, '… <b>Czytaj dalej</b>') : Str::of(strip_tags($tresc))->words(120, '… <b>Czytaj dalej</b>');
+                return Str::of(strip_tags(isset($matches[1]) ? $matches[1] : $tresc))->words(120) . ' <b class="inline-block">Czytaj dalej →</b>';
             }
         ],
         'krok_po_kroku' => [
@@ -57,7 +57,7 @@ return (array)$yaml_config + [
             'excerpt' => function ($page) {
                 $tresc = $page->getContent();
                 preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches);
-                return isset($matches[1]) ? Str::of($matches[1])->words(80, '… <b>Czytaj dalej</b>') : Str::of(strip_tags($tresc))->words(80, '… <b>Czytaj dalej</b>');
+                return Str::of(strip_tags(isset($matches[1]) ? $matches[1] : $tresc))->words(80) . ' <b class="inline-block">Czytaj dalej →</b>';
             }
         ],
         'aktualnosci' => [
