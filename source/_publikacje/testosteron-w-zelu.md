@@ -1,9 +1,6 @@
----
-data: '2021-02-07 21:58:31'
----
-# Testosteron w żelu
+# Testosteron w żelu - wywiad
 
-Niniejszy wywiad na temat stosowania testosteronu w żelu, przeprowadził oraz pierwotnie opublikował na swojej stronie Angry Trans: [źródło](https://www.facebook.com/AngryTrans/posts/846885065817264).
+Współcześnie istnieje wiele różnych metod przyjmowania testosteronu. Różnią się między sobą m. in. dostępnością, ceną, czy wygodą przyjmowania. Zamiesczony poniżej wywiad dotyczy jednej z tych metod. Pierwotna publikacja: [Angry Trans](https://www.facebook.com/AngryTrans/posts/846885065817264).
 
 ---
 
@@ -19,7 +16,7 @@ Pamiętajcie że powinniście zawsze czytać ulotkę leku jaki przyjmujecie, te 
 
 💬 Generalnie to samo co zastrzyki tylko troszkę wolniej: głos, zarost, więcej mięśni, wahania wagi (uwaga tłuszcz na brzuchu! xD), warto ćwiczyć, bo naprawdę można srogo przytyć ;/ Włosy mogą się trochę przerzedzić, póki co nic mi nie wypada bardziej niż zwykle.
 Update: jest ok. Włosy są na miejscu po 2,5 latach.
-Rzeczy, o których raczej nikt nie pisze, czyli: rośnie łechtaczka, piersi się jakby “przerzedzają”, więc dużo łatwiej je bindować (spłaszczać). Zmienia się skóra, co może się wiązać z chwilowym, miejscowym trądzikiem, robi się twardsza. Zanika aktywność jajników, ale wcale niekoniecznie! Trzeba być pod stałą opieką ginekologa, bo hormony zwiększają ryzyko nowotworu, ale bez paniki naprawdę wystarczy robić usg.
+Rzeczy, o których raczej nikt nie pisze, czyli: rośnie łechtaczka, piersi się jakby “przerzedzają”, więc dużo łatwiej je bindować (spłaszczać). Zmienia się skóra, co może się wiązać z chwilowym, miejscowym trądzikiem, robi się twardsza. Zanika aktywność jajników, ale wcale niekoniecznie! Trzeba być pod stałą opieką ginekologa, bo hormony zwiększają ryzyko nowotworu, ale bez paniki naprawdę wystarczy robić usg. 
 Tak, można zajść w ciążę, będąc w trakcie terapii.  
 Bardzo ciężko powiedzieć, co się stanie w jakim czasie. Dla każdego cały proces zachodzi trochę inaczej i nigdy nie ma tak, że zmiany przychodzą dla wszystkich w tej samej kolejności.
 
@@ -40,7 +37,7 @@ po zaprzestaniu brania płodność wraca do poprzedniego stanu.
 
 **Po jakim czasie zaczął zmieniać się głos i jak duża jest różnica między tym jak brzmi teraz, a jak brzmiał na początku?**
 
-💬 Zaczyna się zmieniać chyba od razu, “słyszalna” różnica u mnie była po ok. 2 miesiącach. Oczywiście wszystko raczej powoli, ale to zależy od indywidualnych preferencji. Różnica od stanu wyjściowego jest ogromna 🙂
+💬 Zaczyna się zmieniać chyba od razu, “słyszalna” różnica u mnie była po ok. 2 miesiącach. Oczywiście wszystko raczej powoli, ale to zależy od indywidualnych preferencji. Różnica od stanu wyjściowego jest ogromna 🙂 
 Nie zauważyłem też u siebie fazy mutacji, po prostu się obniżał i cały czas brzmiał w miarę normalnie.
 Nie robiłem żadnych ćwiczeń na głos, ale wiem, że niektórzy to praktykują. Nie wiem, jak to się połączy z testo.
 
@@ -59,6 +56,7 @@ Nie robiłem żadnych ćwiczeń na głos, ale wiem, że niektórzy to praktykuj�
 ## Aplikacja i dawkowanie
 
 **Jak się go aplikuje? Gdzie się wciera żel?**
+
 💬 Lek jest sprzedawany w postaci saszetek (takich, jak cukier w restauracjach tylko z żelem w środku) albo opakowania z pompką (jak mydło). Lekarze są raczej zorientowani i powiedzą, ile trzeba sobie wycisnąć na skórę 🙂
 Najbardziej zalecane jest wcieranie w ramiona i tak też jest napisane na większości ulotek. W praktyce miejsce trzeba zmieniać co jakiś czas, bo żel to ponad 90% etanolu, więc bardzo wysusza skórę i przez to następne dawki mogą się gorzej wchłaniać. Można zamienić np. na uda czy biodra.
 
@@ -72,12 +70,13 @@ Najbardziej zalecane jest wcieranie w ramiona i tak też jest napisane na więks
 
 **Jak wygląda dawkowanie żelu?**
 
-💬 Tak, jak powie lekarz. Dawka jest ustalana na podstawie wyników badań z krwi i ew. innych zdrowotnych przypadłości, np. tarczyca.
+💬 Tak, jak powie lekarz. Dawka jest ustalana na podstawie wyników badań z krwi i ew. innych zdrowotnych przypadłości, np. tarczyca. 
 Ja zaczynałem od małej dawki 2,5 g/dzień, teraz (ok. 2 lata) biorę odrobinę ponad 6g i jestem zadowolony zarówno z efektów, jak i finansowo.
 
 ** Uczulające składniki? Ma ich wiecej niz ten w zastrzykach czy mniej?**
 
 💬 Nie mam pojęcia 😳 normalnie mam uczulenie na wszystko, co nie jest jedzeniem i poza tymi 3 tygodniami trądziku nic mi sie nie dzieje, więc chyba nie ma tragedii. Skład każdego leku można sprawdzić w internecie btw. Na każdej ulotce jest napisane, co może uczulać.
+
 💬 Lifyen: Żel jest polecany np. osobom uczulonym na orzeszki które nie mogą z tego powodu przyjmować zastrzyków popularnych firm.
 
 ## Przenoszenie
@@ -92,7 +91,9 @@ Ja zaczynałem od małej dawki 2,5 g/dzień, teraz (ok. 2 lata) biorę odrobinę
 **Czy żel jest niebezpieczny dla kotów?**
 
 💬 Lifyen: Tak, żel jest niebezpieczny dla kotów.
+
 💬 Odpowiedź Karola który ma koty: Wprawdzie kot ma sierść, czyli niekoniecznie hormon się wchłonie przez skórę. Ale... będzie lizał sobie futerko. Czyli wchłonie to doustnie - w ten sposób na domiar złego obciążając sobie wątrobę. Kot nie może dotykać miejsca natartego hormonem.
+
 💬 Alex: Ludziom też nie polecam lizać xD nie dość, że gorzkie to brzuch boli (nie pytaj, to był przypadek).
 
 ## Inne
@@ -114,3 +115,21 @@ Jeśli komuś zależy na szybkich zmianach i nie boi się igieł to żel nie bar
 
 💬 Kiedyś była to jedna plastikowa saszetka ok. 5 cm dziennie, teraz już nie są dostępne (Androtopu, nie orientuje się, jak sprzedają Testim), więc jedno opakowanie na ok. 3 tygodnie (zależy od dawki - im mniejsza, tym mniej śmieci produkujesz). Kartonik + ulotka + plastikowe opakowanie po żelu ok. 15 cm wysokie.
 Zużyte opakowania można zanosić do apteki.
+
+:::warning
+
+## Możesz ulepszyć ten tekst!
+
+Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
+
+* Masz uwagi albo widzisz jakiś błąd?
+* Znasz dodatkowe materiały i źródła?
+
+**Do uzupełnienia są m.in.:**
+
+* Szczegółowe informacje o zmianie imienia przez osoby niepełnoletnie
+* Przykłady dobrych/złych urzędów.
+
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/HJ5bPZVeO).
+
+:::
