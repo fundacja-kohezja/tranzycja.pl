@@ -7,7 +7,7 @@ Wbrew opinii niektórych lekarzy prowadzących, nie istnieje nic takiego jak uni
 
 ## Lekarze i inni specjaliści
 
-Poniższy tekst opisuje poszczególne specjalizacje, z którymi możesz się spotkać na drodze tranzycji. 
+Poniższy tekst opisuje poszczególne specjalizacje, z którymi możesz się spotkać na drodze tranzycji.
 Bywa, że lekarze mają ich kilka i możesz "odhaczyć" je wtedy na raz.
 
 :::warning
@@ -82,6 +82,14 @@ Inne przykładowe badania wymagane czasem przez lekarzy to np.:
 
 Najaktualniejsze informacje na temat sądowej zmiany płci metrykalnej, znajdziesz w przygotowanego przez Rzecznika Praw Obywatelskich poradnika [Postępowania w sprawach
 o ustalenie płci](/media/docs/prawo/Postepowania_w_sprawach_o_ustalenie_plci.pdf).
+
+### Pozew
+
+Dokładnie opisany wzór pozwu znajdziesz [tutaj](/media/docs/prawo/pozew%20o%20ustalenie%20-%20wzór.docx).
+
+* **Autor:** Paweł Wuwer
+* **Weryfikacja prawna:** [Federacja Znaki Równości](https://www.facebook.com/FederacjaZnakiRownosci/)
+* **Weryfikacja językowa:** Magda Mijas i Grzegorz Żak
 
 ## Zabiegi
 
