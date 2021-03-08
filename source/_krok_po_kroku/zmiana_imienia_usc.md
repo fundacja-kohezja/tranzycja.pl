@@ -6,7 +6,7 @@ kolejnosc: 3
 Niektóre osoby decydują się na zmianę imienia z pominięciem sądu, poprzez złożenie wniosku do Urzędu Stanu Cywilnego. Powody mogą być różne - przedłużające tranzycję komplikacje w procesie diagnozy, niechęć do pozywania rodziców i korekty płci metrykalnej, czy też brak realnej alternatywy dla posiadanego oznaczenia metryki w przypadku np. osób niebinarnych.
 
 :::warning
-Zachowaj ostrożność, ponieważ odrzuconego wniosku nie możesz ponownie złożyć bez znaczączej zmiany okoliczności.
+Zachowaj ostrożność, ponieważ **odrzuconego wniosku nie możesz złożyć ponownie** bez znaczączej zmiany okoliczności.
 :::
 
 Dzięki tej stronie dowiesz się jak zmienić imię łatwo, szybko i bez zbędnego stresu. Jeśli natomiast preferujesz formę wideo, możesz zapoznać się z następującym materiałem:
@@ -48,17 +48,18 @@ W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiąc
 
 ### Koszty
 
-Wniosek o zmianę imienia lub nazwiska podlega opłacie skarbowej w wysokości 37 zł – dowód jej uiszczenia należy załączyć do wniosku. Opłatę można uiścić uprzednio na miejscu w kasie, a niektóre urzędy dodatkowo udostępniają też w Internecie dane do przelewu.
+Wniosek o zmianę imienia lub nazwiska podlega opłacie skarbowej w wysokości **37 zł** – dowód jej uiszczenia należy załączyć do wniosku. Opłatę można uiścić uprzednio na miejscu w kasie, a niektóre urzędy dodatkowo udostępniają też w Internecie dane do przelewu.
 
 ## Imię
 
 ### Na jakie imię mogę zmienić?
 
 Większość urzędników trzyma się dwóch podstawowych zasad:
+
 * istnienie imienia musi być dobrze udokumentowane
 * imię musi być nadawane (gdzieś na świecie) osobom o Twojej płci metrykalnej
 
-Co ważne, ani jedna ani druga robocza reguła aktualnie nie znajduje uzasadnienia prawnego, a jedynie w tradycji. Większość osób składających wnioski stara się ich trzymać, bo dzięki temu maksymalizujesz szanse powodzenia. Jeśli jednak Twój wniosek został odrzucony z tych powodów, możesz spróbować odwołać się a nawet zaskarżyć decyzję do właściwego sądu - przy odrobinie szcześcia, być może ułatwisz procedurę następnym osobom.
+Co ważne, ani jedna ani druga robocza reguła aktualnie nie znajduje uzasadnienia prawnego, a jedynie w tradycji. Większość osób składających wnioski stara się ich trzymać, bo dzięki temu maksymalizujesz szanse powodzenia. Jeśli jednak Twój wniosek został odrzucony z tych powodów, możesz spróbować odwołać się a nawet zaskarżyć decyzję do właściwego sądu - przy odrobinie szczęścia, być może ułatwisz procedurę następnym osobom.
 
 ### Imiona obcojęzyczne
 
@@ -67,10 +68,11 @@ Naczelny Sąd Administracyjny wyraził pogląd w sprawie imion obcojęzycznych w
 ## Wniosek
 
 Zgodnie z art. 11 ustawy wniosek powinien zawierać:
+
 1) dane osoby, której zmiana dotyczy:
-* imię (imiona) i nazwisko oraz nazwisko rodowe;
-* wskazanie kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tego aktu;
-* numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany;
+    * imię (imiona) i nazwisko oraz nazwisko rodowe;
+    * wskazanie kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tego aktu;
+    * numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany;
 2) imię lub nazwisko, na jakie ma nastąpić zmiana;
 3) wskazanie miejsca sporządzenia aktu urodzenia małoletnich dzieci, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tych aktów;
 4) adres do korespondencji wnioskodawcy;
@@ -135,7 +137,7 @@ Nie ma możliwości zmiany na nazwisko historyczne czy wsławione w dziedzinie k
 
 ## Dowody
 
-Jeśli jako powód wskazuje zmianę "na "na imię lub nazwisko używane", to jest najważniejsza rzecz jaką musisz udowodnić.
+Jeśli jako powód wskazujesz zmianę "na imię lub nazwisko używane", to jest najważniejsza rzecz jaką musisz udowodnić.
 
 Zakładając, że wnioskujesz o zmianę na imię co do którego urzędnik może mieć zastrzeżenia - czy to z uwagi na Twoją płeć metrykalną, czy też nieznajomość takiego imienia, najlepiej w ramach swojego wniosku od razu dostarczyć niezbędnę dowody, żeby uprzedzić wątpliwości.
 
@@ -144,17 +146,17 @@ Zakładając, że wnioskujesz o zmianę na imię co do którego urzędnik może 
 * Należy wykazać, że imię istnieje i jest używane przez osoby o tej samej płci metrykalnej
 * Mogą to być osoby w dowolnym kraju, choć niektórzy urzędnicy krzywo patrzą na wykazy imion z USA, argumentując, że mają tam zbyt dużą dowolność
 * Można wskazać na konkretne osoby lub wykaz nadawanych imion
-* Dla pewności najlepiej miećrzykłady z kilku krajów, ale nie jest to konieczne
+* Dla pewności najlepiej mieć przykłady z kilku krajów, ale nie jest to konieczne
 
 :::
 
 ### Na istnienie imienia
 
-:::info
-Listę przykładowych neutralnych imion uznawanych w Polsce, wraz z dużą ilością informacji na temat zmiany imienia znajdziesz [tutaj](https://docs.google.com/spreadsheets/d/1aP8id2ZpGUZ8RqcCjdBgM8Kk8zSgi3V6jSwcD7tNdnQ/).
+:::success
+Imiona z [tej listy](https://docs.google.com/spreadsheets/d/1aP8id2ZpGUZ8RqcCjdBgM8Kk8zSgi3V6jSwcD7tNdnQ/) **są uznawane w Polsce**. Oprócz samych imion link zawiera też informacje o procesie zmiany imienia.
 :::
 
-Jeśli chcesz szybko sprawdzić czy wybrane przez Ciebie imię jest dostępne w jakimś kraju dla Twojej płci metrykalnej albo ma jakiś neutralny płciowo odpowiedni, najlepiej spróbować wpisać je w Internet i poszukać tego imienia oraz ew. osób które takie lub podobne imię noszą. Czasem tez sie okazuje, ze jakas inna forma czy skrot danego imienia jest w jakims kraju unisex albo pasujaca do twojej plci z dokumentów. W poszukiwaniu swojego imienia, warto przejrzeć rejestry różnych krajów. Zarejestrowane w Polsce imiona możesz znaleźć na stronie dane.gov.pl np. za pomocą [takiego zapytania](https://dane.gov.pl/pl/dataset/1667,lista-imion-wystepujacych-w-rejestrze-pesel-osoby-zyjace).
+Jeśli chcesz szybko sprawdzić czy wybrane przez Ciebie imię jest dostępne w jakimś kraju dla Twojej płci metrykalnej albo ma neutralny płciowo odpowiednik, najlepiej spróbować poszukać go w Internecie lub znaleźć osoby które nosżę takie imię lub podobne. Czasem okazuje się, że jakaś inna forma czy skrót od danego imienia jest w jakimś kraju neutralna płciowo albo pasuje do twojej płci z dokumentów. W poszukiwaniu swojego imienia warto przejrzeć rejestry różnych krajów. Zarejestrowane w Polsce imiona możesz znaleźć na stronie dane.gov.pl np. za pomocą [takiego zapytania](https://dane.gov.pl/pl/dataset/1667,lista-imion-wystepujacych-w-rejestrze-pesel-osoby-zyjace).
 
 :::info
 W przypadku zmiany nazwiska, wartościowym argumentem jest wybór z puli nazwisk na drzewie rodzinnym.
@@ -162,7 +164,7 @@ W przypadku zmiany nazwiska, wartościowym argumentem jest wybór z puli nazwisk
 
 Możesz też posiłkować się rejestrami zagranicznymi, np. [tutaj znajdziesz węgierski rejestr](http://www.nytud.mta.hu/oszt/nyelvmuvelo/utonevek/osszesffi.pdf), a [tutaj rejestr USA](https://www.ssa.gov/oact/babynames/limits.html). Jeśli nie wiesz w jakim kraju szukać wymyślonego przez siebie imienia, warto zapytać na grupach imionowych nerdów, np. [na reddicie](https://www.reddit.com/r/namenerds/). Czasem niezastąpione okazują się też strony katalogujące i opisujące historię rzadziej spotykanych imion, np. [nancy.cc](http://www.nancy.cc/).
 
-Można spróbować też wskazać przykładowe konkretne osoby posługujące się danym imieniem, natomiast warto uważać w przypadku celebrytów i zwrócić uwagę czy rzeczywiście mają tak na imię, czy posługują się jedynie takim pseudonimem artystycznym. W takiej sytuacji urzędnik może łatwo odrzucić taki argument.
+Można spróbować też wskazać przykładowe konkretne osoby posługujące się danym imieniem, uważając jednak w przypadku celebrytów, czy rzeczywiście mają tak na imię, czy posługują się jedynie takim pseudonimem artystycznym (gdyż wtedy urzędnik może łatwo odrzucić taki argument).
 
 ### Na posługiwanie się imieniem
 
@@ -171,7 +173,7 @@ Jest wiele rożnych rodzajów dowodów, które możesz przedstawić na dowód po
 Im dłużej posługujesz się wybranymi danymi, tym silniejszy będzie Twój argument: urzędnik spojrzy dużo przychylniejszym wzrokiem na wniosek, jeśli dostarczysz dowody sięgające wstecz rok i więcej.
 
 :::info
-Jeśli zmieniasz imię lub nazwisko na obcobrzmiące, to dobrze jest podać w uzasadnieniu dodatkowy argument który to uzasadnia, np.: ktoś w mojej rodzinie pochodzi z tego kraju, zamierzam tam wkrótce wyjechać, albo pracuję w międzynarodowym środowisku a moje obecne imię/nazwisko jest trudne do zapisania czy odczytania obcokrajowcom.
+Jeśli zmieniasz imię lub nazwisko na obcobrzmiące, to dobrze jest podać w uzasadnieniu dodatkowy argument który to uzasadnia, np.: *ktoś w mojej rodzinie pochodzi z tego kraju*, *zamierzam tam wkrótce wyjechać*, albo *pracuję w międzynarodowym środowisku a moje obecne imię/nazwisko jest trudne do zapisania czy odczytania obcokrajowcom*.
 :::
 
 :::spoiler Silne dowody
@@ -246,7 +248,7 @@ Pamiętaj, aby sprawdzić najpierw, czy urząd, w którym chcesz złożyć wnios
 |Częstochowa|   |
 
 :::info
-Masz informacje o innym urzędzie? [Zostaw komentarz](https://hackmd.io/@tranzycja/Sy9_lbX5w)!
+Masz informacje o innym urzędzie? [Zostaw komentarz](https://hackmd.io/@tranzycja/HJ5bPZVeO)!
 :::
 
 ## Jak złożyć wniosek
@@ -272,14 +274,14 @@ Jeśli zdecydujesz się złożyć wniosek osobiście, bardzo często zostanie on
 Jeśli wiesz, że dany USC jest przyjazny i masz dobrze napisany wniosek a mieszkasz daleko, możesz spróbować złożyć wniosek zdalnie, ale jeśli masz taką możliwość, koniecznie najpierw zadzwoń, żeby uprzedzić o chęci złożenia wniosku i wybadać nastawienie ze strony Urzędu. Załącz też do wniosku pełne dane kontaktowe, żeby osoba przyjmująca wniosek w razie potrzeby mogła zadzwonić i poprosić od zmiany lub dodatkowe dokumenty.
 
 :::info
-Wniosek możesz złożyć w dowolnym Urzędzie Stanu Cywilnego - nie musi mieć nic wspólnego z Twoim miejscem urodzenia ani zamieszkania, w związku z czym najlepiej wybierz polecany urząd!
+Wniosek możesz złożyć w **dowolnym** Urzędzie Stanu Cywilnego - nie musi mieć nic wspólnego z Twoim miejscem urodzenia ani zamieszkania, w związku z czym najlepiej wybierz polecany urząd!
 :::
 
 Urzędnik może z ciekawości zapytać dlaczego składasz wniosek akurat u niego. Nie musisz mieć specjalnego uzasadnienia, możesz na to odpowiedzieć cokolwiek.
 
 ## Wniosek odrzucony
 
-Jeśli wniosek zostanie odrzucony, to nie możesz takiego samego wniosku złożyć ponownie w innym urzędzie - dlatego tak ważne jest, żeby zanieść wniosek osobiście i urzędnik przy Tobie się z nim zapoznał, bo jeśli wyrazi co do niego wątpliwości, to możesz go jeszcze na tym etapie wycofać. Możesz natomiast spróbować złożyć wniosek na inne imię, ponieważ nie jest to już wtedy ten sam wniosek.
+Jeśli wniosek zostanie odrzucony, to **nie możesz takiego samego wniosku złożyć ponownie w innym urzędzie** - dlatego tak ważne jest, żeby zanieść wniosek osobiście i urzędnik przy Tobie się z nim zapoznał, bo jeśli wyrazi co do niego wątpliwości, to możesz go jeszcze na tym etapie wycofać. Możesz natomiast spróbować złożyć wniosek na inne imię, ponieważ nie jest to już wtedy ten sam wniosek.
 
 Jeśli jednak Twój wniosek został już odrzucony i zależy Ci na uzyskaniu tej konkretnej zmiany, możesz nadal jeszcze o nie zawalczyć.
 
@@ -295,7 +297,7 @@ Choć katalog przesłanek pozytywnych nie jest katalogiem zamkniętym, na co wsk
 
 Zmiana wchodzi w życie dopiero gdy minie ustawowy okres odwoławczy, chociaż jeśli odbierasz decyzję osobiście, możesz podpisać oświadczenie, że zrzekasz się od możliwości odwołania się od decyzji. W takiej sytuacji urząd może zmianę od razu wprowadzić do systemu. Warto dać systemowi dzień czy dwa na przetworzenie zmiany, można też zalogować się do systemu ePUAP i sprawdzić czy dane są już zaktualizowane. Jeśli dane w cyfrowym systemie zostały zmienione, możesz od razu złożyć wniosek o wydanie nowego dowodu osobistego z powodu zmiany danych - to również możesz zrobić przez Internet, za pomocą profilu zaufanego.
 
-:::info
+:::success
 Zmiana imienia w USC nie stoi na przeszkodzie późniejszej zmianie metryki i ponownej zmiany danych.
 
 :::
@@ -330,8 +332,6 @@ Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/HJ5bPZVeO).
 
 :::
-
-## Przypisy i źródła
 
 [^1]: [Stanowisko Polskiego Towarzystwa Seksuologicznego w sprawie sytuacji społecznej, zdrowotnej i prawnej osób transpłciowych](https://pts-seksuologia.pl/sites/strona/83/stanowisko-pts-ws-sytuacji-spolecznej-zdrowotnej-i-prawnej-osob-transplciowych)
 [^2]: Mateusz Tubisz, *Zmiana imienia i nazwiska w trybie administracyjnoprawnym*, Uniwersytet Warmińsko-Mazurski w Olsztynie. E-mail: mateusz.tubisz@wp.pl
