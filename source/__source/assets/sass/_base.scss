@@ -227,7 +227,7 @@ table {
         @apply .px-4;
         @apply .border-gray-300;
         @include dark {
-            @apply .border-gray-800;
+            @apply .border-gray-900;
         }
         &:not(:first-child){
             @apply .border-l;

@@ -323,7 +323,7 @@ mark {
         .current > a {
             @apply .font-extrabold;
             @apply .text-pink-700;
-            .dark & {
+            @include dark {
                 @apply .text-purple-400;
             }
         }
