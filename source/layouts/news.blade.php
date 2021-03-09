@@ -9,8 +9,8 @@ permalink: aktualnosci/index.html
 @section('body')
 <main class="container max-w-6xl mx-auto px-6 py-10 md:py-12">
     <div class="text-center">
-        <h1 class="text-pink-600 dark:text-purple-300 mb-0">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 sm:mr-3 h-12 sm:h-16 align-middle -mt-8 -mb-6">
+        <h1 class="text-indigo-600 dark:text-purple-300 mb-0">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 sm:mr-3 h-12 sm:h-16 text-blue-400 align-middle -mt-8 -mb-6">
                 <path fill-rule="evenodd" d="M2 5a2 2 0 012-2h8a2 2 0 012 2v10a2 2 0 002 2H4a2 2 0 01-2-2V5zm3 1h6v4H5V6zm6 6H5v2h6v-2z" clip-rule="evenodd" />
                 <path d="M15 7h1a2 2 0 012 2v5.5a1.5 1.5 0 01-3 0V7z" />
             </svg>

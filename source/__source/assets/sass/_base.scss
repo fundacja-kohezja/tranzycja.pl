@@ -19,9 +19,9 @@ a {
     @apply .no-underline;
     @apply .border-b;
     @apply .border-current;
-    @apply .text-indigo-600;
+    @apply .text-pink-600;
     &:hover {
-        @apply .text-indigo-800;
+        @apply .text-pink-700;
     }
     @include dark {
         @apply .text-blue-400;
@@ -54,18 +54,6 @@ code {
     @apply .text-sm;
 }
 
-code.hljs {
-    @apply .bg-transparent;
-    @apply .p-0;
-
-    .hljs-comment,
-    .hljs-keyword,
-    .hljs-meta {
-        @apply .font-normal;
-        @apply .not-italic;
-    }
-}
-
 h1,
 h2,
 h3,
@@ -76,13 +64,15 @@ h6 {
     @apply .mb-4;
     @apply .mt-8;
     @apply .text-gray-900;
+    @apply .font-heading;
+    @apply .tracking-wide;
 
     &:first-child {
         @apply .mt-0;
     }
 
     b, strong {
-        @apply .text-pink-600;
+        @apply .text-blue-400;
     }
     @include dark {
 
@@ -97,7 +87,7 @@ h6 {
 h1 {
     @apply .font-extrabold;
     @apply .text-4xl;
-    @apply .text-pink-600;
+    @apply .text-indigo-600;
     @include dark {
         @apply .text-purple-400;
     }

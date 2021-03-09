@@ -8,7 +8,7 @@
         </svg>
         <span class="align-middle">{{ Jenssegers\Date\Date::create($page->data)->format('j M Y') }}</span>
     </div>
-    <div class="text-indigo-700 dark:text-indigo-300 text-xl">
+    <div class="text-pink-600 dark:text-indigo-300 text-xl">
         <nav>
             <a href="/aktualnosci" class="border-b-0">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block mb-2 h-6">

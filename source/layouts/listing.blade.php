@@ -6,7 +6,7 @@ permalink: krok-po-kroku/index.html
 @section('body')
 <main class="container max-w-6xl mx-auto px-6 py-10 md:py-12">
     <div class="text-center">
-        <h1 class="text-pink-600 dark:text-purple-300 mb-0">
+        <h1 class="text-indigo-600 dark:text-purple-300 mb-0">
             <span class="align-middle">Tranzycja krok po kroku</span>
         </h1>
         <p class="text-lg text-medium text-gray-600 dark:text-gray-400">

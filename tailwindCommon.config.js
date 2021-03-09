@@ -32,14 +32,25 @@ module.exports = {
           '350': '#D6DEE8',
           '850': '#242C3A'
         },
+        indigo: {
+          ...colors.indigo,
+          '600': '#3F52A5',
+        },
         pink: {
-          '600': '#d9a8b5',
-          '700': '#cc99a6'
+          ...colors.pink,
+          '600': '#FF7BAC'
+        },
+        blue: {
+          ...colors.blue,
+          '400': '#3FA9F5'
         }
       },
       fontFamily: {
         sans: [
           'Inter, Arial, sans-serif'
+        ],
+        heading: [
+          'Raleway, Arial, sans-serif'
         ],
         mono: [
           'monospace',
@@ -76,7 +87,9 @@ module.exports = {
     },
     opacity: {
       '5': '0.05',
-      '10': '0.1'
+      '10': '0.1',
+      '50': '0.5',
+      '100' : '1'
     },
     scale: {
       '-100': '-1',
