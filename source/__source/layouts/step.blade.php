@@ -2,7 +2,7 @@
 
 @section('body')
 <div class="container max-w-6xl mx-auto px-6 py-4">
-    <div class="text-indigo-700 dark:text-indigo-300 text-xl hidden lg:block">
+    <div class="text-pink-600 dark:text-indigo-300 text-xl hidden lg:block">
         <nav>
             <a href="/krok-po-kroku" class="border-b-0">
                 Tranzycja krok po kroku
