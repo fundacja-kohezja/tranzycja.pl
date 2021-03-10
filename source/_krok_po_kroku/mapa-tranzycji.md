@@ -98,6 +98,8 @@ W Polsce na ogół lekarze trzymają się ściśle zasady, że jeśli zabiegi ni
 
 Jeśli zabieg mógłby pozbawić Cię płodności, lekarze będą nalegać na uprzednią zmianę płci metrykalnej. Znane są natomiast wyjątki, np. pojedyncze osoby, którym udało się uzyskać orchiektomię bez pozwu o ustalenie płci.
 
+Pamiętaj, że żadne zabiegi nie są wymagane do zmiany płci metrykalnej, tylko Ty decydujesz jakie zabiegi chcesz przejść.
+
 :::warning
 
 ## Możesz ulepszyć ten tekst!
