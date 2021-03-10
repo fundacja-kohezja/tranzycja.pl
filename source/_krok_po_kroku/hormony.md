@@ -10,7 +10,7 @@ Hormonalna terapia zastępcza dla wielu osób transpłciowych i niebinarnych jes
 W Polsce przyjęło się tradycyjnie, że lekarz prowadzący - najczęściej seksuolog - na pewnym etapie tranzycji podejmuje dedyzję o włączeniu hormonów, bardzo często nadal poprzez wypisanie Twojej pierwszej recepty.
 
 :::warning
-Pamiętaj! Lekarzem zajmującym się tematem hormonów jest endoktrynolog - jeśli zaczynasz terapę hormonalną, koniecznie musisz znaleźć się pod jego opieką.
+Pamiętaj! Lekarzem zajmującym się tematem hormonów jest **endokrynolog** - jeśli zaczynasz terapę hormonalną, koniecznie musisz znaleźć się pod jego opieką.
 :::
 
 Choć nie ma nic dziwnego w tym, że seksuolog podejmuje decyzję o leczeniu hormonalnym, ważne, żeby pamiętać że nie jest on specjalistą od gospodarki hormonalnej organizmu. Każda osoba przyjmująca hormony powinna być pod opieką endoktrynologa specjalizującego się w pracy z osobami transpłciowymi, najlepiej od samego początku. Endoktrynolog nie ma podstaw aby samemu podjąć decyzję o rozpoczęciu tranzycji hormonalnej, ale może to zrobić w odpowiedzi na zalecenie seksuologa czy psychologa, albo przejmując leczenie osoby która już hormony przyjmuje.
