@@ -40,11 +40,7 @@ Choć z zasady wniosek powinien być złożony osobiście, osoby zamieszkałe za
 ### Ile trwa zmiana imienia drogą urzędową?
 Termin rozstrzygnięcia sprawy różni się między urzędami. Np. na stronie krakowskiego BIPu jest podane, że sprawy mogą być rozstrzygnięte od ręki, ale jeśli są szczególnie skomplikowane to urząd ma do dwóch miesięcy na wydanie decyzji.
 
-W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiące, jesli natomiast trafisz na urzędnika który chce Ci pomóc, możesz na każdym etapie od razu dostawać zawiadomienia do podpisania (zamiast czekać na dostarczenie ich pocztą), a nawet jeśli na koniec odbierzesz decyzję osobiście, zrzec się od razu pisemnie terminu odwoławczego, co znacząco przyśpieszy całą procedurę i umożliwi wprowadzenie od razu zmian w cyfrowym systemie. W takiej sytuacji istnieje realna szansa zamknięcia się nawet w 2 tygodniach, choć wymagałoby to nadzwyczajnej ilości dobrej woli ze strony urzędu.
-
-:::info
-✏ ==Ta sekcja wymaga uzupełnienia o konkretne terminy wynikające z przepisów!==
-:::
+W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiące, jesli natomiast trafisz na urzędnika który chce Ci pomóc, możesz na każdym etapie od razu dostawać zawiadomienia do podpisania (zamiast czekać na dostarczenie ich pocztą), a nawet jeśli na koniec odbierzesz decyzję osobiście, zrzec się od razu pisemnie terminu odwoławczego, co znacząco przyśpieszy całą procedurę i umożliwi wprowadzenie od razu zmian w cyfrowym systemie. W takiej sytuacji istnieje realna szansa zamknięcia się nawet w 2 tygodniach, choć wymagałoby to nadzwyczajnej ilości dobrej woli ze strony urzędu.h
 
 ### Koszty
 
@@ -287,8 +283,8 @@ Jeśli jednak Twój wniosek został już odrzucony i zależy Ci na uzyskaniu tej
 
 >Postępowanie administracyjne w zakresie zmiany imienia i nazwiska jest dwuinstancyjne. Prawo zaskarżenia decyzji organu pierwszej instancji wynika z art. 78 Konstytucji RP, zgodnie z którym każda ze stron ma prawo do zaskarżenia orzeczeń i decyzji wydanych w pierwszej instancji. Organem odwoławczym w odniesieniu do decyzji wydanych przez kierownika urzędu stanu cywilnego jest wojewoda.[^2]
 
-:::info
-✏ ==Masz doświadczenie z odwoływaniem się od decyzji w sprawie zmieny imienia? Zostaw komentarz!==
+:::warning
+Masz doświadczenie z odwoływaniem się od decyzji w sprawie zmieny imienia? Zostaw komentarz!h
 :::
 
 Choć katalog przesłanek pozytywnych nie jest katalogiem zamkniętym, na co wskazuje zwrot „istnieją w szczególności”, podkreślenia przez ustawodawcę, iż zmiany można dokonać „wyłącznie” z ważnych powodów, wsmacnia zasadę stabilizacji nazwisk, w związku z którą urzędnicy starają się zachować dużą ostrożność akceptując wniosek. Obecna ustawa nie zawiera definicji pojęcia „ważne powody”, pozostawiając tym samym dużą swobodę organowi administracji w wydaniu rozstrzygnięcia, które ma charakter wysoce uznaniowy. Wydanie decyzji uznaniowej, której treść oparta jest na klauzuli odsyłającej, podlega zaś kontroli sądowej. Na potwierdzenie warto przywołać stanowisko Naczelnego Sądu administracyjnego, zgodnie z którym „użycie przez prawodawcę określeń prawnie niezdefiniowanych (tzw. wyrażeń nieostrych) zobowiązuje organ sprawujący kontrolę legalności decyzji wydanych na podstawie przepisów używających takich określeń — do rozważenia, czy dokonana przez organ administracji państwowej ocena okoliczności sprawy nie nosi cech dowolności lub nie przekroczyła dopuszczalnej granicy swobody interpretacji tych określeń na tle konkretnego stanu faktycznego.
