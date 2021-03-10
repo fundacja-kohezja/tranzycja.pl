@@ -138,7 +138,7 @@ mark {
 }
 .faq-section, .news-entry {
     h1 { @apply .text-3xl }
-    h2 { @apply .text-2xl; @apply .font-bold }
+    h2 { @apply .text-2xl; @apply .text-gray-700; }
     h3 { @apply .text-xl }
     h4 { @apply .text-lg }
     h5 { @apply .text-base }
@@ -460,5 +460,19 @@ mark {
     flex: 1 0 calc(100% - 3rem);
     @media (min-width: 768px) {
         flex: 1 1 0%;
+    }
+}
+
+.logo-white {
+    fill: #fff;
+    @include dark {
+        fill: #1A1A1A;
+    }
+}
+
+.logo-dark {
+    fill: #1A1A1A;
+    @include dark {
+        fill: #fff;
     }
 }
