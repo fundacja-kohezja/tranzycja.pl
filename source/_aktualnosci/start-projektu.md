@@ -1,5 +1,5 @@
 ---
-data: '2021-02-01 12:00:00'
+data: '2021-03-10 10:00:00'
 ---
 
 # Z radością i dumą otwieramy projekt tranzycja.pl!
