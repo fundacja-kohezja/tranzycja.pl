@@ -1,3 +1,6 @@
+---
+data: '2021-03-10 08:29:58'
+---
 # Testosteron w żelu - wywiad
 
 Współcześnie istnieje wiele różnych metod przyjmowania testosteronu. Różnią się między sobą m. in. dostępnością, ceną, czy wygodą przyjmowania. Zamiesczony poniżej wywiad dotyczy jednej z tych metod. Pierwotna publikacja: [Angry Trans](https://www.facebook.com/AngryTrans/posts/846885065817264).
