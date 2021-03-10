@@ -60,7 +60,7 @@
                 </g>
                 <rect x="54" y="52" fill="#3FA9F5" width="27" height="27"/>
                 <rect x="81" y="79" fill="#FF0000" width="27" height="27"/>
-                <rect x="81" y="52" class="logo-white" width="27" height="27"/>
+                <rect x="81" y="52" fill="#fff" width="27" height="27"/>
                 <rect x="108" y="52" fill="#FF7BAC" width="27" height="27"/>
               </svg>
             </a>

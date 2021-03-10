@@ -463,13 +463,6 @@ mark {
     }
 }
 
-.logo-white {
-    fill: #fff;
-    @include dark {
-        fill: #1A1A1A;
-    }
-}
-
 .logo-dark {
     fill: #1A1A1A;
     @include dark {

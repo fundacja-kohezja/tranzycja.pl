@@ -38,11 +38,11 @@ module.exports = {
         },
         pink: {
           ...colors.pink,
-          '600': '#FF7BAC'
+          '600': '#d9779b' //'#FF7BAC'
         },
         blue: {
           ...colors.blue,
-          '400': '#3FA9F5'
+          '400': '#449ad6' //'#3FA9F5'
         }
       },
       fontFamily: {
