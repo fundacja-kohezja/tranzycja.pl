@@ -52,7 +52,7 @@ Jest to imię nadane przy urodzeniu, podczas gdy osoba posługuje się innym (ni
 
 **Używanie poprawnego imienia i zaimków redukuje depresję oraz ryzyko samobójstw[^1][^2] wśród osób transpłciowych**, dlatego należy unikać stosowania określeń i danych z którymi uczeń czuje się niekomfortowo i ograniczyć je do niezbędnego minimum. W sytuacji, gdy do szkoły przychodzi nowe ucznium i na starcie dostajemy informację od rodziców, że posługuje się innymi danymi niż w dokumentach, reszta uczniów nie musi o tym wiedzieć. Pomoże to uniknąć nieprzyjemnych sytuacji i nękania.
 
-Dobrą praktyką jest danie nowym uczniom możliwości podzielenia się swoimi zaimkami i preferowanym imieniem na początku nauki, jednak dużo osób trans nie doważy się wyjść z taką inicjatywą w nowej szkole, bez uprzedniego wybadania gruntu. Jeśli przedstawiając się klasie poinformujesz o swoich zaimkach, wyślesz jasny sygnał, że jest na to otwartość i inne osoby mogą zrobić tak samo.
+Dobrą praktyką jest danie nowym uczniom możliwości podzielenia się swoimi zaimkami i preferowanym imieniem na początku nauki, jednak dużo osób trans nie odważy się wyjść z taką inicjatywą w nowej szkole, bez uprzedniego wybadania gruntu. Jeśli przedstawiając się klasie poinformujesz o swoich zaimkach, wyślesz jasny sygnał, że jest na to otwartość i inne osoby mogą zrobić tak samo.
 
  Niektóre osoby też rozdają na początku pierwszej lekcji kartki na których uczniowie mogą się podzielić takimi informacjami jak preferowane imię, zaimki i czy stosować się da nich przy innych czy nie, ponieważ niektórzy uczniowie mogą nie czuć się komfortowo dzielić się takimi informacjami przy całej klasie.
 
@@ -71,7 +71,9 @@ Usilne, celowe używane błędnego imienia i zaimków, stanowi formę przemocy. 
 
 Jeśli dziecko outuje się już w trakcie nauki, warto docenić zaufanie. Bardzo często taka osoba jest dopiero w trakcie odkrywania siebie, nie musi jeszcze wszystkiego rozumieć i może też nie być pewna jakie właściwie ma w związku z tym potrzeby. Zawsze dobrym pomysłem jest zapewnienie o swoim wsparciu i zapytanie czy oczekuje czegoś konkretnego, ale nie powinniśmy nic narzucać ani rzucać się do konkretnych procedur "automatycznie" - nie wiemy na ile taka osoba jest gotowa ani czy czuje się komfortowo z wyoutowaniem przed innymi.
 
-:::warning Uważaj, żeby przypadkiem nie wyoutować ucznia
+:::warning
+
+#### Uważaj, żeby przypadkiem nie wyoutować ucznia
 
 Warto ostrożnie wybadać, czy rodzice wiedzą i jakie mają poglądy, żeby przypadkiem nie wyoutować ucznia. Przypadki przemocy w rodzinie wobec queerowych dzieci są w Polsce na tyle powszechne, że możesz w ten sposób potencjalnie narazić ucznia na olbrzymie niebezpieczeństwo.
 
@@ -79,7 +81,7 @@ Warto ostrożnie wybadać, czy rodzice wiedzą i jakie mają poglądy, żeby prz
 
 ## Wsparcie wychowawcy
 
-Jako wspierający wychowawca, możesz zaoferować uczniowi przeprowadzenie rozmowy z nauczycielami lub klasą, aby poinformować o zmianie i podpowiedziećjak powinni się zachować w nowej sytuacji. Uczniowie bardzo często pytają na grupach wsparcia, czy istnieje możliwość zmiany imienia w dzienniku, aby nauczyciele nie wyczytywali ich danych przy całej klasie. Choć przepisy nie przewidują takiej możliwości, zdarzają się wychowawcy oraz dyrektorzy, którzy uznają dobrostan ucznia za priorytetowy, w związku z czym poprawiają imię w dzienniku (np. przez dopisanie ołówkiem), a czasem nawet wystawiają poprawioną legitymację szkolną, co ratuje od wielu traum i nieprzyjemności np. gdy wygląd ucznia nie wskazuje na nadaną przy urodzeniu płeć.
+Jako wspierający wychowawca, możesz zaoferować uczniowi przeprowadzenie rozmowy z nauczycielami lub klasą, aby poinformować o zmianie i podpowiedzieć jak powinni się zachować w nowej sytuacji. Uczniowie bardzo często pytają na grupach wsparcia, czy istnieje możliwość zmiany imienia w dzienniku, aby nauczyciele nie wyczytywali ich danych przy całej klasie. Choć przepisy nie przewidują takiej możliwości, zdarzają się wychowawcy oraz dyrektorzy, którzy uznają dobrostan ucznia za priorytetowy, w związku z czym poprawiają imię w dzienniku (np. przez dopisanie ołówkiem), a czasem nawet wystawiają poprawioną legitymację szkolną, co ratuje od wielu traum i nieprzyjemności np. gdy wygląd ucznia nie wskazuje na nadaną przy urodzeniu płeć.
 
 Pamiętaj, że w momencie generowania trwałych dokumentów, w e-dzienniku muszą się znajdować dane zgodne z sytuacją prawną ucznia. Nawet jeśli uczeń zmieni prawnie imię w trakcie uczęszczania do szkoły, wystawione już dokumenty nie podlegają korekcie[^3]. Wyjątek od tej reguły stanowi jedynie sytuacja, gdy osoba dokona korekty płci metrykalnej i zmieni się również jej PESEL.
 
