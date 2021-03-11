@@ -155,6 +155,12 @@ Jeśli chcesz rozbudzić w uczniach zainteresowanie językiem polskim, spróbuj 
 
 Jeśli wolisz formę audio-wideo lub po prostu chcesz się zapoznać z doświadczeniami poszczególnych uczniów, zapraszam do obejrzenia następnujących materiałów:
 
+:::spoiler Tash: Transpłciowość i niebinarność w szkole
+
+{%youtube 4KtskUjbR7g %}
+
+:::
+
 :::spoiler Tomasz: Film dla nauczycieli
 
 {%youtube lPIe_LEdqTE %}
