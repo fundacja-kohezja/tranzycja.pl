@@ -9,7 +9,7 @@ Według opisu charakteryzuje się ona „wyraźną i trwałą niezgodnością mi
 
 ## Czy ja jestem trans?
 
-Jeśli zadajesz sobie to pytanie, to istnieje możliwość, że tak właśnie jest. Choć wiele świeżowyoutowanych osób trans to dziwi, osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) nie kwestionują regularnie swojej płci. Dla wielu osób mających wątpliwości pomocne bywa zanurzenie się w społeczności i wymiana doświadczeniami. Nawet jeśli nie masz pewności czy jesteś trans, jako osoba kwestionująca swoją płeć jesteś równie mile widziane na grupach wsparcia. Poznając doświadczenia innych osób, łatwiej będzie Ci się zorientować czy czujesz to samo co one. Dla niektórych pomocne okazują się też internetowe społeczności i memy. Samo to jednak, że Twoja odczuwana płeć nie do końca pokrywa się z nadaną, absolutnie nie oznacza, że musisz się podjąć tranzycji. Jeśli jednak się na to zdecydujesz, na każdym kroku będą Ci towarzyszyć lekarze i inni specjaliści.
+Jeśli zadajesz sobie to pytanie, to istnieje możliwość, że tak właśnie jest. Choć wiele świeżo wyoutowanych osób trans to dziwi, osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) nie kwestionują regularnie swojej płci. Dla wielu osób mających wątpliwości pomocne bywa zanurzenie się w społeczności i wymiana doświadczeniami. Nawet jeśli nie masz pewności czy jesteś trans, jako osoba kwestionująca swoją płeć jesteś równie mile widziane na grupach wsparcia. Poznając doświadczenia innych osób, łatwiej będzie Ci się zorientować czy czujesz to samo co one. Dla niektórych pomocne okazują się też internetowe społeczności i memy. Samo to jednak, że Twoja odczuwana płeć nie do końca pokrywa się z nadaną, absolutnie nie oznacza, że musisz się podjąć tranzycji. Jeśli jednak się na to zdecydujesz, na każdym kroku będą Ci towarzyszyć lekarze i inni specjaliści.
 
 ## Co to jest tranzycja?
 
@@ -21,7 +21,7 @@ Przykładowy podział na tranzycję:
 * Prawną, np. przejście procedury prawnej zmiany metryki, zmiana danych, nadanie nowego PESELu
 * Medyczną, np. hormony, mastektomia, zabiegi chirurgiczne na narządach płciowych
 
-W kolejnych tekstach znajdziesz informacje na temat poszczególnych elementów tranzycji oraz warunków jakie musisz do nich spełnić. Należy mieć jednak przy tym świadomość rozbieżności pomiędzy aktualnym stanem wiedzy naukowej wraz ze współczesnymi światowymi standardami, a stanem wiedzy lekarzy i realną sytuacją w Polsce. Intencją tego repozytorium jest zawsze podawanie aktualnych informacji, a gdzie zaistnieje potrzeba wzbogacania ich dodatkowymi wskazówkami praktycznymi.
+W kolejnych tekstach znajdziesz informacje na temat poszczególnych elementów tranzycji oraz warunków jakie musisz do nich spełnić. Należy mieć jednak przy tym świadomość rozbieżności pomiędzy aktualnym stanem wiedzy naukowej wraz ze współczesnymi światowymi standardami, a stanem wiedzy lekarzy i realną sytuacją w Polsce. Intencją tego repozytorium jest zawsze podawanie aktualnych informacji, a gdzie zaistnieje potrzeba, wzbogacania ich dodatkowymi wskazówkami praktycznymi.
 
 ## Materiały dodatkowe
 
