@@ -40,7 +40,7 @@ Choć z zasady wniosek powinien być złożony osobiście, osoby zamieszkałe za
 ### Ile trwa zmiana imienia drogą urzędową?
 Termin rozstrzygnięcia sprawy różni się między urzędami. Np. na stronie krakowskiego BIPu jest podane, że sprawy mogą być rozstrzygnięte od ręki, ale jeśli są szczególnie skomplikowane to urząd ma do dwóch miesięcy na wydanie decyzji.
 
-W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiące, jesli natomiast trafisz na urzędnika który chce Ci pomóc, możesz na każdym etapie od razu dostawać zawiadomienia do podpisania (zamiast czekać na dostarczenie ich pocztą), a nawet jeśli na koniec odbierzesz decyzję osobiście, zrzec się od razu pisemnie terminu odwoławczego, co znacząco przyśpieszy całą procedurę i umożliwi wprowadzenie od razu zmian w cyfrowym systemie. W takiej sytuacji istnieje realna szansa zamknięcia się nawet w 2 tygodniach, choć wymagałoby to nadzwyczajnej ilości dobrej woli ze strony urzędu.h
+W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiące, jesli natomiast trafisz na urzędnika który chce Ci pomóc, możesz na każdym etapie od razu dostawać zawiadomienia do podpisania (zamiast czekać na dostarczenie ich pocztą), a nawet jeśli na koniec odbierzesz decyzję osobiście, zrzec się od razu pisemnie terminu odwoławczego, co znacząco przyśpieszy całą procedurę i umożliwi wprowadzenie od razu zmian w cyfrowym systemie. W takiej sytuacji istnieje realna szansa zamknięcia się nawet w 2 tygodniach, choć wymagałoby to nadzwyczajnej ilości dobrej woli ze strony urzędu.
 
 ### Koszty
 
@@ -65,15 +65,15 @@ Naczelny Sąd Administracyjny wyraził pogląd w sprawie imion obcojęzycznych w
 
 Zgodnie z art. 11 ustawy wniosek powinien zawierać:
 
-1) dane osoby, której zmiana dotyczy:
-    * imię (imiona) i nazwisko oraz nazwisko rodowe;
-    * wskazanie kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tego aktu;
-    * numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany;
-2) imię lub nazwisko, na jakie ma nastąpić zmiana;
-3) wskazanie miejsca sporządzenia aktu urodzenia małoletnich dzieci, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tych aktów;
-4) adres do korespondencji wnioskodawcy;
-5) uzasadnienie;
-6) oświadczenie wnioskodawcy, że w tej samej sprawie nie złożył wcześniej wniosku do innego kierownika urzędu stanu cywilnego lub nie została wydana już decyzja odmowna.
+1. dane osoby, której zmiana dotyczy:
+   * imię (imiona) i nazwisko oraz nazwisko rodowe;
+   * wskazanie kierownika urzędu stanu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tego aktu;
+   * numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL), jeżeli został nadany;
+2. imię lub nazwisko, na jakie ma nastąpić zmiana;
+3. wskazanie miejsca sporządzenia aktu urodzenia małoletnich dzieci, jeżeli zmiana imienia lub nazwiska będzie dotyczyła tych aktów;
+4. adres do korespondencji wnioskodawcy;
+5. uzasadnienie;
+6. oświadczenie wnioskodawcy, że w tej samej sprawie nie złożył wcześniej wniosku do innego kierownika urzędu stanu cywilnego lub nie została wydana już decyzja odmowna.
 
 :::info
 Gotowe wzory znajdziesz w niektórych USC, możesz także skorzystać z tych szablonów: [minimalistyczny](https://docs.google.com/document/d/1xkX0LE1EiwGqRyVFsMImmY2XnsO7f8jFUjUbUC77r6Y/edit#heading=h.alk32jfuumn0), [rozbudowany](https://docs.google.com/document/d/17XJCBhwxy-XcG99NoC2IRxeOVVvYYMGYRyis1tAd440/edit?usp=sharing).
@@ -135,7 +135,7 @@ Nie ma możliwości zmiany na nazwisko historyczne czy wsławione w dziedzinie k
 
 Jeśli jako powód wskazujesz zmianę "na imię lub nazwisko używane", to jest najważniejsza rzecz jaką musisz udowodnić.
 
-Zakładając, że wnioskujesz o zmianę na imię co do którego urzędnik może mieć zastrzeżenia - czy to z uwagi na Twoją płeć metrykalną, czy też nieznajomość takiego imienia, najlepiej w ramach swojego wniosku od razu dostarczyć niezbędnę dowody, żeby uprzedzić wątpliwości.
+Zakładając, że wnioskujesz o zmianę na imię co do którego urzędnik może mieć zastrzeżenia - czy to z uwagi na Twoją płeć metrykalną, czy też nieznajomość takiego imienia, najlepiej w ramach swojego wniosku od razu dostarczyć niezbędne dowody, żeby uprzedzić wątpliwości.
 
 :::spoiler Zasady
 
@@ -284,7 +284,7 @@ Jeśli jednak Twój wniosek został już odrzucony i zależy Ci na uzyskaniu tej
 >Postępowanie administracyjne w zakresie zmiany imienia i nazwiska jest dwuinstancyjne. Prawo zaskarżenia decyzji organu pierwszej instancji wynika z art. 78 Konstytucji RP, zgodnie z którym każda ze stron ma prawo do zaskarżenia orzeczeń i decyzji wydanych w pierwszej instancji. Organem odwoławczym w odniesieniu do decyzji wydanych przez kierownika urzędu stanu cywilnego jest wojewoda.[^2]
 
 :::warning
-Masz doświadczenie z odwoływaniem się od decyzji w sprawie zmieny imienia? Zostaw komentarz!h
+Masz doświadczenie z odwoływaniem się od decyzji w sprawie zmieny imienia? Zostaw komentarz!
 :::
 
 Choć katalog przesłanek pozytywnych nie jest katalogiem zamkniętym, na co wskazuje zwrot „istnieją w szczególności”, podkreślenia przez ustawodawcę, iż zmiany można dokonać „wyłącznie” z ważnych powodów, wsmacnia zasadę stabilizacji nazwisk, w związku z którą urzędnicy starają się zachować dużą ostrożność akceptując wniosek. Obecna ustawa nie zawiera definicji pojęcia „ważne powody”, pozostawiając tym samym dużą swobodę organowi administracji w wydaniu rozstrzygnięcia, które ma charakter wysoce uznaniowy. Wydanie decyzji uznaniowej, której treść oparta jest na klauzuli odsyłającej, podlega zaś kontroli sądowej. Na potwierdzenie warto przywołać stanowisko Naczelnego Sądu administracyjnego, zgodnie z którym „użycie przez prawodawcę określeń prawnie niezdefiniowanych (tzw. wyrażeń nieostrych) zobowiązuje organ sprawujący kontrolę legalności decyzji wydanych na podstawie przepisów używających takich określeń — do rozważenia, czy dokonana przez organ administracji państwowej ocena okoliczności sprawy nie nosi cech dowolności lub nie przekroczyła dopuszczalnej granicy swobody interpretacji tych określeń na tle konkretnego stanu faktycznego.
@@ -302,7 +302,7 @@ Zmiana imienia w USC nie stoi na przeszkodzie późniejszej zmianie metryki i po
 
 Jeśli przed zmianą istniał już profil ePUAP na Twoje dane, niestety jako składowe loginu pozostają Twoje stare imię i nazwisko. Istnieją też doniesienia, że dowolny polski urzędnik mający wgląd do Twoich danych w systemie może także widzieć informację o Twojej zmianie danych i poprzednie dane, również w przypadku zmiany płci i PESELu metodą sądową. Zdecydowanie jest to sprawa wymagająca dalszego zbadania i działań. [Dotychczasowe próby](http://inter-link.pl/wp-content/uploads/2018/09/ePUAP-Rzecznik-A.pdf) zaadresowania problemu, póki co nie przyniosły niestety oczekiwanych rezultatów. Dość zawiłą i z pewnością jednostroną opowieśćna ten temat można odsłuchać pod [tym adresem](https://www.youtube.com/watch?v=IljqeBDJyNw).
 
-Podobnie sytuacja wygląda z wieloma innymi systemami elektronicznymi, np. USOS. Chociaż Twoje dane powinny zostać zmienione, będzie trzeba tego dopilnować na własną rękę. Nie szystko jednak uda Ci się zaktualizować - bardzo często systemy informatyczne wykorzystują fragmenty imienia czy nazwiska jako loginn, adres czy inne oznaczenie w bazie danych. W takich sytuacjach zmiana może okazać się niemożliwa.
+Podobnie sytuacja wygląda z wieloma innymi systemami elektronicznymi, np. USOS. Chociaż Twoje dane powinny zostać zmienione, będzie trzeba tego dopilnować na własną rękę. Nie wszystko jednak uda Ci się zaktualizować - bardzo często systemy informatyczne wykorzystują fragmenty imienia czy nazwiska jako loginn, adres czy inne oznaczenie w bazie danych. W takich sytuacjach zmiana może okazać się niemożliwa.
 
 :::info
 ## Uznanie autorstwa
