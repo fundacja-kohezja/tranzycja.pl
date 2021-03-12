@@ -44,11 +44,11 @@ Naukowcy nie mają wątpliwości, że tranzycja [jest skutecznym sposobem leczen
 
 :::
 
-:::spoiler Dlaczego ludzie detranzycjonują?
+:::spoiler Dlaczego osoby detranzycjonują?
 
-Badania wykazują, że główne przyczyny detranzycji to naciski rodzica (36%), zbyt trudny proces tranzycji (33%), prześladowanie lub dyskryminacja z powodu bycia osobą transpłciową (31%), trudność ze znalezieniem pracy (29%) oraz presja ze strony innych członków rodziny (26%).
+[Badania](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf) wykazują, że główne przyczyny detranzycji to naciski rodzica (36%), zbyt trudny proces tranzycji (33%), prześladowanie lub dyskryminacja z powodu bycia osobą transpłciową (31%), trudność ze znalezieniem pracy (29%) oraz presja ze strony innych członków rodziny (26%).
 
-Wśród innych powodów wymieniane są także presja ze strony małżonka lub partnera (18%), pracodawcy (17%), przyjaciół (13%).
+Wśród innych powodów wymieniane są także presja ze strony małżonka lub partnera (18%), pracodawcy (17%), przyjaciół (13%). W ramach transfobicznych wyliczanek detranzycji, poza osobami które zostały zastraszone przez otoczenie do zaprzestania leczenia czy nie miały na nie już środków, bardzo często wliczane są też osoby niebinarne, które przerwały leczenie bo były już usatysfakcjonowane ze zmian, które zaszły w ich organizmie.
 
 :::
 
@@ -64,10 +64,10 @@ Wśród innych powodów wymieniane są także presja ze strony małżonka lub pa
 
 :::spoiler Dlaczego niektóre kliniki wymagają zaprzestania terapii hormonalnej przed zabiegiem?
 
-Choć niektórzy chirurdzy z dłuższą praktyką nadal jeszcze wymagają zaprzestania przyjmowania hormonów określony czas przed datą zabiegu, nie ma to uzasadnienia w przypadku współczesnej terapii hormonalnej i na szczęście zdarza się już coraz rzadziej. W samych początkach terapii hormonalnej, gdy nie było jeszcze dostępnych bioidentycznych syntetycznych odpowiedników ludzkich hormonów często stosowano hormony pochodzenia zwierzęcego, co wiązało się z różnymi potencjalnymi problemami, takimi jak m.in. zwiększone ryzyko powstawania zakrzepów.
+Choć niektórzy chirurdzy z dłuższą praktyką nadal wymagają zaprzestania przyjmowania hormonów na długi czas przed datą zabiegu, nie ma to uzasadnienia w przypadku współczesnej terapii hormonalnej i na szczęście zdarza się już coraz rzadziej. W samych początkach terapii hormonalnej, gdy nie było jeszcze dostępnych bioidentycznych syntetycznych odpowiedników ludzkich hormonów często stosowano hormony pochodzenia zwierzęcego, co wiązało się z różnymi potencjalnymi problemami, takimi jak m.in. zwiększone ryzyko powstawania zakrzepów.
 
-Mając świadomość postępów jakie dokonały się w zakresie terapii hormonalnych i braku realnych wskazań, od lat już kolejni chirurdzy odchodzą od stawiania tego typy wymogów. Wreszcie opublikowane w 2021 roku [badanie](https://www.facebook.com/TransHealthResearch/posts/2956715697764064) na próbie prawie 1400 osób nie wykazało zależności terapii hormonalnej z powstawaniem zakrzepów.
+Mając świadomość postępów jakie dokonały się w zakresie terapii hormonalnych i braku realnych wskazań, od lat już kolejni chirurdzy odchodzą od stawiania tego typy wymogów. Wreszcie opublikowane w 2021 roku w Journal of Clinical Endocrinology and Metabolism [badanie](https://www.facebook.com/TransHealthResearch/posts/2956715697764064) (DOI: 10.1210/clinem/dgaa966) na próbie prawie 1400 osób nie wykazało zależności terapii hormonalnej z powstawaniem zakrzepów.
 
-Badanie opublikowano w Journal of Clinical Endocrinology and Metabolism, Kozato et al., (2021). DOI: 10.1210/clinem/dgaa966
+Ma to przede wszystkim znaczeni w przypadku terapii tranżeńskiej i hormonów które bardzo szybko znikają z organizmu, np. przyjmowanych w formie tabletek, gdzie nawet tydzień bez hormonów może powodować znaczące zmiany w organizmie. Jeśli natomiast przyjmujesz zatrzyki i chirurg zalega Ci przedłużenie nieco okresu pomiędzy nimi przed zabiegiem, bo doświadczenie mu mówi że to obniża ryzyko krwiaków, to nie ma w takiej sytuacji powodów żeby się nie dostosować. Hormony przyjmowane w formie zastrzyków znikają z organizmu powoli i stopniowo, nie wywoła więc to takiej gwałtownej reakcji jak w przypadku odstawienia tabletek. Ostatecznie **zawsze ostatnie słowo ma Twój chirurg** i zawsze należy trzymać się jego zaleceń. Jeśli nie czujesz się do konca komfortowo z jego techniką i podejściem, możesz spróbować u innego.
 
 :::
