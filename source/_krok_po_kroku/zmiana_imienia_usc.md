@@ -38,9 +38,8 @@ Zmiana danych może nastąpić na wniosek opiekunów prawnych - w przypadku pary
 Choć z zasady wniosek powinien być złożony osobiście, osoby zamieszkałe za granicą mogą go złożyć za pośrednictwem konsula Rzeczypospolitej, wskazując kierownika urzędu stanu cywilnego, któremu ma zostać przekazany wniosek[^23]. Można też samodzielnie wysłać go pocztą lub przez ePUAP.
 
 ### Ile trwa zmiana imienia drogą urzędową?
-Termin rozstrzygnięcia sprawy różni się między urzędami. Np. na stronie krakowskiego BIPu jest podane, że sprawy mogą być rozstrzygnięte od ręki, ale jeśli są szczególnie skomplikowane to urząd ma do dwóch miesięcy na wydanie decyzji.
 
-W najgorszym wypadku całość nie powinna potrwać dłużej niż ok. 2 miesiące, jesli natomiast trafisz na urzędnika który chce Ci pomóc, możesz na każdym etapie od razu dostawać zawiadomienia do podpisania (zamiast czekać na dostarczenie ich pocztą), a nawet jeśli na koniec odbierzesz decyzję osobiście, zrzec się od razu pisemnie terminu odwoławczego, co znacząco przyśpieszy całą procedurę i umożliwi wprowadzenie od razu zmian w cyfrowym systemie. W takiej sytuacji istnieje realna szansa zamknięcia się nawet w 2 tygodniach, choć wymagałoby to nadzwyczajnej ilości dobrej woli ze strony urzędu.
+Czas rozpatrywania wniosku bywa różny, w najlepszym wypadku decyzję można dostać od ręki, w najgorszym całość nie powinna potrwać dłużej niż ok. 2 miesiące. Jesli trafisz na urzędnika który chce Ci pomóc, możesz na każdym etapie od razu dostawać zawiadomienia do podpisania (zamiast czekać na dostarczenie ich pocztą), a jeśli na koniec odbierzesz decyzję osobiście, zrzec się od razu pisemnie z przysługującego Ci okresu odwoławczego, co znacząco przyśpieszy całą procedurę i umożliwi wprowadzenie od razu zmian w cyfrowym systemie. Zazwyczaj decyzję otrzymuje się w ciągu tygodnia lub dwóch.
 
 ### Koszty
 
