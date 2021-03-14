@@ -42,6 +42,10 @@ Potrzebujesz wsparcia innych rodziców osób trans? Napisz na kontakt@tranzycja.
 
 :::
 
+## Podcast
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/2XiWUnWiMCEvxA9RfYMexK" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ## Badania na temat transpłciowości w rodzinie
 
 Fundacja Trans-Fuzja przeprowadziła badania pt. "Rodzina przede wszystkim - trans rodzicielstwo w Polsce". Z wynikami można się zapoznać tutaj: [PDF](http://transfuzja.org/media/rozne/raport_rodzina.pdf), [EPUB](http://transfuzja.org/media/rozne/raport_rodzina.epub).
@@ -51,5 +55,21 @@ Fundacja Trans-Fuzja przeprowadziła badania pt. "Rodzina przede wszystkim - tra
 {%youtube QyLo8thDe7s %}
 
 {%youtube SB6RxSmsvgk %}
+
+:::
+
+---
+
+:::warning
+
+## Możesz ulepszyć ten tekst!
+
+Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
+
+* Masz uwagi albo widzisz jakiś błąd?
+* Znasz dodatkowe materiały i źródła, najlepiej po polsku?
+
+
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/H1qIBxh7u).
 
 :::
