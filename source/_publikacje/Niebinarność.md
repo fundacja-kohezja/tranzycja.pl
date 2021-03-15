@@ -1,3 +1,6 @@
+---
+data: '2021-03-15 22:31:04'
+---
 # Niebinarność
 
 Temat niebinarności jest bardzo często trudny do zrozumienia, nie tylko dla osób z poza środowiska, ale także dla wielu osób transpłciowych. Bywa, że osoby wpadają w pewnien model binarnej transpłciowości jako jedynej dostępnej możliwości - takie osoby często potem nie mogą się odnaleźć i czuć ze sobą dobrze, a nigdy o niebinarności nie słyszały. Dlatego właśnie ten temat jest tak ważny.
