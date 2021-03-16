@@ -26,6 +26,7 @@ W ostatnim czasie pojawia się natomiast znaczna liczba osób które określają
 W Polsce badania na temat różnorodności płciowej dopiero od niedawna pojawiają się w głównym nurcie akademickim, dlatego też niewiele jest publikacji w j. polskim. Niewiele wiadomo też na temat uwarunkowań biologicznych, jednak co nieco udało się już ustalić.
 
 Przede wszystkim wiemy, że niebinarność nie pojawiła się nagle w XXI wieku. Wzmianki o niebinarnych tożsamościach znajdziemy na przestrzeni historii i różnych kultur, np.:
+
 * Sulawesi, Indonezja - rozpoznają właściwie 5 płci (kobiety, mężczyźni, calalai, calabai, bissu);
 * Hijras, Indie - hijra czyli "trzecia płeć", dosyć spory filar historii Indii;
 * Muxes - w Meksyku;
