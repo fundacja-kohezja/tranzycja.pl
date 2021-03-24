@@ -10,6 +10,9 @@ Jest to rodzaj całkowicie odwracalnej formy leczenia, która tymczasowo powstrz
 **Stosowanie blokerów nie zmienia w żaden sposób organizmu**, a jedynie powstrzymuje zmiany, z którymi dziecko nie czuje się komfortowo i istnieją uzasadnine obawy, że mogą być szkodliwe.
 :::
 
+![Ilustracja: blokery dojrzewania](https://tranzycja.pl/media/img/blokery-dojrzewania.png)
+
+
 ## Komu zapisuje się blokery?
 
 Blokery z założenia przepisuje się dorastającej młodzieży w celu opóźnienia dojrzewania. Nie otrzymują ich natomiast ani małe dzieci, ani osoby dorosłe. Nie ma uniwersalnego konsensusu wśród lekarzy, kiedy dokładnie należy zacząć ich podawanie[^9]. Najczęściej proces ten zaczyna się już w drugiej fazie skali Tannera, czyli dla dziecka oznaczonego przy narodzinach jako chłopiec nie wcześniej niż w 9-11 roku życia, a dla dziecka, które przy narodzinach zostało oznaczone jako dziewczynka – w 10-11,5 roku życia.
