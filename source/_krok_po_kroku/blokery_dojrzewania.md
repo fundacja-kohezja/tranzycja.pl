@@ -74,7 +74,7 @@ Do dziś nie ma żadnych danych sugerujących szkodliwość tymczasowego podawan
 :::info
 # Podziękowanie
 
-Artykuł bazuje na wpisie Eweliny Sowińskiej dla [Grupy Wsparcia dla Osób Transpłciowych](https://www.facebook.com/groups/1429825323924186/). Część informacji pochodzi z książki *Raising the transgender child* Dr. Michele Angello & Alisa Bowman (2016r)
+Artykuł bazuje na wpisie Eweliny Słowińskiej dla [Grupy Wsparcia dla Osób Transpłciowych](https://www.facebook.com/groups/1429825323924186/). Część informacji pochodzi z książki *Raising the transgender child* Dr. Michele Angello & Alisa Bowman (2016r)
 
 :::
 
