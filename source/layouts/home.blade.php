@@ -9,13 +9,13 @@ permalink: index.html
         <div class="introdution">
             @include('_ogolne.str_glowna_wstep')
         </div>
-        <div class="-mt-32 -mb-20 lg:-mt-10 lg:mb-0 xl:-mr-10 ml-5 flex-shrink-0">
-                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" class="h-auto w-full max-w-xs ml-auto opacity-10 lg:opacity-50" viewBox="50 50 180 140">
-                    <rect x="80" y="80" fill="#3FA9F5" width="40" height="40"/>
-                    <rect x="120" y="120" fill="#FF0000" width="40" height="40"/>
-                    <rect x="120" y="80" fill="#fff" width="40" height="40"/>
-                    <rect x="160" y="80" fill="#FF7BAC" width="40" height="40"/>
-                </svg>
+        <div class="-mt-32 -mb-20 lg:-mt-10 lg:mb-0 lg:-mr-32 xl:-mr-48 lg:-ml-8 ml-5 flex items-end justify-end flex-shrink-0 gradient-overlay">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="/assets/img/ilustracja-trans-ciemne.svg">
+                <img src="/assets/img/ilustracja-trans-jasne.svg" alt="" class="auto-dark h-auto w-full max-w-lg ml-auto">
+            </picture>
+            <img src="/assets/img/ilustracja-trans-jasne.svg" alt="" class="manual-light h-auto w-full max-w-lg ml-auto">
+            <img src="/assets/img/ilustracja-trans-ciemne.svg" alt="" class="manual-dark h-auto w-full max-w-lg ml-auto">
         </div>
     </section>
     <section class="mb-24">

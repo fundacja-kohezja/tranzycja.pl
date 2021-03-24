@@ -8,6 +8,21 @@
         @content;
     }
 }
+.auto-dark {
+    display: none;
+}
+.manual-light {
+    display: block;
+    @include dark {
+        display: none;
+    }
+}
+.manual-dark {
+    display: none;
+    @include dark {
+        display: block;
+    }
+}
 
 @import 'base';
 @import 'navigation';

@@ -9,6 +9,10 @@
     }
 }
 
+.manual-dark, .manual-light {
+    display: none
+}
+
 @import 'base';
 @import 'navigation';
 @import 'misc';
