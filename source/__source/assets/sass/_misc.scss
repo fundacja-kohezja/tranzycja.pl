@@ -470,8 +470,11 @@ mark {
     }
 }
 
-@media (max-width: 1023px) {
-    .gradient-overlay {
+.gradient-overlay {
+    img {
+        width: 32rem;
+    }
+    @media (max-width: 1023px) {
         @apply .relative;
         &::after {
             content: '';

@@ -12,10 +12,10 @@ permalink: index.html
         <div class="-mt-32 -mb-20 lg:-mt-10 lg:mb-0 lg:-mr-32 xl:-mr-48 lg:-ml-8 ml-5 flex items-end justify-end flex-shrink-0 gradient-overlay">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="/assets/img/ilustracja-trans-ciemne.svg">
-                <img src="/assets/img/ilustracja-trans-jasne.svg" alt="" class="auto-dark h-auto w-full max-w-lg ml-auto">
+                <img src="/assets/img/ilustracja-trans-jasne.svg" alt="" class="auto-dark h-auto ml-auto">
             </picture>
-            <img src="/assets/img/ilustracja-trans-jasne.svg" alt="" class="manual-light h-auto w-full max-w-lg ml-auto">
-            <img src="/assets/img/ilustracja-trans-ciemne.svg" alt="" class="manual-dark h-auto w-full max-w-lg ml-auto">
+            <img src="/assets/img/ilustracja-trans-jasne.svg" alt="" class="manual-light h-auto ml-auto">
+            <img src="/assets/img/ilustracja-trans-ciemne.svg" alt="" class="manual-dark h-auto ml-auto">
         </div>
     </section>
     <section class="mb-24">
