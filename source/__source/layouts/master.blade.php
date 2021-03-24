@@ -45,11 +45,11 @@
     </head>
 
     <body style="visibility:hidden" tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
-        <header class="shadow bg-gray-100 mb-8 dark:bg-gray-800 z-10" role="banner">
+        <header class="shadow bg-gray-100 dark:bg-gray-800 z-10" role="banner">
             @include('__source.partials.menu', ['items' => $page->mainNav])
         </header>
 
-        <div class="w-full flex-auto">
+        <div class="w-full flex-auto overflow-hidden pt-8">
             @yield('body')
         </div>
         

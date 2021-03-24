@@ -228,7 +228,7 @@ mark {
     }
 }
 .introdution {
-    z-index: 1;
+    z-index: 2;
     h1,
     h2,
     h3,
@@ -467,5 +467,24 @@ mark {
     fill: #1A1A1A;
     @include dark {
         fill: #fff;
+    }
+}
+
+.gradient-overlay {
+    img {
+        width: 32rem;
+    }
+    @media (max-width: 1023px) {
+        @apply .relative;
+        &::after {
+            content: '';
+            @apply .absolute;
+            @apply .inset-0;
+            z-index: 1;
+            background-image: linear-gradient(to top, #edf2f7 2em, rgba(237, 242, 247, 0) 6em);
+            @include dark {
+                background-image: linear-gradient(to top, #1a202c 2em, rgba(26,32,44, 0) 6em);
+            }
+        }
     }
 }
