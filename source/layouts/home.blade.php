@@ -9,7 +9,7 @@ permalink: index.html
         <div class="introdution">
             @include('_ogolne.str_glowna_wstep')
         </div>
-        <div class="-mt-32 -mb-20 lg:-mt-10 lg:mb-0 lg:-mr-32 xl:-mr-48 lg:-ml-8 ml-5 flex items-end justify-end flex-shrink-0 gradient-overlay">
+        <div class="-mt-24 -mb-20 lg:-mt-10 lg:mb-0 lg:-mr-32 xl:-mr-48 lg:-ml-8 ml-5 flex items-end justify-end flex-shrink-0 gradient-overlay">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="/assets/img/ilustracja-trans-ciemne.svg">
                 <img src="/assets/img/ilustracja-trans-jasne.svg" alt="" class="auto-dark h-auto ml-auto">

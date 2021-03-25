@@ -1,9 +1,9 @@
 <nav class="container flex flex-1 flex-col max-w-6xl mx-auto px-4 lg:px-6">
   <div class="max-w-7xl flex flex-1 items-center">
-    <div class="relative flex items-center flex-1 justify-between h-24">
+    <div class="relative flex items-center flex-1 justify-between h-16 lg:h-24">
       <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
         {{-- Mobile menu button --}}
-        <button onclick="navMenu.toggle()" class="inline-flex items-center justify-center p-2 rounded-md text-gray-600 dark:text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-expanded="false">
+        <button onclick="navMenu.toggle()" class="inline-flex items-center justify-center -ml-2 sm:ml-0 p-2 rounded-md text-gray-600 dark:text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-expanded="false">
           <span class="sr-only">Open main menu</span>
           <svg id="js-nav-menu-show" class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -15,7 +15,7 @@
       </div>
       <div class="flex-1 flex items-center justify-center lg:items-stretch lg:justify-start">
         <div class="flex-shrink-0 flex items-center">
-            <a href="/" title="Strona główna {{ $page->nazwaWitryny }}" class="inline-flex items-center w-auto group border-0 lg:pr-4">
+            <a href="/" title="Strona główna {{ $page->nazwaWitryny }}" class="inline-flex items-center w-auto max-w-halfvw group border-0 lg:pr-4">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="200" viewBox="50 0 712 158">
                 <g>
                   <path class="logo-dark" d="M206.551,64.384H191.25v40.5h-14.625v-40.5H161.25v-12.75h45.301V64.384z"/>
@@ -82,8 +82,8 @@
           @if ($page->docsearchApiKey && $page->docsearchIndexName)
               @include('__source.partials.search-input')
           @endif
-          <div class="relative inline-block text-left hover-trigger">
-            <button type="button" class="inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-purple-800 dark:hover:text-indigo-300 px-3 py-2 rounded-md text-sm font-medium border-0" id="options-menu" aria-haspopup="true">
+          <div class="relative inline-block text-left hover-trigger -mr-2 sm:mr-0">
+            <button type="button" class="inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-purple-800 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-medium border-0" id="options-menu" aria-haspopup="true">
               <span class="sr-only">Motyw</span>
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="h-5 mr-1" stroke="currentColor">
                 <path stroke-width="2" stroke-linecap="square" d="M2.53,7.17l1,.43M15.17,2.79l.42-1M2.53,14.83l1-.43M7.94,1.76l.43,1" />
