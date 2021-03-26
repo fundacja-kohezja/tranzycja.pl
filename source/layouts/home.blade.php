@@ -1,7 +1,7 @@
 ---
 permalink: index.html
 ---
-@extends('__source.layouts.master')
+@extends('__source.layouts.master', ['container_class' => 'overflow-hidden'])
 
 @section('body')
 <main class="container max-w-6xl mx-auto px-6 py-10 md:py-12">

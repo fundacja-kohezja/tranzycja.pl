@@ -49,7 +49,7 @@
             @include('__source.partials.menu', ['items' => $page->mainNav])
         </header>
 
-        <div class="w-full flex-auto overflow-hidden pt-8">
+        <div class="w-full flex-auto {{ $container_class ?? '' }} pt-8">
             @yield('body')
         </div>
         
