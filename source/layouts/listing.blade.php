@@ -18,7 +18,7 @@ permalink: krok-po-kroku/index.html
             <li class="flex flex-1 my-4">
                 <a class="excerpt-card numbered flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 shadow rounded-lg break-words px-4 py-6" href="{{ $poradnik->getUrl() }}">
                     <article class="flex flex-grow flex-col">
-                        <h2 class="font-semibold leading-tight text-2xl mb-0">
+                        <h2 class="font-extrabold leading-tight text-2xl mb-0">
                             {!! $poradnik->title() !!}
                         </h2>
                         <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">

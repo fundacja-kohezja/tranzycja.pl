@@ -24,7 +24,7 @@ permalink: publikacje/index.html
             <li class="flex flex-1 my-4">
                 <a class="excerpt-card flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 shadow rounded-lg break-words px-4 py-6" href="{{ $publikacja->getUrl() }}">
                     <article class="flex flex-grow flex-col">
-                        <h2 class="font-semibold leading-tight text-2xl mb-0">
+                        <h2 class="font-extrabold leading-tight text-2xl mb-0">
                             {!! $publikacja->title() !!}
                         </h2>
                         <div class="text-sm mt-2 text-indigo-700 dark:text-indigo-300">

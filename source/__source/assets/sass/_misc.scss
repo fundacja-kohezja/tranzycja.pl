@@ -165,7 +165,7 @@ mark {
         @apply .text-sm;
         h1 {
             @apply .text-2xl;
-            @apply .font-bold;
+            @apply .font-extrabold;
             @apply .text-indigo-800;
             @include dark {
                 @apply .text-indigo-200;
