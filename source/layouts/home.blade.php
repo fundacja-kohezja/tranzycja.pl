@@ -40,7 +40,7 @@ permalink: index.html
                     <li class="slider-item-wider flex mx-2">
                         <a class="excerpt-card numbered flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 shadow rounded-lg break-words px-4 py-6" href="{{ $poradnik->getUrl() }}">
                             <article class="flex flex-grow flex-col">
-                                <h2 class="font-bold leading-tight text-gray-700 text-2xl mb-0">
+                                <h2 class="font-extrabold leading-tight text-gray-700 text-2xl mb-0">
                                     {!! $poradnik->title() !!}
                                 </h2>
                                 <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">
@@ -79,7 +79,7 @@ permalink: index.html
                     <li class="slider-item flex mx-2">
                         <a class="excerpt-card flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 shadow rounded-lg break-words px-4 py-6" href="{{ $publikacja->getUrl() }}">
                             <article class="flex flex-grow flex-col">
-                                <h2 class="font-bold leading-tight text-gray-700 text-2xl mb-0">
+                                <h2 class="font-extrabold leading-tight text-gray-700 text-2xl mb-0">
                                     {!! $publikacja->title() !!}
                                 </h2>
                                 <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">
@@ -135,11 +135,21 @@ permalink: index.html
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 h-8 sm:h-10 align-middle -mt-8 -mb-6">
                     <path d="M10,1.81A8.19,8.19,0,1,1,1.81,10,8.21,8.21,0,0,1,10,1.81m1.2,9.24A3.32,3.32,0,1,0,7.26,6.11l-.65,1,2,1.29.65-1A1,1,0,0,1,10,7a1,1,0,0,1,0,2H8.86V12.1H11.2Zm0,2.25H8.86v2.33H11.2Z" />
                 </svg>
-                Pytania i odpowiedzi
+                @php
+                    ob_start();
+                @endphp
+                @include('_ogolne.faq')
+                @php
+                    $faq = ob_get_clean();
+                    $faq = preg_replace_callback( '|<h1>(.*?)</h1>|iU', function($matches) {
+                        echo $matches[1];
+                        return '';
+                    }, $faq);
+                @endphp
             </h1>
         </div>
         <div class="faq-section mt-8">
-            @include('_ogolne.faq')
+            {!! $faq !!}
         </div>
         <div class="clear-both"></div>
     </section>
