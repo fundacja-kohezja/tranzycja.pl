@@ -1,9 +1,10 @@
 ---
 data: '2021-03-10 08:29:58'
 ---
+
 # Testosteron w żelu - wywiad
 
-Współcześnie istnieje wiele różnych metod przyjmowania testosteronu. Różnią się między sobą m. in. dostępnością, ceną, czy wygodą przyjmowania. Zamiesczony poniżej wywiad dotyczy jednej z tych metod. Pierwotna publikacja: [Angry Trans](https://www.facebook.com/AngryTrans/posts/846885065817264).
+Współcześnie istnieje wiele różnych metod przyjmowania testosteronu. Różnią się między sobą m. in. dostępnością, ceną, czy wygodą przyjmowania. Zamieszczony poniżej wywiad dotyczy jednej z tych metod. Pierwotna publikacja: [Angry Trans](https://www.facebook.com/AngryTrans/posts/846885065817264).
 
 ---
 
@@ -54,7 +55,7 @@ Nie robiłem żadnych ćwiczeń na głos, ale wiem, że niektórzy to praktykuj�
 
 **Czy można wcierać żel w twarz aby szybciej urosła broda?**
 
-💬 Kuwa nie xD tzn. pewnie urosłaby szybciej, ale gościu serio xD Nie robiłbym tego ze względu na tą ilość alko w żelu, o której pisałem wyżej, szczególnie, jeśli ktoś ma naturalnie suchą skórę. No i pewnie wejdzie z jedzeniem do gęby to słabo. A no i syfy wychodzą w tych miejscach, więc można sobie zrobić pizze zamiast zarostu.
+💬 Ku\*wa nie xD tzn. pewnie urosłaby szybciej, ale gościu serio xD Nie robiłbym tego ze względu na tą ilość alko w żelu, o której pisałem wyżej, szczególnie, jeśli ktoś ma naturalnie suchą skórę. No i pewnie wejdzie z jedzeniem do gęby to słabo. A no i syfy wychodzą w tych miejscach, więc można sobie zrobić pizze zamiast zarostu.
 
 ## Aplikacja i dawkowanie
 
@@ -76,7 +77,7 @@ Najbardziej zalecane jest wcieranie w ramiona i tak też jest napisane na więks
 💬 Tak, jak powie lekarz. Dawka jest ustalana na podstawie wyników badań z krwi i ew. innych zdrowotnych przypadłości, np. tarczyca. 
 Ja zaczynałem od małej dawki 2,5 g/dzień, teraz (ok. 2 lata) biorę odrobinę ponad 6g i jestem zadowolony zarówno z efektów, jak i finansowo.
 
-** Uczulające składniki? Ma ich wiecej niz ten w zastrzykach czy mniej?**
+**Uczulające składniki? Ma ich wiecej niz ten w zastrzykach czy mniej?**
 
 💬 Nie mam pojęcia 😳 normalnie mam uczulenie na wszystko, co nie jest jedzeniem i poza tymi 3 tygodniami trądziku nic mi sie nie dzieje, więc chyba nie ma tragedii. Skład każdego leku można sprawdzić w internecie btw. Na każdej ulotce jest napisane, co może uczulać.
 
@@ -91,6 +92,7 @@ Ja zaczynałem od małej dawki 2,5 g/dzień, teraz (ok. 2 lata) biorę odrobinę
 **Nie boisz się tzw "przenieść testosteronu" na drugą osobę przypadkowo przez żel?**
 
 💬 Tak jak pisałem wyżej, nie ma czego się bać, wystarczy smarować normalne miejsca (i je zasłonić), a nie twarz czy dłonie.
+
 **Czy żel jest niebezpieczny dla kotów?**
 
 💬 Lifyen: Tak, żel jest niebezpieczny dla kotów.
@@ -128,11 +130,6 @@ Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
 * Masz uwagi albo widzisz jakiś błąd?
 * Znasz dodatkowe materiały i źródła?
 
-**Do uzupełnienia są m.in.:**
-
-* Szczegółowe informacje o zmianie imienia przez osoby niepełnoletnie
-* Przykłady dobrych/złych urzędów.
-
-Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/HJ5bPZVeO).
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/BJWOcRpe_).
 
 :::
