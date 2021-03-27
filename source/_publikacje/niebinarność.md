@@ -84,7 +84,7 @@ Artykuł bazuje na tekście autorstwa Alex Krzysztoń, pierwotnie opublikowanym 
 
 [^1]: [Wikipedia [ANG]: Sytuacja prawna osób niebinarnych](https://en.wikipedia.org/wiki/Legal_recognition_of_non-binary_gender)
 
-# Przydatne linki
+## Przydatne linki
 1. [A Guide to Genderqueer, Non-Binary, and Genderfluid Identity](https://www.psychologytoday.com/intl/blog/sex-sexuality-and-romance/201807/guide-genderqueer-non-binary-and-genderfluid-identity)
 2. [Understanding Non-Binary People: How to Be Respectful and Supportive](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive)
 3. [What Does It Mean to Identify as Nonbinary?](https://www.healthline.com/health/transgender/nonbinary)
