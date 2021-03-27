@@ -50,7 +50,7 @@ Podawany bloker (syntetyczna gonadoliberyna, czyli hormon uwalniający gonadotro
 
 Efekt brania blokerów widać po 2-4 tygodniach i podawanie ich jest odwracalne w 100%. Po odstawieniu blokerów, organizm wraca do „normalnego” funkcjonowania w ciągu 6 miesięcy.
 
-# Co na ten temat mówią lekarze?
+## Co na ten temat mówią lekarze?
 
 Norman Spack, bostoński pediatra-endokrynolog, który stosuje w leczeniu blokery dojrzewania od 1998 roku, twierdzi, że w ten sposób ratuje życia[^3].
 
@@ -72,7 +72,7 @@ Do dziś nie ma żadnych danych sugerujących szkodliwość tymczasowego podawan
 
 
 :::info
-# Podziękowanie
+## Podziękowanie
 
 Artykuł bazuje na wpisie Eweliny Słowińskiej dla [Grupy Wsparcia dla Osób Transpłciowych](https://www.facebook.com/groups/1429825323924186/). Część informacji pochodzi z książki *Raising the transgender child* Dr. Michele Angello & Alisa Bowman (2016r)
 
