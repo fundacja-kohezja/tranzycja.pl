@@ -5,6 +5,8 @@ data: '2021-03-29 15:49:00'
 
 Standardy w obecnym brzmieniu zostały przyjęte przez Zarząd Główny Polskiego Towarzystwa Seksuologicznego dnia 19 czerwca 2020 roku. Powstanie wytycznych jest ważnym przełomem w zakresie opieki nad zdrowiem osób transpłciowych. To pierwsze oficjalnie opublikowane polskie zalecenia dotyczące tego zagadnienia, opracowane przez grupę specjalistów z różnych dziedzin: lekarzy, psychologów, psychoterapeutów i prawników.
 
+![Ilustracja: blokery dojrzewania](https://tranzycja.pl/media/img/zalecenia-pts.png)
+
 Już na wstępie autorzy podkreślają potrzebę stworzenia nowych wytycznych, w związku ze zmianami w rozumieniu transpłciowości, jakie dokonało się na przestrzeni ostatnich lat. Głównym celem opracowania tych wytycznych było ujednolicenie procesu diagnostyczno-terapeutycznego, próba częściowego zbliżenia zaleceń do tych zaproponowanych w wersji siódmej Standardów Opieki WPATH, a także osiągnięcie konsensusu pomiędzy specjalistami reprezentującymi różne dziedziny i poglądy, z uwzględnieniem szczególnego lokalnego kontekstu (sytuacji prawnej oraz dotychczasowej praktyki w tym zakresie).
 
 W konktekście dotychczasowej polskiej praktyki na szczególną uwagę zasługuje:
