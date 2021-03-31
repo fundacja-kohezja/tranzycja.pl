@@ -9,7 +9,7 @@
         <meta property="og:site_name" content="{{ $page->nazwaWitryny }}"/>
         <meta property="og:title" content="{{ $page->title() ?  $page->title() . ' | ' : '' }}{{ $page->nazwaWitryny }}"/>
         <meta property="og:description" content="{{ $page->description ?? $page->opisWitryny }}"/>
-        <meta property="og:url" content="{{ $page->getUrl() }}"/>
+        <meta property="og:url" content="{{ $page->getPath() }}"/>
         <meta property="og:image" content="/assets/img/logo.png"/>
         <meta property="og:type" content="website"/>
 

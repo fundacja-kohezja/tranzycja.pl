@@ -102,7 +102,7 @@ class BuildTOC
                 }
 
                 else {
-                    $toc .= '<li><a class="block leading-tight font-bold border-b-0 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 p-2 rounded-md" href="' . $krok->getUrl() . '">' . $krok->title() . '</a></li>';
+                    $toc .= '<li><a class="block leading-tight font-bold border-b-0 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 p-2 rounded-md" href="' . $krok->getPath() . '">' . $krok->title() . '</a></li>';
                 }
 
             } 
