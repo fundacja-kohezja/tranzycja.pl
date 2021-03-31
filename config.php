@@ -11,7 +11,7 @@ $document = $parser->parse(file_get_contents(__DIR__ . '/source/_ogolne/konfigur
 $yaml_config = $document->getYAML();
 
 return (array)$yaml_config + [
-    'baseUrl' => '',
+    'baseUrl' => 'https://tranzycja.pl',
     'production' => false,
 
     // Algolia DocSearch credentials
