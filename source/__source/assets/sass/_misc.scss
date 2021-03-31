@@ -69,19 +69,27 @@
         @apply .text-gray-200;
         &-success {
             @apply .bg-green-800;
-            @apply .text-green-300;
+            &, details, b, strong {
+                @apply .text-green-300;
+            }
         }
         &-info {
             @apply .bg-blue-900;
-            @apply .text-blue-200;
+            &, details, b, strong {
+                @apply .text-blue-200;
+            }
         }
         &-warning {
             @apply .bg-yellow-900;
-            @apply .text-yellow-300;
+            &, details, b, strong {
+                @apply .text-yellow-300;
+            }
         }
         &-danger {
             @apply .bg-red-900;
-            @apply .text-red-300;
+            &, details, b, strong {
+                @apply .text-red-300;
+            }
         }
     }
 }
@@ -98,7 +106,7 @@ details {
     }
     .alert & {
         @apply .p-0;
-        @apply .bg-transparent;
+        background-color: transparent!important;
         @apply .overflow-visible;
     }
     summary {

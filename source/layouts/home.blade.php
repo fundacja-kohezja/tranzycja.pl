@@ -27,7 +27,7 @@ permalink: index.html
                 <span class="align-middle">Krok po kroku</span>
             </h1>
             <p class="inline-block">
-                <a href="/krok-po-kroku" class="border-b-0 font-heading font-semibold tracking-wider">
+                <a href="/krok-po-kroku" class="border-b-0 font-heading font-bold tracking-wider">
                     Zobacz wszystkie
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 inline-block align-middle mb-1 mr-1">
                         <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
@@ -66,7 +66,7 @@ permalink: index.html
                 <span class="align-middle">Publikacje</span>
             </h1>
             <p class="inline-block">
-                <a href="/publikacje" class="border-b-0 font-heading font-semibold tracking-wider">
+                <a href="/publikacje" class="border-b-0 font-heading font-bold tracking-wider">
                     Więcej publikacji
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 inline-block align-middle mb-1 mr-1">
                         <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
@@ -109,7 +109,7 @@ permalink: index.html
                 Aktualności
             </h1>
             <p class="inline-block">
-                <a href="/aktualnosci" class="border-b-0 font-heading font-semibold tracking-wider">
+                <a href="/aktualnosci" class="border-b-0 font-heading font-bold tracking-wider">
                     Więcej aktualności
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 inline-block align-middle mb-1 mr-1">
                         <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
@@ -161,7 +161,7 @@ permalink: index.html
             Dodatkowe materiały
         </h1>
         <p class="inline-block">
-            <a href="/materialy" class="border-b-0 font-heading font-semibold tracking-wider">
+            <a href="/materialy" class="border-b-0 font-heading font-bold tracking-wider">
                 Zobacz materiały
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 inline-block align-middle mb-1 mr-1">
                     <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
