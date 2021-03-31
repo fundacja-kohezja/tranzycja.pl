@@ -36,7 +36,7 @@ class BuildTOC
 
             if ($processed_headings) {
 
-                $toc = '<aside class="toc-container"><details id="toc" class="bg-gray-100 dark:bg-gray-800 shadow rounded-lg px-4 py-1 lg:py-0 toc lg:my-4"><summary>Spis treści</summary><nav><ul class="list-none pl-0 mt-0">';
+                $toc = '<aside class="toc-container"><details id="toc" class="bg-gray-100 dark:bg-gray-800 rounded-lg px-4 py-1 lg:py-0 toc lg:my-4"><summary>Spis treści</summary><nav><ul class="list-none pl-0 mt-0">';
 
                 foreach ($processed_headings as $h) {
                     if ($h['level'] == 1){

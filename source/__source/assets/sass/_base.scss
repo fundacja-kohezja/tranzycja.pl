@@ -179,7 +179,6 @@ pre {
     @apply .overflow-x-auto;
     @apply .p-4;
     @apply .rounded;
-    @apply .shadow;
     @apply .text-base;
 
     code {
@@ -197,7 +196,6 @@ pre {
 
 table {
     @apply .bg-gray-100;
-    @apply .shadow;
     @apply .overflow-hidden;
     @apply .rounded-lg;
     @apply .px-4;

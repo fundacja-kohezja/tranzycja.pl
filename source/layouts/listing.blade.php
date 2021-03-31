@@ -9,14 +9,14 @@ permalink: krok-po-kroku/index.html
         <h1 class="text-indigo-600 dark:text-purple-300 mb-0">
             <span class="align-middle">Tranzycja krok po kroku</span>
         </h1>
-        <p class="text-lg text-medium text-gray-600 dark:text-gray-400">
+        <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
             {{ $page->opisSekcjiKrokPoKroku }}
         </p>
     </div>
     <ul class="list-none pl-0 py-2 numbered-container">
         @foreach($krok_po_kroku as $poradnik)
             <li class="flex flex-1 my-4">
-                <a class="excerpt-card numbered flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 shadow rounded-lg break-words px-4 py-6" href="{{ $poradnik->getUrl() }}">
+                <a class="excerpt-card numbered flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $poradnik->getUrl() }}">
                     <article class="flex flex-grow flex-col">
                         <h2 class="font-extrabold leading-tight text-2xl mb-0">
                             {!! $poradnik->title() !!}

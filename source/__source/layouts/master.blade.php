@@ -23,7 +23,8 @@
         <title>{{ $page->nazwaWitryny }}{{ $page->title() ? ' | ' . $page->title() : ' – ' . $page->opisWitryny }}</title>
 
         <link rel="home" href="{{ $page->baseUrl ?: '/' }}">
-        <link rel="icon" href="/favicon.ico">
+        <link rel="icon" href="/favicon.ico?v=2">
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
         @stack('meta')
 
@@ -45,7 +46,7 @@
     </head>
 
     <body style="visibility:hidden" tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
-        <header class="shadow bg-gray-100 dark:bg-gray-800 z-10" role="banner">
+        <header class="bg-gray-100 dark:bg-gray-800 z-10" role="banner">
             @include('__source.partials.menu', ['items' => $page->mainNav])
         </header>
 
@@ -56,7 +57,7 @@
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
         @stack('scripts')
 
-        <footer class="bg-gray-100 shadow dark:bg-gray-900 text-center text-sm mt-12 p-4" role="contentinfo">
+        <footer class="bg-gray-100 dark:bg-gray-900 text-center text-sm mt-12 p-4" role="contentinfo">
             @include('_ogolne.stopka')
         </footer>
     </body>
