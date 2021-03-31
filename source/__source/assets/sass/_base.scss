@@ -130,6 +130,13 @@ h6 {
     h5 { @apply .text-xl }
 }
 
+b, strong {
+    font-weight: bold;
+    @include dark {
+        @apply .text-gray-100;
+    }
+}
+
 hr {
     @apply .border-b;
     @apply .border-gray-300;
@@ -150,7 +157,7 @@ li {
 ol,
 ul {
     @apply .my-4;
-    @apply .pl-4;
+    padding-left: 2em;
 }
 
 ol {
