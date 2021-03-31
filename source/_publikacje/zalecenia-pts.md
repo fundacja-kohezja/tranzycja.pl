@@ -61,8 +61,8 @@ Zazwyczaj spełnienie powyższych celów zajmuje kilka miesięcy regularnych spo
 ### Wymagania do postawienia diagnozy obejmującej kategorię z klasy F64 według ICD–10
 
 a) Wywiad, którego celem jest:
-1. Potwierdzenie występowania uporczywej dysforii/niezgodności płciowej.
-2. Wykluczenie wtórnego pochodzenia dysforii płciowej lub objawów, które mogą ją przypominać, np. urojeń.
+  1. Potwierdzenie występowania uporczywej dysforii/niezgodności płciowej.
+  2. Wykluczenie wtórnego pochodzenia dysforii płciowej lub objawów, które mogą ją przypominać, np. urojeń.
 
 :::warning
 
