@@ -1,7 +1,6 @@
 // Add your custom styles here
 .alert {
     @apply .bg-gray-100;
-    @apply .shadow;
     @apply .overflow-hidden;
     @apply .rounded-lg;
     @apply .px-4;
@@ -88,7 +87,6 @@
 }
 details {
     @apply .bg-gray-100;
-    @apply .shadow;
     @apply .overflow-hidden;
     @apply .rounded-lg;
     @apply .px-4;
@@ -97,6 +95,11 @@ details {
     @apply .text-sm;
     > :last-child {
         @apply .mb-0;
+    }
+    .alert & {
+        @apply .p-0;
+        @apply .bg-transparent;
+        @apply .overflow-visible;
     }
     summary {
         @apply .leading-tight;
@@ -109,7 +112,7 @@ details {
         @apply .text-base;
         outline-offset: -8px;
         &:focus {
-            outline: 2px dashed #bee3f8;
+            outline: 2px dashed #E2E8F0;
         }
     }
     @include dark {
@@ -117,7 +120,7 @@ details {
         @apply .text-gray-200;
         summary {
             &:focus {
-                outline: 2px dashed #4C51BF;
+                outline: 2px dashed #4A5568;
             }
         }
     }
@@ -277,7 +280,7 @@ mark {
     }
     .toc {
         @apply .overflow-auto;
-        @apply .shadow;
+        @apply .shadow-lg;
         max-height: 80vh;
         scrollbar-color: #cbd5e0 transparent;
         scrollbar-width: 10px;
@@ -302,11 +305,7 @@ mark {
         }
         @media (min-width: 1024px) {
             max-height: calc(100vh - 1rem);
-        }
-        @media (max-width: 1023px) {
-            &[open] {
-                @apply .shadow-lg;
-            }
+            @apply .shadow-none;
         }
 
         summary {
@@ -388,6 +387,7 @@ mark {
         background-size: 12rem 9rem;
     }
     &.numbered::before {
+        @apply .font-heading;
         background-image: none;
         counter-increment: cnt;
         content: counter(cnt);
@@ -433,7 +433,6 @@ mark {
     @apply .text-gray-100;
     @apply .border-b-0;
     @apply .rounded-lg;
-    @apply .shadow;
     &:hover {
         @apply .bg-indigo-800;
         @apply .text-gray-100;

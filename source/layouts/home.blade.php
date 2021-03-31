@@ -27,7 +27,7 @@ permalink: index.html
                 <span class="align-middle">Krok po kroku</span>
             </h1>
             <p class="inline-block">
-                <a href="/krok-po-kroku" class="border-b-0">
+                <a href="/krok-po-kroku" class="border-b-0 font-heading font-semibold tracking-wider">
                     Zobacz wszystkie
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 inline-block align-middle mb-1 mr-1">
                         <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
@@ -38,7 +38,7 @@ permalink: index.html
         <ul class="flex-1 flex list-none -mr-6 md:-mr-2 -ml-6 py-2 px-4 overflow-auto numbered-container">
             @foreach($krok_po_kroku as $poradnik)
                     <li class="slider-item-wider flex mx-2">
-                        <a class="excerpt-card numbered flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 shadow rounded-lg break-words px-4 py-6" href="{{ $poradnik->getUrl() }}">
+                        <a class="excerpt-card numbered flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $poradnik->getUrl() }}">
                             <article class="flex flex-grow flex-col">
                                 <h2 class="font-extrabold leading-tight text-gray-700 text-2xl mb-0">
                                     {!! $poradnik->title() !!}
@@ -66,7 +66,7 @@ permalink: index.html
                 <span class="align-middle">Publikacje</span>
             </h1>
             <p class="inline-block">
-                <a href="/publikacje" class="border-b-0">
+                <a href="/publikacje" class="border-b-0 font-heading font-semibold tracking-wider">
                     Więcej publikacji
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 inline-block align-middle mb-1 mr-1">
                         <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
@@ -77,7 +77,7 @@ permalink: index.html
         <ul class="flex-1 flex list-none -mr-6 md:-mr-2 -ml-6 py-2 px-4 overflow-auto">
             @foreach($publikacje as $publikacja)
                     <li class="slider-item flex mx-2">
-                        <a class="excerpt-card flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 shadow rounded-lg break-words px-4 py-6" href="{{ $publikacja->getUrl() }}">
+                        <a class="excerpt-card flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $publikacja->getUrl() }}">
                             <article class="flex flex-grow flex-col">
                                 <h2 class="font-extrabold leading-tight text-gray-700 text-2xl mb-0">
                                     {!! $publikacja->title() !!}
@@ -109,7 +109,7 @@ permalink: index.html
                 Aktualności
             </h1>
             <p class="inline-block">
-                <a href="/aktualnosci" class="border-b-0">
+                <a href="/aktualnosci" class="border-b-0 font-heading font-semibold tracking-wider">
                     Więcej aktualności
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 inline-block align-middle mb-1 mr-1">
                         <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
@@ -118,7 +118,7 @@ permalink: index.html
             </p>
         </div>
         <div>
-            <article class="news-entry on-homepage break-words bg-gray-100 dark:bg-gray-800 shadow rounded-lg px-4 py-6">
+            <article class="news-entry on-homepage break-words bg-gray-100 dark:bg-gray-800 rounded-lg px-4 py-6">
                 <header class="items-center flex-col flex float-right text-sm mt-2 ml-4 text-indigo-700 dark:text-indigo-300 sm:flex-row">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-6 inline-block align-middle mb-1 mr-1">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
@@ -161,7 +161,7 @@ permalink: index.html
             Dodatkowe materiały
         </h1>
         <p class="inline-block">
-            <a href="/materialy" class="border-b-0">
+            <a href="/materialy" class="border-b-0 font-heading font-semibold tracking-wider">
                 Zobacz materiały
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 inline-block align-middle mb-1 mr-1">
                     <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />

@@ -6,7 +6,6 @@
     @apply .pb-4;
     @apply .pt-8;
     @apply .px-4;
-    @apply .shadow;
     @apply .w-auto;
 
     @screen lg {
@@ -18,7 +17,6 @@
         @apply .pl-0;
         @apply .pr-4;
         @apply .pt-0;
-        @apply .shadow-none;
         @apply .w-1/4;
     }
 }

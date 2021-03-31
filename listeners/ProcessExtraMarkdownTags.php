@@ -86,20 +86,24 @@ class ProcessExtraMarkdownTags
                 $new_content = str_replace(":$code:", $emoji, $new_content);
             }
     
-    
-            /* Markdown blocks */
-    
-            foreach ($this->block_types as $type) {
-                $new_content = preg_replace('/(<p>:::|:::)' . $type . '(.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<aside class="alert alert-' . $type  . '">$4</aside>$5$6', $new_content);
-            }
-    
-    
+
             /* Markdown spoiler */
     
             $new_content = preg_replace('/(<p>:::|:::)spoiler (.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<details><summary>$2</summary><div class="mt-4">$4</div></details>$5$6', $new_content);
             $new_content = preg_replace('/(<p>:::|:::)spoiler(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<details><div class="mt-4">$3</div></details>$4$5', $new_content);
     
+
+            /* Markdown blocks */
+    
+            foreach ($this->block_types as $type) {
+                $new_content = preg_replace('/(<p>:::|:::)' . $type . '(.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '<aside class="alert alert-' . $type  . '">$4</aside>$5$6', $new_content);
+            }
+
+
+            /* One ending for nested block */
+
             $new_content = preg_replace('/(\R|\R<p>)(:::<\/p>|:::)/u', '', $new_content);
+
     
             $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
         }

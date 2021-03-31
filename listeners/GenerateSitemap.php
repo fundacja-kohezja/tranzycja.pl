@@ -30,7 +30,9 @@ class GenerateSitemap
             ->reject(function ($path) {
                 return $this->isExcluded($path);
             })->each(function ($path) use ($baseUrl, $sitemap) {
-                $sitemap->addItem(rtrim($baseUrl, '/') . $path, time(), Sitemap::DAILY);
+                try {
+                    $sitemap->addItem(rtrim($baseUrl, '/') . $path, time(), Sitemap::DAILY);
+                } catch (\Exception $e) {}
         });
 
         $sitemap->write();

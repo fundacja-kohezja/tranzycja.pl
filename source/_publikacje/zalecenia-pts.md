@@ -38,11 +38,9 @@ zaproponowanego w postaci nowych jednostek diagnostycznych dysforii
 płciowej (DSM–5) i niezgodności płciowej (ICD–11).
 
 b) Stwierdzenie zdolności do świadomej zgody, które uwzględnia:
-
 1. Ocenę i potwierdzenie względnej stabilności stanu psychicznego
 (wykluczenie dekompensacji stanu psychicznego o takim charakterze i nasileniu, który wpływałby na funkcje poznawcze i intelektualne oraz emocje, uniemożliwiając trafną ocenę trwałości i stabilności poczucia przynależności do danej płci i obecności uporczywej dysforii płciowej).
 2. Psychoedukację i ocenę wiedzy pacjenta/ki w zakresie:
-
     * działania hormonów płciowych (także w odniesieniu do płodności i możliwości jej zachowania),
     * psychospołecznych następstw tranzycji,
     * omówienia aspektów prawnych związanych z tranzycją,
@@ -63,7 +61,6 @@ Zazwyczaj spełnienie powyższych celów zajmuje kilka miesięcy regularnych spo
 ### Wymagania do postawienia diagnozy obejmującej kategorię z klasy F64 według ICD–10
 
 a) Wywiad, którego celem jest:
-
 1. Potwierdzenie występowania uporczywej dysforii/niezgodności płciowej.
 2. Wykluczenie wtórnego pochodzenia dysforii płciowej lub objawów, które mogą ją przypominać, np. urojeń.
 
@@ -81,9 +78,9 @@ b) **W indywidualnych i wspartych wywiadem oraz badaniem fizykalnym przypadkach*
 
 c) **W uzasadnionych klinicznie przypadkach** zasadne jest także wykonanie badań dodatkowych, w tym badań obrazowych ośrodkowego układu nerwowego.
 
-:::warning
+:::info
 
-**W procesie diagnostycznym zalecana jest współpraca przynajmniej dwóch specjalistów mogących dokonać oceny lekarsko-psychologicznej.**
+:::spoiler **W procesie diagnostycznym zalecana jest współpraca przynajmniej dwóch specjalistów mogących dokonać oceny lekarsko-psychologicznej.**
 
 W skład zespołu powinien wchodzić lekarz specjalista psychiatra lub specjalista seksuolog oraz psycholog posiadający certyfikat seksuologa klinicznego (preferencyjnie) albo specjalista psychologii klinicznej, ewentualnie specjalista psychoseksuologii.
 
@@ -109,7 +106,7 @@ b) Badania zalecane
 
 :::warning
 
-**Jeśli pacjent/ka odmówi poddania się poniższym badaniom, nie stanowi to przeciwwskazania do rozpoczęcia substytucji hormonalnej, jakkolwiek fakt ten należy zapisać w dokumentacji i/lub uzyskać pisemną zgodę na wdrożenie substytucji hormonalnej pomimo niepoddania się badaniu.**
+:::spoiler **Jeśli pacjent/ka odmówi poddania się poniższym badaniom, nie stanowi to przeciwwskazania do rozpoczęcia substytucji hormonalnej, jakkolwiek fakt ten należy zapisać w dokumentacji i/lub uzyskać pisemną zgodę na wdrożenie substytucji hormonalnej pomimo niepoddania się badaniu.**
 
 Ta grupa badań jest ze wszech miar zalecana, oczywiście według stanu faktycznego i potrzeb, jednak należy sobie zdawać sprawę, że u niektórych osób transpłciowych nasilenie dysforii płciowej jest tak skrajne, że uniemożliwia przeprowadzenie niektórych badań, np. badania ginekologicznego czy urologicznego. Jako że nasilona dysforia płciowa nie jest obojętna dla zdrowia i związana jest z cierpieniem, obniżoną jakością życia, a nawet ze zwiększonym ryzykiem samobójstwa, wymaga wdrożenia celowanego postępowania. Możliwość wdrożenia takiego postępowania pomimo dokonanej przez pacjenta odmowy ma realizować zasadę minimalizowania szkód (np. poprzez zapobieganie przyjmowania hormonów z „czarnego rynku” poza dozorem lekarskim) i nieść szybką ulgę w cierpieniu. Nie oznacza to wcale, że lekarz nie może i nie powinien podjąć się omówienia zasadności przeprowadzenia takiego badania w przyszłości, po tym, jak nasilenie dysforii osłabnie. Takie sytuacje mają miejsce w praktyce. Należy także podkreślić, że zalecenia mają raczej za zadanie wskazywać pożądany kierunek postępowania oraz stanowić wsparcie dla praktykujących klinicystów, a nie przymuszać ich do działań niezgodnych z rozpoznaniem indywidualnej sytuacji danego pacjenta, z których wynikać może uznanie danego badania za niezbędne do podjęcia przez nich decyzji o rozpoczęciu MDAF.
 
@@ -151,7 +148,6 @@ Niektórzy eksperci dopuszczają możliwość przeprowadzenia zabiegów operacyj
 Jednak do czasu sformułowania bardziej jednoznacznych rozstrzygnięć prawnych autorzy niniejszych zaleceń rekomendują to konserwatywne stanowisko.
 
 :::
-
 
 2. 12 miesięcy funkcjonowania w roli zgodnej z odczuwaną tożsamością.
 3. Jeśli pacjent/ka zdecydował/a się na rozpoczęcie substytucji hormonalnej, czas trwania kuracji powinien wynosić przynajmniej 12 miesięcy (nie jest to jednak dodatkowe 12 miesięcy względem wymaganego okresu funkcjonowania w roli zgodnej z odczuwaną tożsamością).

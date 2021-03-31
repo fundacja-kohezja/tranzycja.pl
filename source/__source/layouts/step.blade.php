@@ -4,7 +4,7 @@
 <div class="container max-w-6xl mx-auto px-6 py-4">
     <div class="text-pink-600 dark:text-indigo-300 text-xl hidden lg:block">
         <nav>
-            <a href="/krok-po-kroku" class="border-b-0">
+            <a href="/krok-po-kroku" class="border-b-0 font-heading font-bold tracking-wider">
                 Tranzycja krok po kroku
             </a>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block transform -rotate-90 -scale-y-100 mt-1 h-5">

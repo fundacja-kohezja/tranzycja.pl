@@ -15,14 +15,14 @@ permalink: publikacje/index.html
             </svg>
             <span class="align-middle">Publikacje</span>
         </h1>
-        <p class="text-lg text-medium text-gray-600 dark:text-gray-400">
+        <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
             {{ $page->opisSekcjiPublikacje }}
         </p>
     </div>
     <ul class="list-none pl-0 py-2">
         @foreach($pagination->items as $publikacja)
             <li class="flex flex-1 my-4">
-                <a class="excerpt-card flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 shadow rounded-lg break-words px-4 py-6" href="{{ $publikacja->getUrl() }}">
+                <a class="excerpt-card flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $publikacja->getUrl() }}">
                     <article class="flex flex-grow flex-col">
                         <h2 class="font-extrabold leading-tight text-2xl mb-0">
                             {!! $publikacja->title() !!}
@@ -43,9 +43,9 @@ permalink: publikacje/index.html
     </ul>
     
     <div class="text-center">
-        <nav class="max-w-full relative z-0 inline-flex rounded-md shadow-sm -space-x-px" aria-label="Paginacja">
+        <nav class="max-w-full relative z-0 inline-flex rounded-md -space-x-px" aria-label="Paginacja">
             @if ($previous = $pagination->previous)
-                <a href="{{ $page->baseUrl }}{{ $previous }}" class="bg-gray-300 dark:bg-gray-800 relative inline-flex items-center px-2 py-2 rounded-l-md border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-350 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-medium border-0">
+                <a href="{{ $page->baseUrl }}{{ $previous }}" class="bg-gray-300 dark:bg-gray-800 relative inline-flex items-center px-2 py-2 rounded-l-md border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-350 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-bold border-0">
                     <span class="sr-only">Nowsze</span>
                     <!-- Heroicon name: chevron-left -->
                     <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -67,7 +67,7 @@ permalink: publikacje/index.html
                                 {{ $pageNumber }}
                             </span>
                         @else
-                            <a href="{{ $page->baseUrl }}{{ $path }}" class="md:inline-flex bg-gray-300 dark:bg-gray-800 relative items-center px-4 py-2 border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-350 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-medium border-0">
+                            <a href="{{ $page->baseUrl }}{{ $path }}" class="md:inline-flex bg-gray-300 dark:bg-gray-800 relative items-center px-4 py-2 border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-350 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-bold border-0">
                                 {{ $pageNumber }}
                             </a>
                         @endif
@@ -75,7 +75,7 @@ permalink: publikacje/index.html
                 </div>
             </div>
             @if ($next = $pagination->next)
-                <a href="{{ $page->baseUrl }}{{ $next }}" class="bg-gray-300 dark:bg-gray-800 inline-flex items-center px-2 py-2 rounded-r-md border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-350 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-medium border-0">
+                <a href="{{ $page->baseUrl }}{{ $next }}" class="bg-gray-300 dark:bg-gray-800 inline-flex items-center px-2 py-2 rounded-r-md border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-350 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-bold border-0">
                     <span class="sr-only">Starsze</span>
                     <!-- Heroicon name: chevron-right -->
                     <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">

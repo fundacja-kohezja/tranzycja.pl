@@ -1,5 +1,6 @@
 <?php
 
+use App\Listeners\FixListsSeparation;
 use App\Listeners\PrependFrontmatter;
 use App\Listeners\GenerateSitemap;
 use App\Listeners\RestoreSourceFiles;
@@ -21,6 +22,7 @@ use App\Listeners\BuildTOC;
  * 
  */
 
+$events->beforeBuild(FixListsSeparation::class);
 $events->beforeBuild(PrependFrontmatter::class);
 
 $events->afterBuild(GenerateSitemap::class);
