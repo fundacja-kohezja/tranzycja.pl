@@ -1,3 +1,6 @@
+---
+data: '2021-04-01 13:32:48'
+---
 # Spis powszechny
 
 ![Ilustracja: Spis Powszechny](https://tranzycja.pl/media/img/spis-powszechny.png)
