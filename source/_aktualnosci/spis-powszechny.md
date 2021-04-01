@@ -3,7 +3,7 @@ data: '2021-04-01 13:32:48'
 ---
 # Spis powszechny
 
-![Ilustracja: Spis Powszechny](https://tranzycja.pl/media/img/spis-powszechny.png)
+![Ilustracja: Spis Powszechny](https://tranzycja.pl/media/img/spis-powszechny.png =720x))
 
 
 Na przekór wczorajszemu Dniu Widoczności, dziś rusza **Narodowy Spis Powszechny**, który usilnie odmawia uznania osób transpłciowych i niebinarnych. Udział w nim jest obowiązkowy, **odmowa podlega karze**. Niestety, państwo zmusza część osób do podawania nieprawdziwych informacji. 
