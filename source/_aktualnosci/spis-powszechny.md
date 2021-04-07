@@ -3,19 +3,13 @@ data: '2021-04-01 13:32:48'
 ---
 # Spis powszechny
 
-![Ilustracja: Spis Powszechny](https://tranzycja.pl/media/img/spis-powszechny.png)
-
-
 Na przekór wczorajszemu Dniu Widoczności, dziś rusza **Narodowy Spis Powszechny**, który usilnie odmawia uznania osób transpłciowych i niebinarnych. Udział w nim jest obowiązkowy, **odmowa podlega karze**. Niestety, państwo zmusza część osób do podawania nieprawdziwych informacji. 
 
 W spisie zastosowany jest binarny podział na płeć - wybieramy między “kobieta” i “mężczyzna”, a nasz **wybór jest dodatkowo weryfikowany przy pomocy PESELu**. Oznacza to, że:
 
-::: warning
-
 ❌ osoby niebinarne nie mają możliwości wskazania płci pasującej do odczuwanej,
-❌ osoby transpłciowe przed prawnym uzgodnieniem płci również są zmuszone skłamać.
 
-:::
+❌ osoby transpłciowe przed prawnym uzgodnieniem płci również są zmuszone skłamać.
 
 GUS zasłania się potrzebą weryfikacji tożsamości, ale to marny argument - **dane o płci są zbierane głównie do celów statystycznych, w ten sposób będą po prostu przekłamane**. Mamy więc do czynienia z kolejnym przejawem systemowej dyskryminacji osób transpłciowych i niebinarnych. Dyskryminacji, której można było minimalnym wysiłkiem uniknąć.
 
