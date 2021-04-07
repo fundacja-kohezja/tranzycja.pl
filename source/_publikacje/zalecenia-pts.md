@@ -13,7 +13,7 @@ W konktekście dotychczasowej polskiej praktyki na szczególną uwagę zasługuj
 
 * zalecenie stawiania **rozpoznania z całej klasy F64** („zaburzenia identyfikacji płciowej”), a nie tylko z tych ograniczonych do F64.0 („transseksualizm”),
 * **brak wymogu terapii hormonalnej przed zabiegami** w obrębie klatki piersiowej,
-* **podkreślone znczanie świadomej zgody** w procesie diagnostyczno-terapeutycznym,
+* **podkreślone znaczanie świadomej zgody** w procesie diagnostyczno-terapeutycznym,
 * położenie nacisku na **nieprzedłużanie procesu diagnostycznego**,
 * zwróconenie uwagi na znaczenie **poszanowania tożsamości** pacjenta i użycia inkluzywnego języka,
 * zalecenie **ograniczenia umieszczania informacji biograficznych i osobistych** pacjentów/tek w skierowaniach i opiniach jedynie do tych, które stanowią przesłankę do formułowanych wniosków, a zwłaszcza informacji na temat funkcjonowania seksualnego (zachowań, fantazji, orientacji i preferencji seksualnych).
