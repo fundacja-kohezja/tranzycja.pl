@@ -18,7 +18,7 @@ W konktekście dotychczasowej polskiej praktyki na szczególną uwagę zasługuj
 * zwróconenie uwagi na znaczenie **poszanowania tożsamości** pacjenta i użycia inkluzywnego języka,
 * zalecenie **ograniczenia umieszczania informacji biograficznych i osobistych** pacjentów/tek w skierowaniach i opiniach jedynie do tych, które stanowią przesłankę do formułowanych wniosków, a zwłaszcza informacji na temat funkcjonowania seksualnego (zachowań, fantazji, orientacji i preferencji seksualnych).
 
-Szkoda na tomiast, że w kwestii zaleceń w zakresie zabiegów ingerujących w płodność zespół ekspercki schował się za aktualnym systemem prawnym - **prawo powinno wynikać z wiedzy i zaleceń specjalistów, nigdy odwrotnie**.
+Szkoda natomiast, że w kwestii zaleceń w zakresie zabiegów ingerujących w płodność zespół ekspercki schował się za aktualnym systemem prawnym - **prawo powinno wynikać z wiedzy i zaleceń specjalistów, nigdy odwrotnie**.
 
 
 :::info
