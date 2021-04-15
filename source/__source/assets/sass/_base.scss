@@ -73,6 +73,7 @@ h6 {
 
     b, strong {
         @apply .text-blue-400;
+        @apply .font-extrabold;
     }
     @include dark {
 
