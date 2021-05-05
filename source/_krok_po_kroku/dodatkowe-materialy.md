@@ -135,6 +135,21 @@ Fundacja Trans-Fuzja, 2016
 
 :::
 
+## Uczelnia
+
+:::spoiler Tworzenie szkoły wyższej przyjaznej studiującym osobom trans\*
+
+Trzy poradniki: dla administracji uczelnianej, dla uczelni wyższych, dla studiujących osób trans\*
+Queer UW, 2019 [Źródło](http://queer.uw.edu.pl/2019/09/trzy-poradniki-dotyczace-osob-trans-na-uczelniach-sa-juz-dostepne-za-darmo-dla-kazdego/)
+
+[![Tworzenie szkoły wyższej przyjaznej studiującym osobom trans\*. Poradnik dla administracji uczelnianej](/media/docs/uczelnia/trans-publikacja-administracja.jpg)](/media/docs/uczelnia/trans-publikacja-administracja.pdf)
+
+[![Tworzenie szkoły wyższej przyjaznej studiującym osobom trans\*. Poradnik dla uczelni wyższych](/media/docs/uczelnia/trans-publikacja-uczelnia.jpg)](/media/docs/uczelnia/trans-publikacja-uczelnia.pdf)
+
+[![Tworzenie szkoły wyższej przyjaznej studiującym osobom trans\*. Poradnik dla studiujących osób trans\*](/media/docs/uczelnia/trans-publikacja-studenci.jpg)](/media/docs/uczelnia/trans-publikacja-studenci.pdf)
+
+:::
+
 ## Religia
 
 :::spoiler Wiara w kolorach tęczy
