@@ -220,4 +220,17 @@ W razie sprzecznych informacji, najlepiej kieruj się poradami z tego poradnika 
 
 :::
 
+:::warning
+
+## Możesz ulepszyć ten tekst!
+
+Masz czas, chęci i doświadczenia którymi chcesz się podzielić? Śmiało!
+
+* Masz uwagi albo widzisz jakiś błąd?
+* Znasz dodatkowe materiały i źródła, najlepiej po polsku?
+
+Komentarze i propozycje zmian możesz zostawiać [tutaj](https://hackmd.io/@tranzycja/ry4tYDCEd).
+
+:::
+
 [^1]: *Pielęgniarstwo - podręcznik dla studentów medycznych*, pod redakcją Kazimiery Zahradniczek, Wydawnictwo Lekarskie PZWL
