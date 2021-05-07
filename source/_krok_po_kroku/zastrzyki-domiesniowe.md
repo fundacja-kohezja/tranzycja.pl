@@ -191,19 +191,19 @@ Przy bólu w miejscu iniekcji może pomóc rozmasowywanie mięśnia pod ciepłą
 
 ### Możliwe powikłania
 
-:::info
-
-**Zapamiętaj - najważniejsze, to:**
-1. Nie wstrzykiwać powietrza.
-2. Nie trafić w nerw ani żyłę.
-
-:::
-
 - ból w miejscu wkłucia, niewielki krwiak lub siniak - pojawiają się często, nie są powodem do zmartwień, jeśli ból jest o niewielkim natężeniu i trwa maksymalnie kilka dni; ból może być efektem zbyt szybkiego wprowadzenia leku,
 - infekcja w miejscu wkłucia - może wystąpić przez nieprzestrzeganie zasad higieny,
 - zrosty - mogą sie pojawić po wielokrotnym wkłuciu się w to samo miejsce,
 - uszkodzenie nerwu kulszowego - może się zdarzyć przez wkłucie się w nieodpowiednie miejsce - przy odpowiednim wyznaczeniu miejsca jest to bardzo mało prawdopodobne,
 - zator tłuszczowy - może wystąpić po podaniu leku w naczynia krwionośne, dlatego aspiracja jest tak ważna.
+
+:::info
+
+**Zapamiętaj, aby uniknąć powikłań, najważniejsze, to:**
+1. Nie wstrzykiwać powietrza.
+2. Nie trafić w nerw ani żyłę.
+
+:::
  
 ### Dodatkowe materiały wideo
 
