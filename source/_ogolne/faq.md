@@ -24,7 +24,9 @@ Osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) czę
 
 Przedstawianie się zaimkami i pytanie o nie jest (a przynajmniej powinno być) czymś całkowicie normalnym, naturalnym. Rozpowszechniając ten zwyczaj Ty również przyczynisz się do normalizowania go. Zaimki to nie jest element bycia osobą trans czy niebinarną; to część języka polskiego i ma je każdy, choć nie zawsze wszyscy spotykamy się z równym z ich z poszanowaniem.
 
-Warto przy tym także pamiętać, że niektóre osoby trans i niebinarne każdego dnia toczą walkę o swoją tożsamość i bardzo często wolałyby tego już nie musieć robić i po prostu poczuć się w grupie "normalne". Dlatego dodawaj swoje zaimki do podpisu w mailach, bio w social mediach, czy przy przedstawiania się na spotkaniach w nowym gronie - nigdy nie wiesz, czy tym prostym gestem nie wyratujesz kogoś innego z niezręcznej sytuacji, biorąc na moment odrobinę ich "inności" na siebie.
+Warto przy tym także pamiętać, że niektóre osoby trans i niebinarne każdego dnia toczą walkę o swoją tożsamość i bardzo często wolałyby już tego nie musieć robić i po prostu poczuć się w grupie "normalne".  Wiele osób trans i niebinarnych widząc, że inne osoby nie przedstawiają się z zaimkami, same również tego nie zrobią, bo czują że już dość odstają od reszty, albo nie czują się dość bezpiecznie aby to zrobić.
+
+Dlatego dodawaj swoje zaimki do podpisu w mailach, bio w social mediach, czy przy przedstawiania się na spotkaniach w nowym gronie - nigdy nie wiesz, czy tym prostym gestem nie wyratujesz kogoś innego z niezręcznej sytuacji, biorąc na moment odrobinę ich "inności" na siebie.
 
 ## Kiedy lepiej sobie zaimki odpuścić?
 
