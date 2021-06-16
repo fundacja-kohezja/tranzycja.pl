@@ -16,6 +16,24 @@ Określenie "transseksualizm" uznawane jest za przestarzałe, medykalizujące, a
 
 :::
 
+:::spoiler Czy osoby cis powinny przedstawiając się i podpisując dodawać swoje zaimki?
+
+Osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) często pytają czy—i kiedy!—powinny przedstawiając się podawac zaimki, a czasem nawet mają wątpliwości czy im wolno, pytając czy nie "zawłaszczają" w ten sposób elementów związanych z byciem trans.
+
+## Krótko: jasne, jak najbardziej!
+
+Przedstawianie się zaimkami i pytanie o nie jest (a przynajmniej powinno być) czymś całkowicie normalnym, naturalnym. Rozpowszechniając ten zwyczaj Ty również przyczynisz się do normalizowania go. Zaimki to nie jest element bycia osobą trans czy niebinarną: to część języka Polskiego i mamy je wszyscy, choć nie wszyscy spotykamy się zawsze ich z poszanowaniem.
+
+Warto przy tym także pamiętać, że niektóre osoby trans i niebinarne każdego dnia toczą walkę o swoją tożsamość i bardzo często wolałyby tego już nie musieć robić i po prostu poczuć się w grupie "normalne". Dlatego dodawaj swoje zaimki do podpisu w mailach, bio w social mediach, czy przy przedstawiania się na spotkaniach w nowym gronie - nigdy nie wiesz, czy tym prostym gestem nie wyratujesz kogoś innego z niezręcznej sytuacji, biorąc na moment odrobinę ich "inności" na siebie.
+
+## Kiedy lepiej sobie zaimki odpuścić?
+
+Niektóre osoby nie czują na co dzień potrzeby przedstawiania się z zaimkami, ale jeśli wypatrzą w grupie kogoś kto wydaje im się trans, dodają je specjalnie z uwagi na tę osobę - czasem nawet wiedząc jakimi zaimkami ona się posługuje. **To nie jest w porządku!**
+
+Nikt nie lubi być wyszczególniany w grupie jako "ta osoba trans". Postępując w taki sposób nic nie normalizujesz, za to możesz wprawić kogoś w jeszcze większy dyskomfort - staraj się więc na to uważać.
+
+:::
+
 ---
 
 ## Nauka
