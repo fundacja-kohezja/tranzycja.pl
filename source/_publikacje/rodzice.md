@@ -62,23 +62,23 @@ Fundacja Trans-Fuzja przeprowadziła badania pt. "Rodzina przede wszystkim - tra
 ## Władza rodzicielska
 
 :::info
-Poniższy fragment stanowi informację prawną, nie zaś poradę czy opinię prawną. W razie potrzeby skonsultuj się z adwokatem bądź radcą prawnym.
+Poniższy fragment stanowi informację prawną, natomiast nie jest poradą czy opinią prawną. W celu uzyskania dokładniejszych informacji skonsultuj się z adwokatem bądź radcą prawnym.
 :::
 
 1. Potocznie często używane jest określenie "odebranie praw rodzicielskich", gdy rozmówca ma na myśli odebranie władzy rodzicielskiej. Władza rodzicielska dotyczy dzieci i nastolatków niepełnoletnich (czyli w lwiej większości sytuacji - przed ukończeniem 18 roku życia) - osoby po 18-tce nie pozostają pod niczyją władzą rodzicielską. Polega ona na "obowiązku i prawie rodziców do wykonywania pieczy nad osobą i majątkiem dziecka oraz do wychowania dziecka, z poszanowaniem jego godności i praw".
 
 2. Władza rodzicielska może być odebrana przez sąd w trzech sytuacjach:
-*  trwałej przeszkody w wykonywaniu władzy rodzicielskiej (np. długotrwały wyjazd za granicę połączony z brakiem zainteresowania losem dziecka),
-* nadużywania władzy rodzicielskiej przez rodziców,
-* zaniedbywania przez rodziców w sposób rażący obowiązków względem dziecka.
+-  trwałej przeszkody w wykonywaniu władzy rodzicielskiej (np. długotrwały wyjazd za granicę połączony z brakiem zainteresowania losem dziecka),
+- nadużywania władzy rodzicielskiej przez rodziców,
+- zaniedbywania przez rodziców w sposób rażący obowiązków względem dziecka.
 
-Odebranie praw rodzicielskich oznacza, że rodzic nie może decydować o majątku i osobistych, istotnych sprawach dziecka (np. leczeniu, wyborze szkoły, możliwości choćby krótkiego wyjazdu za granicę). Co ważne, nie oznacza zwolnienia tego rodzica z konieczności alimentacji ani też nie oznacza, że rodzic nie ma prawa do kontaktów z dzieckiem. By pozbawić rodzica możliwości widzeń z dzieckiem, potrzebne jest odrębne orzeczenie sądu, do którego muszą być szczególne podstawy (np. alkoholizm, narkomania, skrajna przemoc).
+3. Odebranie praw rodzicielskich oznacza, że rodzic nie może decydować o majątku i osobistych, istotnych sprawach dziecka (np. leczeniu, wyborze szkoły, możliwości choćby krótkiego wyjazdu za granicę). Co ważne, nie oznacza zwolnienia tego rodzica z konieczności alimentacji ani też nie oznacza, że rodzic nie ma prawa do kontaktów z dzieckiem. By pozbawić rodzica możliwości widzeń z dzieckiem, potrzebne jest odrębne orzeczenie sądu, do którego muszą być szczególne podstawy (np. alkoholizm, narkomania, skrajna przemoc).
 
-3. **Odebranie władzy rodzicielskiej nie oznacza też zerwania więzi pokrewieństwa dziecko-rodzic.** Do tego służą osobne środki prawne, np. powództwo o zaprzeczenie macierzyństwa (dopuszczalne, jeśli w akcie urodzenia wpisano w pozycji "Matka" kobietę, która nie urodziła dziecka) czy powództwo o zaprzeczenie ojcostwa (jeśli dziecko nie pochodzi od męża matki). W konsekwencji, **jeśli Twojemu rodzicowi odebrano prawa rodzicielskie przed Twoim ukończeniem 18-tki, i tak jesteś obowiązany go/ją pozwać w sprawie o ustalenie płci.** Incydentalnie zdarza się, że sąd dokonuje innej interpretacji tego przepisu, ale raczej na to nie licz, bo to rzadkość.
+4. **Odebranie władzy rodzicielskiej nie oznacza też zerwania więzi pokrewieństwa dziecko-rodzic.** Do tego służą osobne środki prawne, np. powództwo o zaprzeczenie macierzyństwa (dopuszczalne, jeśli w akcie urodzenia wpisano w pozycji "Matka" kobietę, która nie urodziła dziecka) czy powództwo o zaprzeczenie ojcostwa (jeśli dziecko nie pochodzi od męża matki). W konsekwencji, **jeśli Twojemu rodzicowi odebrano prawa rodzicielskie ukończeniem przez Ciebie 18-tki, i tak jesteś obowiązany go/ją pozwać w sprawie o ustalenie płci.** Incydentalnie zdarza się, że sąd dokonuje innej interpretacji tego przepisu, ale raczej na to nie licz, bo to rzadkość.
 
-4. Jeśli osoba trans ma dziecko urodzone przed swoją tranzycją, to standardowym postępowaniem co do aktu urodzenia dziecka jest niedokonywanie żadnych zmian po wyroku ustalającym płeć rodzica. To podejście bierze się stąd, że wyrok wywołuje skutki prawne od dnia wydania - czyli w dniu sporządzenia aktu urodzenia dziecka rodzic był wciąż prawnie osobą swojej ówczesnej płci metrykalnej. Dlatego nie ma mowy o wpisaniu do aktu urodzenia czy dowodu osobistego dziecka rodziców tej samej płci.
+5. Jeśli osoba trans ma dziecko urodzone przed swoją tranzycją, to standardowym postępowaniem co do aktu urodzenia dziecka jest niedokonywanie żadnych zmian po wyroku ustalającym płeć rodzica. To podejście bierze się stąd, że wyrok wywołuje skutki prawne od dnia wydania - czyli w dniu sporządzenia aktu urodzenia dziecka rodzic był wciąż prawnie osobą swojej ówczesnej płci metrykalnej. Dlatego nie ma mowy o wpisaniu do aktu urodzenia czy dowodu osobistego dziecka rodziców tej samej płci.
 
-5. W konsekwencji, jeśli drugi rodzic/sąd rodzinny/USC/MOPS chcą odebrania władzy rodzicielskiej, uzasadniając to jedynie "niedopuszczalnością posiadania dwóch prawnych matek przez dziecko" i bez zaistnienia jakiegoś powodu z pkt 2 - **mylą się w aż dwóch miejscach i należy walczyć!** W szczególności należy w takiej sytuacji skonsultować się z adwokatem lub radcą prawnym z obszaru prawa rodzinnego; warto rozważyć też skargę do RPO oraz zgłoszenie się do organizacji społecznej np. Grupa Stonewall, Kampania Przeciw Homofobii, czy Trans-Fuzja.
+6. W konsekwencji, jeśli drugi rodzic/sąd rodzinny/USC/MOPS chcą odebrania władzy rodzicielskiej, uzasadniając to jedynie "niedopuszczalnością posiadania dwóch prawnych matek przez dziecko" i bez zaistnienia jakiegoś powodu z pkt 2 - **mylą się w aż dwóch miejscach i należy walczyć!** W szczególności należy w takiej sytuacji skonsultować się z adwokatem lub radcą prawnym z obszaru prawa rodzinnego; warto rozważyć też skargę do RPO oraz zgłoszenie się do organizacji społecznej np. Grupa Stonewall, Kampania Przeciw Homofobii, czy Trans-Fuzja.
 
 
 ---
