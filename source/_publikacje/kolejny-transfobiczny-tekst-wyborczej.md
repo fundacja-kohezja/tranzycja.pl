@@ -90,9 +90,9 @@ W opublikowanym przez Gazetę Wyborczą [oświadczeniu](https://www.instagram.co
 [^14]: Rapid-onset gender dysphoria in adolescents and young adults: A study of parental reports. / Parent reports of adolescents and young adults perceived to show signs of a rapid onset of gender dysphoria. sic. Lisa Littman, 2018
 [^15]: CAAPS Position Statement on Rapid Onset Gender Dysphoria (ROGD
 [^16]: „Meet the Last 'Respectable' Reparative Therapist", artykuł Brynn Tannehill opublikowany na lgbtqnation.com 2 stycznia 2015 r.
-[^17]:„American Medical Association backs nationwide conversion therapy ban", NBC News, 21 listopad 2019 r.
-[^18]:„Controversial CAMH gender identity clinic winds down", artykuł The Varsity opublikowany 11 stycznia 2016 r.
-[^19]:Credibility of Fox News in the United States as of May 2021, Amy Watson, Statista, 2021
+[^17]: „American Medical Association backs nationwide conversion therapy ban", NBC News, 21 listopad 2019 r.
+[^18]: „Controversial CAMH gender identity clinic winds down", artykuł The Varsity opublikowany 11 stycznia 2016 r.
+[^19]: Credibility of Fox News in the United States as of May 2021, Amy Watson, Statista, 2021
 [^20]:„How One Conservative Think Tank Is Stocking Trump’s Government", artykuł autorstwa Jonathana Mahlera, opublikowany w New York Times 20 czerwca 2018 r.
 [^21]:„VIRTUAL EVENT: National Education Survey Results: Gender Identity and Life Issues in Schools" notka opbulikowana na stronie Heritage Foundation 23 czerwca 2020 r.
 [^22]:„Right-Wing Views for Generation Z, Five Minutes at a Time",artykuł Nellie Bowles opublikowany w New York Times 4 styczcnia 2020 r.
