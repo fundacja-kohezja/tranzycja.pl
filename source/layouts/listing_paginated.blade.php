@@ -1,7 +1,7 @@
 ---
 pagination:
     collection: publikacje
-    perPage: 6
+    perPage: 10
 permalink: publikacje/index.html
 ---
 @extends('__source.layouts.master')
