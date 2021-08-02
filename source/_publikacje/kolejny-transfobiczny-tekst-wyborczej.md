@@ -17,9 +17,7 @@ Transpłciowość i blisko związana z nią dysforia płciowa są rzadkie, ale o
 ## Tymczasem rzeczywistość
 
 :::warning
-
 Określenie czegoś jako „wzrost o 4400%"" na pewno przyciąga uwagę i może szokować, ale jeśli przejdziemy na konkretne liczby, to szybko okaże się, że jest to kolejna manipulacja.
-
 :::
 
 
@@ -31,9 +29,7 @@ Określenie czegoś jako „wzrost o 4400%"" na pewno przyciąga uwagę i może 
 ## Jak to jest z tą mastektomią?
 
 :::info
-
 Autor tekstu z trwogą pisze o  “amputacjach piersi dziewcząt”, czy “nieodwracalnych efektach hormonów” nie wspominając o tym, że te konkretne interwencje medyczne są stosowane nie u małych dziewczynek, ale osób po 16 roku życia.
-
 :::
 
 Takie zabiegi, mające za zadanie pomóc transpłciowym osobom poczuć się lepiej ze swoimi ciałami i zmienić cechy płciowe związane z płcią przypisaną im przy urodzeniu, mają **szerokie wsparcie ze strony środowiska medycznego**. Ich **pozytywny efekt dla zdrowia psychicznego** jest bezsprzeczny i potwierdzony przez rozliczne badania np. metaanalizę 55 badań[^7] na ten temat wykonaną przez Uniwersytet Cornell. Nie mają też podstawy lęki dotyczące mającego nastąpić po latach żalu z podjętych operacji - **odsetek osób żałujących przejścia zabiegów chirurgicznych związanych z tranzycją wynosi około 1%** [^8], a dla osób przechodzących mastektomię, czyli tą straszną amputację piersi, jest jeszcze niższy. Interwencje medyczne afirmujące płeć osób transpłciowych i zmniejszające dysforię płciową wspierają wytyczne American Psychological Association [^9], Endocrine Society [^10], American Academy of Pediatrics[^11], czy American Academy of Child and Adolescent Psychiatry[^12]. **W przedrukowanym w Gazecie Wyborczej artykule nie znajdziemy o tym żadnej wzmianki**, znaleźć za to możemy uprzedmiotawiający i zwyczajnie seksistowski komentarz o tym, że przez takie zabiegi nie zazna się “pocałunków i pieszczot”.
@@ -43,9 +39,7 @@ Takie zabiegi, mające za zadanie pomóc transpłciowym osobom poczuć się lepi
 Tego rodzaju niedopatrzeń nie da się traktować zwyczajnie jako błędu w sztuce, tym bardziej jeśli zna się główne źródła, na których Abigail Shrier oparła swoje tezy o udawanej transpłciowości. Jednym z nich jest Lisa Littman, autorka szeroko skrytykowanej w środowisku naukowym[^13] koncepcji ROGD („Rapid Onset of Gender Dysphoria”, nagłe pojawianie się dysforii płciowej), według której nastolatki miały “zarażać” się transpłciowością od innych nastolatków przez Internet, siedząc na wspólnych forach i blogach. **Littman nigdy nie przeprowadziła jednak żadnych badań nad żadnymi transpłciowymi nastolatkami**[^14], nigdy nie spytała się ich o ich własne odczucia, przeżycia, nie śledziła ich późniejszych losów - **spytała się wyłącznie ich rodziców i to zrekrutowanych z for zrzeszających rodziców nieuznających płci swoich dzieci**. Oczywiście usłyszała od nich, że to wszystko wina Internetu i rówieśników, ale zamiast uznać, że więcej mówi to o rodzicach niż o ich dzieciach, stwierdziła, że to z pewnością prawda, na przekór wszystkim innym źródłom naukowym na temat transpłciowości.
 
 :::danger
-
 Trzy dni przed publikacją tekstu Steina w Gazecie Wyborczej, największa północno-amerykańska koalicja wydziałów uniwersyteckich i organizacji zrzeszających psychologów CAAPS (Coalition for the Advancement & Application of Psychological Science) wydała oświadczenie, w którym jasno postuluje pozbycie się diagnozy ROGD z praktyki medycznej ze względu na brak jakichkolwiek rzetelnych badań i  empirycznych dowodów na jej istnienie[^15].
-
 :::
 
 Drugim źródłem Shrier, do którego wielokrotnie odwołuje się w swojej książce jest Kenneth Zucker, **lekarz od lat zaangażowany w terapie konwersyjne dzieci transpłciowych i homoseksualnych**[^16] (najczęściej gejów i trans dziewczynek). Zucker kazał zabierać im zbyt „dziewczyńskie” zabawki, zniechęcać ich do przejawiania kobiecych zachowań, oraz uniemożliwiać im kontakty z dziewczynkami, by przez przebywanie z chłopcami nabrać bardziej męskiego charakteru. **Tego rodzaju terapie zostały uznane za nieskuteczne[^17] i powodujące długotrwałe szkody psychiczne.** Po tym jak w Ontario wprowadzono zakaz terapii konwersyjnych Kenneth Zucker został zwolniony[^18] ze swojej pozycji jako szefa kliniki dla transpłciowych dzieci i nastolatków w Toronto i choć nadal publikuje w dziennikach naukowych dane zebrane w okresie sprawowania tej funkcji, to dziwnym trafem w żadnym z nich nie umieścił informacji na temat psychologicznego dobrostanu osób, które przeszły przez jego „terapie” (mimo że musi je posiadać, jako były szef kliniki psychologicznej).
