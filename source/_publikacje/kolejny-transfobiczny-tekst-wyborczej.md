@@ -93,9 +93,9 @@ W opublikowanym przez Gazetę Wyborczą [oświadczeniu](https://www.instagram.co
 [^17]: „American Medical Association backs nationwide conversion therapy ban", NBC News, 21 listopad 2019 r.
 [^18]: „Controversial CAMH gender identity clinic winds down", artykuł The Varsity opublikowany 11 stycznia 2016 r.
 [^19]: Credibility of Fox News in the United States as of May 2021, Amy Watson, Statista, 2021
-[^20]:„How One Conservative Think Tank Is Stocking Trump’s Government", artykuł autorstwa Jonathana Mahlera, opublikowany w New York Times 20 czerwca 2018 r.
-[^21]:„VIRTUAL EVENT: National Education Survey Results: Gender Identity and Life Issues in Schools" notka opbulikowana na stronie Heritage Foundation 23 czerwca 2020 r.
-[^22]:„Right-Wing Views for Generation Z, Five Minutes at a Time",artykuł Nellie Bowles opublikowany w New York Times 4 styczcnia 2020 r.
-[^23]:„BACKGROUNDER: PragerU’s Ties to White Supremacy, Horrific Anti-LGBTQ Record, artykuł Drew Andersona opublikowany na stronie GLAAD.org  6 sierpnia 2019 r.
-[^24]:„The Sin Spinners", artykuł Adama Piore opublikowany w Columbia Journalism Review  3 lutego 2020 r.
-[^25]:„The Big Lie. Exposing the Nazi Roots of the American Left", Dinesh D'Souza, 2017
+[^20]: „How One Conservative Think Tank Is Stocking Trump’s Government", artykuł autorstwa Jonathana Mahlera, opublikowany w New York Times 20 czerwca 2018 r.
+[^21]: „VIRTUAL EVENT: National Education Survey Results: Gender Identity and Life Issues in Schools" notka opbulikowana na stronie Heritage Foundation 23 czerwca 2020 r.
+[^22]: „Right-Wing Views for Generation Z, Five Minutes at a Time",artykuł Nellie Bowles opublikowany w New York Times 4 styczcnia 2020 r.
+[^23]: „BACKGROUNDER: PragerU’s Ties to White Supremacy, Horrific Anti-LGBTQ Record, artykuł Drew Andersona opublikowany na stronie GLAAD.org  6 sierpnia 2019 r.
+[^24]: „The Sin Spinners", artykuł Adama Piore opublikowany w Columbia Journalism Review  3 lutego 2020 r.
+[^25]: „The Big Lie. Exposing the Nazi Roots of the American Left", Dinesh D'Souza, 2017
