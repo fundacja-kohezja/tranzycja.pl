@@ -4,9 +4,11 @@ tags: opublikowane, tranfobia, terf
 ---
 # Ku zaskoczeniu absolutnie nikogo, Gazeta Wyborcza ponownie opublikowała transfobiczny tekst
 
-Dogłębna analiza merytoryczna artykułu od strony naukowych i politycznych nieścisłości. 
+Dogłębna analiza merytoryczna artykułu od strony naukowych i politycznych nieścisłości.
 
 31 lipca w magazynie „Wolna Sobota” Gazety Wyborczej [zamieszczono przedruk](https://wyborcza.pl/magazyn/7,124059,27386082,transplciowosc-abigail-shrier-w-ciagu-dekady-przybylo.html) opublikowanego pierwotnie przez WELT tekstu Hannes Stein *„Utnij piersi, a potem się zobaczy”*. **Przeciwko publikacji artykułu zaprotestowała Fundacja Trans-Fuzja określając go jako nierzetelną próbę wywołania paniki moralnej wymierzonej w osoby trans.** Artykuł z częścią swojej transfobii w ogóle się nie ukrywa - określając transpłciowych chłopaków mianem dziewczyn, twierdząc, że ich tożsamość jest im wmówiona przez terapeutów, czy przedstawiając trans kobiety jako "naturalnego wroga lesbijek". W niniejszym tekście nie będziemy jednak zajmować się tak oczywistymi przejawami transfobii, z którymi rozprawialiśmy się już przy innych okazjach, ale przyjrzymy się głębiej tkwiącym manipulacjom i temu jakie motywacje za nimi stoją.
+
+![Ilustracja: opis zawartości artykułu](https://tranzycja.pl/media/img/gazeta-wyborcza-ilustracja.png)
 
 ## Transfobiczne manipulacje
 
