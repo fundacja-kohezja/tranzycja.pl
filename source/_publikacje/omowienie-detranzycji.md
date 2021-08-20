@@ -1,7 +1,6 @@
 ---
-tags: dag&nina, posty, popraw
+data: '2021-08-20 12:38:56'
 ---
-
 # Ilu osobom  "przechodzi" bycie trans? Omówienie detranzycji. 
 
 „A co jeśli  się rozmyślisz?”, „A co jeśli będziesz żałować?” — to pytania, które osoby trans słyszą w swoim życiu całkiem często. Mogą wydawać się uzasadnione, wiele osób trans w ramach tranzycji medycznej przechodzi przez zabiegi chirurgiczne, które nie są odwracalne, takich jak operacje genitaliów, czy mastektomię. Jeśli ktoś zdecydował się na taką operację, a obecnie jej żałuje, nie ma wyboru, musi żyć z jej konsekwencjami do końca życia. Przypadki w których ktoś zmienił zdanie co do swojej transpłciowości i po początkowej tranzycji powrócił z powrotem do pierwotnej roli płciowej (co określa się mianem **detranzycji**) przyciągają znaczną uwagę medialną — reportaże i dokumenty poświęcone osobom żałujących tranzycji emitowały m.in. [amerykańska telewizja CBS](https://www.advocate.com/commentary/2021/5/28/60-minutes-adds-medical-disinformation-about-trans-bodies), czy [brytyjska BBC](https://www.pinknews.co.uk/2019/11/28/bbc-newsnight-balance-racism-bias-detransition/). 
