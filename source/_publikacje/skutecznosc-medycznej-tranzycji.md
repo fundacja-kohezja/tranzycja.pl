@@ -78,7 +78,7 @@ Manipulacja wynikami szwedzkiego badania to nie tylko polska specjalność. Samo
 > 
 > **Dhejne:** Nie ma żadnej wątpliwości, że medyczna i psychologiczna opieka nad osobami trans przynosi pozytywne efekty. Meta-analiza z 2010 roku[^16] oraz badania, które zostały przeprowadzone od jej powstania pokazują, że interwencje afirmujące płeć zmniejszają dysforię płciową”.
 
-Innymi słowy Ordo Iuris starało się wykorzystać analizę stworzoną przez przyjazną osobom trans badaczkę do ataku na skuteczność tranzycji medycznej, pomimo że analiza nie dotyczyła skuteczności tranzycji medycznej, a dziesiątki innych badań w temacie taką skuteczność potwierdziły. Jednakże poznanie się na tej manipulacji wymaga ostrożnego sprawdzania wszystkich źródeł i porównywania ich z innymi danymi na ten temat — czegoś, na co większość osób przeglądających Internet nie ma czasu. W taki właśnie sposób organizacje takie jak Ordo Iuris żerują na powszechnym braku wiedzy, chłopskorozumowym podchodzeniu transpłciowości i niezrozumieniu naszej perspektywy.
+Innymi słowy Ordo Iuris starało się wykorzystać analizę stworzoną przez przyjazną osobom trans badaczkę do ataku na skuteczność tranzycji medycznej, pomimo że analiza nie dotyczyła skuteczności tranzycji medycznej, a dziesiątki innych badań w temacie taką skuteczność potwierdziły. Jednakże poznanie się na tej manipulacji wymaga ostrożnego sprawdzania wszystkich źródeł i porównywania ich z innymi danymi na ten temat — czegoś, na co większość osób przeglądających Internet nie ma czasu. W taki właśnie sposób organizacje takie jak Ordo Iuris żerują na powszechnym braku wiedzy, chłopskorozumowym podchodzeniu do transpłciowości i niezrozumieniu naszej perspektywy.
 
 ## Zakończenie
 
