@@ -1,6 +1,6 @@
 ---
 kolejnosc: 4
-tags: opublikowane, krok po kroku, hormony, dag&nina, poprawki
+tags: dag&nina, poprawki, opublikowane, krok po kroku, hormony
 ---
 
 # Blokery dojrzewania 
@@ -90,7 +90,7 @@ Najczęściej spotykane efekty uboczne stosowania leków z grupy agonistów GnRH
 
 **Efekt ten nie jest permanentny.** Razem z odstawieniem GnRH i wzrostem poziomu hormonów płciowych (czy to z powodu terapii hormonalnej, czy funkcjonowania gonad) gęstość kości ulega wzrostowi, szybszemu u trans mężczyzn, wolniejszemu u trans kobiet[^12]. Niskiej gęstości kości nie powinno się jednak ignorować.
 
-::: success 
+:::success
 #### Obecne zalecenia lekarzy w celu przeciwdziałania utraty gęstości kości przy terapii blokerami obejmują: 
 * coroczne testy gęstości kości 
 * wysokie dawki wapnia i witaminy D w diecie
@@ -141,15 +141,15 @@ Osoby trans z upływem czasu zdobywały jednak coraz większą widoczność oraz
 Historycznie, seksuologia nie była przyjacielem trans dzieciaków, ale systemem mającym na celu wpasowanie ich w określone szufladki. Jeśli spojrzymy na tytuły badań dotyczących tych „wysokich odsetków zanikania transpłciowości” to zobaczymy tam takie terminy jak „zniewieściali chłopcy” (sissy boys), czy „zaburzone płciowo dzieci”. 
 :::
 
-Badania te, które zarazem są raz za razem cytowane jako „dowód" wysokiego odsetka detranzcji dotyczą grup dzieci, które skierowano pod opiekę seksuologa z racji diagnozy ++nieobecnych już w nowych klasyfikacjach zaburzeń, to jest „zaburzeń tożsamości płciowej u dzieci”++. 
+Badania te, które zarazem są raz za razem cytowane jako „dowód" wysokiego odsetka detranzcji dotyczą grup dzieci, które skierowano pod opiekę seksuologa z racji diagnozy **nieobecnych już w nowych klasyfikacjach zaburzeń, to jest „zaburzeń tożsamości płciowej u dzieci”**. 
 
 Diagnozy tej nie stawiano na podstawie tożsamości dziecka, ale przede wszystkim w oparciu o jego niestereotypowe zachowania. **Żeby dziecko uznane przy urodzeniu za chłopca zostało zaklasyfikowane jako „zaburzone płciowo”, nie musiało mówić wcale, że jest dziewczynką.** Wystarczyło, że lubiło ubierać się w stereotypowo żeńskie ubrania, czy bawić się stereotypowo żeńskimi zabawkami. Konserwatywni rodzice prowadzili swoje niewpasowujące się w stereotypy dzieci do konserwatywnych seksuologów, a ci starali się wyplenić u nich te „niedobre” zwyczaje. 
 
-Nie powinno więc dziwić, że razem z upływem czasu i większą presją społeczeństwa te „zaburzenia płci”’ znikały (choć spora część tych “zniewieściałych chłopców” później okazywała się być gejami). Te badania ++**nie mogły**++ dać innego wyniku, bo nie badały dzieci transpłciowych, ale dzieci nienormatywne. Nie bez powodu większość z omawianych tutaj badań nie została przeprowadzona XXI wieku, ale w latach 80. czy 90. XX wieku.
+Nie powinno więc dziwić, że razem z upływem czasu i większą presją społeczeństwa te „zaburzenia płci”’ znikały (choć spora część tych “zniewieściałych chłopców” później okazywała się być gejami). Te badania **nie mogły** dać innego wyniku, bo nie badały dzieci transpłciowych, ale dzieci nienormatywne. Nie bez powodu większość z omawianych tutaj badań nie została przeprowadzona XXI wieku, ale w latach 80. czy 90. XX wieku.
 
 Dopiero od stosunkowo niedawna społeczność osób trans i seksuolodzy zaczęli sobie powolutku podawać ręce i nie traktować się jako z jednej strony przedmiot, który trzeba zmusić do zachowywania się zgodnie z normami społecznymi, a z drugiej jako wroga, przed którym trzeba wpasować się w uwłaczające, konserwatywne płciowo stereotypy, by dostać upragnioną opiekę medyczną. Seksuolodzy zaczęli dużo poważniej traktować to, co osoby trans same o sobie mówią, a mówią między innymi, że transpłciowość jest kwestią tożsamości i poczucia własnej płci, a nie wypełniania stereotypów. Trans kobiety nie muszą przychodzić do seksuologów w sukienkach, by być „wiarygodne’, trans mężczyźni nie muszą zmywać pomalowanych paznokci, dzieci łamiące stereotypy płciowe nie muszą być trans. 
 
-Ta presja znalazła odzwierciedlenie w klasyfikacjach medycznych. W chwili obecnej by zdiagnozować u dziecka dysforię płciową nie może ono wyłącznie łamać stereotypów. Dziecko ++**musi**++ spełnić pierwszy i najważniejszy warunek, tzn. utrzymujące się poczucie innej płci niż przypisana przy urodzeniu [^20].
+Ta presja znalazła odzwierciedlenie w klasyfikacjach medycznych. W chwili obecnej by zdiagnozować u dziecka dysforię płciową nie może ono wyłącznie łamać stereotypów. Dziecko **musi** spełnić pierwszy i najważniejszy warunek, tzn. utrzymujące się poczucie innej płci niż przypisana przy urodzeniu [^20].
 
 
 
@@ -161,7 +161,7 @@ Oryginalna wersja artykułu bazowała na wpisie Eweliny Słowińskiej dla [Grupy
 
 [^1]: [Perceptions of Sex, Gender, and Puberty Suppression: A Qualitative Analysis of Transgender Youth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987409/), Lieke Josephina Jeanne Johanna Vrouenraets, A. Miranda Fredriks, Sabine E. Hannema, Peggy T. Cohen-Kettenis, Martine C. de Vries, 2016
 [^2]: [Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation](https://pediatrics.aappublications.org/content/145/2/e20191725.long), Jack L. Turban, Dana King, Jeremi M. Carswell, Alex S. Keuroghlian, 2020
-[^3]:[Is puberty delaying treatment ‘experimental treatment’?](https://www.tandfonline.com/doi/full/10.1080/26895269.2020.1747768), Simona Giordano, Søren Holm, 2020
+[^3]: [Is puberty delaying treatment ‘experimental treatment’?](https://www.tandfonline.com/doi/full/10.1080/26895269.2020.1747768), Simona Giordano, Søren Holm, 2020
 [^4]: [Young Adult Psychological Outcome After Puberty Suppression and Gender Reassignment](https://pediatrics.aappublications.org/content/early/2014/09/02/peds.2013-2958), Annelou L.C. de Vries, Jenifer K. McGuire, Thomas D. Steensma, Eva C.F. Wagenaar, Theo A.H. Doreleijers, Peggy T. Cohen-Kettenis, 2014
 [^5]: [Mental Health Diagnoses Among Transgender Patients in the Clinical Setting: An All-Payer Electronic Health Record Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6830528/), Jonathon W. Wanta, Joshua D. Niforatos, Emily Durbak, Adele Viguera, Murat Altinay, 2019
 [^6]: [Psychological Functioning in Transgender Adolescents Before and After Gender-Affirmative Care Compared With Cisgender General Population Peers](https://pubmed.ncbi.nlm.nih.gov/32273193/), Anna I. R. van der Miesen, Thomas D. Steensma, Annelou L. C. de Vries, Henny Bos, Arne Popma, 2020
