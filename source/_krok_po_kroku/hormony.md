@@ -5,14 +5,14 @@ tags: opublikowane, krok po kroku, hormony, dag&nina, poprawki
 
 # Blokery dojrzewania 
 
+Blokery dojrzewania to rodzaj całkowicie odwracalnej formy leczenia, która tymczasowo powstrzymuje dojrzewanie organizmu. Przepisuje się je po diagnozie psychiatrycznej, która potwierdzi występowanie dysforii płciowej u danego nastolatka. Są to leki obniżające poziom hormonów płciowych, najczęściej z grupy agonistów GnRH.
+
 :::warning
-Uwaga: Artykuł ten zawiera specjalistyczne informacje dotyczące tranzycji osób nieletnich. Nie powielamy treści i nie tłumaczymy tu podstawowych pojęć, których definicje można znaleźć w artykułach:
+Artykuł ten zawiera specjalistyczne informacje dotyczące tranzycji osób nieletnich. Nie powielamy treści i nie tłumaczymy tu podstawowych pojęć, których definicje można znaleźć w artykułach:
 
 [Czym jest transpłciowość? Skąd mam wiedzieć, czy jestem trans?](https://tranzycja.pl/krok-po-kroku/czym-jest-transplciowosc/)
 [Czy tranzycja medyczna pomaga osobom transpłciowym?](https://tranzycja.pl/publikacje/skutecznosc-medycznej-tranzycji/)
 :::
-
-Blokery dojrzewania to rodzaj całkowicie odwracalnej formy leczenia, która tymczasowo powstrzymuje dojrzewanie organizmu. Przepisuje się je po diagnozie psychiatrycznej, która potwierdzi występowanie dysforii płciowej u danego nastolatka. Są to leki obniżające poziom hormonów płciowych, najczęściej z grupy agonistów GnRH. 
 
 Leki te zostały przetestowane i dopuszczone do obrotu. Są także powszechnie stosowane w przypadku szeregu innych przypadłości, w których konieczne okazuje się obniżenie poziomu hormonów, np. przy leczeniu dzieci, u których dojrzewanie zaczęło się znacznie wcześniej niż powinno, czy przy niektórych hormonozależnych rodzajach raka, takich jak rak prostaty.
 
