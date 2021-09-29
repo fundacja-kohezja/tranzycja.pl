@@ -495,3 +495,18 @@ mark {
         }
     }
 }
+
+.footnote-ref,
+.footnote-backref {
+    border: none;
+}
+.footnote-ref {
+    &::before {
+        content: '[';
+        font-weight: 400;
+    }
+    &::after {
+        content: ']';
+        font-weight: 400;
+    }
+}
