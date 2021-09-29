@@ -7,6 +7,8 @@ tags: dag&nina, poprawki
 
 Dysforia płciowa oznacza uczucie dyskomfortu wynikające z rozdźwięku pomiędzy różnymi aspektami naszej płci (cechami płciowymi naszego ciała, tym jak wyglądamy, tym jak odbierają nas inni). Dysforię płciową często dzieli się na dwie kategorie w zależności od tego, co jest jej przyczyną: dysforię fizyczną i dysforię społeczną.
 
+![Ilustracja: dysforia płciowa](https://tranzycja.pl/media/img/dysforia-plciowa.png)
+
 ## Dysforia fizyczna/cielesna:
 
 Dotyczy dyskomfortu związanego z anatomicznymi cechami płciowymi naszego ciała. 
