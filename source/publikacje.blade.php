@@ -1,8 +1,7 @@
 ---
 pagination:
-    collection: aktualnosci
+    collection: publikacje
     perPage: 6
-permalink: aktualnosci/index.html
 ---
 @extends('__source.layouts.master')
 
@@ -11,27 +10,33 @@ permalink: aktualnosci/index.html
     <div class="text-center">
         <h1 class="text-indigo-600 dark:text-purple-300 mb-0">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 sm:mr-3 h-12 sm:h-16 text-blue-400 align-middle -mt-8 -mb-6">
-                <path fill-rule="evenodd" d="M2 5a2 2 0 012-2h8a2 2 0 012 2v10a2 2 0 002 2H4a2 2 0 01-2-2V5zm3 1h6v4H5V6zm6 6H5v2h6v-2z" clip-rule="evenodd" />
-                <path d="M15 7h1a2 2 0 012 2v5.5a1.5 1.5 0 01-3 0V7z" />
+                <path d="M14.62,2.74A5.64,5.64,0,0,0,10,5.14a5.61,5.61,0,0,0-8.57-.75V17.52A5.64,5.64,0,0,1,10,18.3a5.64,5.64,0,0,1,8.57-.78V4.39A5.61,5.61,0,0,0,14.62,2.74ZM4.44,13v-7A2.32,2.32,0,0,1,5,5.59,3.9,3.9,0,0,1,9,6.76v6.93a8.68,8.68,0,0,0-3.61-.79C5.07,12.9,4.75,12.92,4.44,13Zm11.14,0c-.31,0-.63,0-1,0a8.62,8.62,0,0,0-3.62.8V6.78a3.89,3.89,0,0,1,4-1.19,2.32,2.32,0,0,1,.6.34Z" />
             </svg>
-            <span class="align-middle">Aktualności</span>
+            <span class="align-middle">Publikacje</span>
         </h1>
         <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
-            {{ $page->opisSekcjiAktualnosci }}
+            {{ $page->opisSekcjiPublikacje }}
         </p>
     </div>
     <ul class="list-none pl-0 py-2">
-        @foreach($pagination->items as $entry)
-            <li class="flex border-b border-gray-300 dark:border-gray-700 pb-12 my-16">
-                <article class="news-entry break-words">
-                    <header class="items-center flex-col flex float-right text-sm mt-2 ml-4 text-indigo-700 dark:text-indigo-300 sm:flex-row">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-6 inline-block align-middle mb-1 mr-1">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
-                        </svg>
-                        <span class="align-middle">{{ Jenssegers\Date\Date::create($entry->data)->format('j M Y') }}</span>
-                    </header>
-                    {!! $entry->getContent() !!}
-                </article>
+        @foreach($pagination->items as $publikacja)
+            <li class="flex flex-1 my-4">
+                <a class="excerpt-card flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $publikacja->getPath() }}">
+                    <article class="flex flex-grow flex-col">
+                        <h2 class="font-extrabold leading-tight text-2xl mb-0">
+                            {!! $publikacja->title() !!}
+                        </h2>
+                        <div class="text-sm mt-2 text-indigo-700 dark:text-indigo-300">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-6 inline-block align-middle mb-1 mr-1">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                            </svg>
+                            <span class="align-middle">{{ Jenssegers\Date\Date::create($publikacja->data)->format('j M Y') }}</span>
+                        </div>
+                        <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">
+                            {!! $publikacja->longerExcerpt() !!}
+                        </p>
+                    </article>
+                </a>
             </li>
         @endforeach
     </ul>
@@ -39,7 +44,7 @@ permalink: aktualnosci/index.html
     <div class="text-center">
         <nav class="max-w-full relative z-0 inline-flex rounded-md -space-x-px" aria-label="Paginacja">
             @if ($previous = $pagination->previous)
-                <a href="{{ $page->baseUrl }}{{ $previous }}" class="bg-gray-200 dark:bg-gray-800 relative inline-flex items-center px-2 py-2 rounded-l-md border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-indigo-100 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-bold border-0">
+                <a href="{{ $previous }}" class="bg-gray-300 dark:bg-gray-800 relative inline-flex items-center px-2 py-2 rounded-l-md border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-350 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-bold border-0">
                     <span class="sr-only">Nowsze</span>
                     <!-- Heroicon name: chevron-left -->
                     <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -61,7 +66,7 @@ permalink: aktualnosci/index.html
                                 {{ $pageNumber }}
                             </span>
                         @else
-                            <a href="{{ $page->baseUrl }}{{ $path }}" class="md:inline-flex bg-gray-200 dark:bg-gray-800 relative items-center px-4 py-2 border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-indigo-100 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-bold border-0">
+                            <a href="{{ $path }}" class="md:inline-flex bg-gray-300 dark:bg-gray-800 relative items-center px-4 py-2 border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-350 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-bold border-0">
                                 {{ $pageNumber }}
                             </a>
                         @endif
@@ -69,7 +74,7 @@ permalink: aktualnosci/index.html
                 </div>
             </div>
             @if ($next = $pagination->next)
-                <a href="{{ $page->baseUrl }}{{ $next }}" class="bg-gray-200 dark:bg-gray-800 inline-flex items-center px-2 py-2 rounded-r-md border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-indigo-100 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 texbold border-0">
+                <a href="{{ $next }}" class="bg-gray-300 dark:bg-gray-800 inline-flex items-center px-2 py-2 rounded-r-md border border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-350 dark:hover:bg-indigo-800 hover:text-indigo-800 dark:hover:text-white px-3 py-2 text-sm font-bold border-0">
                     <span class="sr-only">Starsze</span>
                     <!-- Heroicon name: chevron-right -->
                     <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">

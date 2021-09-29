@@ -1,6 +1,3 @@
----
-permalink: krok-po-kroku/index.html
----
 @extends('__source.layouts.master')
 
 @section('body')
