@@ -6,6 +6,7 @@ use App\Listeners\GenerateSitemap;
 use App\Listeners\RestoreSourceFiles;
 use App\Listeners\ProcessExtraMarkdownTags;
 use App\Listeners\BuildTOC;
+use App\Listeners\RedirectsFile;
 
 /** @var $container \Illuminate\Container\Container */
 /** @var $events \TightenCo\Jigsaw\Events\EventBus */
@@ -29,4 +30,5 @@ $events->afterBuild(GenerateSitemap::class);
 $events->afterBuild(RestoreSourceFiles::class);
 $events->afterBuild(ProcessExtraMarkdownTags::class);
 $events->afterBuild(BuildTOC::class);
+$events->afterBuild(RedirectsFile::class);
 
