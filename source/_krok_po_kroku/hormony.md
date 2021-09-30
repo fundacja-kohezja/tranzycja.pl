@@ -1,5 +1,6 @@
 ---
-kolejnosc: 5
+kolejnosc: 6
+tags: opublikowane, krok po kroku, hormony
 ---
 # Hormony
 

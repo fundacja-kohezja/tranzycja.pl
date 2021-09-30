@@ -1,9 +1,13 @@
 ---
 data: '2021-08-22 17:30:18'
+tags: dag&nina, posty, popraw
 ---
+
 # Czy tranzycja medyczna pomaga osobom transpłciowym? 
 
 Jednym z najstarszych postulatów ruchu walczącego o prawa osób trans jest swobodny i łatwy dostęp do tranzycji medycznej – terapii hormonalnych i zabiegów chirurgicznych mających na celu korektę anatomicznych cech płciowych danej osoby. Gdy w 1970 r. koalicja różnych organizacji osób trans (w tym współtworzonego przez Marshę Johnson i Sylvię Riverę S.T.A.R) opracowała wspólną listę postulatów ruchu, numer trzeci na niej zajmowało właśnie żądanie w pełni refundowanego dostęp do tranzycji na żądanie[^1]. Medyczna tranzycja często spotykała się jednak z daleko idącą nieufnością, podważaniem jej sensowności i stojących za nią uzasadnień. Nadal nierzadko można spotkać głosy twierdzące, że jest ona formą utwierdzania osób trans w ich „zaburzonym poczuciu płci”, która na dłuższą metę musi skończyć się żalem, cierpieniem i dalszymi problemami. **Taka wizja transpłciowości i tranzycji medycznej nie ma jednak żadnego pokrycia w rzeczywistości.**
+
+![Ilustracja: opis zawartości artykułu](https://tranzycja.pl/media/img/skutecznosc-medycznej-tranzycji.png)
 
 ## Co o tym mówią badania
 
@@ -74,7 +78,8 @@ Manipulacja wynikami szwedzkiego badania to nie tylko polska specjalność. Samo
 > 
 > **Dhejne:** Nie ma żadnej wątpliwości, że medyczna i psychologiczna opieka nad osobami trans przynosi pozytywne efekty. Meta-analiza z 2010 roku[^16] oraz badania, które zostały przeprowadzone od jej powstania pokazują, że interwencje afirmujące płeć zmniejszają dysforię płciową”.
 
-Innymi słowy Ordo Iuris starało się wykorzystać analizę stworzoną przez przyjazną osobom trans badaczkę do ataku na skuteczność tranzycji medycznej, pomimo że analiza nie dotyczyła skuteczności tranzycji medycznej, a dziesiątki innych badań w temacie taką skuteczność potwierdziły. Jednakże poznanie się na tej manipulacji wymaga ostrożnego sprawdzania wszystkich źródeł i porównywania ich z innymi danymi na ten temat — czegoś, na co większość osób przeglądających Internet nie ma czasu. W taki właśnie sposób organizacje takie jak Ordo Iuris żerują na powszechnym braku wiedzy, chłopskorozumowym podchodzeniu transpłciowości i niezrozumieniu naszej perspektywy.
+
+Innymi słowy Ordo Iuris starało się wykorzystać analizę stworzoną przez przyjazną osobom trans badaczkę do ataku na skuteczność tranzycji medycznej, pomimo że analiza nie dotyczyła skuteczności tranzycji medycznej, a dziesiątki innych badań w temacie taką skuteczność potwierdziły. Jednakże poznanie się na tej manipulacji wymaga ostrożnego sprawdzania wszystkich źródeł i porównywania ich z innymi danymi na ten temat — czegoś, na co większość osób przeglądających Internet nie ma czasu. W taki właśnie sposób organizacje takie jak Ordo Iuris żerują na powszechnym braku wiedzy, chłopskorozumowym podchodzeniu do transpłciowości i niezrozumieniu naszej perspektywy.
 
 ## Zakończenie
 

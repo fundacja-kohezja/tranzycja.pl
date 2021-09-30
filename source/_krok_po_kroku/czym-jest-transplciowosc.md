@@ -1,7 +1,8 @@
 ---
 kolejnosc: 1
+tags: opublikowane, krok po kroku
 ---
-# Czym jest transpłciowość? Skąd mam wiedzieć, czy jestem trans?
+# Czym jest transpłciowość i tranzycja?
 
 Wraz z rokiem 2022 wejdzie w życie Międzynarodowa Klasyfikacja Chorób i Problemów Zdrowotnych w wersji 11 (ICD-11), dzięki czemu ostatecznie pożegnamy się z określeniem "transseksualizm", którą zastąpi „niezgodność płciowa”.
 
@@ -9,7 +10,15 @@ Według opisu charakteryzuje się ona „wyraźną i trwałą niezgodnością mi
 
 ## Czy ja jestem trans?
 
-Jeśli zadajesz sobie to pytanie, to istnieje możliwość, że tak właśnie jest. Choć wiele świeżo wyoutowanych osób trans to dziwi, osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) nie kwestionują regularnie swojej płci. Dla wielu osób mających wątpliwości pomocne bywa zanurzenie się w społeczności i wymiana doświadczeniami. Nawet jeśli nie masz pewności czy jesteś trans, jako osoba kwestionująca swoją płeć jesteś równie mile widziane na grupach wsparcia. Poznając doświadczenia innych osób, łatwiej będzie Ci się zorientować czy czujesz to samo co one. Dla niektórych pomocne okazują się też internetowe społeczności i memy. Samo to jednak, że Twoja odczuwana płeć nie do końca pokrywa się z nadaną, absolutnie nie oznacza, że musisz się podjąć tranzycji. Jeśli jednak się na to zdecydujesz, na każdym kroku będą Ci towarzyszyć lekarze i inni specjaliści.
+Jeśli zadajesz sobie to pytanie, to istnieje możliwość, że tak właśnie jest. Choć wiele świeżo wyoutowanych osób trans to dziwi, osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) nie kwestionują regularnie swojej płci. Dla wielu osób mających wątpliwości pomocne bywa zanurzenie się w społeczności i wymiana doświadczeniami. Nawet jeśli nie masz pewności czy jesteś trans, jako osoba kwestionująca swoją płeć jesteś równie mile widziane na grupach wsparcia. Poznając doświadczenia innych osób, łatwiej będzie Ci się zorientować czy czujesz to samo co one. Dla niektórych pomocne okazują się też internetowe społeczności i memy.
+
+:::info
+
+Chcesz się dowiedzieć więcej o tym jak rozpoznać czy jesteś trans? Zachęcamy do lektury [tekstu w tym temacie](https://tranzycja.pl/krok-po-kroku/czy-jestem-trans/)!
+
+:::
+
+Samo to jednak, że Twoja odczuwana płeć nie do końca pokrywa się z nadaną, absolutnie nie oznacza, że musisz się podjąć tranzycji. Jeśli jednak się na to zdecydujesz, na każdym kroku będą Ci towarzyszyć lekarze i inni specjaliści.
 
 ## Co to jest tranzycja?
 
