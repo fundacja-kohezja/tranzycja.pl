@@ -18,15 +18,15 @@ function excerpt(CollectionItem $page, int $words) {
 
     /* Markdown spoiler */
 
-    $content = preg_replace('/(<p>:::|:::)spoiler (.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
-    $content = preg_replace('/(<p>:::|:::)spoiler(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
+    $content = preg_replace('/(<p>:::|:::)\s*spoiler (.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
+    $content = preg_replace('/(<p>:::|:::)\s*spoiler(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
 
 
     /* Markdown blocks */
 
     $block_types = ['success', 'info', 'warning', 'danger'];
     foreach ($block_types as $type) {
-        $content = preg_replace('/(<p>:::|:::)' . $type . '(.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
+        $content = preg_replace('/(<p>:::|:::)\s*' . $type . '(.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
     }
 
 
