@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Str;
+use TightenCo\Jigsaw\Collection\CollectionItem;
 
 Jenssegers\Date\Date::setLocale('pl_PL');
 
@@ -9,6 +10,34 @@ $parser = new Mni\FrontYAML\Parser();
 $document = $parser->parse(file_get_contents(__DIR__ . '/source/_ogolne/konfiguracja.yml'), false);
 
 $yaml_config = $document->getYAML();
+
+function excerpt(CollectionItem $page, int $words) {
+
+
+    $content = $page->getContent();
+
+    /* Markdown spoiler */
+
+    $content = preg_replace('/(<p>:::|:::)\s*spoiler (.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
+    $content = preg_replace('/(<p>:::|:::)\s*spoiler(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
+
+
+    /* Markdown blocks */
+
+    $block_types = ['success', 'info', 'warning', 'danger'];
+    foreach ($block_types as $type) {
+        $content = preg_replace('/(<p>:::|:::)\s*' . $type . '(.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
+    }
+
+
+    /* One ending for nested block */
+
+    $content = preg_replace('/(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
+    
+    preg_match('|<p[^>]*>(.*)</p>|siU', $content, $matches);
+    return Str::of(strip_tags($matches[1] ?? $content))->words($words) . ' <b class="inline-block">Czytaj dalej →</b>';
+
+}
 
 return (array)$yaml_config + [
     'baseUrl' => 'https://tranzycja.pl',
@@ -36,14 +65,10 @@ return (array)$yaml_config + [
                 return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
             },
             'excerpt' => function ($page) {
-                $tresc = $page->getContent();
-                preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches);
-                return Str::of(strip_tags($matches[1] ?? $tresc))->words(40) . ' <b class="inline-block">Czytaj dalej →</b>';
+                return excerpt($page, 40);
             },
             'longerExcerpt' => function ($page) {
-                $tresc = $page->getContent();
-                preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches);
-                return Str::of(strip_tags($matches[1] ?? $tresc))->words(120) . ' <b class="inline-block">Czytaj dalej →</b>';
+                return excerpt($page, 120);
             }
         ],
         'krok_po_kroku' => [
@@ -55,9 +80,7 @@ return (array)$yaml_config + [
                 return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
             },
             'excerpt' => function ($page) {
-                $tresc = $page->getContent();
-                preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches);
-                return Str::of(strip_tags($matches[1] ?? $tresc))->words(80) . ' <b class="inline-block">Czytaj dalej →</b>';
+                return excerpt($page, 80);
             }
         ],
         'aktualnosci' => [
