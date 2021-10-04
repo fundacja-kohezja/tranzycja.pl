@@ -1,3 +1,7 @@
+---
+tags: opublikowane, faq
+---
+
 # Pytania i odpowiedzi
 
 ## Język
@@ -18,9 +22,9 @@ Określenie "transseksualizm" uznawane jest za przestarzałe, medykalizujące, a
 
 :::spoiler Czy osoby cis powinny przedstawiając się i podpisując dodawać swoje zaimki?
 
-Osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) często pytają czy—i kiedy!—powinny przedstawiając się podawać zaimki, a czasem nawet mają wątpliwości czy im wolno, pytając czy nie "zawłaszczają" w ten sposób elementów związanych z byciem trans.
+Osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) często pytają czy —i kiedy!— powinny przedstawiając się podawać zaimki, a czasem nawet mają wątpliwości czy im wolno, pytając czy nie "zawłaszczają" w ten sposób elementów związanych z byciem trans.
 
-## Krótko: jasne, jak najbardziej!
+### Krótko: jasne, jak najbardziej!
 
 Przedstawianie się zaimkami i pytanie o nie jest (a przynajmniej powinno być) czymś całkowicie normalnym, naturalnym. Rozpowszechniając ten zwyczaj Ty również przyczynisz się do normalizowania go. Zaimki to nie jest element bycia osobą trans czy niebinarną; to część języka polskiego i ma je każdy, choć nie zawsze wszyscy spotykamy się z równym z ich z poszanowaniem.
 
@@ -28,7 +32,7 @@ Warto przy tym także pamiętać, że niektóre osoby trans i niebinarne każdeg
 
 Dlatego dodawaj swoje zaimki do podpisu w mailach, bio w social mediach, czy przy przedstawiania się na spotkaniach w nowym gronie - nigdy nie wiesz, czy tym prostym gestem nie wyratujesz kogoś innego z niezręcznej sytuacji, biorąc na moment odrobinę ich "inności" na siebie.
 
-## Kiedy lepiej sobie zaimki odpuścić?
+### Kiedy lepiej sobie zaimki odpuścić?
 
 Niektóre osoby nie czują na co dzień potrzeby przedstawiania się z zaimkami, ale jeśli wypatrzą w grupie kogoś kto wydaje im się trans, dodają je specjalnie z uwagi na tę osobę - czasem nawet wiedząc jakimi zaimkami ona się posługuje. **To nie jest w porządku!**
 
@@ -90,6 +94,6 @@ Choć niektórzy chirurdzy z dłuższą praktyką nadal wymagają zaprzestania p
 
 Mając świadomość postępów jakie dokonały się w zakresie terapii hormonalnych i braku realnych wskazań, od lat już kolejni chirurdzy odchodzą od stawiania tego typy wymogów. Wreszcie opublikowane w 2021 roku w Journal of Clinical Endocrinology and Metabolism [badanie](https://www.facebook.com/TransHealthResearch/posts/2956715697764064) (DOI: 10.1210/clinem/dgaa966) na próbie prawie 1400 osób nie wykazało zależności terapii hormonalnej z powstawaniem zakrzepów.
 
-Ma to przede wszystkim znaczeni w przypadku terapii tranżeńskiej i hormonów które bardzo szybko znikają z organizmu, np. przyjmowanych w formie tabletek, gdzie nawet tydzień bez hormonów może powodować znaczące zmiany w organizmie. Jeśli natomiast przyjmujesz zatrzyki i chirurg zalega Ci przedłużenie nieco okresu pomiędzy nimi przed zabiegiem, bo doświadczenie mu mówi że to obniża ryzyko krwiaków, to nie ma w takiej sytuacji powodów żeby się nie dostosować. Hormony przyjmowane w formie zastrzyków znikają z organizmu powoli i stopniowo, nie wywoła więc to takiej gwałtownej reakcji jak w przypadku odstawienia tabletek. Ostatecznie **zawsze ostatnie słowo ma Twój chirurg** i zawsze należy trzymać się jego zaleceń. Jeśli nie czujesz się do konca komfortowo z jego techniką i podejściem, możesz spróbować u innego.
+Ma to przede wszystkim znaczenie w przypadku terapii tranżeńskiej i hormonów, które bardzo szybko znikają z organizmu, np. przyjmowanych w formie tabletek, gdzie nawet tydzień bez hormonów może powodować znaczące zmiany w organizmie. Jeśli natomiast przyjmujesz zatrzyki i chirurg zalega Ci przedłużenie nieco okresu pomiędzy nimi przed zabiegiem, bo doświadczenie mu mówi że to obniża ryzyko krwiaków, to nie ma w takiej sytuacji powodów żeby się nie dostosować. Hormony przyjmowane w formie zastrzyków znikają z organizmu powoli i stopniowo, nie wywoła więc to takiej gwałtownej reakcji jak w przypadku odstawienia tabletek. Ostatecznie **zawsze ostatnie słowo ma Twój chirurg** i zawsze należy trzymać się jego zaleceń. Jeśli nie czujesz się do końca komfortowo z jego techniką i podejściem, możesz spróbować u innego.
 
 :::
