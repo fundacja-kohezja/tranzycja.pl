@@ -4,8 +4,8 @@ use App\Listeners\FixListsSeparation;
 use App\Listeners\PrependFrontmatter;
 use App\Listeners\GenerateSitemap;
 use App\Listeners\RestoreSourceFiles;
-use App\Listeners\ProcessExtraMarkdownTags;
 use App\Listeners\BuildTOC;
+use App\Listeners\ContentPostProcess;
 use App\Listeners\RedirectsFile;
 
 /** @var $container \Illuminate\Container\Container */
@@ -28,7 +28,7 @@ $events->beforeBuild(PrependFrontmatter::class);
 
 $events->afterBuild(GenerateSitemap::class);
 $events->afterBuild(RestoreSourceFiles::class);
-$events->afterBuild(ProcessExtraMarkdownTags::class);
+$events->afterBuild(ContentPostProcess::class);
 $events->afterBuild(BuildTOC::class);
 $events->afterBuild(RedirectsFile::class);
 
