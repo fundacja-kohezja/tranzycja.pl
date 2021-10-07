@@ -169,6 +169,7 @@ ul {
 }
 
 p {
+    @apply .text-justify;
     @apply .my-3;
 
     @screen md {
