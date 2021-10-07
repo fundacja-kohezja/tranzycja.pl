@@ -14,7 +14,7 @@ pagination:
             </svg>
             <span class="align-middle">Publikacje</span>
         </h1>
-        <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
+        <p class="text-lg text-medium text-center font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
             {{ $page->opisSekcjiPublikacje }}
         </p>
     </div>
