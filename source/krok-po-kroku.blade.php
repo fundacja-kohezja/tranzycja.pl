@@ -6,7 +6,7 @@
         <h1 class="text-indigo-600 dark:text-purple-300 mb-0">
             <span class="align-middle">Tranzycja krok po kroku</span>
         </h1>
-        <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
+        <p class="text-lg text-medium text-center font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
             {{ $page->opisSekcjiKrokPoKroku }}
         </p>
     </div>
