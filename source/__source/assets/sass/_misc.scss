@@ -251,6 +251,9 @@ mark {
             @apply .text-gray-100;
         }
     }
+    p {
+        @apply .text-left;
+    }
 }
 @keyframes fadeout {
     from {
