@@ -1,3 +1,6 @@
+---
+data: '2021-10-08 16:43:19'
+---
 # Eli Kappo: rzecz wyjęta z cis horroru
 ![](https://i.imgur.com/LKwG8ie.jpg)
 
