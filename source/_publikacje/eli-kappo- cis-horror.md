@@ -1,3 +1,6 @@
+---
+data: '2021-10-09 23:08:50'
+---
 # Eli Kappo: rzecz wyjęta z cis horroru
 
 **Eli Kappo jest 29-letnią doktorantką biologii. Obecnie pracuje na Uniwersytecie w Hamburgu i zajmuje się aktywizmem dot. detranzycji. Możesz przeczytać jej krótkie eseje na blogu [shesindetransition.wordpress.com](https://shesindetransition.wordpress.com/)**
