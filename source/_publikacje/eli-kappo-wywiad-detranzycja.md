@@ -1,14 +1,17 @@
----
-data: '2021-10-14 21:37:07'
----
 # Detranzycja: nie wybrałabym żadnej innej drogi
+
+:::info
+
+English version of this text can be found [here](https://update.tranzycja.pl/strony/eli-kappo-interview-detransition/).
+
+:::
 
 > Zarówno w przekształceniu swojego ciała, jak i w jego akceptacji, czy nawet polubieniu, drzemie wielka siła. Mimo wszystko, mimo bycia postrzeganą jako ktoś niewłaściwy, zły i chory, nie wybrałabym żadnej innej drogi.
 
-*Osoba przeprowadzająca wywiad: Dag Fajt  
+*Wywiad z Eli Kappo przeprowadzony został przez Dag Fajt  
 Tłumaczenie i korekta: Dag Fajt, Nina Kuta*
 
-![Ilustracja: ilustracja przedstawiająca Eli Kappo autorstwa MNV @koryaginabumage](https://tranzycja.pl/media/img/eli-kappo-koryaginabumage.jpg)
+![Ilustracja: ilustracja przedstawiająca Eli Kappo autorstwa MNV @koryaginabumage](https://tranzycja.pl/media/img/eli-kappo-koryaginabumage.jpg  =800x)
 
 *Ilustracja autorstwa MNV, [@koryaginabumage](https://instagram.com/koryaginabumage?utm_medium=copy_link)*
 
@@ -17,7 +20,7 @@ Tłumaczenie i korekta: Dag Fajt, Nina Kuta*
 Eli Kappo jest 29-letnią studentką biologii. Obecnie pracuje na Uniwersytecie w Hamburgu i zajmuje się aktywizmem dot. detranzycji. Możesz przeczytać jej krótkie eseje na blogu: [shesindetransition.wordpress.com](https://shesindetransition.wordpress.com/)
 :::
 
-Poniższy wywiad składa się z dwóch części. Pierwsza z nich jest złożona z pytań zadanych przez społeczność zgromadzoną wokół strony tranzycja.pl i polskich grup wsparcia dla osób transpłciowych. Druga część natomiast za temt bierze eseje Eli.
+Poniższy tekst składa się z dwóch części. Pierwsza z nich jest złożona z pytań zadanych Eli przez społeczność zgromadzoną tranzycja.pl i polskich grup wsparcia dla osób transpłciowych. Druga natomiast jest rozmową nawiązującą do jej różnych esei.
 
 ## Część I 
 
