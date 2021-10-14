@@ -5,7 +5,7 @@ data: '2021-10-14 22:35:46'
 
 :::info
 
-English version of this text can be found [here](https://update.tranzycja.pl/strony/eli-kappo-interview-detransition/).
+English version of this text can be found [here](https://tranzycja.pl/strony/eli-kappo-interview-detransition/).
 
 :::
 
