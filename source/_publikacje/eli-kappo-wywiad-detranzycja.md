@@ -14,7 +14,7 @@ English version of this text can be found [here](https://tranzycja.pl/strony/eli
 *Wywiad z Eli Kappo przeprowadzony został przez Dag Fajt  
 Tłumaczenie i korekta: Dag Fajt, Nina Kuta*
 
-![Ilustracja: ilustracja przedstawiająca Eli Kappo autorstwa MNV @koryaginabumage](https://tranzycja.pl/media/img/eli-kappo-koryaginabumage.jpg  =800x)
+![Ilustracja: ilustracja przedstawiająca Eli Kappo autorstwa MNV @koryaginabumage](https://tranzycja.pl/media/img/eli-kappo-koryaginabumage.jpg)
 
 *Ilustracja autorstwa MNV, [@koryaginabumage](https://instagram.com/koryaginabumage?utm_medium=copy_link)*
 
