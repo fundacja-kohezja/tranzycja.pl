@@ -1,25 +1,34 @@
-# Detransition: I wouldn't choose any other way
+# Detransition: I wouldn't like to have it any other way.
+
+:::info
+
+Polska wersja wywiadu jest dostępna [tutaj](https://tranzycja.pl/publikacje/eli-kappo-wywiad-detranzycja/).
+
+:::
 
 > **Eli Kappo:** There is an inherent power in altering your body or just accepting it and even liking it. Despite everything, despite being perceived as wrong and bad and sick I wouldn’t like to have it any other way.
 
 *Interviewer: Dag Fajt*
 
-![](https://i.imgur.com/mHvGntV.jpg)
-Artwork by MNV,[ @koryaginabumage](https://instagram.com/koryaginabumage?utm_medium=copy_link)
+![Ilustracja: ilustracja przedstawiająca Eli Kappo autorstwa MNV @koryaginabumage](https://tranzycja.pl/media/img/eli-kappo-koryaginabumage.jpg  =800x)
+
+*Ilustration by MNV, [@koryaginabumage](https://instagram.com/koryaginabumage?utm_medium=copy_link)*
 
 :::info
-Short bio: Eli Kappo is 29 y.o. Master’s candidate in biology, currently working at Hamburg University and a detrans activist. You can read her short essays at: https://shesindetransition.wordpress.com/
+Eli Kappo is 29 y.o. Master’s candidate in biology, currently working at Hamburg University and a detrans activist. You can read her short essays at  [shesindetransition.wordpress.com](https://shesindetransition.wordpress.com/)
 :::
 
-**Hello Eli, thank you for agreeing to this interview. It will consist of two parts. The first part’s questions are sourced from various members of the Polish transgender community and tranzycja.pl instagram. During the second part, I’d like to ask you more in-depth questions also relating to your writing.**
+The interview consists of two parts. In the first one you will find questions from the tranzycja.pl community and various Polish support groups. The second part is an in-depth conversation relating to Eli's writing.
 
-**For starters, can you tell us a bit how looked your transition/detransition timeline?**
+## Part I
+
+### For starters, can you tell us a bit how looked your transition/detransition timeline?
 
 I came out socially and started to pursue medical transition at 19 y.o. in 2011 - so I was born in 1992, now I’m 29 y.o. I got my first T shot in 2013 and my top surgery took place in early 2014. I considered myself a binary man, I passed, I had my ID gender marker officially changed. In 2016 I stopped taking T and came out as a non-binary man and in 2018 - as a non-binary woman.
 
 Nowadays I'd say I'm done with my physical detransition but my gender is still kinda fluid - I'm both a man and a woman. I’m currently female-presenting and using she/he pronouns. This is how I describe it in very simple terms. My detrans activism of course stems from me being still a trans person. I find it very important to say, especially seeing the rise of many publications, articles about detransition that are openly anti-trans. In Germany as well the topic is appropriated by right-wingers and conservative Christian groups.
 
-**How does the process of transitioning in Germany look like?**
+### How does the process of transitioning in Germany look like?
 
 You have to do psychotherapy for one year, it is not very frequent, not very intense. I would say kinda superficial but you have to attend for a prolonged period of time before you get hormones or are allowed to do surgery. It is demanded by health insurance.
 
@@ -36,7 +45,7 @@ Some detransitioners say "I walked in there and they gave me hormones" - that is
 
 I had top surgery in very early 2014 and that was basically it for me. Over the course of my transition, I got rid of practically any bottom dysphoria that I had. I realized that I can live as a man and not be bothered by having genitals that are kinda rare to have for a man. But I was very okay with my body at that point, my dysphoria was pretty much resolved. I was happily socially, medically, legally transitioned. I had my legal name and gender changed which you can do without having bottom surgery which is a new change to the system. 
 
-**When did you first realize you might not be cisgender?**
+### When did you first realize you might not be cisgender?
 
 So I would say that my onset of what I experienced as my gender identity, like my feeling of being something else than a little girl started extremely early, even before I got into school. I felt like this in kindergarten already. What’s important I still have them and I still use the label “trans” when referring to myself. They just developed over time. My whole life I knew it was there and it got worse with the onset of puberty. I had very strong dysphoria, I was in a very bad state mentally, I was very unhappy. 
 
@@ -44,7 +53,7 @@ I tried to communicate that to my mother, my family and they wouldn't hear me so
 
 When I started puberty it got worse and by age of nineteen years, I was basically suicidal. My thought was that either I can transition or I will take my own life. That was my mindset back then so I needed to transition, I had to.
 
-**When and how have you felt that something is not right after you transitioned? What were your feelings?**
+### When and how have you felt that something is not right after you transitioned? What were your feelings?
 
 [laugh] So basically it all started out during those times when you're not sober and you have thoughts that pop up and this is not something you allow yourself to think normally. Sometimes it's just random thoughts and sometimes they just all go in one particular direction. So it can be anything - maybe embarrassing sexual matters, maybe... all kinds of things. And my thoughts were "what if I, for example, stopped taking T", "what if I come out as non-binary", "what if I have my facial hair removed for good". 
 
@@ -54,25 +63,25 @@ I had a longer period of questioning and it was not quite like questioning my tr
 
 I sometimes tell people the story of when I went to see the movie "Danish Girl" with my then-girlfriend. I know the movie is very problematic and I see that critically in hindsight but at that point in my life, I had an emotional reaction to it. I am a big fan of the 20s and 30s, I feel a very strong emotional connection to that time and everything, the whole iconography of the film, the whole setting, and this experience that was portrayed there - and I see the critical stuff about the film - but like just seeing a woman that was trapped in her life as a man spoke to me on some very deep level. I understood back then that even though I was a happy man, even though I was satisfied with my transition outcome, I had a very loving girlfriend, I had a very okay life… something was inside me that wanted out. And it was the breaking point. Make no mistake - it wasn’t about something like things that are considered feminine in a society and that you can’t do as a man without having social repercussions because we have a shitty society - it’s completely not what I mean. Like I wore make-up. I was openly cross-dressing, my girlfriend was super cool about it, she's also a queer person. But my female self is not the same as feminine things I like.
 
-**Thank you. So how do you feel about yourself compared to pre-transition times?**
+### Thank you. So how do you feel about yourself compared to pre-transition times?
 
 Okay, so that's an interesting question. So my first answer is that I never went to being the person I was before. It is because I aged of course - back then I was a teenager and now I'm almost thirty so that's obviously completely different. 
 
 My identity as a woman is very much unlike what I had before my transition. The transition gave me experiences I couldn't have had otherwise I would say. It all formed me in a way that allowed me to discover a new kind of womanhood - womanhood that encompasses my male self as well, that is way more mature than the previous state, my pre-transition self. It's fundamentally different, I'd say.
 
-**What were your main fears in regard to detransitioning?**
+### What were your main fears in regard to detransitioning?
 
 My main fear was that I can't go back. I was afraid that I have a mental health situation, that I will regret detransitioning, that I will come to my senses again and then I will understand that I fucked it all up. I was very close to being what I envisioned as myself before transitioning. Basically, everything worked well and I thought "I must be stupid to give it all away". "I have a good life, I can't risk it by detransitioning and what will come after this”. How am I going to be okay as a woman even though it's not like I didn’t experience being a woman". 
 
 It was awful. I was often asked by my psychotherapists - I've done therapy after transitioning because I was in a bad spot - and my psychotherapist, he always said that I might not fully accept my womanhood because that would mean I have to understand that I damaged myself - and it was a far cry, it wasn't a case really. It wasn't my main problem. Stuff like grief, regret - all of that is there yes, but I was just very scared to give up my male identity, that was basically my main fear.
 
-**Can you describe how do you feel dysphoria?**
+### Can you describe how do you feel dysphoria?
 
 So I had social dysphoria but I also had very, very basic physical dysphoria. My upper part of the body, which is kinda public, I would say as opposed to private - like my face, neck, chest - those things made people assume I was a woman and I hated that but it was something that bothered me even when I was alone and staring at the mirror in the bathroom. I couldn't stand seeing what I saw. It was a very deep, visceral, physical feeling. 
 
 It wasn't just about "I want everybody to say - that's a man, he/him and if that happens I'm all cool about my transition". It was both. I had some dysphoria regarding genitals and functions of those parts but it wasn't the main problem. My transition was very healing in regard of me incorporating these parts of myself into my manhood. I can see myself as a man with those parts, even have sex and I don't have to alter anything. But I had bottom dysphoria at the beginning of my transition. I wasn't sure I want any kind of surgery because I was afraid of them and it wasn’t my main issue.
 
-**How did your top surgery affected you - comparing the state from before transitioning, in transition, and right now, when you function in the sphere of femaleness? I also see that you have very beautiful tattoos - how do they play into all that, is this also a way of combating dysphoria?**
+### How did your top surgery affected you - comparing the state from before transitioning, in transition, and right now, when you function in the sphere of femaleness? I also see that you have very beautiful tattoos - how do they play into all that, is this also a way of combating dysphoria?
 
 So you see, nowadays I'm wearing kind of a sports bra with a very very small cup - this is what I do in order for people not to stare at me oddly. As long as I have something on, everything is normal no matter what bits I have underneath. This is how it works! I know it's absurd but it's true. This is just something I do socially because like at a beach or sauna when I'm completely naked with nothing at all [note: Germany has a lot of nudist beaches] people still kinda stare but I really don't care. I'm very happy with my body as it is right now and I think I don't need breasts in order to be a woman, it isn't requisite. 
 
@@ -84,25 +93,25 @@ The surgery, the scar, the numbness, the weird feelings, the pain it was very un
 
 Basically, I didn’t really understand that emotionally, I just heard it but it didn't seem to matter to me and then I kinda felt it and had to deal with it. It got better with time, right now after 7 years. It kinda got back to being just not a surgical sight but a normal part of my body. The scars faded, the weird feelings faded as well and it got normalized for me. Now I'm fine with it. The tattoos were something that had to do with dysphoria, interestingly I got most of them after the surgery to cover the scars. I did it for aesthetic reasons but also I felt very vulnerable there. The freshly operated part of my body felt really raw and vulnerable and I tried to protect myself with a layer of something - that was my emotional meaning to it. It's my armor. 
 
-**Are you still friends with the people from the trans community you met during your transition?**
+### Are you still friends with the people from the trans community you met during your transition?
 
 Yes. It's a very clear answer, yes. Actually, my circle of friends is mostly trans and non-binary and consisting of people I've met beforehand. Maybe it has to do with the fact that they're also trans activists? Activists always feel like family in a way, although it's not always a good way - sometimes you simply can't leave, you know?
 I have a very good friend, my ex-partner who is also a detrans person and non-binary person nowadays so yeah, I even know other detrans ppl who are still a part of the trans community.
 
-**How did your closest circle in terms of friends and family react initially to your detransition?**
+### How did your closest circle in terms of friends and family react initially to your detransition?
 
 A little bit confused, uncertain what to do now. I was afraid that people wouldn't take me seriously anymore. The most irritating reaction was from my older relatives who just took it for granted and that made me feel they never even accept my transition in the first place. Basically "the girl is now back to normal". I hated that, I really hated that.
 
 My younger friends, people of my generation just kinda heard what I have to say and were like "okay, interesting, okay, sure, yeah" - I never had any kind of negative reactions at all.
 I had some fears before that, it felt like I was going to lose my face, my credibility - first you need to prove to everybody you're actually a man and then you take it back and it's really, really embarrassing.
 
-**Are you open about your transition/detransition status among the cisgender people you know?**
+### Are you open about your transition/detransition status among the cisgender people you know?
 
 People who knew me long enough and saw it - of course, they know. I don't always tell the new people I meet. It's a bit of a problem. Not that far into my detransition, I was still very ambiguous looking in my understanding, I still had facial hair, shorter haircut - people wouldn't read me as cisgender. Nowadays it has changed - some people are still confused but it fades away quite quickly, I'm mostly read as a cisgender woman, nothing really happens much. Very funny is that some people mistake me for a transfeminine person. Sometimes I don't even correct them, especially if it's just somebody I know, not a close friend. I guess I let them have their fantasy y'know.
 
 Most people know I'm transgender, I have a trans flag and such so they pick up I'm some flavor of a trans person, they just don't know the details, sometimes I prefer not to disclose it to them.
 
-**How do you deal with detransition stuff in regards to your romantic relationships if you pursue them?**
+### How do you deal with detransition stuff in regards to your romantic relationships if you pursue them?
 
 Well, I have a cisgender boyfriend who is not really into queer topics, so he’s practically living as a straight person, even though he's technically not. What he does sexually is not heterosexual as such but he lives a heterosexual lifestyle. We met when I was already out as a woman but my physical characteristics were still kind of in-between - not by any universal measure, it was how I perceived myself. I had facial hair, was thinner too so my silhouette was bonier, not very curvy and I had short hair. He has read me as a woman, I was at that point very femme. 
 
@@ -140,7 +149,7 @@ In a way I tried to get rid of something that was so heavy and cultural and fill
 
 **My second question is related to a quote from one of your [texts:](https://shesindetransition.wordpress.com/2021/09/04/my-beautiful-larynx-cervix/)**
 
-***In changing rooms and public toilets I am a mutist again, like in my childhood. When my co-workers, women my age, talk about their pregnancies or about the brilliant book “How to Be Successful Without Hurting Men’s Feelings”, I’m not sure whether it’s just me who feels left out or if it’s them gently excluding me with looks and gestures.*** 
+> In changing rooms and public toilets I am a mutist again, like in my childhood. When my co-workers, women my age, talk about their pregnancies or about the brilliant book “How to Be Successful Without Hurting Men’s Feelings”, I’m not sure whether it’s just me who feels left out or if it’s them gently excluding me with looks and gestures.
 
 **I feel the same. At first, it was token Weird Kid, later on, Trans Guy in rather feminized, activist spaces, which were different in how it felt to be treated: trash and then porcelain. What difference do you feel between cis fragility you felt as a trans man and now, as a detrans person? There’s also the difference you feel when you’re still in cute twink stage and then with the progress of transition end up masc enough that even in those feminist, activist spaces something changes, an undertone of perceived danger. You’ve been onto this sinusoid of safety-threat division more than anybody I know.**
 
@@ -157,7 +166,7 @@ Nowadays, I would say I am mostly perceived as a cis woman, so people are just n
 
 **Thank you for your answer. For the next question, I need to preface that in my spare time I love to write horror and while reading your assorted texts I really loved [this excerpt](https://shesindetransition.wordpress.com/2021/03/31/tdov-post-the-stuff-of-cis-nightmares/), it’s a great summary of the basic principle of queer horror:**
 
-***If the trans body being rendered cis-ish through black magic and weird science is considered the Happy Ending by cis society, nothing can be worse than the image of the cis who accidentally transed him- or herself. In a world in which only an invisibly trans body is socially acceptable, and in which the story of a cis person subjecting their body to gender-related physical changes seems to fall right between Kafka and Cronenberg, I might just flip one day and say: “I was a young girl alright, I just transitioned to own the Cis.***
+> If the trans body being rendered cis-ish through black magic and weird science is considered the Happy Ending by cis society, nothing can be worse than the image of the cis who accidentally transed him- or herself. In a world in which only an invisibly trans body is socially acceptable, and in which the story of a cis person subjecting their body to gender-related physical changes seems to fall right between Kafka and Cronenberg, I might just flip one day and say: “I was a young girl alright, I just transitioned to own the Cis.
 
 **Trans body monstrosity has been weaponized against us countless times, it’s basically the cornerstone of trans representation in any mainstream medium. You weaponized it back. It’s amazing! But what helped you to gain that outlook?**
 
@@ -167,9 +176,9 @@ When I was fourteen, the emos were. Raging. They were all over the place and I w
 
 **Still moving inside the topic of monstrosities - what you have said, your whole outlook really, have reminded me of [Xenofeminist Manifesto](https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/) with its lovely:**
 
-***When the possibility of transition became real and known, the tomb under Nature’s shrine cracked, and new histories–bristling with futures–escaped the old order of ‘sex’.***
+> When the possibility of transition became real and known, the tomb under Nature’s shrine cracked, and new histories–bristling with futures–escaped the old order of ‘sex’.
 
-**It’s really about escaping that monstrosity into something completely unknown, unable to be described `for cis folks. Do you still vibe with such stuff, meaning queer horror, post-bodism, Porpentine, VanderMeer, etc?**
+**It’s really about escaping that monstrosity into something completely unknown, unable to be described for cis folks. Do you still vibe with such stuff, meaning queer horror, post-bodism, Porpentine, VanderMeer, etc?**
 
 I can't say I'm strongly involved but I genuinely like those ideas. My whole life I had this fascination of anything that is beyond human and yet still human. Body horror is especially something that I feel right in, this is my type of fiction, literature. However, I'm not that well-read, maybe not enough but it's definitely a topic of interest.
 This is also actually one of the reasons why I chose to become a biologist. Life itself is so interesting in its diversity and its potential. I don't think biology needs to be overcome, I think it has to be understood.
@@ -180,7 +189,7 @@ But wait - I actually want to tell you what I haven't written down back then on 
 
 **[In the very same essay](https://shesindetransition.wordpress.com/2020/03/03/the-anger-of-a-wounded-animal/), you have written that:**
 
-***I had sacrificed so much and still had pains with every step I took, but I was free, had to finally be allowed to be free. I could cry when thinking about it, even to this day. [...] My anger will never be anything but the anger of a wounded animal. But I still live. I still have a chance to scratch out their eyes.***
+> I had sacrificed so much and still had pains with every step I took, but I was free, had to finally be allowed to be free. I could cry when thinking about it, even to this day. [...] My anger will never be anything but the anger of a wounded animal. But I still live. I still have a chance to scratch out their eyes.
 
 **With that outlook, with conscious & continuous discomfort to cause goes a lot of anger. With my own anger, I consider it my main driving force but I’m afraid it can burn me out so much. How’s this with you?** 
 
