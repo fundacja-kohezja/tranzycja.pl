@@ -1,7 +1,6 @@
----
-data: '2021-10-14 00:04:40'
----
-# **Eli Kappo:** There is an inherent power in altering your body or just accepting it and even liking it. Despite everything, despite being perceived as wrong and bad and sick I wouldn’t like to have it any other way.
+# Detransition: I wouldn't choose any other way
+
+> **Eli Kappo:** There is an inherent power in altering your body or just accepting it and even liking it. Despite everything, despite being perceived as wrong and bad and sick I wouldn’t like to have it any other way.
 
 *Interviewer: Dag Fajt*
 
