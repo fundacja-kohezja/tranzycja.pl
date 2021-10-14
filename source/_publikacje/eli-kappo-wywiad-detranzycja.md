@@ -1,3 +1,6 @@
+---
+data: '2021-10-14 15:12:31'
+---
 # Detranzycja: nie wybrałabym żadnej innej drogi
 
 > Zarówno w przekształceniu swojego ciała, jak i w jego akceptacji, czy nawet polubieniu, drzemie wielka siła. Mimo wszystko, mimo bycia postrzeganą jako ktoś niewłaściwy, zły i chory, nie wybrałabym żadnej innej drogi.
