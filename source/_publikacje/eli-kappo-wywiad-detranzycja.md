@@ -1,6 +1,3 @@
----
-data: '2021-10-14 15:12:31'
----
 # Detranzycja: nie wybrałabym żadnej innej drogi
 
 > Zarówno w przekształceniu swojego ciała, jak i w jego akceptacji, czy nawet polubieniu, drzemie wielka siła. Mimo wszystko, mimo bycia postrzeganą jako ktoś niewłaściwy, zły i chory, nie wybrałabym żadnej innej drogi.
@@ -10,25 +7,25 @@ Tłumaczenie i korekta: Dag Fajt, Nina Kuta*
 
 ![Ilustracja: ilustracja przedstawiająca Eli Kappo autorstwa MNV @koryaginabumage](https://tranzycja.pl/media/img/eli-kappo-koryaginabumage.jpg)
 
-*Ilustracja autorstwa MNV,[ @koryaginabumage](https://instagram.com/koryaginabumage?utm_medium=copy_link)*
+*Ilustracja autorstwa MNV, [@koryaginabumage](https://instagram.com/koryaginabumage?utm_medium=copy_link)*
 
 
 :::info
-Eli Kappo jest 29-letnią studentką biologii. Obecnie pracuje na Uniwersytecie w Hamburgu i zajmuje się aktywizmem dot. detranzycji. Możesz przeczytać jej krótkie eseje na blogu: https://shesindetransition.wordpress.com/
+Eli Kappo jest 29-letnią studentką biologii. Obecnie pracuje na Uniwersytecie w Hamburgu i zajmuje się aktywizmem dot. detranzycji. Możesz przeczytać jej krótkie eseje na blogu: [shesindetransition.wordpress.com](https://shesindetransition.wordpress.com/)
 :::
 
-## Część I
+Poniższy wywiad składa się z dwóch części. Pierwsza z nich jest złożona z pytań zadanych przez społeczność zgromadzoną wokół strony tranzycja.pl i polskich grup wsparcia dla osób transpłciowych. Druga część natomiast za temt bierze eseje Eli.
 
-**Hej Eli, pragnę podziękować Ci za zgodzenie się na przeprowadzenie tego wywiadu. Będzie się on składał z dwóch części. Pierwsza z nich jest złożona z pytań zadanych przez społeczność zgromadzoną wokół strony tranzycja.pl i polskich grup wsparcia dla osób transpłciowych. W trakcie drugiej części chcę zadać własne, bardziej szczegółowe pytania odnoszące się do Twoich esejów.** 
+## Część I 
 
-**Na początek, czy mogłabyś opowiedzieć nam jak wyglądała Twoja tranzycja i detranzycja na osi czasu?**
+### Na początek, czy mogłabyś opowiedzieć nam jak wyglądała Twoja tranzycja i detranzycja na osi czasu?
 
 Urodziłam się w 1992 roku, więc mam teraz 29 lat. W 2011 roku, gdy miałam 19 lat, zrobiłam coming out i zaczęłam dążyć ku medycznej tranzycji. Pierwszy zastrzyk testosteronu otrzymałam w 2013 roku, zaś topkę przeszłam we wczesnym 2014. Uznawałam się wówczas za binarnego trans mężczyznę, miałam passing i oficjalnie zmieniłam dane w dokumentach. W 2016 przestałam brać testosteron i dokonałam coming outu jako niebinarny mężczyzna, a w 2018 jako niebinarna kobieta. 
 
 Obecnie mogę powiedzieć, że przeszłam w całości moją fizyczną detranzycję, ale moja płeć jest wciąż nieco płynna —  uważam siebie i za kobietę, i za mężczyznę. Używam zaimków ona/on i mam kobiecą prezencję. Tak można wytłumaczyć to najprościej.
 Mój aktywizm detrans ma swoje źródło oczywiście w tym, że nadal jestem osobą transpłciową. Uważam, że rzeczy które mam do przekazania są szczególnie ważne, szczególnie w dobie tak wielu otwarcie transfobicznych publikacji i artykułów o detranzycji. W Niemczech ten temat został podobnie jak w Polsce zagarnięty przez prawicę i konserwatywnych chrześcijan. 
 
-**Jak wygląda proces tranzycji w Niemczech?**
+### Jak wygląda proces tranzycji w Niemczech?
 
 Po pierwsze przez rok musisz uczęszczać na psychoterapię. Nie jest szczególnie częsta, ani intensywna. Powiem nawet, że bywa całkiem pobieżna, ale jednak trzeba na nią chodzić przez długi okres czasu nim uzyska się receptę na hormony czy zgodę na operację. Jest to wymaganie związane z publicznym ubezpieczeniem zdrowotnym. 
 W moim przypadku terapia trwała godzinę, raz w miesiącu. Niemieckie określenie na nią to “Begleittherapie”, to jest “terapia towarzysząca”. Zadają ci na niej różne pytania. Nie jest super inwazyjna, kwestie intymne nie są poruszane. Chcą się głównie dowiedzieć od jak dawna “tak” się czujesz, co sądzisz o tym, czy o tamtym, i tak szczerze tego właśnie nienawidziłam najbardziej. Istnieje duża dysproporcja władzy między inną osobą, która zadaje ci takie pytania, a tobą zmuszoną podać „właściwą odpowiedź”, by otrzymać pomoc. 
@@ -43,13 +40,14 @@ Później, moim głównym celem było przejście topki. Miałam bardzo dojmując
 
 :::danger
 
-Niektóre osoby po detranzycji twierdzą “Po prostu tam weszł_m i dali mi hormony” - to po prostu nie jest prawdą. 
+> Niektóre osoby po detranzycji twierdzą “Po prostu tam weszł_m i dali mi hormony” - to po prostu nie jest prawdą.
+
 :::
 
 
 Topkę przeszłam we wczesnym 2014 i to w zasadzie wszystko na czym mi zależało. W trakcie mojej tranzycji, pozbyłam się praktycznie całej odczuwanej przeze mnie dysforii dołu. Zdałam sobie sprawę, że nie ma żadnego problemu w życiu jako mężczyzna i posiadaniu przy tym genitaliów, które są dosyć rzadkie u facetów. W tamtym momencie czułam się bardzo dobrze z moim ciałem, moja dysforia w dużej mierze minęła. Przeszłam szczęśliwie społeczną, medyczną i prawną tranzycję. Zmieniłam swoje imię i płeć w dokumentach bez operacji dołu, co jest nową opcją w systemie.
 
-**Kiedy zdałaś sobie sprawę z tego, że możesz nie być osobą cispłciową?**
+### Kiedy zdałaś sobie sprawę z tego, że możesz nie być osobą cispłciową?
 
 Powiedziałabym więc, że początki tego, co odczuwałam jako moją tożsamość płciową, moje poczucie bycia kimś innym niż małą dziewczynką, zaczęły się nadzwyczaj wcześnie, jeszcze przed pójściem do szkoły. Czułam się tak już w przedszkolu. Co ważne, nadal mam poczucie bycia kimś więcej niż tylko kobietą i wciąż określam się mianem osoby transpłciowej. Moje uczucia po prostu rozwijały się z czasem. Całe życie wiedziałam, że coś siedzi w środku mnie, a  wszystko nasiliło się to wraz z początkiem dojrzewania. Miałam bardzo silną dysforię, byłam w bardzo złym stanie psychicznym, czułam się bardzo nieszczęśliwa.
 
@@ -57,7 +55,7 @@ Próbowałam to przekazać mojej matce i reszcie mojej rodziny, ale nie chcieli 
 
 Kiedy zaczęłam dojrzewać, czułam się coraz gorzej i w wieku dziewiętnastu lat miałam już w zasadzie myśli samobójcze. Myślałam, że albo przejdę tranzycję albo odbiorę sobie życie. Tak na to wtedy patrzyłam, więc tranzycja była czymś czego potrzebowałam, co musiałam przejść.
 
-**Kiedy zaczęłaś czuć, że coś jest nie w porządku po przejściu tranzycji? Jak to wyglądało od środka?**
+### Kiedy zaczęłaś czuć, że coś jest nie w porządku po przejściu tranzycji? Jak to wyglądało od środka?
 
 [drobny śmiech] Wszystko w sumie zaczęło się w chwilach, gdy nie byłam do końca trzeźwa i do głowy wpadały mi myśli, na które zwykle sobie nie pozwalałam. W takich sytuacjach, niekiedy są to przypadkowe myśli, a innym razem wszystkie obracają się wokół jednego tematu.  Mogą dotyczyć dowolnych rzeczy - może wstydliwych kwestii związanych z seksem, czy czegokolwiek innego. I w takim momencie pomyślałam sobie: „a co, jeśli na przykład przestanę brać testosteron?", „co jeśli dokonam coming-outu jako osoba niebinarna?", „co jeśli na dobre pozbędę się zarostu?".
 
@@ -75,19 +73,19 @@ Okej, to ciekawe pytanie. Moja pierwsza odpowiedź jest taka: nigdy nie powróci
 
 Moja tożsamość jako kobiety obecnie jest bardzo różna od tego, jak czułam się przed tranzycją. Dzięki niej doświadczyłam rzeczy, na które w innym przypadku nie miałabym szansy. To wszystko uformowało mnie w sposób, który pozwolił mi odkryć nowy rodzaj kobiecości — taki, który zawiera również moją męską tożsamość i jest znacznie bardziej dojrzały niż mój poprzedni stan przed przejściem tranzycji. 
 
-**Czego najbardziej bałaś się w związku z detranzycją?**
+### Czego najbardziej bałaś się w związku z detranzycją?
 
 Moim głównym lękiem było to, że nie będę mogła się cofnąć. Bałam się, że mam problemy ze zdrowiem psychicznym, że będę żałowała detranzycji, że w końcu oprzytomnieję i zrozumiem, że wszystko spieprzyłam. Byłam bardzo blisko zostania osobą,  którą wyobrażałam sobie  przed tranzycją. W zasadzie wszystko działało dobrze i myślałam „muszę być głupia, żeby z tego zrezygnować". „Mam dobre życie, nie mogę go ryzykować przez detranzycję i to, co może po niej nastąpić". „Jak ja sobie poradzę jako kobieta, chociaż to nie jest tak, że nie doświadczyłam bycia kobietą".
 
 To było okropne. Często byłam pytana o to przez moich psychoterapeutów - chodziłam na terapię po przejściu tranzycji, byłam w złym punkcie - i mój psychoterapeuta zawsze mówił, że mogę nie akceptować w pełni mojej kobiecości, bo to oznaczałoby dojście do wniosku i pogodzenie się z tym, że sama siebie zniszczyłam - ale to nie miało sensu, kompletnie nie o to chodziło. To nie był mój główny problem. Są we mnie rzeczy takie jak smutek i żal, ale przede wszystkim bałam się porzucić moją męską tożsamość, to był mój główny lęk.
 
-**Czy możesz opowiedzieć o tym jak odczuwasz dysforię?**
+### Czy możesz opowiedzieć o tym jak odczuwasz dysforię?
 
 Odczuwałam społeczną dysforię, ale też bardzo standardową dysforię fizyczną. Była związana z górnymi częściami mojego ciała, które są na pewien sposób publiczne, nie zaś prywatne —  chodzi mi o moją twarz, szyję, klatkę piersiową. Te rzeczy sprawiały, że ludzie odbierali mnie jako kobietę i szczerze tego nienawidziłam, ale przeszkadzały mi też nawet gdy byłam sama i wpatrywałam się w lustro w łazience. To było bardzo głębokie, płynące z głębi ciała uczucie.
 
 Nie chodziło mi tylko o „chcę, żeby wszyscy mówili - to jest mężczyzna, używali zaimków on/jego i będzie po tranzycji". Odczuwałam i jedno i drugie. Miałam pewną dysforię dotyczącą genitaliów i ich funkcji, ale to nie był mój główny problem. Przejście przez tranzycję umożliwiło mi popatrzenie na te części siebie w zdrowszy sposób, włączenie ich w moją męskość. Mogę postrzegać siebie jako mężczyznę z takimi organami, nawet uprawiać seks i nie muszę niczego zmieniać, nawet jeśli na początku tranzycji miałam dysforię dołu. Nie byłam pewna, czy chcę jakiejkolwiek operacji, ponieważ się ich bałam, a priorytet miały inne kwestie.
 
-**Jak wpłynęło na Ciebie przejście topki - porównując stan sprzed tranzycji, w jej trakcie i teraz, gdy jesteś postrzegana jako kobieta? Widzę też, że masz bardzo piękne tatuaże - jaką pełnią w tym wszystkim rolę, czy to też sposób na walkę z dysforią?**
+### Jak wpłynęło na Ciebie przejście topki - porównując stan sprzed tranzycji, w jej trakcie i teraz, gdy jesteś postrzegana jako kobieta? Widzę też, że masz bardzo piękne tatuaże - jaką pełnią w tym wszystkim rolę, czy to też sposób na walkę z dysforią?
 
 Jak widzisz, obecnie noszę coś w rodzaju sportowego stanika z bardzo małą miseczką - robię to, by ludzie nie gapili się na mnie dziwnie. Dopóki mam coś na sobie, wszystko jest postrzegane w granicach normy, bez względu na ciało, które kryje się pod spodem. Tak to właśnie działa! Wiem, że to absurdalne, ale taka jest prawda. Robię to w celu dopasowania się społecznie, ponieważ na plaży lub w saunie, kiedy jestem zupełnie naga i nie mam nic na sobie [uwaga tłumacza: w Niemczech plaży i przestrzenie dla nudystów są często spotykane], ludzie nadal się gapią, ale ja naprawdę się tym nie przejmuję. Jestem bardzo zadowolona z mojego ciała takim, jakie jest teraz i myślę, że nie potrzebuję piersi, żeby być kobietą, to nie jest żaden wymóg.
 
@@ -100,24 +98,24 @@ Operacja, blizny, odrętwienie, dziwne odczucia, ból - to wszystko było bardzo
 
 W zasadzie nie przyjmowałam tego do siebie na emocjonalnym poziomie, słyszałam, co ludzie mówili , ale nie przyjmowałam nic do siebie, a potem wszystko we mnie uderzyło i musiałam sobie z tym jakoś poradzić. Z czasem było coraz lepiej, szczególnie teraz po 7 latach. Wróciłam do stanu, w którym moja klatka piersiowa nie jest już dla mnie widokiem chirurgicznym, tylko normalną częścią ciała. Blizny wyblakły, dziwne uczucia również, stała się ona częścią codzienności. Teraz czuję się z nią dobrze. Tatuaże były czymś, co miało związek z dysforią, ale co ciekawe większość z nich zrobiłam sobie po operacji, żeby zakryć blizny. Ważne były dla mnie względy estetyczne, ale też czułam się tam bardzo bezbronna. Świeżo zoperowana część mojego ciała była naprawdę odsłonięta i pozbawiona ochrony, więc chciałam zakryć się warstwą czegoś - takie jest emocjonalne znaczenie moich tatuaży. Są moją zbroją.
 
-**Czy nadal przyjaźnisz się z osobami ze społeczności trans, których poznałaś w trakcie tranzycji?**
+### Czy nadal przyjaźnisz się z osobami ze społeczności trans, których poznałaś w trakcie tranzycji?
 
 Tak. Bardzo prosto mi odpowiedzieć - totalnie tak. Właściwie mój krąg znajomych jest w większości złożony z osób trans i niebinarnych, które poznałam wcześniej. Może ma to związek z tym, że oni również są trans-aktywistami? Aktywiści zawsze czują się w pewien sposób jak rodzina, chociaż niekoniecznie jest to zdrowy sposób - czasami po prostu nie możesz odejść, co nie? Mam bardzo bliską przyjaciółkę, moją byłą partnerkę, która również jest osobą po detranzycji i niebinarną, więc tak, znam nawet inne osoby detrans, które nadal są częścią społeczności.
 
-**Jak najbliższe Ci osoby, zarówno rodzina jak i przyjaciele, zareagowali na wieści o Twojej detranzycji?**
+### Jak najbliższe Ci osoby, zarówno rodzina jak i przyjaciele, zareagowali na wieści o Twojej detranzycji?
 
 Byli trochę zdezorientowani, niepewni, co teraz mogą zrobić. Bałam się, że ludzie nie będą już traktować mnie poważnie. Najbardziej irytująca była reakcja moich starszych krewnych, którzy uznali to za oczywiste i przez to poczułam, że tak naprawdę w ogóle nie zaakceptowali mojej tranzycji. Takie o: „ta dziewczyna znowu jest normalna". Nienawidziłam tego, naprawdę nienawidziłam. Moi młodsi przyjaciele, ludzie z mojego pokolenia po prostu usłyszeli co mam do powiedzenia i reagowali „ok, ciekawe, pewnie" - nigdy nie spotkałam się z żadną negatywną reakcją.
 
 Wcześniej miałem pewne obawy, czułem, że stracę twarz, wiarygodność - najpierw musisz udowodnić wszystkim, że jesteś mężczyzną, a potem to cofasz i to jest naprawdę bardzo żenujące.
 
-**Czy mówisz otwarcie o swojej tranzycji i detranzycji w kręgu znanych Ci osób cispłciowych?**
+### Czy mówisz otwarcie o swojej tranzycji i detranzycji w kręgu znanych Ci osób cispłciowych?
 
 Ludzie, którzy znali mnie wystarczająco długo i widzieli całą moją drogę - oczywiście, że wiedzą. Nie zawsze mówię o tym nowo poznanym osobom. Czasem jest to problemem. 
 Gdy nie byłam tak daleko w trakcie mojej detranzycji, w mojej ocenie wciąż wyglądałam bardzo niejednoznacznie - miałam zarost na twarzy, krótszą fryzurę —  i ludzie nie odbierali mnie jako osoby cispłciowej. Obecnie uległo to zmianie - niektórzy nadal są zdezorientowani, ale dość szybko to mija, jestem przeważnie odczytywana jako cis kobieta, nic się nie dzieje. Bardzo zabawne jest to, że niektórzy mylą mnie z osobą transkobiecą. Czasami nawet ich nie poprawiam, zwłaszcza jeśli jest to ktoś znajomy, a nie bliski przyjaciel. Myślę, że po prostu pozwalam im mieć te swoje fantazje.
 
 Większość ludzi wie, że jestem transpłciowa, mam flagę trans i takie tam, więc ogarniają, że jestem gdzieś w tym spektrum, tylko po prostu nie znają szczegółów, a ja czasem wolę ich nie ujawniać.
 
-**Jak radzisz sobie z tematem detranzycji w związkach, o ile oczywiście w nie wchodzisz?**
+### Jak radzisz sobie z tematem detranzycji w związkach, o ile oczywiście w nie wchodzisz?
 
 Cóż, mam cis chłopaka, który nie jest zbytnio zainteresowany queerowością, więc praktycznie żyje jako osoba heteroseksualna, mimo że technicznie nią nie jest. W kategoriach seksualnych nie jest szczególnie hetero, ale prowadzi heteroseksualny styl życia. Poznaliśmy się, gdy byłam już wyoutowana jako kobieta, ale fizycznie znajdowałam się gdzieś pomiędzy - nie według żadnej uniwersalnej miary, po prostu sama siebie tak postrzegałam. Miałam zarost, byłam szczuplejsza, więc moja sylwetka była bardziej koścista, niezbyt pełna tych kobiecych krągłości i miałam krótkie włosy. On mnie odczytał jako kobietę, ja w tamtym momencie starałam prezentować się bardzo femme. 
 
@@ -131,9 +129,8 @@ To zależy od osoby i nie jest tak, że ludzie są bardzo zszokowani, ale sama z
 
 
 **W jednym z swoich [esejów]((https://shesindetransition.wordpress.com/2021/08/08/detransitioning-feelings-disappointment-and-loss/)) piszesz, że tranzycja jest też stratą siebie —**
-:::success
-*„W realnym świecie część mnie rzeczywiście umarła, została skremowana. Część tej żydowskiej córki pochodzącej od żydowskiej matki spłonęła, uleciała w popiołach.*”
-:::
+
+> W realnym świecie część mnie rzeczywiście umarła, została skremowana. Część tej żydowskiej córki pochodzącej od żydowskiej matki spłonęła, uleciała w popiołach.
 
 **—  i że kobieca część Ciebie jest Twoją matką. Do jakiego stopnia Twoja tożsamość jako Żydówki wiąże się z tożsamością płciową? Czy ma ona też związek z głębokim poczuciem obcości wywodzącym się z bycia postsowieckim człowiekiem na Zachodzie, w niemieckim społeczeństwie?**
 
@@ -163,9 +160,8 @@ Ale w końcu zrozumiałam, że mogę być dorosłą, żydowską kobietą i Niemc
 W pewnym sensie próbowałam pozbyć się czegoś, co było bardzo ciężkie, związane z kwestiami kulturowymi i wypełnione osobistym doświadczeniami - i pozbyłam się części, ale nie wszystkiego. W końcu znalazłam po prostu alternatywny sposób, aby pogodzić się ze sobą.
 
 **Moje drugie pytanie odnosi się do tego cytatu z jednego z Twoich [esejów:](https://shesindetransition.wordpress.com/2021/09/04/my-beautiful-larynx-cervix/)**
-:::success
-*W przebieralniach i toaletach publicznych, tak jak w dzieciństwie, staję się znów niemową. Gdy moje współpracownice, kobiety w moim wieku, rozmawiają o swoich ciążach czy tej cudnej książce “Jak Odnosić Sukcesy Bez Urażania Męskich Uczuć”, nie jestem pewna czy to tylko ja czuję się pominięta, czy może one wykluczają mnie delikatnie swoimi spojrzeniami i gestami”*
-:::
+
+> W przebieralniach i toaletach publicznych, tak jak w dzieciństwie, staję się znów niemową. Gdy moje współprabcownice, kobiety w moim wieku, rozmawiają o swoich ciążach czy tej cudnej książce “Jak Odnosić Sukcesy Bez Urażania Męskich Uczuć”, nie jestem pewna czy to tylko ja czuję się pominięta, czy może one wykluczają mnie delikatnie swoimi spojrzeniami i gestami
 
 **Czuję się podobnie. Najpierw byłem tokenowym szkolnym dziwadłem, potem Tym Trans Gościem w raczej sfeminizowanych przestrzeniach aktywistycznych. Różnica? Wtedy czułem się jak śmieć, teraz jak porcelana. Jaką różnicę widzisz w tym, jak odczuwałaś cis wrażliwość jako trans mężczyzna, a tym jak odczuwasz ją teraz, jako kobieta po detranzycji?**
 
@@ -184,9 +180,9 @@ Jednakże, nigdy nie byłam jakoś mega męska, więc nie doświadczyłam bardzo
 Obecnie powiedziałabym, że jestem odbierana głównie jako cispłciowa kobieta, więc ludzie są po prostu neutralni, nie widzą mojej transpłciowości. Gdy jestem wśród innych osób transpłciowych, ludzie początkowo odczytują mnie jako pokrewną osobę trans nawet jeśli nie wiedzą w jaką stronę. W tych przestrzeniach jestem otwarta odnośnie swojej tożsamości, nie boję się ujawnić historii mojej detranzycji. W przestrzeniach trans w realu, nigdy nie spotkałam się z żadną złą czy nawet dziwną reakcją dotyczącą mojej detranzycji.
 
 **Dziękuję za odpowiedź. W innym ze swoich [tekstów](https://tranzycja.pl/publikacje/eli-kappo-cis-horror/) strasznie spodobało mi się, jak dobrze opisałaś podstawowe zasady queer horroru:**
-:::success
-*“Jeśli więc w oczach cis-społeczeństwa jedynym happy endem dla transpłciowego ciała jest uczynienie go „dostatecznie cispłciowym” poprzez czarną magię i przedziwną naukę, to nie może istnieć nic gorszego niż obraz cis osoby, która uczyniła się trans przez przypadek. W świecie, w którym tylko niewidzialne transpłciowe ciało jest akceptowalne społecznie i w którym historia cispłciowej osoby poddającej swoje ciało fizycznym zmianom związanym z płcią wydaje się wpadać w niszę gdzieś pomiędzy Kafką, a Cronenbergiem, mogę w końcu nie wytrzymać i powiedzieć: “Pewnie, byłam młodą dziewczyną — tranzycję przeszłam na złość cisom””*
-:::
+
+> Jeśli więc w oczach cis-społeczeństwa jedynym happy endem dla transpłciowego ciała jest uczynienie go „dostatecznie cispłciowym” poprzez czarną magię i przedziwną naukę, to nie może istnieć nic gorszego niż obraz cis osoby, która uczyniła się trans przez przypadek. W świecie, w którym tylko niewidzialne transpłciowe ciało jest akceptowalne społecznie i w którym historia cispłciowej osoby poddającej swoje ciało fizycznym zmianom związanym z płcią wydaje się wpadać w niszę gdzieś pomiędzy Kafką, a Cronenbergiem, mogę w końcu nie wytrzymać i powiedzieć: “Pewnie, byłam młodą dziewczyną — tranzycję przeszłam na złość cisom””
+
 **"Potworność" transpłciowego ciała była wielokrotnie wykorzystywana przeciwko nam, jest wręcz podstawowym sposobem przedstawiania osób trans w popularnych środkach przekazu. Ty obróciłaś ją na swoją korzyść. To świetna sprawa! Co pomogło Ci w spojrzeniu na to z takiej strony?** 
 
 Rozumiem jak to jest być postrzeganą w kategoriach nienormatywności i wydaje mi się, że ma to wiele wspólnego z byciem tym wspomnianym przez Ciebie szkolnym dziwadłem. Wiedziałam, jak to jest być outsiderką nawet poza całym tym transowym kontekstem. Kiedy wszyscy wokół dają ci znać, że coś jest z tobą nie tak, to starasz się obrócić jakoś sytuację na swoją korzyść. Za dzieciaka przechodziłam przez mega krawędziowe fazy, byłam straszną metalówą.
@@ -194,9 +190,8 @@ Rozumiem jak to jest być postrzeganą w kategoriach nienormatywności i wydaje 
 Kiedy miałam 14 lat, subkultura emo cieszyła się dużą popularnością. Wszędzie można było się na nią natknąć, a ja też chciałam być twarda i dziwaczna, mroczna i posępna. Korzystanie z tego motywu potworności to coś, co weszło mi w krew. Obecnie czuję się świetnie w moim ciele, ale niektórzy nadal uważają mnie za dziwadło. Tym razem nie chodzi jednak o koszulkę z zespołem, ćwiekowaną bransoletkę, glany, czy inne akcesoria, które za młodu nosiłam, ale o moją cielesność. Jest to dla mnie bardzo interesujące doświadczenie. Myślę, że osoby z modyfikacjami ciała muszą czuć się podobnie. W tekście, który cytujesz starałam się pobawić trochę właśnie tą ideą (śmiech). Ale jest to jednak bardzo poważna sprawa - bycie nienormatywnym w ten, czy inny sposób nadal jest tematem tabu, szczególnie, gdy dotyczy ciała jako takiego. Może tutaj chodzić o wszystko - również o niepełnosprawność, czy wygląd wybiegający poza kanony piękna. Zarówno w przekształceniu swojego ciała, jak i w jego akceptacji, czy nawet polubieniu, drzemie wielka siła. W kontrze do wszystkiego, mimo bycia postrzeganą jako ktoś niewłaściwy, zły i chory, nie wybrałabym żadnej innej drogi.
 
 **Poruszając się nadal w obrębie potworności - to, co mówiłaś i cały twój punkt widzenia przypomniały mi cudowny ustęp z [Manifestu Ksenofeministycznego](https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/):**
-:::success
-*„Kiedy możliwość tranzycji płciowej urzeczywistniła się i skrystalizowała, sarkofag w podziemiach chramu Natury pękł, a z dawnego porządku „płci biologicznej” wyzwoliły się zupełnie nowe historie – najeżone przyszłościami. “*
-:::
+
+> Kiedy możliwość tranzycji płciowej urzeczywistniła się i skrystalizowała, sarkofag w podziemiach chramu Natury pękł, a z dawnego porządku „płci biologicznej” wyzwoliły się zupełnie nowe historie – najeżone przyszłościami.
 
 **Posługując się tą potwornością możemy uciec w zupełnie niezbadane rejony, niemożliwe dla opisania dla cisów. Czy nadal czujesz więź z tego typu motywami, queer horrorem, post-cielesnością, twórczością Porpentine, VanderMeera itd.?**
 
@@ -209,10 +204,7 @@ Miałam jeszcze inne wspomnienia w temacie, których nie zawarłam w tamtym tek�
 
 **W tamtym [tekście](https://shesindetransition.wordpress.com/2020/03/03/the-anger-of-a-wounded-animal/) pisałaś też:**
 
-:::success
-*„Poświęciłam już tak wiele, każdy krok nadal sprawiał mi ból, ale byłam wolna, w końcu pozwoliłam sobie na bycie wolną. Gdy o tym myślę nawet dzisiaj zbiera mi się na łzy. [..] Mój gniew nie będzie nigdy niczym innym niż wściekłością zranionego zwierzęcia. Ale żyję. Nadal jestem w stanie wydrapać im oczy.”*
-:::
-
+> Poświęciłam już tak wiele, każdy krok nadal sprawiał mi ból, ale byłam wolna, w końcu pozwoliłam sobie na bycie wolną. Gdy o tym myślę nawet dzisiaj zbiera mi się na łzy. [..] Mój gniew nie będzie nigdy niczym innym niż wściekłością zranionego zwierzęcia. Ale żyję. Nadal jestem w stanie wydrapać im oczy.
 
 **Z taką perspektywą, ze świadomym sprawianiem innym dyskomfortu, wiąże się wiele gniewu. Mój własny gniew jest moją główną siłą napędową, obawiam się jednak, że z czasem może mnie on wypalić. Jak wygląda to u ciebie?** 
 
