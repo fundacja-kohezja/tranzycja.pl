@@ -10,7 +10,7 @@ Polska wersja wywiadu jest dostępna [tutaj](https://tranzycja.pl/publikacje/eli
 
 *Interviewer: Dag Fajt*
 
-![Ilustracja: ilustracja przedstawiająca Eli Kappo autorstwa MNV @koryaginabumage](https://tranzycja.pl/media/img/eli-kappo-koryaginabumage.jpg  =800x)
+![Ilustration: drawing of Eli Kappo by MNV @koryaginabumage](https://tranzycja.pl/media/img/eli-kappo-koryaginabumage.jpg)
 
 *Ilustration by MNV, [@koryaginabumage](https://instagram.com/koryaginabumage?utm_medium=copy_link)*
 
