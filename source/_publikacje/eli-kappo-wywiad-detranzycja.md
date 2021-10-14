@@ -1,18 +1,20 @@
----
-data: '2021-10-14 14:01:56'
----
-# Eli Kappo: Zarówno w przekształceniu swojego ciała, jak i w jego akceptacji, czy nawet polubieniu, drzemie wielka siła. Mimo wszystko, mimo bycia postrzeganą jako ktoś niewłaściwy, zły i chory, nie wybrałabym żadnej innej drogi.
+# Detranzycja: nie wybrałabym żadnej innej drogi
 
-*Osoba przeprowadzająca wywiad: Dag Fajt
+> Zarówno w przekształceniu swojego ciała, jak i w jego akceptacji, czy nawet polubieniu, drzemie wielka siła. Mimo wszystko, mimo bycia postrzeganą jako ktoś niewłaściwy, zły i chory, nie wybrałabym żadnej innej drogi.
+
+*Osoba przeprowadzająca wywiad: Dag Fajt  
 Tłumaczenie i korekta: Dag Fajt, Nina Kuta*
 
-![](https://i.imgur.com/HBI1iIg.jpg)
-Artwork by MNV,[ @koryaginabumage](https://instagram.com/koryaginabumage?utm_medium=copy_link)
+![Ilustracja: ilustracja przedstawiająca Eli Kappo autorstwa MNV @koryaginabumage](https://tranzycja.pl/media/img/eli-kappo-koryaginabumage.jpg)
+
+*Ilustracja autorstwa MNV,[ @koryaginabumage](https://instagram.com/koryaginabumage?utm_medium=copy_link)*
+
 
 :::info
-Krótkie bio: Eli Kappo jest 29-letnią studentką biologii. Obecnie pracuje na Uniwersytecie w Hamburgu i zajmuje się aktywizmem dot. detranzycji. Możesz przeczytać jej krótkie eseje na blogu: https://shesindetransition.wordpress.com/
+Eli Kappo jest 29-letnią studentką biologii. Obecnie pracuje na Uniwersytecie w Hamburgu i zajmuje się aktywizmem dot. detranzycji. Możesz przeczytać jej krótkie eseje na blogu: https://shesindetransition.wordpress.com/
 :::
 
+## Część I
 
 **Hej Eli, pragnę podziękować Ci za zgodzenie się na przeprowadzenie tego wywiadu. Będzie się on składał z dwóch części. Pierwsza z nich jest złożona z pytań zadanych przez społeczność zgromadzoną wokół strony tranzycja.pl i polskich grup wsparcia dla osób transpłciowych. W trakcie drugiej części chcę zadać własne, bardziej szczegółowe pytania odnoszące się do Twoich esejów.** 
 
@@ -122,7 +124,7 @@ Obecnie pod względem społecznym jestem zawsze odczytywana jako kobieta, więc 
 
 To zależy od osoby i nie jest tak, że ludzie są bardzo zszokowani, ale sama zdecydowanie wolę po prostu osoby queerowe i takie, które po prostu już ogarniają.
 
-## CZĘŚĆ II
+## Część II
 
 
 **W jednym z swoich [esejów]((https://shesindetransition.wordpress.com/2021/08/08/detransitioning-feelings-disappointment-and-loss/)) piszesz, że tranzycja jest też stratą siebie —**
