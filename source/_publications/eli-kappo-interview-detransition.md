@@ -125,7 +125,7 @@ My detransition worked in a way that is favorable for him when he wants to pass 
 It depends on a person, it’s not like people are super shocked by that but I definitely prefer people who are just queer or open to it. 
 
 
-### PART II
+## Part II
 
 **You say in one of your [essays](https://shesindetransition.wordpress.com/2021/08/08/detransitioning-feelings-disappointment-and-loss/) that transition is a loss of self —  *A part of me actually died, physically, it has been cremated. A part of this Jewish daughter of this Jewish mother has been burned, went up in ashes.* — and your woman-self being your mother. To what degree your Jewishness is tied to your gender? Or the deep rift from being post-Soviet human in Western, German society?**
 
