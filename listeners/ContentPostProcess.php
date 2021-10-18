@@ -6,14 +6,21 @@ use TightenCo\Jigsaw\Jigsaw;
 
 class ContentPostProcess
 {
+    protected $folders = [
+        '/strony',
+        '/publikacje',
+        '/publications',
+        '/aktualnosci',
+        '/krok-po-kroku'
+    ];
+
     public function handle(Jigsaw $jigsaw)
     {
-        $files = array_merge(
-            $jigsaw->getFilesystem()->files($jigsaw->getDestinationPath().'/strony'),
-            $jigsaw->getFilesystem()->files($jigsaw->getDestinationPath().'/publikacje'),
-            $jigsaw->getFilesystem()->files($jigsaw->getDestinationPath().'/aktualnosci'),
-            $jigsaw->getFilesystem()->files($jigsaw->getDestinationPath().'/krok-po-kroku')
-        );
+        $files = [];
+        foreach ($this->folders as $folder) {
+            $files = array_merge($files, $jigsaw->getFilesystem()->files($jigsaw->getDestinationPath() . $folder));
+        }
+
         $files[] = $jigsaw->getFilesystem()->getFile($jigsaw->getDestinationPath(), 'index.html');
 
         $orphans = new Orphans;
@@ -23,8 +30,8 @@ class ContentPostProcess
     
             $content = $jigsaw->getFilesystem()->get($file);
             
-            $content = $orphans->process($content); // apply extra markdown tags
-            $content = $extraMd->process($content); // remove orphans
+            $content = $orphans->process($content); // remove orphans
+            $content = $extraMd->process($content); // apply extra markdown tags
     
             $jigsaw->getFilesystem()->putWithDirectories($file, $content);
         }

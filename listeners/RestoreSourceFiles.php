@@ -20,6 +20,7 @@ class RestoreSourceFiles
         
         $files = array_merge(
             $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_publikacje'),
+            $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_publications'),
             $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_aktualnosci')
         );
         foreach ($files as $file) {
