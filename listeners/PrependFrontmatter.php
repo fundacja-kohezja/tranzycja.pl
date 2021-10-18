@@ -21,81 +21,16 @@ section: content
             
             $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
         }
+
+        $folders = [
+            '/_publikacje' => 'artl',
+            '/_publications' => 'aeng',
+            '/_aktualnosci' => 'post'
+        ];
         
-
-
-        $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_aktualnosci');
-        foreach ($files as $file) {
-            $parser = new Parser;
-
-            $document = $parser->parse($jigsaw->getFilesystem()->get($file), false);
-
-            $yaml = $document->getYAML();
-            if (isset($yaml['data']) && strlen($yaml['data']) === 19) {
-
-                $new_content = 
-'---
-data: \'' . $yaml['data'] . '\'
-extends: __source.layouts.post
-section: content
----
-' . $document->getContent();
-
-            } else {
-
-                $new_content = 
-'---
-data: \'' . Date::now() . '\'
-extends: __source.layouts.post
-section: content
----
-' . $document->getContent();
-
-            }
-            
-            $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
+        foreach ($folders as $folder => $template) {
+            $this->addDate($jigsaw, $folder, $template);
         }
-
-
-
-
-        $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_publikacje');
-
-        foreach ($files as $file) {
-
-            $parser = new Parser;
-
-            $document = $parser->parse($jigsaw->getFilesystem()->get($file), false);
-
-            $yaml = $document->getYAML();
-            if (isset($yaml['data']) && strlen($yaml['data']) === 19) {
-
-                $new_content = 
-'---
-data: \'' . $yaml['data'] . '\'
-extends: __source.layouts.artl
-section: content
----
-' . $document->getContent();
-
-            } else {
-
-                $new_content = 
-'---
-data: \'' . Date::now() . '\'
-extends: __source.layouts.artl
-section: content
----
-' . $document->getContent();
-
-            }
-
-            
-            $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
-        }
-
-
-
 
         $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_krok_po_kroku');
 
@@ -128,6 +63,45 @@ section: content
 
             }
 
+            
+            $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
+        }
+    }
+
+    protected function addDate(Jigsaw $jigsaw, string $folder, string $template)
+    {
+        if (strlen($template) != 4) {
+            throw new \Exception("Template name should be exactly 4 characters long");
+        }
+
+        $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath() . $folder);
+        foreach ($files as $file) {
+            $parser = new Parser;
+
+            $document = $parser->parse($jigsaw->getFilesystem()->get($file), false);
+
+            $yaml = $document->getYAML();
+            if (isset($yaml['data']) && strlen($yaml['data']) === 19) {
+
+                $new_content = 
+'---
+data: \'' . $yaml['data'] . '\'
+extends: __source.layouts.' . $template . '
+section: content
+---
+' . $document->getContent();
+
+            } else {
+
+                $new_content = 
+'---
+data: \'' . Date::now() . '\'
+extends: __source.layouts.' . $template . '
+section: content
+---
+' . $document->getContent();
+
+            }
             
             $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
         }

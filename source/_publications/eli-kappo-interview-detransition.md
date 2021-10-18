@@ -1,3 +1,6 @@
+---
+data: '2021-10-16 19:09:13'
+---
 # Detransition: I wouldn't like to have it any other way.
 
 :::info

@@ -39,6 +39,22 @@ function excerpt(CollectionItem $page, int $words) {
 
 }
 
+$pub_config = [
+    'sort' => '-data',
+    'title' => function ($page) {
+        $tresc = $page->getContent();
+        preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
+        preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
+        return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
+    },
+    'excerpt' => function ($page) {
+        return excerpt($page, 40);
+    },
+    'longerExcerpt' => function ($page) {
+        return excerpt($page, 120);
+    }
+];
+
 return (array)$yaml_config + [
     'baseUrl' => 'https://tranzycja.pl',
     'production' => false,
@@ -56,21 +72,8 @@ return (array)$yaml_config + [
                 return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
             }
         ],
-        'publikacje' => [
-            'sort' => '-data',
-            'title' => function ($page) {
-                $tresc = $page->getContent();
-                preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
-                preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
-                return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
-            },
-            'excerpt' => function ($page) {
-                return excerpt($page, 40);
-            },
-            'longerExcerpt' => function ($page) {
-                return excerpt($page, 120);
-            }
-        ],
+        'publikacje' => $pub_config,
+        'publications' => $pub_config,
         'krok_po_kroku' => [
             'sort' => 'kolejnosc',
             'title' => function ($page) {
