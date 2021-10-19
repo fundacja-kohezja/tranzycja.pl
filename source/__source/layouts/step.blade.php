@@ -13,7 +13,7 @@
         </nav>
     </div>
     <main class="flex flex-col lg:flex-row">
-        <article class="long-article DocSearch-content w-full lg:w-3/5 break-words pb-16">
+        <article class="long-article DocSearch-content w-full lg:w-3/5 break-words pb-16 justify-paragraphs">
             @yield('content')
         </article>
     </main>

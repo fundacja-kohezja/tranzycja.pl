@@ -510,3 +510,8 @@ mark {
         font-weight: 400;
     }
 }
+
+.justify-paragraphs p {
+    @apply .text-justify;
+    @apply .leading-loose;
+}

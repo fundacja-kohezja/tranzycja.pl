@@ -3,7 +3,7 @@
 @section('body')
 <div class="container max-w-6xl mx-auto px-6 py-4">
     <main class="flex flex-col lg:flex-row">
-        <div class="DocSearch-content w-full break-words pb-16">
+        <div class="DocSearch-content w-full break-words pb-16 justify-paragraphs">
             @yield('content')
         </div>
     </main>
