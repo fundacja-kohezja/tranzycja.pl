@@ -9,7 +9,7 @@
         <meta property="og:site_name" content="{{ $page->nazwaWitryny }}"/>
         <meta property="og:title" content="{{ $page->title() ?  $page->title() . ' | ' : '' }}{{ $page->nazwaWitryny }}"/>
         <meta property="og:description" content="{{ $page->description ?? $page->opisWitryny }}"/>
-        <meta property="og:url" content="{{ $page->getPath() }}"/>
+        <meta property="og:url" content="{{ $page->baseUrl }}{{ $page->getPath() == '/home' ? '' : $page->getPath() }}"/>
         <meta property="og:image" content="{{ $page->baseUrl }}/assets/img/social-share.png"/>
         <meta property="og:type" content="website"/>
 
