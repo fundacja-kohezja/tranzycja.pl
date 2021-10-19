@@ -10,10 +10,12 @@
         <meta property="og:title" content="{{ $page->title() ?  $page->title() . ' | ' : '' }}{{ $page->nazwaWitryny }}"/>
         <meta property="og:description" content="{{ $page->description ?? $page->opisWitryny }}"/>
         <meta property="og:url" content="{{ $page->getPath() }}"/>
-        <meta property="og:image" content="/assets/img/logo.png"/>
+        <meta property="og:image" content="{{ $page->baseUrl }}/assets/img/social-share.png"/>
         <meta property="og:type" content="website"/>
 
         <meta name="twitter:image:alt" content="{{ $page->nazwaWitryny }}">
+        <meta name="twitter:description" content="{{ $page->description ?? $page->opisWitryny }}"/>
+        <meta name="twitter:image" content="{{ $page->baseUrl }}/assets/img/social-share.png"/>
         <meta name="twitter:card" content="summary_large_image">
 
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
