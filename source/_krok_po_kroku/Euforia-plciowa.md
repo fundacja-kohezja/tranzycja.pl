@@ -1,5 +1,6 @@
 ---
-tags: dag&nina, poprawki
+kolejnosc: 5
+tags: dag&nina, opublikowane, krok po kroku, hormony
 ---
 
 # Euforia płciowa
