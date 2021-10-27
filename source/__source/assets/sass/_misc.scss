@@ -514,5 +514,7 @@ mark {
 .justify-paragraphs p {
     @apply .text-justify;
     @apply .leading-loose;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
     hyphens: auto;
 }
