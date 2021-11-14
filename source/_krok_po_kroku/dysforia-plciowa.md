@@ -1,5 +1,5 @@
 ---
-kolejnosc: 3
+kolejnosc: 30
 tags: dag&nina, poprawki
 ---
 
