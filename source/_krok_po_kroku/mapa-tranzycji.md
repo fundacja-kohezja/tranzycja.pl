@@ -1,5 +1,5 @@
 ---
-kolejnosc: 3
+kolejnosc: 50
 ---
 # Mapa tranzycji
 
