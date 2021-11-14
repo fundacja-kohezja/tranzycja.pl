@@ -1,5 +1,5 @@
 ---
-kolejnosc: 5
+kolejnosc: 3
 tags: dag&nina, opublikowane, krok po kroku, hormony
 ---
 
