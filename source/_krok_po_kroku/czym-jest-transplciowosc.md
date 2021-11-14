@@ -1,5 +1,5 @@
 ---
-kolejnosc: 1
+kolejnosc: 10
 tags: opublikowane, krok po kroku
 ---
 # Czym jest transpłciowość i tranzycja?
