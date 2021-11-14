@@ -1,5 +1,5 @@
 ---
-kolejnosc: 2
+kolejnosc: 20
 tags: dag&nina, opublikowane, krok po kroku
 ---
 
