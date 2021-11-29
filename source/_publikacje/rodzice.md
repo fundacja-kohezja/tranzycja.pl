@@ -19,6 +19,12 @@ Potrzebujesz wsparcia innych rodziców osób trans? Napisz na kontakt@tranzycja.
 
 ## Materiały wideo
 
+:::spoiler KPH: O transpłciowości dla rodzica
+
+{%youtube xQbqupUlt64 %}
+
+:::
+
 :::spoiler st4chu d4brovski: wywiad z moją mamą
 
 {%youtube Ese_RGRgqLQ %}
@@ -68,9 +74,9 @@ Poniższy fragment stanowi informację prawną, natomiast nie jest poradą czy o
 1. Potocznie często używane jest określenie "odebranie praw rodzicielskich", gdy rozmówca ma na myśli odebranie władzy rodzicielskiej. Władza rodzicielska dotyczy dzieci i nastolatków niepełnoletnich (czyli w lwiej większości sytuacji - przed ukończeniem 18 roku życia) - osoby po 18-tce nie pozostają pod niczyją władzą rodzicielską. Polega ona na "obowiązku i prawie rodziców do wykonywania pieczy nad osobą i majątkiem dziecka oraz do wychowania dziecka, z poszanowaniem jego godności i praw".
 
 2. Władza rodzicielska może być odebrana przez sąd w trzech sytuacjach:
--  trwałej przeszkody w wykonywaniu władzy rodzicielskiej (np. długotrwały wyjazd za granicę połączony z brakiem zainteresowania losem dziecka),
-- nadużywania władzy rodzicielskiej przez rodziców,
-- zaniedbywania przez rodziców w sposób rażący obowiązków względem dziecka.
+   -  trwałej przeszkody w wykonywaniu władzy rodzicielskiej (np. długotrwały wyjazd za granicę połączony z brakiem zainteresowania losem dziecka),
+   - nadużywania władzy rodzicielskiej przez rodziców,
+   - zaniedbywania przez rodziców w sposób rażący obowiązków względem dziecka.
 
 3. Odebranie praw rodzicielskich oznacza, że rodzic nie może decydować o majątku i osobistych, istotnych sprawach dziecka (np. leczeniu, wyborze szkoły, możliwości choćby krótkiego wyjazdu za granicę). Co ważne, nie oznacza zwolnienia tego rodzica z konieczności alimentacji ani też nie oznacza, że rodzic nie ma prawa do kontaktów z dzieckiem. By pozbawić rodzica możliwości widzeń z dzieckiem, potrzebne jest odrębne orzeczenie sądu, do którego muszą być szczególne podstawy (np. alkoholizm, narkomania, skrajna przemoc).
 
