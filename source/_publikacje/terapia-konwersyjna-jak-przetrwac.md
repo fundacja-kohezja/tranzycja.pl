@@ -1,3 +1,6 @@
+---
+data: '2021-12-02 00:26:37'
+---
 # Jak przetrwać terapię konwersyjną? 9 porad dla osób niecisheteronormatywnych
 ##### osoby autorskie: Kayley Whalen and Eric Tannehill
 
