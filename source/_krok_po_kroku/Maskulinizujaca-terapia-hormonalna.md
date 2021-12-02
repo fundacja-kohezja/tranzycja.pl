@@ -42,10 +42,9 @@ Dystrybucja tkanki tłuszczowej w ciele będzie zmieniać się z typowo kobiecej
 
 ::: spoiler Dane dotyczące zmian w tkance tłuszczowej po 12 miesiącach maskulinizującej terapii hormonalnej
 
-![Zmiany w proporcjach ciała na maskulinizującej terapii hormonalnej](https://tranzycja.pl/media/img/maskulinizujaca-terapia-hormonalna-1.png)
+![Zmiany w proporcjach ciała na maskulinizującej terapii hormonalnej](https://tranzycja.pl/media/img/maskulinizujaca-terapia-hormonalna1.png)
 
-![Zmiany w proporcjach ciała na maskulinizującej terapii hormonalnej](https://tranzycja.pl/media/img/maskulinizujaca-terapia-hormonalna-2.png)
-:::
+![Zmiany w proporcjach ciała na maskulinizującej terapii hormonalnej](https://tranzycja.pl/media/img/maskulinizujaca-terapia-hormonalna2.png)
 
 Beztłuszczowa masa ciała to określenie na wszystko, co nie jest masą tłuszczową, więc między innymi kości, ścięgna, czy mięśnie. 
 WHR - ang. *waist-hip ratio*, stosunek obwodu talii do obwodu bioder.
