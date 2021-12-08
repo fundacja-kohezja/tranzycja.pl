@@ -159,18 +159,6 @@ Dawkę i częstotliwość ustali z Tobą endoktrynolog, po uprzednim przeprowadz
 
 :::
 
-:::spoiler Dlaczego nie robimy zastrzyków podskórnie? Co jeśli biję za płytko?
-
-Zastrzyki podskórne są możliwe tylko w przypadku niektórych bardzo konkretnych substancji i wymagają trzymania się kilu dodatkowych zasad. Używane w Polsce hormony nie nadają się do tego.
-
-Podskórnie można podawać wyłącznie do 2ml leku w postaci roztworu wodnego, o stężeniu izotonicznym, odczynie obojętnym, wchłaniającego się w ciągu 15-20 minut. Nie podaje się leków w postaci zawiesiny, nie wskazane jest podawanie leków oleistych (a takimi są spotykane w Polsce zastrzyki hormonalne), zabronione zaś podawanie leków drażniących tkanki.[^1]
-
-Domięśniwo można podać niemalże wszelkie leki, w tym roztwory oleiste i zawiesiny. Dodatkowo tego typu zastrzyki wchłaniają się szybciej - w ciągu 10-15 minut.[^1]
-
-Jeśli czasem zdarzy Ci się trafić zbyt płytko, nic złego nie powinno się stać. Natomiast jeśli regularnie będziesz trafiać w tkankę tłuszczową zamiast mięsień, z czasem mogą zacząć tworzyć się pod skórą wyczuwalne palcami grudki, które mogą z czasem rozejść, chociaż nie muszą, i może to długo trwać. Żeby tego uninkąć, najlepiej zmieniać miejsca zastrzyku (np. na przemian prawa i lewa strona).
-
-:::
-
 :::spoiler Co zrobić jeśli po zastrzyku wycieka krew lub lek?
 
 Nie martw się, to jest całkowicie normalne, że po zastrzyku wycieka odrobinę krwi czy leku. Przyłóż jałową gazę i uciskaj. Odczekaj 10-20 minut.
