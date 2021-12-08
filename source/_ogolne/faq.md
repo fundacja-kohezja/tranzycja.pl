@@ -8,21 +8,21 @@ tags: opublikowane, faq
 
 :::spoiler Dlaczego nie mówimy "zmiana płci"?
 
-Słowo "płeć", jak wiele innych, w zależności od kontekstu może mieć różne znaczenia. Mamy płeć kulturową, ale mamy też biologiczną, a ona sama składa się z wielu elementów: od kariotypu, poprzez fenotyp po płeć odczuwaną: tożsamość płciową. To właśnie tę ostatnią na ogół mamy na myśli mówiąc "jakiej ktoś jest płci".
+Słowo „płeć", jak wiele innych, w zależności od kontekstu może mieć różne znaczenia. Mamy płeć kulturową, ale mamy też biologiczną, a ona sama składa się z wielu elementów: od kariotypu, poprzez fenotyp po płeć odczuwaną: tożsamość płciową. To właśnie tę ostatnią na ogół mamy na myśli mówiąc „jakiej ktoś jest płci".
 
-W procesie tranzycji dopasowujemy nasze ciało, dokumenty itd. do właśnie płci odczuwanej, która się nie zmienia. A określenie "zmiana płci" sugeruje natomiast coś przeciwnego. Dlatego więc nie posługujemy się określeniem "zmiana płci" - bo płeć [odczuwana] pozostaje bez zmian. Na proces zmian zachodzących w naszym ciele, dokumentach czy społecznie natomiast zbiorczo mówimy tranzycja.
+W procesie tranzycji dopasowujemy nasze ciało, dokumenty itd. do właśnie płci odczuwanej, która się nie zmienia. A określenie „zmiana płci" sugeruje natomiast coś przeciwnego. Dlatego więc nie posługujemy się określeniem „zmiana płci" — bo płeć [odczuwana] pozostaje bez zmian. Na proces zmian zachodzących w naszym ciele, dokumentach czy społecznie natomiast zbiorczo mówimy tranzycja.
 
 :::
 
 :::spoiler Transpłciowość czy transseksualizm?
 
-Określenie "transseksualizm" uznawane jest za przestarzałe, medykalizujące, a w wielu sytuacjach zwyczajnie nieuprzejme. Zdecydowanie bezpieczniejszym określeniem jest "transpłciowość", które obejmuje o wiele więcej tożsamości - trudniej więc jest też o pomyłkę. Ostatecznie zawsze należy uszanować prawo do samostanowienia i w miarę możliwości używać takich określeń, jak określa się osoba do której się odnosisz.
+Określenie „transseksualizm" uznawane jest za przestarzałe, medykalizujące, a w wielu sytuacjach zwyczajnie nieuprzejme. Zdecydowanie bezpieczniejszym określeniem jest "transpłciowość", które obejmuje o wiele więcej tożsamości — trudniej więc jest też o pomyłkę. Ostatecznie zawsze należy uszanować prawo do samostanowienia i w miarę możliwości używać takich określeń, jak określa się osoba do której się odnosisz.
 
 :::
 
 :::spoiler Czy osoby cis powinny przedstawiając się i podpisując dodawać swoje zaimki?
 
-Osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) często pytają czy —i kiedy!— powinny przedstawiając się podawać zaimki, a czasem nawet mają wątpliwości czy im wolno, pytając czy nie "zawłaszczają" w ten sposób elementów związanych z byciem trans.
+Osoby cis (a więc takie, których płeć odczuwana pokrywa się z nadaną) często pytają czy —i kiedy!— powinny przedstawiając się podawać zaimki, a czasem nawet mają wątpliwości czy im wolno, pytając czy nie „zawłaszczają" w ten sposób elementów związanych z byciem trans.
 
 ### Krótko: jasne, jak najbardziej!
 
@@ -30,13 +30,13 @@ Przedstawianie się zaimkami i pytanie o nie jest (a przynajmniej powinno być) 
 
 Warto przy tym także pamiętać, że niektóre osoby trans i niebinarne każdego dnia toczą walkę o swoją tożsamość i bardzo często wolałyby już tego nie musieć robić i po prostu poczuć się w grupie "normalne".  Wiele osób trans i niebinarnych widząc, że inne osoby nie przedstawiają się z zaimkami, same również tego nie zrobią, bo czują że już dość odstają od reszty, albo nie czują się dość bezpiecznie aby to zrobić.
 
-Dlatego dodawaj swoje zaimki do podpisu w mailach, bio w social mediach, czy przy przedstawiania się na spotkaniach w nowym gronie - nigdy nie wiesz, czy tym prostym gestem nie wyratujesz kogoś innego z niezręcznej sytuacji, biorąc na moment odrobinę ich "inności" na siebie.
+Dlatego dodawaj swoje zaimki do podpisu w mailach, bio w social mediach, czy przy przedstawiania się na spotkaniach w nowym gronie — nigdy nie wiesz, czy tym prostym gestem nie wyratujesz kogoś innego z niezręcznej sytuacji, biorąc na moment odrobinę ich "inności" na siebie.
 
 ### Kiedy lepiej sobie zaimki odpuścić?
 
 Niektóre osoby nie czują na co dzień potrzeby przedstawiania się z zaimkami, ale jeśli wypatrzą w grupie kogoś kto wydaje im się trans, dodają je specjalnie z uwagi na tę osobę - czasem nawet wiedząc jakimi zaimkami ona się posługuje. **To nie jest w porządku!**
 
-Nikt nie lubi być wyszczególniany w grupie jako "ta osoba trans". Postępując w taki sposób nic nie normalizujesz, za to możesz wprawić kogoś w jeszcze większy dyskomfort - staraj się więc na to uważać.
+Nikt nie lubi być wyszczególniany w grupie jako „ta osoba trans". Postępując w taki sposób nic nie normalizujesz, za to możesz wprawić kogoś w jeszcze większy dyskomfort — staraj się więc na to uważać.
 
 :::
 
@@ -54,9 +54,7 @@ Gdy budujesz zamek z piasku na plaży, zwykle nie wliczasz w projekt krzywizny z
 
 :::spoiler Czy transpłciowość jest zaraźliwa?
 
-Nie, transpłciowość nie jest w żaden sposób zaraźliwa, natomiast większa wiedza i świadomość istnienia zjawiska z pewnością zwiększa ilość osób samoidentyfikujących się jako trans. Niektóre osoby, a w szczególności zdesperowani rodzice, którzy nie mogą się pogodzić z transpłciowością swojego dziecka, zauważając, że obecność osoby identyfikującej się otwarcie jako osoba transpłciowa w otoczeniu sprawia, że inne osoby też mogą się tak identyfikować, wymyśliło fikcyjną jednostkę chorobową, tzw. "Rapid Onset Gender Dysphoria" ("Nagły Przypadek Dysforii Płciowej"). Jest to klasyczny przykład mylenia przyczyny ze skutkiem. Bez powszechnie dostępnej wiedzy o transpłciowości, mamy w społęczeństwie dokładnie tyle samo osób trans, są jedynie przez to bardziej zagubione - mają trudności ze zrozumieniem siebie, zaakceptowaniem i cierpą z tego powodu.
-
-Co należy zaznaczyć - tzw. ROGD nie zostało nigdy potwierdzone metodą naukową, choć osoby które w nie wierzą mogą twierdzić inaczej, odwołując się do tzw. badania Lisy Littman, które zostało przeprowadzone z pominięciem podstawowych zasad metody naukowej. Nie przeprowadzono żadnych badań na transpłciowych dzieciach, ani nie zadbano o obiektywną próbę respondentów. Zamiast tego wnioski wyciągnięto z kwestionariuszy rozdanych wyłącznie osobom już przekonanym o istnieniu ROGD. Zostało to bardzo dokładnie opisane w [eseju Julii Serano](https://medium.com/@juliaserano/everything-you-need-to-know-about-rapid-onset-gender-dysphoria-1940b8afdeba) oraz omówione w [tym wideo](https://www.youtube.com/watch?v=6y_REX4wfts). Warto się zainteresować, ponieważ można się z tych materiałów niesamowicie dużo nauczyć o metodach manipulacji jakie stosuje transfobiczne lobby.
+Dokładna geneza transpłciowości nie jest znana - istniejące dane wskazują na to, że jest to wielopłaszczyznowe zjawisko wynikające ze splotu czynników biologicznych, społecznych, kulturowych i psychologicznych. Próba sprowadzenia go do "zaraźliwej mody" jest sprzeczna z doświadczeniami samych osób trans i [obecnym stanem wiedzy naukowej](https://www.jpeds.com/article/S0022-3476(21)01085-4/fulltext#relatedArticles). Najczęściej takie argumenty mają na celu bagatelizację transpłciowości i uzasadnienie dla potępianych przez towarzystwa medyczne terapii konwersyjnych mających "leczyć" z transpłciowości. Choć sytuacje, w których osoby transpłciowe wycofują się ze swoich deklaracji dotyczących tożsamości i tranzycji, zdarzają się, to pozostają one [bardzo rzadkie,](https://test.tranzycja.pl/publikacje/omowienie-detranzycji/) co przeczy charakteryzowaniu transpłciowości jako przejściowej mody.
 
 :::
 
@@ -66,11 +64,11 @@ Co należy zaznaczyć - tzw. ROGD nie zostało nigdy potwierdzone metodą naukow
 
 :::spoiler Czy detranzycje zdarzają się często?
 
-Naukowcy nie mają wątpliwości, że tranzycja [jest skutecznym sposobem leczenia dysforii](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/). Detranzycje zdarzają się [niezwyke rzadko](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf), w zaledwie 8% przypadków. Zaledwie 5% osób detranzycjujących, a więc mniej niż 1% osób które rozpoczęły tranzycję przerywa ją z powodu dojścia do wniosku, że jednak nie jest trans. Aż 62% osób które przerwały tranzycję wkrótce później do niej wraca.
+Naukowcy nie mają wątpliwości, że tranzycja [jest skutecznym sposobem leczenia dysforii].(https://tranzycja.pl/publikacje/skutecznosc-medycznej-tranzycji/). Detranzycje zdarzają się [niezwyke rzadko,](https://tranzycja.pl/publikacje/detranzycja-zal/) jedynie w około 1% wszystkich przypadków.
 
 :::
 
-:::spoiler Dlaczego osoby detranzycjonują?
+:::spoiler Jakie są powody detranzycji?
 
 [Badania](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf) wykazują, że główne przyczyny detranzycji to naciski rodzica (36%), zbyt trudny proces tranzycji (33%), prześladowanie lub dyskryminacja z powodu bycia osobą transpłciową (31%), trudność ze znalezieniem pracy (29%) oraz presja ze strony innych członków rodziny (26%).
 
@@ -90,10 +88,67 @@ Wśród innych powodów wymieniane są także presja ze strony małżonka lub pa
 
 :::spoiler Dlaczego niektóre kliniki wymagają zaprzestania terapii hormonalnej przed zabiegiem?
 
-Choć niektórzy chirurdzy z dłuższą praktyką nadal wymagają zaprzestania przyjmowania hormonów na długi czas przed datą zabiegu, nie ma to uzasadnienia w przypadku współczesnej terapii hormonalnej i na szczęście zdarza się już coraz rzadziej. W samych początkach terapii hormonalnej, gdy nie było jeszcze dostępnych bioidentycznych syntetycznych odpowiedników ludzkich hormonów często stosowano hormony pochodzenia zwierzęcego, co wiązało się z różnymi potencjalnymi problemami, takimi jak m.in. zwiększone ryzyko powstawania zakrzepów.
+Feminizująca terapia hormonalna powoduje wzrost krzepliwości krwi, co może przełożyć się na podwyższone ryzyko zakrzepicy żył głębokich, przypadłości szczególnie często przytrafiającej się osobom, które przeszły przez poważną operację chirurgiczną. Ryzyko to dotyczy przede wszystkim osób po 40. roku życia, u osób młodszych odstawienie hormonów nie powinno być obowiązkowe, gdyż [nie przekłada się](https://academic.oup.com/jcem/article/106/4/e1586/6071537?login=true) na wzrost ryzyka komplikacji. O zakrzepicy i minimalizacji ryzyka jej wystąpienia można przeczytać w [artykule poświęconym feminizującej terapii hormonalnej](https://tranzycja.pl/krok-po-kroku/feminizujaca-terapia-hormonalna/#czynbsptonbspjest-bezpieczne). 
 
-Mając świadomość postępów jakie dokonały się w zakresie terapii hormonalnych i braku realnych wskazań, od lat już kolejni chirurdzy odchodzą od stawiania tego typy wymogów. Wreszcie opublikowane w 2021 roku w Journal of Clinical Endocrinology and Metabolism [badanie](https://www.facebook.com/TransHealthResearch/posts/2956715697764064) (DOI: 10.1210/clinem/dgaa966) na próbie prawie 1400 osób nie wykazało zależności terapii hormonalnej z powstawaniem zakrzepów.
+W przypadku maskulinizującej terapii hormonalnej stosowanie testosteronu [nie zostało powiązane z jakimkolwiek wzrostem ryzyka wystąpienia zakrzepicy żył głębokich](https://pubmed.ncbi.nlm.nih.gov/30516808/), więc często spotykane oczekiwanie odstawienia testosteronu na tydzień lub dwa przed zabiegiem, nie jest na ten moment uzasadnione przez dane naukowe.
 
-Ma to przede wszystkim znaczenie w przypadku terapii tranżeńskiej i hormonów, które bardzo szybko znikają z organizmu, np. przyjmowanych w formie tabletek, gdzie nawet tydzień bez hormonów może powodować znaczące zmiany w organizmie. Jeśli natomiast przyjmujesz zatrzyki i chirurg zalega Ci przedłużenie nieco okresu pomiędzy nimi przed zabiegiem, bo doświadczenie mu mówi że to obniża ryzyko krwiaków, to nie ma w takiej sytuacji powodów żeby się nie dostosować. Hormony przyjmowane w formie zastrzyków znikają z organizmu powoli i stopniowo, nie wywoła więc to takiej gwałtownej reakcji jak w przypadku odstawienia tabletek. Ostatecznie **zawsze ostatnie słowo ma Twój chirurg** i zawsze należy trzymać się jego zaleceń. Jeśli nie czujesz się do końca komfortowo z jego techniką i podejściem, możesz spróbować u innego.
+Jednakże w prawdziwym życiu poza terapią hormonalną chirurg musi uwzględnić również wiele innych czynników mogących wpłynąć na powodzenie zabiegu. Ostatecznie **zawsze ostatnie słowo ma Twój chirurg** i należy stosować się jego zaleceń. Jeśli nie czujesz się do końca komfortowo z jego techniką i podejściem, możesz spróbować u innego.
 
 :::
+
+## Terapia hormonalna 
+
+:::spoiler Czego terapia hormonalna nie jest w stanie zmienić?
+
+Terapia hormonalna nie zmieni powiązanych z dojrzewaniem zmian szkieletu, jeśli masz więcej niż 18 lat, to takie cechy jak wzrost, kształt szczęki, czy szerokość ramion i bioder, nie ulegną zmianie. 
+
+Feminizująca terapia hormonalna nie jest w stanie cofnąć mutacji, ani nie doprowadza do zaniku zarostu. Głos można zmienić przez ćwiczenia u foniatry, a do trwałego usunięcia zarostu konieczne są zabiegi kosmetyczne, takie jak elektroliza lub laser.
+
+Pełna lista efektów dostępna w artykułach o maskulinizującej i [feminizującej](https://tranzycja.pl/krok-po-kroku/feminizujaca-terapia-hormonalna/) terapii hormonalnej.
+
+:::
+
+:::spoiler Jak długo trwa terapia hormonalna? 
+
+Przeważnie całe życie. Zmiany w cechach płciowych ciała zachodzą przez pierwsze 1-3 lata, ale po tym okresie przerwanie terapii spowoduje odwrócenie tych cech. By organizm utrzymywał męskie/żeńskie cechy płciowe potrzebuje stałych poziomów testosteronu/estradiolu we krwi. 
+
+Po usunięciu gonad (jajników lub jąder) możliwe jest zmniejszenie dawki hormonów, gdyż nie będą one już potrzebne do tłumienia produkcji hormonów w organach naszego ciała. Należy jednak uważać na sytuację, w której w organizmie zabraknie jakichkolwiek hormonów płciowych,czy to estradiolu, czy testosteronu: będzie się to wiązać z ryzykiem poważnych problemów zdrowotnych.
+
+:::
+
+:::spoiler Czy terapia hormonalna skraca życie?
+
+Z terapii hormonalnej można spokojnie korzystać całe dekady i dożyć sędziwego wieku. Sama w sobie nie wywoła ona żadnych problemów zdrowotnych, może jednak zmieniać ryzyko chorób związanych z płcią: np. feminizująca terapia hormonalna znacząco podnosi ryzyko zachorowania na raka piersi jednocześnie zmniejszając ryzyko raka prostaty. Tego rodzaju zagrożenia można jednak minimalizować odpowiednią profilaktyką, dokładny opis związku terapii hormonalnej z ryzykiem zachorowania na różne choroby znajdziesz w artykułach o maskulinizującej i [feminizującej](https://tranzycja.pl/krok-po-kroku/feminizujaca-terapia-hormonalna/) terapii hormonalnej. 
+
+Główne powody, dla których osoby transpłciowe żyją krócej niż ogół populacji, to [kwestie niezwiązane z terapią hormonalną](https://www.transvisie.nl/wp-content/uploads/2021/09/lancet-mortality-transgender.pdf): stres mniejszościowy, niezdrowy tryb życia, częstsze korzystanie z używek, wyższy odsetek prób samobójczych, czy rzadsze korzystanie z usług medycznych z racji obawy przed transfobią. Terapia hormonalna [może znacząco zmniejszyć dysforię płciową i usprawnić codzienne funkcjonowanie psychospołeczne](https://tranzycja.pl/publikacje/skutecznosc-medycznej-tranzycji/) i tym samym przyczynia się do poprawy we wszystkich wymienionych obszarach.
+
+:::
+
+:::spoiler Czy terapia hormonalna doprowadza do niepłodności?
+
+W przypadku osób korzystających z feminizującej terapii hormonalnej niepłodność wynikająca z nieodwracalnej atrofii jąder może wystąpić przy długotrwałym korzystaniu z hormonów. Nie zawsze będzie miało to miejsce i część osób może pozostać płodna nawet po wielu latach terapii (dlatego nie powinno zaprzestawać się używania antykoncepcji), ale osoby planujące mieć później dzieci powinny rozważyć odłożenie terapii hormonalnej lub zamrożenie spermy przed jej rozpoczęciem (opcja możliwa do zrealizowania tylko w zagranicznych klinikach).
+
+W przypadku osób korzystających z maskulinizującej terapii hormonalnej nawet wieloletnia terapia hormonalna nie zastępuje antykoncepcji i nie uniemożliwia zajścia w ciążę. Przyjmowanie testosteron może jednak doprowadzać do poważnych wad płodu oraz poronienia. Osoby planujące mieć dzieci powinny odstawić testosteron na czas starań o zapłodnienie i samej ciąży. Inną opcją jest również zamrożenie komórek jajowych.
+
+:::
+
+:::spoiler Jakie są najczęstsze błędy lekarzy przy przepisywaniu leków?
+
+Teoretycznie to lekarze powinni dysponować największą wiedzą na temat terapii hormonalnej osób trans. W praktyce nie zawsze ma to miejsce i nagminnie spotyka się przepisywanie przestarzałych leków, łamanie wytycznych towarzystw endokrynologicznych, czy niedostateczne informowanie pacjenta, czy pacjentki o wszystkich możliwościach i problemach. Część z poniżej wypisanych błędów jest na tyle poważna, że oznaczyliśmy je wykrzyknikiem: w przypadku zetknięcia się z lekarzem, który popełnia ten błąd, najlepiej jest udać się do innego endokrynologa, by na nowo ułożył dawkowanie hormonów.
+
+Najczęstsze błędy przy feminizującej terapii hormonalnej:
+- przepisywanie bardzo wysokich dawek octanu cyproteronu (Androcuru). Androcur nie powinien być stosowany w dawkach wyższych niż 10 mg i dłużej niż przez 2 lata, tymczasem nagminnie spotkać można dawki 50-100 mg stosowane przez znacznie dłuższy okres. W takich dawkach Androcur może powodować uszkodzenia wątroby oraz przyczyniać się do rozwoju oponiaka i guzów wytwarzających prolaktynę; [!]
+- przepisywanie flutamidu jako antyandrogenu: zdecydowanie odradza się z racji ryzyka uszkodzeń wątroby; [!]
+- przepisywanie samego blokeru na pierwsze parę miesięcy, bez włączenia estradiolu: bezsensowne, opóźniające zmiany, mogące wywołać przykre efekty uboczne [!]
+- rutynowe przepisywanie finasterydu: w większości przypadków nie będą potrzebne, mogą być stosowane w sytuacji, w której łysienie typu męskiego utrzymuje się pomimo stłumienia poziomu testosteronu we krwi;
+- niesprawdzenie możliwości terapii bez antyandrogenu: część osób może osiągnąć docelowy poziom testosteronu przy samym estradiolu;
+
+Najczęstsze błędy maskulinizującej terapii hormonalnej:
+- niedostosowywanie częstotliwości dawkowania do efektów ubocznych. Zastrzyki powiązane są z wahaniami poziomu testosteronu, które mogą wywoływać nieprzyjemne efekty uboczne takie jak zmęczenie, drażliwość, czy intensywniejszy trądzik. Niestabilność można zmniejszyć przez przejście na częstsze zastrzyki mniejszymi dawkami;
+- przepisywanie danazolu jako antyestrogenu: kompletnie bezsensowne, powiązane z ryzykiem uszkodzeń wątroby; [!]
+- nieomówienie możliwości podskórnego podania testosteronu: łatwiejszego do samodzielnego wykonania i mniej bolesnego;
+- rutynowe przepisywanie finasterydu: powinien być stosowany tylko w przypadku łysienia typu męskiego, nie powinno stosować się go profilaktycznie.
+
+Szczegółowe informacje na temat dawkowania hormonów znajdziesz w naszych artykułach o feminizującej lub maskulinizującej terapii hormonalnej.
+:::
+
