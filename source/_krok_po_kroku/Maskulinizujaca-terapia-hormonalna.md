@@ -216,7 +216,7 @@ Testosteron w lekach nie występuje samodzielnie, ale w związku z estrami. Od d
 
 - Testosteronum Prolongatum, potocznie prolka (enantan testosteronu): 100mg na ampułkę testosteronu raz na 1-2 tygodnie
 - Omnadren 250 (mieszanina 4 różnych estrów): 250mg na ampułkę raz na 2-4 tygodnie
-- Nebido (undecylan testosteronu):  1000mg na ampułkę raz na 12 tygodni, znacznie droższy od pozostałych
+- Nebido (undecylan testosteronu):  1000mg na ampułkę raz na 10-14 tygodni (z wyjątkiem drugiego podania, które powinno nastąpić 6 tygodni po pierwszym), znacznie droższy od pozostałych
 
 Podawane dawkowanie jest orientacyjne. W zależności od uzyskiwanych poziomów testosteronu dane preparaty mogą być stosowane częściej lub rzadziej. 
 
