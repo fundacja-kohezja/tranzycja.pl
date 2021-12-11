@@ -64,7 +64,7 @@ Włosy na ciele mogą zacząć rosnąć… wszędzie. Jest to częsty powód zas
 
 Dotyczy to też zarostu, który jednak przeważnie rośnie znacząco wolniej niż owłosienie reszty ciała. W pierwszych kilku-kilkunastu miesiącach najczęściej przybiera postać wąsa oraz meszku na brodzie. W dłuższej, wieloletniej perspektywie czasowej może rozwinąć się w okazałą brodę, choć ponownie występuje znacząca różnorodność efektów między różnymi osobami. 
 
-Stosowanie preparatów zawierających minoksydyl może pozytywnie wpłynąć rozwój zarostu[^3], zarówno przed rozpoczęciem terapii hormonalnej[^4] jak i w jej trakcie.[^5] Do zaobserwowania skutków minoksydylu często potrzebne jest parę miesięcy jego stosowania i nie należy spodziewać się tu cudownego wyrośnięcia brody tam, gdzie wcześniej była goła skóra. Może jednak wspomagać wzrost włosów i przy długotrwalym użyciu (ponad 12 miesięcy) przełożyć się na bardziej gęsty zarost. Do efektów ubocznych należą problemy skórne w miejscu aplikacji (wysuszenie skóry, trądzik, zaczerwienienie, wysypka).
+Stosowanie preparatów zawierających minoksydyl może pozytywnie wpłynąć rozwój zarostu[^3], zarówno przed rozpoczęciem terapii hormonalnej[^4] jak i w jej trakcie.[^5] Do zaobserwowania skutków minoksydylu często potrzebne jest parę miesięcy jego stosowania i nie należy spodziewać się tu cudownego wyrośnięcia brody tam, gdzie wcześniej była goła skóra. Może jednak wspomagać wzrost włosów i przy długotrwalym użyciu (ponad 12 miesięcy) przełożyć się na bardziej gęsty zarost. Do efektów ubocznych należą problemy skórne w miejscu aplikacji (wysuszenie skóry, trądzik, zaczerwienienie, wysypka). Minoksydyl jest wysoce toksyczny dla zwierząt i przy przypadkowej konsumpcji (zlizanie z twarzy, czy z poduszki) może być dla nich śmiertelny: posiadacze zwierzaków powinni zachować daleko idącą ostrożność w tym zakresie.
 
 :::spoiler Efekty kilkumiesięcznego stosowania minoksydylu u transpłciowego nastolatka:
 ![Zdjęcia włosów na brodzie](https://i.imgur.com/CYr6CFB.jpg)
@@ -216,11 +216,11 @@ Testosteron w lekach nie występuje samodzielnie, ale w związku z estrami. Od d
 
 - Testosteronum Prolongatum, potocznie prolka (enantan testosteronu): 100mg na ampułkę testosteronu raz na 1-2 tygodnie
 - Omnadren 250 (mieszanina 4 różnych estrów): 250mg na ampułkę raz na 2-4 tygodnie
-- Nebido (undecylan testosteronu):  1000mg na ampułkę raz na 12 tygodni, znacznie droższy od pozostałych
+- Nebido (undecylan testosteronu):  1000mg na ampułkę raz na 10-14 tygodni (wyjątkiem jest drugi zastrzyk 6 tygodni od pierwszego), znacznie droższy od pozostałych
 
 Podawane dawkowanie jest orientacyjne. W zależności od uzyskiwanych poziomów testosteronu dane preparaty mogą być stosowane częściej lub rzadziej. 
 
-Zastrzyki domięśniowe wykonuje się w pośladek lub w udo. Zastrzyki można wykonywać samodzielnie lub z pomocą pielęgniarza, w takim przypadku konieczne będzie zlecenie od lekarza na wykonywanie zastrzyku. Zastrzyki przy użyciu Nebido powinny zawsze być wykonywane przez przeszkoloną osobę z racji 4 razy większej ilości leku. Niepoprawne czy zbyt szybkie podanie tak dużej dawki może wiązać się z rozerwaniem mięśnia lub innymi efektami ubocznymi. 
+Zastrzyki domięśniowe wykonuje się w udo lub w pośladek. Zastrzyki można wykonywać samodzielnie lub z pomocą pielęgniarza, w takim przypadku konieczne będzie zlecenie od lekarza na wykonywanie zastrzyku. Zastrzyki przy użyciu Nebido powinny zawsze być wykonywane przez przeszkoloną osobę z racji 4 razy większej ilości leku. Niepoprawne czy zbyt szybkie podanie tak dużej dawki może wiązać się z rozerwaniem mięśnia lub innymi efektami ubocznymi. 
 
 Preparaty domięśniowe cechują się niestabilnością poziomu testosteronu we krwi — bezpośrednio po podaniu będzie on znacznie wyższy niż tuż przed następnym zastrzykiem. Z trzech podanych preparatów w największym stopniu dotyczy to Omnadrenu 250, gdyż zawiera on 4 estry testosteronu o różnym okresie uwalniania się do krwi. Umożliwia to rzadsze stosowanie, ale jednocześnie sprawia, że skok testosteronu bezpośrednio po zastrzyku jest większy niż w przypadku innych preparatów.[^25] Większą stabilność poziomu testosteronu można uzyskać robiąc zastrzyki częściej lub używając preparatów o bardzo długim czasie przenikania do krwi. Bardziej stabilne poziomy testosteronu przekładają się na mniejszą liczbę skutków ubocznych, takich jak wahania nastroju na parę dni przed zastrzykiem, intensywny trądzik, nadkrwistość, czy problemy z zatrzymaniem menstruacji. Jeśli którekolwiek z wymienionych problemów doskwierają Ci w znaczący sposób, warto skonsultować z endokrynologiem przejście na bardziej stabilną formę podawania.
 
@@ -236,9 +236,9 @@ Dawkowanie: 50 - 150 mg testosteronu na tydzień.
 
 Teoretycznie preparaty podskórne nie są dostępne w Polsce, gdyż zalecenia producenta nie przewidują takiej drogi podawania przy żadnym z opisywanych tu leków. Z tego względu endokrynolodzy rzadko kiedy będą wspominać o tej możliwości. **W praktyce wszystkie dostępne w Polsce preparaty domięśniowe mogą być również stosowane podskórnie.** Szczególnie dotyczy to Testosteronum Prolongatum z racji występowania w preparatach 100 mg, których dawkowanie łatwiej dostosować do wytycznych - przy zastrzykach podskórnych stosuje się mniejsze dawki niż przy zastrzykach domięśniowych. Taka metoda podawania testosteronu jest efektywna i bezpieczna.[^28][^29][^30] 
 
-W przypadku Nebido podanie podskórne również jest możliwe,[^31] ale powinno zawsze być wykonywane przez pielęgniarza lub pielęgniarkę z racji znacznie większej objętości leku. 
-
 Podskórna metoda podawania testosteronu cechuje się większą stabilnością poziomu testosteronu we krwi niż domięśniowa. Dla wielu osób może być też optymalna z racji bardziej przystępnego sposobu wykonywania zastrzyków: są łatwiejsze, mniej bolesne, igła może być wbita na znacznie mniejszą odległość niż w przypadku zastrzyków domięśniowych, a ryzyko powikłań przy zastrzyku jest mniejsze. Jest również znacząco tańsza niż metoda przezskórna. Z tych względów w ostatnich latach zyskuje ona na popularności, może być szczególnie pomocna u osób, u których wahania poziomów testosteronu wiążą się z nieprzyjemnymi efektami ubocznymi. Pierwszy zastrzyk powinien być wykonany pod obserwacją przeszkolonej osoby.
+
+W przypadku Nebido podanie podskórne również jest możliwe,[^31] ale powinno zawsze być wykonywane przez pielęgniarza lub pielęgniarkę.. Przewagi podskórnego podawania preparatów będą też w tym przypadku znacznie mniejsze: z racji wysokiej objętości zastrzyki podskórne mogą być tak samo bolesne jak zastrzyki domięśniowe. 
 
 Do efektów ubocznych należy swędzenie, zaczerwienie i obrzęk w miejscu zastrzyku. Efekty te nie powinny utrzymywać się dłużej niż dzień do dwóch po zastrzyku.
 
