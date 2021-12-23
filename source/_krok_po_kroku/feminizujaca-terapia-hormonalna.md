@@ -107,7 +107,7 @@ Zarost będzie nadal pojawiać się w tych miejscach, w których pojawiał się 
 Terapię hormonalną można zacząć po uzyskaniu diagnozy dysforii płciowej od psychiatry seksuologa (co bardziej szczegółowo zostało opisane [tutaj](https://tranzycja.pl/krok-po-kroku/mapa-tranzycji/)). Diagnoza umożliwia Ci udanie się do endokrynologa, który omówi z Tobą sposoby dawkowania terapii hormonalnej i ustali jej wstępne dawki w oparciu o wyniki badania krwi.
 
 :::spoiler Najczęściej badane parametry krwi
-- hormony płciowe (Estradiol E2, FSH, LH, prolaktyna progesteron, testosteron)
+- hormony płciowe (Estradiol E2, FSH, LH, prolaktyna, progesteron, testosteron)
 - lipidogram (CHOL, HDL, LDL, TG, nie-HDL)
 - próby wątrobowe (najczęściej ALT, AST, GGTP)
 - morfologia krwi
