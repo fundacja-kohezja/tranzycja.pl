@@ -1,3 +1,6 @@
+---
+data: '2021-12-23 22:48:05'
+---
 # Jak przetrwać terapię konwersyjną? 9 porad dla osób niecisheteronormatywnych
 
 Terapia konwersyjna jest niesamowicie szkodliwa dla zdrowia psychicznego osób niecisheteronormatywnych. Tego typu procesy mają na celu „wyleczenie” osoby z transpłciowości czy homoseksualności. Ich brak skuteczności, nieetyczność i wyrządzane na psychice szkody zostały potwierdzone przez organy Unii Europejskiej,[^1] Światową Organizację Zdrowia,[^2] a także Polskie Towarzystwo Seksuologiczne.[^3] Artykuł jest transkrypcją [filmiku](https://www.youtube.com/watch?v=YCg5beWq3y0) dwójki transpłciowych aktywistów, Erica Tannehilla i Kayley Whalen, w którym opowiadają oni o różnych technikach oporu opracowanych w kooperacji z ekspertami w dziedzinie psychologii przesłuchań z użyciem technik wykorzystywanych przez amerykańskich jeńców wojennych.
