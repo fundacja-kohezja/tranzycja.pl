@@ -169,23 +169,23 @@ Istnienie transpłciowości i niebinarności jest w tym momencie uznanym faktem 
 ## Potrzebujesz pomocy?
 
 :::info
-Telefon zaufania Lambda Warszawa: 22 628 52 22 (pon.–pt. 18.00–21.00)
+- Telefon zaufania Lambda Warszawa: 22 628 52 22 (pon.–pt. 18.00–21.00)
 
-Antydepresyjny Telefon Forum Przeciw Depresji: 22 594 91 00 (śr. i czw. 17.00–19.00)
+- Antydepresyjny Telefon Forum Przeciw Depresji: 22 594 91 00 (śr. i czw. 17.00–19.00)
 
-Ośrodek Interwencji Kryzysowej – pomoc psychiatryczno-pedagogiczna: 22 855 44 32 (całodobowo)
+- Ośrodek Interwencji Kryzysowej – pomoc psychiatryczno-pedagogiczna: 22 855 44 32 (całodobowo)
 
-Bezpłatny telefon zaufania dla dzieci i młodzieży: 116 111 (24h/7)
+- Bezpłatny telefon zaufania dla dzieci i młodzieży: 116 111 (24h/7)
 
-Ogólnopolski Telefon Dla Ofiar Przemocy w Rodzinie „Niebieska Linia”: 800 120 002 (całodobowo)
+- Ogólnopolski Telefon Dla Ofiar Przemocy w Rodzinie „Niebieska Linia”: 800 120 002 (całodobowo)
 :::
 
 Artykuł jest tłumaczeniem transkrypcji filmiku stworzonego Erica Tannehilla i Kayley Whalen. Tłumaczenie wykonał Dag Fajt, a korektę Nina Kuta. Aktywność Kayley Whalen możecie śledzić na jej mediach społecznościowych:
 
-YouTube: [https://www.youtube.com/channel/UCGP_x1NccUPU-vkYkkkCFgg](https://www.youtube.com/channel/UCGP_x1NccUPU-vkYkkkCFgg)
-Instagram: [https://www.instagram.com/kayleywhalen/](https://www.instagram.com/kayleywhalen/)
-Twitter: [https://twitter.com/transworldview](https://twitter.com/transworldview)
-Patreon: [https://patreon.com/kayleywhalen](https://patreon.com/kayleywhalen)
+- YouTube: [https://www.youtube.com/channel/UCGP_x1NccUPU-vkYkkkCFgg](https://www.youtube.com/channel/UCGP_x1NccUPU-vkYkkkCFgg)
+- Instagram: [https://www.instagram.com/kayleywhalen/](https://www.instagram.com/kayleywhalen/)
+- Twitter: [https://twitter.com/transworldview](https://twitter.com/transworldview)
+- Patreon: [https://patreon.com/kayleywhalen](https://patreon.com/kayleywhalen)
 
 [^1]: [European Parliament resolution of 11 March 2021 on the declaration of the EU as an LGBTIQ Freedom Zone](https://www.europarl.europa.eu/doceo/document/TA-9-2021-0089_EN.html)
 [^2]: [Report on conversion therapy autorstwa ONZ ds. zwalczania przemocy i dyskryminacji z powodu orientacji seksualnej i tożsamości płciowej]( https://www.ohchr.org/EN/Issues/SexualOrientationGender/Pages/ReportOnConversiontherapy.aspx)
