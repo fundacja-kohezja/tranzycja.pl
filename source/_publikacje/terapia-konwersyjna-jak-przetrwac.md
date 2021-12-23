@@ -1,3 +1,6 @@
+---
+data: '2021-12-23 23:14:42'
+---
 # Jak przetrwać terapię konwersyjną?
 
 **9 porad dla osób niecisheteronormatywnych**
