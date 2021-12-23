@@ -18,7 +18,9 @@ Terapia hormonalna jest jedną z najczęściej stosowanych interwencji medycznyc
 | Fioletowy | Zmiany mogą być trwałe, im dużej trwa terapia hormonalna tym bardziej prawdopodobne, że takie będą |
 | Zielony | Zmiany utrzymują się w trakcie terapii, cofają się przy powrocie do testosteronu |
 | Niebieski | HRT jest znaczącym czynnikiem, ale zależą też od indywidualnych działań danej osoby |
+
 :::
+
 #### Zmiany psychologiczne 
 
 Terapia hormonalna wymaga czasu, więc początki będą charakteryzować się jedynie pomniejszymi zmianami fizycznymi. Część trans mężczyzn doznaje jednak zmian w obrębie samopoczucia i zdrowia psychicznego - poprawia się kontakt z własnymi emocjami, momenty dysocjacji stają się rzadsze, w głowie robi się jaśniej, znika ociężałość myślenia. Inne osoby mogą nie odnotować żadnych szczególnych zmian emocjonalnych, a u jeszcze innej grupy efekty te mogą być mniej pozytywne i wiązać się z większymi wahaniami nastroju. W dłuższej perspektywie czasowej maskulinizująca terapia hormonalna nie ma jednak negatywnego wpływu na samopoczucie czy stabilność emocjonalną, wprost przeciwnie.
