@@ -1,1 +1,6 @@
-/stad /tutaj
+# w tym pliku można dodać przekierowania, każde w osobej linii, więcej informacji tutaj: https://docs.netlify.com/routing/redirects/redirect-options/
+# poniżej przykład:
+# /przekierowanie-stad /tutaj
+
+http://detranzycja.pl /publikacje/eli-kappo-wywiad-detranzycja/
+http://detranzycja.com.pl /publikacje/eli-kappo-wywiad-detranzycja/
