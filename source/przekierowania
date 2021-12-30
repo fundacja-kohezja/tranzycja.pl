@@ -2,5 +2,5 @@
 # poniżej przykład:
 # /przekierowanie-stad /tutaj
 
-https://detranzycja.pl/* https://tranzycja.pl/publikacje/eli-kappo-wywiad-detranzycja/ !
-https://detranzycja.com.pl/* https://tranzycja.pl/publikacje/eli-kappo-wywiad-detranzycja/ !
+https://detranzycja.pl/* https://tranzycja.pl/publikacje/eli-kappo-wywiad-detranzycja/ 302!
+https://detranzycja.com.pl/* https://tranzycja.pl/publikacje/eli-kappo-wywiad-detranzycja/ 302!
