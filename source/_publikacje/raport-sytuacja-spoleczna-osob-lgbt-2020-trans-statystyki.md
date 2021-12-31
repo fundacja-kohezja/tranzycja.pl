@@ -5,6 +5,8 @@ data: '2021-12-31 14:44:17'
 
 Opublikowany niedawno raport stworzony wspólnymi siłami Kampanii Przeciwko Homofobii oraz Stowarzyszenia Lambda Warszawa to prawdziwe kompendium wiedzy liczące ponad 300 stron statystyk, wykresów i odsetek. Wiele osób może mieć trudności z przedarciem się przez tak długi raport, postaraliśmy się więc w skrócie zaprezentować Wam wybór informacji z raportu dotyczący konkretnie społeczności osób transpłciowych.
 
+Link od pełnego raportu znajdziecie [TUTAJ](https://kph.org.pl/wp-content/uploads/2021/12/Rapot_Duzy_Digital-1.pdf). 
+
 ## O jakiej grupie osób trans mowa w badaniu?
 
 Raport został przygotowany w oparciu o ankiety internetowe, publikowane na portalach randkowych, grupach wsparcia czy stronach organizacji LGBTQIA+. Taka metoda badania wpłynęła na to, do kogo ankieta mogła w ogóle dotrzeć: konieczne było posiadanie dostępu do Internetu oraz przebywanie w wyżej wymienionych przestrzeniach. W związku z tym należy bardzo mocno zaznaczyć, że **próba badawcza nie jest reprezentatywna dla ogółu osób transpłciowych**. Nie jest to wina autorów, z racji trudno dostępnej próby badawczej stworzenie reprezentatywnego badania, nie jest zwyczajnie możliwe. Oznacza to jednak, że wymienione poniżej statystyki nie będą przedstawiać w całości sytuacji społeczności osób transpłciowych w Polsce, ale wyłącznie tej części populacji, którą udało się zbadać. Jakie są jej charakterystyki?
@@ -12,7 +14,7 @@ Raport został przygotowany w oparciu o ankiety internetowe, publikowane na port
 Ze wszystkich zbadanych grup pod parasolem LGBTQA+ (gejów, lesbijek, osób aseksualnych, biseksualnych kobiet, biseksualnych mężczyzn i osób queerowych) grupa osób transpłciowych jest jedną z najmłodszych. Średnia wieku wśród zbadanych osób trans wynosi zaledwie trochę poniżej 23 lat, mediana wieku osób trans nie została podana, ale możemy zgadywać, że jest jeszcze niższa biorąc pod uwagę fakt, że dla ogółu badanych wynosi ona 22 lata. Proporcje płci wśród badanych osób trans są rozłożone mniej więcej po równo — 47% osób niebinarnych, 27% trans mężczyzn i 27% trans kobiet (pozostałe 7% wybrały opcję „inna"). W porównaniu do ogółu populacji osoby trans dużo rzadziej mieszkają na wsi i w małych miastach, a dużo częściej w dużych ośrodkach. Dysproporcja ta przybiera znacząco na sile u osób po 18 roku życia, co wskazuje na tendencję przeprowadzania się do miejsc postrzeganych jako bardziej tolerancyjne.
 
 Niezwykle istotną informacją w kontekście wszystkich statystyk, które niżej podamy, jest fakt, że **zdecydowana większość zbadanych osób trans nie przeszła tranzycji medycznej ani nie jest wyoutowana przed instytucjami:**
-- zaledwie 2% osób transpłciowych rozpoczęło tranzycję medyczną przed 2018 rokiem. Kolejne 8% zaczęło ją w ciągu ostatnich 2 lat (str.320);
+- zaledwie 2% osób transpłciowych rozpoczęło tranzycję medyczną przed 2018 rokiem. Kolejne 8% zaczęło ją w ciągu ostatnich 2 lat (str. 320);
 - 44% osób planuje rozpocząć tranzycję medyczną w następnych latach, 46% nie planuje robić tego w ogóle (str. 320);
 - spośród pracujących osób trans 70% nie ujawniło swojej tożsamości współpracownikom, 82% - przełożonym (str. 326). Spośród uczących się osób trans 73% nie ujawniło swojej tożsamości przed kadrą naukową, czy to akademicką czy szkolną (str. 328);
 - 54% osób trans nie ujawniło swojej tożsamości płciowej żadnym członkom rodziny, a 10% - żadnym z przyjaciół (str. 43-44).
@@ -40,6 +42,13 @@ Informacje uzyskane w raporcie nie mogą posłużyć do charakteryzacji doświad
 - u osób przechodzących przez proces diagnostyczny u 27% badanych trwał on 3 miesiące lub krócej, u 24% trwał on rok lub dłużej. W badaniu pytano się również o długość testu realnego życia: z racji odchodzenia od niego przez wielu lekarzy zdominowała odpowiedź „3 miesięcy lub krócej”, którą wybrało 49% badanych (w kwestionariuszu zabrakło niestety odpowiedź „brak”). **Jednakże aż 13% zaznaczyło, że trwał on dłużej niż 2 lata** (str. 318);
 - 58% badanych osób transpłciowych korzystała w ciągu ostatnich dwóch lat z pomocy psychoterapii (str. 319);
 - z racji obawy przed korzystaniem z publicznych toalet **57% wstrzymywało się z korzystaniem z nich pomimo potrzeby, 41% planowało spotkania tak, by uniknąć konieczności z nich korzystania, a 39% ograniczało spożycie płynów.** Częste odwadnianie się i wstrzymywanie moczu mogą mieć negatywne konsekwencje zdrowotne: 9% badanych doznało infekcji dróg moczowych, a 5% miało problemy z nerkami (str. 324)
+
+Część z najważniejszych statystyk zawarliśmy w łatwiej do udostępniania infografice:
+
+:::spoiler Infografika
+
+![Infografika ze statystykami](https://tranzycja.pl/media/img/infografika-statystyki-trans-raport-2020.png)
+:::
 
 ## Podsumowanie.
 
