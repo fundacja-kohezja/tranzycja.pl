@@ -18,7 +18,9 @@ Terapia hormonalna jest jedną z najczęściej stosowanych interwencji medycznyc
 | Fioletowy | Zmiany mogą być trwałe, im dużej trwa terapia hormonalna tym bardziej prawdopodobne, że takie będą |
 | Zielony | Zmiany utrzymują się w trakcie terapii, cofają się przy powrocie do testosteronu |
 | Niebieski | HRT jest znaczącym czynnikiem, ale zależą też od indywidualnych działań danej osoby |
+
 :::
+
 #### Zmiany psychologiczne 
 
 Terapia hormonalna wymaga czasu, więc początki będą charakteryzować się jedynie pomniejszymi zmianami fizycznymi. Część trans mężczyzn doznaje jednak zmian w obrębie samopoczucia i zdrowia psychicznego - poprawia się kontakt z własnymi emocjami, momenty dysocjacji stają się rzadsze, w głowie robi się jaśniej, znika ociężałość myślenia. Inne osoby mogą nie odnotować żadnych szczególnych zmian emocjonalnych, a u jeszcze innej grupy efekty te mogą być mniej pozytywne i wiązać się z większymi wahaniami nastroju. W dłuższej perspektywie czasowej maskulinizująca terapia hormonalna nie ma jednak negatywnego wpływu na samopoczucie czy stabilność emocjonalną, wprost przeciwnie.
@@ -64,7 +66,11 @@ Włosy na ciele mogą zacząć rosnąć… wszędzie. Jest to częsty powód zas
 
 Dotyczy to też zarostu, który jednak przeważnie rośnie znacząco wolniej niż owłosienie reszty ciała. W pierwszych kilku-kilkunastu miesiącach najczęściej przybiera postać wąsa oraz meszku na brodzie. W dłuższej, wieloletniej perspektywie czasowej może rozwinąć się w okazałą brodę, choć ponownie występuje znacząca różnorodność efektów między różnymi osobami. 
 
-Stosowanie preparatów zawierających minoksydyl może pozytywnie wpłynąć rozwój zarostu[^3], zarówno przed rozpoczęciem terapii hormonalnej[^4] jak i w jej trakcie.[^5] Do zaobserwowania skutków minoksydylu często potrzebne jest parę miesięcy jego stosowania i nie należy spodziewać się tu cudownego wyrośnięcia brody tam, gdzie wcześniej była goła skóra. Może jednak wspomagać wzrost włosów i przy długotrwalym użyciu (ponad 12 miesięcy) przełożyć się na bardziej gęsty zarost. Do efektów ubocznych należą problemy skórne w miejscu aplikacji (wysuszenie skóry, trądzik, zaczerwienienie, wysypka). Minoksydyl jest wysoce toksyczny dla zwierząt i przy przypadkowej konsumpcji (zlizanie z twarzy, czy z poduszki) może być dla nich śmiertelny: posiadacze zwierzaków powinni zachować daleko idącą ostrożność w tym zakresie.
+Stosowanie preparatów zawierających minoksydyl (np. Loxon) może pozytywnie wpłynąć rozwój zarostu.[^3] Do zaobserwowania skutków minoksydylu często potrzebne jest parę miesięcy jego stosowania i nie należy spodziewać się tu cudownego wyrośnięcia brody tam, gdzie wcześniej była goła skóra. Może jednak wspomagać wzrost włosów i przy długotrwałym użyciu przełożyć się na bardziej gęsty zarost. Informacje dotyczące trwałości zarostu po odstawieniu minoksydylu są ograniczone — nie było to badane, a anegdotyczne dane mówią zarówno o wypadaniu, jak i utrzymaniu się nowych włosów przy stosowaniu dłuższym niż 12 miesięcy. Gęstsze włosy mogą pojawiać się również w innych częściach ciała, poza miejscem aplikacji.
+
+Do efektów ubocznych należą problemy skórne w miejscu aplikacji (wysuszenie skóry, trądzik, zaczerwienienie, wysypka). Minoksydyl również powodować lekki spadek ciśnienia krwi, ale może to stanowić problem tylko dla osób już mających problemy na tym tle. Minoksydyl jest wysoce toksyczny dla zwierząt i przy przypadkowej konsumpcji (zlizanie z twarzy, czy z poduszki) może być dla nich śmiertelny: posiadacze zwierzaków powinni zachować daleko idącą ostrożność w tym zakresie.
+
+Minoksydyl najlepsze efekty przyniesie po rozpoczęciu terapii hormonalnej. Stosowany przed testosteronem również spowoduje wzrost włosów[^4], ale będą one miały postać meszku i ciemniejszych włosków i nie rozwiną się w pełną brodę. Dla części osób może to być nadal pożądane, ze względu na polepszenie passingu. Efekty stosowania minoksydylu przed testosteronem można obejrzeć na zdjęciach poniżej lub wyszukując w Internecie frazy kluczowe „minoxidil pre-T". Włosy uzyskane w ten sposób nie są trwałe, więc po zaprzestaniu leczenia powinny z czasem wypaść.
 
 :::spoiler Efekty kilkumiesięcznego stosowania minoksydylu u transpłciowego nastolatka:
 ![Zdjęcia włosów na brodzie](https://i.imgur.com/CYr6CFB.jpg)
@@ -238,7 +244,7 @@ Teoretycznie preparaty podskórne nie są dostępne w Polsce, gdyż zalecenia pr
 
 Podskórna metoda podawania testosteronu cechuje się większą stabilnością poziomu testosteronu we krwi niż domięśniowa. Dla wielu osób może być też optymalna z racji bardziej przystępnego sposobu wykonywania zastrzyków: są łatwiejsze, mniej bolesne, igła może być wbita na znacznie mniejszą odległość niż w przypadku zastrzyków domięśniowych, a ryzyko powikłań przy zastrzyku jest mniejsze. Jest również znacząco tańsza niż metoda przezskórna. Z tych względów w ostatnich latach zyskuje ona na popularności, może być szczególnie pomocna u osób, u których wahania poziomów testosteronu wiążą się z nieprzyjemnymi efektami ubocznymi. Pierwszy zastrzyk powinien być wykonany pod obserwacją przeszkolonej osoby.
 
-W przypadku Nebido podanie podskórne również jest możliwe,[^31] ale powinno zawsze być wykonywane przez pielęgniarza lub pielęgniarkę.. Przewagi podskórnego podawania preparatów będą też w tym przypadku znacznie mniejsze: z racji wysokiej objętości zastrzyki podskórne mogą być tak samo bolesne jak zastrzyki domięśniowe. 
+W przypadku Nebido podanie podskórne również jest możliwe,[^31] ale powinno zawsze być wykonywane przez pielęgniarza lub pielęgniarkę. Przewagi podskórnego podawania preparatów będą też w tym przypadku znacznie mniejsze: z racji wysokiej objętości zastrzyki podskórne mogą być tak samo bolesne jak zastrzyki domięśniowe. 
 
 Do efektów ubocznych należy swędzenie, zaczerwienie i obrzęk w miejscu zastrzyku. Efekty te nie powinny utrzymywać się dłużej niż dzień do dwóch po zastrzyku.
 
@@ -249,7 +255,6 @@ Dawkowanie: 50-100 mg żelu dziennie
 Żel dostępny jest w formie pompki dozującej (handlowa nazwa Androtop) lub saszetek (handlowa nazwa Testim). Powinien być rozprowadzony na skórze barku i ramion, nie należy stosować go w miejscach takich jak genitalia, twarz, czy piersi. Z racji codziennego podawania wiąże się z najstabilniejszymi poziomami testosteronu we krwi ze wszystkich metod podawania.
 
 Żel wysycha w ciągu paru minut i w takiej formie powinien być pozostawiony na skórze do 6  godzin — stąd producenci zalecają stosowanie go rano, po prysznicu. Jeśli wymaga tego sytuacja, czasami można pozwolić sobie na zmycie żelu wcześniej, powinien on jednak pozostać na skórze na co najmniej 2 godziny. Regularne wcześniejsze zmywanie żelu może wiązać się z ryzykiem obniżonego poziomu testosteronu.
-
 
 :::danger
 **UWAGA:** Stosowanie żelu jest związane z ryzykiem przypadkowego przekazania żelu na drugą osobę, co może skończyć się dla niej przykrymi i niepożądanymi efektami, szczególnie w przypadku kobiet i dzieci. Z tego względu przy stosowaniu żelu konieczna jest duża doza ostrożności: 
@@ -318,7 +323,6 @@ Artykuł stworzony w oparciu o wytyczne dotyczące terapii hormonalnej opublikow
 [^2]: [Changes in regional body fat, lean body mass and body shape in trans persons using cross-sex hormonal therapy: results from a multicenter prospective study](https://eje.bioscientifica.com/view/journals/eje/178/2/EJE-17-0496.xml), M. Klaver i in. 2018 
 [^3]: [Efficacy and safety of minoxidil 3% lotion for beard enhancement: A randomized, double-masked, placebo-controlled study](https://pubmed.ncbi.nlm.nih.gov/26893270/), Sittichai Ingprasert, Chuchai Tanglertsampan, Nalintip Tangphianphan, Chinnawat Reanmanee, 2016
 [^4]: [Case Report: Successful Use of Minoxidil to Promote Facial Hair Growth in an Adolescent Transgender Male](https://pubmed.ncbi.nlm.nih.gov/34677807/), Kenneth C. Pang, Thomas P. Nguyen, Rita Upreti, 2021
-[^5]: [Case Report: Successful Use of Minoxidil to Promote Facial Hair Growth in an Adolescent Transgender Male](https://pubmed.ncbi.nlm.nih.gov/34659117/), Kenneth C. Pang, Thomas P. Nguyen, Rita Upreti, 2021
 [^6]: [Breakthrough Bleeding in Transgender and Gender Diverse Adolescents and Young Adults on Long-Term Testosterone](https://pubmed.ncbi.nlm.nih.gov/33910088/), Frances Grimstad, Jessica Kremen, Jessica Shim, Brittany M. Charlton, Elizabeth R. Boskey, 2021
 [^7]: [Contraception Care for Transmasculine Individuals on Testosterone Therapy](https://onlinelibrary.wiley.com/doi/10.1111/jmwh.12962), Danielle Boudreau, Ronica Mukerjee, 2019
 [^8]: [Assisted reproductive technology outcomes in female-to-male transgender patients compared with cisgender patients: a new frontier in reproductive medicine](https://pubmed.ncbi.nlm.nih.gov/31594633/), Angela Leung, Denny Sakkas, Samuel Pang, Kim Thornton, Nina Resetkova, 2019
