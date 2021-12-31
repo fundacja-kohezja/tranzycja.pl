@@ -1,7 +1,6 @@
 ---
-tags: dag&nina, publikacje
+data: '2021-12-31 14:44:17'
 ---
-
 # Co raport „Sytuacja społeczna osób LGBTA w Polsce 2019-2020" mówi o osobach trans?
 
 Opublikowany niedawno raport stworzony wspólnymi siłami Kampanii Przeciwko Homofobii oraz Stowarzyszenia Lambda Warszawa to prawdziwe kompendium wiedzy liczące ponad 300 stron statystyk, wykresów i odsetek. Wiele osób może mieć trudności z przedarciem się przez tak długi raport, postaraliśmy się więc w skrócie zaprezentować Wam wybór informacji z raportu dotyczący konkretnie społeczności osób transpłciowych.
