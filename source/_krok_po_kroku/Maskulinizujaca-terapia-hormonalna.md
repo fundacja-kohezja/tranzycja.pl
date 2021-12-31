@@ -66,16 +66,19 @@ Włosy na ciele mogą zacząć rosnąć… wszędzie. Jest to częsty powód zas
 
 Dotyczy to też zarostu, który jednak przeważnie rośnie znacząco wolniej niż owłosienie reszty ciała. W pierwszych kilku-kilkunastu miesiącach najczęściej przybiera postać wąsa oraz meszku na brodzie. W dłuższej, wieloletniej perspektywie czasowej może rozwinąć się w okazałą brodę, choć ponownie występuje znacząca różnorodność efektów między różnymi osobami. 
 
-Stosowanie preparatów zawierających minoksydyl (np. Loxon) może pozytywnie wpłynąć rozwój zarostu.[^3] Do zaobserwowania skutków minoksydylu często potrzebne jest parę miesięcy jego stosowania i nie należy spodziewać się tu cudownego wyrośnięcia brody tam, gdzie wcześniej była goła skóra. Może jednak wspomagać wzrost włosów i przy długotrwałym użyciu przełożyć się na bardziej gęsty zarost. Informacje dotyczące trwałości zarostu po odstawieniu minoksydylu są ograniczone — nie było to badane, a anegdotyczne dane mówią zarówno o wypadaniu, jak i utrzymaniu się nowych włosów przy stosowaniu dłuższym niż 12 miesięcy. Gęstsze włosy mogą pojawiać się również w innych częściach ciała, poza miejscem aplikacji.
+Osoby chcące przyśpieszyć rozwój zarostu mogą korzystać z preparatów zawierających minoksydyl.
+
+:::spoiler Informacje na temat stosowania  minoksydylu i jego efektów
+
+Stosowanie preparatów zawierających minoksydyl może pozytywnie wpłynąć na rozwój zarostu.[^3] Do zaobserwowania skutków minoksydylu często potrzebne jest parę miesięcy jego stosowania i nie należy spodziewać się tu cudownego wyrośnięcia brody tam, gdzie wcześniej była goła skóra. Może jednak wspomagać wzrost włosów i przy długotrwałym użyciu przełożyć się na bardziej gęsty zarost. Informacje dotyczące trwałości zarostu po odstawieniu minoksydylu są ograniczone — nie było to badane, a anegdotyczne dane mówią zarówno o wypadaniu, jak i utrzymaniu się nowych włosów przy stosowaniu dłuższym niż 12 miesięcy. Gęstsze włosy mogą pojawiać się również w innych częściach ciała, poza miejscem aplikacji.
 
 Do efektów ubocznych należą problemy skórne w miejscu aplikacji (wysuszenie skóry, trądzik, zaczerwienienie, wysypka). Minoksydyl również powodować lekki spadek ciśnienia krwi, ale może to stanowić problem tylko dla osób już mających problemy na tym tle. Minoksydyl jest wysoce toksyczny dla zwierząt i przy przypadkowej konsumpcji (zlizanie z twarzy, czy z poduszki) może być dla nich śmiertelny: posiadacze zwierzaków powinni zachować daleko idącą ostrożność w tym zakresie.
 
 Minoksydyl najlepsze efekty przyniesie po rozpoczęciu terapii hormonalnej. Stosowany przed testosteronem również spowoduje wzrost włosów[^4], ale będą one miały postać meszku i ciemniejszych włosków i nie rozwiną się w pełną brodę. Dla części osób może to być nadal pożądane, ze względu na polepszenie passingu. Efekty stosowania minoksydylu przed testosteronem można obejrzeć na zdjęciach poniżej lub wyszukując w Internecie frazy kluczowe „minoxidil pre-T". Włosy uzyskane w ten sposób nie są trwałe, więc po zaprzestaniu leczenia powinny z czasem wypaść.
 
-:::spoiler Efekty kilkumiesięcznego stosowania minoksydylu u transpłciowego nastolatka:
+Efekty kilkumiesięcznego stosowania minoksydylu u transpłciowego nastolatka:
 ![Zdjęcia włosów na brodzie](https://i.imgur.com/CYr6CFB.jpg)
 Źródło: *Case Report: Successful Use of Minoxidil to Promote Facial Hair Growth in an Adolescent Transgender Male*, Kenneth C. Pang, Thomas P. Nguyen, Rita Upreti, 2021
-:::
 
 :::warning
 **UWAGA:** minoksydyl jest na ten moment jedynym istniejącym preparatem o potwierdzonym pozytywnym działaniu na zarost. Środki na porost brody pozbawione minoksydylu są stratą czasu i pieniędzy.
@@ -252,7 +255,7 @@ Do efektów ubocznych należy swędzenie, zaczerwienie i obrzęk w miejscu zastr
 
 Dawkowanie: 50-100 mg żelu dziennie
 
-Żel dostępny jest w formie pompki dozującej (handlowa nazwa Androtop) lub saszetek (handlowa nazwa Testim). Powinien być rozprowadzony na skórze barku i ramion, nie należy stosować go w miejscach takich jak genitalia, twarz, czy piersi. Z racji codziennego podawania wiąże się z najstabilniejszymi poziomami testosteronu we krwi ze wszystkich metod podawania.
+Żel dostępny jest w formie pompki dozującej (handlowa nazwa Androtop lub Testavan), kiedyś sprzedawane szaszetki z żelem (handlowa nazwa Testim) nie są już dostępne w Polsce. Powinien być rozprowadzony na skórze barku i ramion, nie należy stosować go w miejscach takich jak genitalia, twarz, czy piersi. Z racji codziennego podawania wiąże się z najstabilniejszymi poziomami testosteronu we krwi ze wszystkich metod podawania.
 
 Żel wysycha w ciągu paru minut i w takiej formie powinien być pozostawiony na skórze do 6  godzin — stąd producenci zalecają stosowanie go rano, po prysznicu. Jeśli wymaga tego sytuacja, czasami można pozwolić sobie na zmycie żelu wcześniej, powinien on jednak pozostać na skórze na co najmniej 2 godziny. Regularne wcześniejsze zmywanie żelu może wiązać się z ryzykiem obniżonego poziomu testosteronu.
 
@@ -278,8 +281,6 @@ Do efektów ubocznych żelu należy trądzik, podrażenienie i wysuszenie w miej
 |  | Omnadren 250 | 5 ampułek 250 mg | 1 zastrzyk co 21 dni  | 105 dni |  88,14 zł | 23,50 zł|
 | | Nebido | 1 ampułka 1000mg | 1 zastrzyk co 90 dni | 90 dni | ok. 400-500zł^c^ | ok. 133-166 zł| 
 | Przezskórnie | Androtop | 60 dawek x 20,25mg | 3 dawki raz dziennie | 20 dni |  248 zł  | 330 zł| 
-|  | Testim | 30 saszetek po 50mg | 1 saszetka dziennie | 30 dni | 289,64 zł  | 289,64 zł| 
-
 
 ^a^ Typowe dawkowanie zakłada najczęściej spotykaną dawkę leku. 
 ^b^ Ceny opakowań zaczerpnięte z bazy leków [mp.pl](https://www.mp.pl/pacjent/leki/). W rzeczywistości ceny w aptekach mogą być wyższe o kilkanaście złoty. Stan na 1 listopada 2021 r.
