@@ -1,7 +1,6 @@
 ---
-tags: dag&nina, publikacje, opublikowane
+data: '2022-01-05 15:48:38'
 ---
-
 # Co oznaczają zmiany w klasyfikowaniu transpłciowości w ICD-11?
 
 Jedenasta rewizja Międzynarodowej Klasyfikacji Chorób  i Problemów Zdrowotnych (ICD-11) zaczęła obowiązywać od 1 stycznia 2022 r. O tej wiadomości mogliście już słyszeć na grupach, czy fanpage'ach związanych z transpłciowością, a to ze względu na zmiany dotyczące klasyfikowania transpłciowości. Wokół tej zmiany narosło jednak trochę błędnych informacji, czasami zbyt optymistycznych, czasami zbyt pesymistycznych. W tym poście odpowiemy na najczęściej spotykane wątpliwości w temacie.
