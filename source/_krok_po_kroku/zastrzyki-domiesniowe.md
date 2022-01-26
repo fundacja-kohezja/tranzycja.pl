@@ -224,7 +224,7 @@ Od 6 minuty:
 Co każdy zastrzyk zmieniaj stronę — raz rób go w lewe udo/stronę brzucha, raz w prawe.
 :::
 10. Dokładna technika zastrzyku będzie zależna od ilości tkanki tłuszczowej. Jeśli tkanki tłuszczowej jest dostatecznie dużo, igłę można wprowadzić pod kątem 90 stopni. Jeśli jesteś szczuplejszą osobą, bezpieczniejszą techniką będzie złapanie fałdu skóry i wprowadzenie igły pod kątem 45 stopni. 
-11. Igłę wprowadza się na głębokość około 1-2 cm (głębokość zależy od ilości tkanki tłuszczowej), po wprowadzeniu igły należy puścić fałd skóry, by uniknąć iniekcji w zbitą tkankę tłuszczową. Cały czas stabilizuj igłę trzymając ją kciukiem i palcem wskazującym, by uniknąć jej przesuwania.
+11. Igłę wprowadza się na głębokość od 1 cm do 1,5cm (w zależności od ilości tkanki tłuszczowej w miejsciu zastrzyku). Po wprowadzeniu igły należy puścić fałd skóry, by uniknąć iniekcji w zbitą tkankę tłuszczową. Cały czas stabilizuj igłę trzymając ją kciukiem i palcem wskazującym, by uniknąć jej przesuwania.
 13. Przy zastrzykach podskórnych aspiracja nie jest wymagana — nie musisz odciągać tłoku strzykawki.
 14. Powoli wprowadzaj lek. Jeśli używamy igły o mniejszej średnicy, nie zdziw się, jeśli napotkasz na znaczący opór przy przesuwaniu tłoka. 
 15. Po wprowadzeniu leku odczekujemy 10 sekund i dopiero wtedy wyciągamy igłę. Miejsce zastrzyku uciskamy gazikiem tak długo, aż upewnimy się, że nie leci z niego krew ani wstrzykiwany lek.
