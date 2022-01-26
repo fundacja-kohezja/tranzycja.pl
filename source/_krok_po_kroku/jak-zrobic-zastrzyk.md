@@ -1,5 +1,5 @@
 ---
-kolejnosc: 61
+kolejnosc: 80
 tags: opublikowane, krok po kroku, hormony
 ---
 # Jak zrobić sobie zastrzyk? Poradnik do iniekcji podskórnych i domięśniowych.
