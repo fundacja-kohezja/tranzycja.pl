@@ -64,7 +64,7 @@ Dokładna geneza transpłciowości nie jest znana - istniejące dane wskazują n
 
 :::spoiler Czy detranzycje zdarzają się często?
 
-Naukowcy nie mają wątpliwości, że tranzycja [jest skutecznym sposobem leczenia dysforii].(https://tranzycja.pl/publikacje/skutecznosc-medycznej-tranzycji/). Detranzycje zdarzają się [niezwyke rzadko,](https://tranzycja.pl/publikacje/detranzycja-zal/) jedynie w około 1% wszystkich przypadków.
+Naukowcy nie mają wątpliwości, że tranzycja [jest skutecznym sposobem leczenia dysforii](https://tranzycja.pl/publikacje/skutecznosc-medycznej-tranzycji/). Detranzycje zdarzają się [niezwyke rzadko,](https://tranzycja.pl/publikacje/detranzycja-zal/) jedynie w około 1% wszystkich przypadków.
 
 :::
 
@@ -153,5 +153,3 @@ Najczęstsze błędy maskulinizującej terapii hormonalnej:
 
 Szczegółowe informacje na temat dawkowania hormonów znajdziesz w naszych artykułach o feminizującej lub maskulinizującej terapii hormonalnej.
 :::
-
----
