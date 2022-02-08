@@ -94,9 +94,9 @@ W przypadku maskulinizującej terapii hormonalnej stosowanie testosteronu [nie z
 
 Jednakże w prawdziwym życiu poza terapią hormonalną chirurg musi uwzględnić również wiele innych czynników mogących wpłynąć na powodzenie zabiegu. Ostatecznie **zawsze ostatnie słowo ma Twój chirurg** i należy stosować się jego zaleceń. Jeśli nie czujesz się do końca komfortowo z jego techniką i podejściem, możesz spróbować u innego.
 
----
-
 :::
+
+---
 
 ## Terapia hormonalna 
 
@@ -153,4 +153,3 @@ Najczęstsze błędy maskulinizującej terapii hormonalnej:
 
 Szczegółowe informacje na temat dawkowania hormonów znajdziesz w naszych artykułach o feminizującej lub maskulinizującej terapii hormonalnej.
 :::
-
