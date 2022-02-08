@@ -39,29 +39,16 @@ function excerpt(CollectionItem $page, int $words) {
 
 }
 
-$pub_config = [
-    'sort' => '-data',
-    'title' => function ($page) {
-        $tresc = $page->getContent();
-        preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
-        preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
-        return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
-    },
-    'excerpt' => function ($page) {
-        return excerpt($page, 40);
-    },
-    'longerExcerpt' => function ($page) {
-        return excerpt($page, 120);
-    }
-];
+$title_fn = function ($page) {
+    $tresc = $page->getContent();
+    preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
+    preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
+    return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
+};
 
 return (array)$yaml_config + [
     'baseUrl' => 'https://tranzycja.pl',
     'production' => false,
-
-    // Algolia DocSearch credentials
-    'docsearchApiKey' => '',
-    'docsearchIndexName' => '',
 
     'collections' => [
         'strony' => [
@@ -72,16 +59,36 @@ return (array)$yaml_config + [
                 return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
             }
         ],
-        'publikacje' => $pub_config,
-        'publications' => $pub_config,
+        'publikacje' => [
+            'sort' => '-data',
+            'title' => $title_fn,
+            'excerpt' => function ($page) {
+                return excerpt($page, 40);
+            },
+            'longerExcerpt' => function ($page) {
+                return excerpt($page, 120);
+            }
+        ],
+        'publications' => [
+            'sort' => '-data',
+            'title' => $title_fn,
+            'excerpt' => function ($page) {
+                return excerpt($page, 40);
+            },
+            'longerExcerpt' => function ($page) {
+                return excerpt($page, 120);
+            }
+        ],
+        'wsparcie' => [
+            'sort' => 'kolejnosc',
+            'title' => $title_fn,
+            'excerpt' => function ($page) {
+                return excerpt($page, 80);
+            }
+        ],
         'krok_po_kroku' => [
             'sort' => 'kolejnosc',
-            'title' => function ($page) {
-                $tresc = $page->getContent();
-                preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
-                preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
-                return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
-            },
+            'title' => $title_fn,
             'excerpt' => function ($page) {
                 return excerpt($page, 80);
             }
@@ -105,13 +112,14 @@ return (array)$yaml_config + [
             'path' => '/aktualnosci',
         ],
         (object)[
-            'title' => 'Pytania i odpowiedzi',
+            'title' => 'FAQ',
             'path' => '/#faq',
         ],
-        /* (object)[
-            'title' => 'Materiały',
-            'path' => '/materialy',
-        ] */
+        (object)[
+            'title' => 'Wesprzyj nas!',
+            'path' => '/wsparcie',
+            'accented' => true
+        ]
     ],
 
     // helpers

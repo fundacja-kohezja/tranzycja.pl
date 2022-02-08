@@ -11,7 +11,8 @@ class ContentPostProcess
         '/publikacje',
         '/publications',
         '/aktualnosci',
-        '/krok-po-kroku'
+        '/krok-po-kroku',
+        '/wsparcie'
     ];
 
     public function handle(Jigsaw $jigsaw)

@@ -29,8 +29,10 @@ class RestoreSourceFiles
             
             $jigsaw->getFilesystem()->putWithDirectories($file, $new_content);
         }
-
-        $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_krok_po_kroku');
+        $files = array_merge(
+            $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_krok_po_kroku'),
+            $files = $jigsaw->getFilesystem()->files($jigsaw->getSourcePath().'/_wsparcie')
+        );
         foreach ($files as $file) {
             $file_content = $jigsaw->getFilesystem()->get($file);
             $new_content = substr($file_content, 0, 19) . substr($file_content, $this->templateNameLength + 46);
