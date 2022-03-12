@@ -275,16 +275,16 @@ Do efektów ubocznych żelu należy trądzik, podrażenienie i wysuszenie w miej
 
 
 :::spoiler Tabelka z porównaniem kosztu poszczególnych metod
-| Droga podania | Handlowa nazwa | Opakowanie zawiera | Typowe dawkowanie^a^ | Opakowanie starcza na | Koszt opakowania^b^ | Koszt na miesiąc |
+| Droga podania | Handlowa nazwa | Opakowanie zawiera | Typowe dawkowanie¹ | Opakowanie starcza na | Koszt opakowania² | Koszt na miesiąc |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Domięśniowo/podskórnie | Testosteronum Prolongatum Jelfa | 5 ampułek 100mg | 1 zastrzyk co 10 dni | 50 dni |  59,31zł  | 35,60 zł|
 |  | Omnadren 250 | 5 ampułek 250 mg | 1 zastrzyk co 21 dni  | 105 dni |  88,14 zł | 23,50 zł|
-| | Nebido | 1 ampułka 1000mg | 1 zastrzyk co 90 dni | 90 dni | ok. 400-500zł^c^ | ok. 133-166 zł| 
+| | Nebido | 1 ampułka 1000mg | 1 zastrzyk co 90 dni | 90 dni | ok. 400-500zł³ | ok. 133-166 zł| 
 | Przezskórnie | Androtop | 60 dawek x 20,25mg | 3 dawki raz dziennie | 20 dni |  248 zł  | 330 zł| 
 
-^a^ Typowe dawkowanie zakłada najczęściej spotykaną dawkę leku. 
-^b^ Ceny opakowań zaczerpnięte z bazy leków [mp.pl](https://www.mp.pl/pacjent/leki/). W rzeczywistości ceny w aptekach mogą być wyższe o kilkanaście złoty. Stan na 1 listopada 2021 r.
-^c^ Ceny Nebido ulegają dużym wahaniom w zależności od apteki.
+¹Typowe dawkowanie zakłada najczęściej spotykaną dawkę leku.  
+²Ceny opakowań zaczerpnięte z bazy leków [mp.pl](https://www.mp.pl/pacjent/leki/). W rzeczywistości ceny w aptekach mogą być wyższe o kilkanaście złoty. Stan na 1 listopada 2021 r.  
+³Ceny Nebido ulegają dużym wahaniom w zależności od apteki.
 :::
 
 ### Inne leki
