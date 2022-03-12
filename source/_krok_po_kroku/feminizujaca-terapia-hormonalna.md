@@ -104,7 +104,7 @@ Zarost będzie nadal pojawiać się w tych miejscach, w których pojawiał się 
 
 ## Jak uzyskać dostęp do terapii hormonalnej?
 
-Terapię hormonalną można zacząć po uzyskaniu diagnozy dysforii płciowej od psychiatry seksuologa (co bardziej szczegółowo zostało opisane [tutaj](https://tranzycja.pl/krok-po-kroku/mapa-tranzycji/)). Diagnoza umożliwia Ci udanie się do endokrynologa, który omówi z Tobą sposoby dawkowania terapii hormonalnej i ustali jej wstępne dawki w oparciu o wyniki badania krwi.
+Terapię hormonalną można zacząć po uzyskaniu diagnozy dysforii płciowej od psychiatry seksuologa (co bardziej szczegółowo zostało opisane [tutaj](https://tranzycja.pl/krok-po-kroku/tranzycja-medyczna/)). Diagnoza umożliwia Ci udanie się do endokrynologa, który omówi z Tobą sposoby dawkowania terapii hormonalnej i ustali jej wstępne dawki w oparciu o wyniki badania krwi.
 
 :::spoiler Najczęściej badane parametry krwi
 - hormony płciowe (Estradiol E2, FSH, LH, prolaktyna, progesteron, testosteron)
@@ -226,7 +226,7 @@ Wiele osób preferuje tę metodę podawania leku: zastrzyki są mniej bolesne i 
 Należy tutaj jednak zaznaczyć, że pomimo rosnącej popularności żadne wytyczne nie zawierają na ten moment możliwości podskórnego podawania estradiolu, a badania w tym obszarze są dopiero przeprowadzane. Z tego względu wielu endokrynologów może być sceptycznych co do takiej formy podawania.
 
 :::spoiler Tabelka z porównaniem kosztu poszczególnych metod
-| Droga podania | Handlowa nazwa | Opakowanie zawiera | Typowe dawkowanie^a^ | Opakowanie starcza na | Koszt opakowania^b^ | Koszt na miesiąc^c^ |
+| Droga podania | Handlowa nazwa | Opakowanie zawiera | Typowe dawkowanie¹ | Opakowanie starcza na | Koszt opakowania² | Koszt na miesiąc³ |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Doustnie | Estrofem | 28 pigułek 2mg | 1 pigułka 2x dziennie | 14 dni | 4,77zł | 9,54 zł|
 | Podjęzykowo | Estrofem | 28 pigułek 2mg | 0,5 pigułki 4x dziennie  | 14 dni | 4,77zł | 9,54 zł|
@@ -234,12 +234,12 @@ Należy tutaj jednak zaznaczyć, że pomimo rosnącej popularności żadne wytyc
 |  | Oesclim 50 / Systen 50 | 6 plastry | 1 plaster co 3-4 dni | 21 dni | ok. 7. zł  | ok. 10,5 zł| 
 |  | Climara 50 | 4 plastry | 1 plaster co 3-4 dni | 14 dni | 7,38 zł  | 14,76 zł| 
 |  | Lenzetto | 56 dawek aerozolu | 2 dawki dziennie | 28 dni | 54,85 zł  | 54,85 zł zł| 
-| Domięśniowo | Neofolin^d^ | 5 ampułek 5mg | 1 ampułka co 7 dni | 35 dni | 63,72 koron czeskich = 11,61 zł  | 9,67 zł| 
+| Domięśniowo | Neofolin⁴ | 5 ampułek 5mg | 1 ampułka co 7 dni | 35 dni | 63,72 koron czeskich = 11,61 zł  | 9,67 zł| 
 
-^a^ Typowe dawkowanie zakłada najczęściej spotykaną dawkę leku przed orchidektomią. Po usunięciu jąder dawka powinna zostać zmniejszona. 
-^b^ Ceny opakowań zaczerpnięte z bazy leków [mp.pl](https://www.mp.pl/pacjent/leki/). Stan na 1 listopada 2021 r.
-^c^ W wielu sytuacjach konieczne może być łączenie paru różnych dróg administracji leku, co może zwiększyć miesięczny koszt terapii. Koszt nie uwzględnia też ewentualnego kosztu antyandrogenu.
-^d^ W przypadku Neofolinu należy doliczyć koszt podróży do Czech.
+¹Typowe dawkowanie zakłada najczęściej spotykaną dawkę leku przed orchidektomią. Po usunięciu jąder dawka powinna zostać zmniejszona.  
+²Ceny opakowań zaczerpnięte z bazy leków [mp.pl](https://www.mp.pl/pacjent/leki/). Stan na 1 listopada 2021 r.  
+³W wielu sytuacjach konieczne może być łączenie paru różnych dróg administracji leku, co może zwiększyć miesięczny koszt terapii. Koszt nie uwzględnia też ewentualnego kosztu antyandrogenu.  
+⁴W przypadku Neofolinu należy doliczyć koszt podróży do Czech.  
 :::
 
 
@@ -277,14 +277,15 @@ W części krajów europejskich (Wielka Brytania, Włochy, Holandia) najczęści
 U małego odsetka osób nawet przy najwyższych możliwych dawkach antyandrogenu testosteron może nadal nie osiągnąć docelowego poziomu. W takich sytuacjach konieczna jest konsultacja z endokrynologiem - czasami naprawić może to zmiana sposobu podawania estradiolu na inny lub zmiana antyandrogenu. Jeśli mimo to nie udaje się stłumić testosteronu, może to być objawem innych problemów zdrowotnych, np. guzów jąder.[^36] 
 
 :::spoiler Porównanie szacunkowej ceny poszczególnych antyandrogenów.
-| Substancja | Handlowa nazwa | Opakowanie zawiera | Typowe dawkowanie | Opakowanie starcza na | Koszt opakowania | Koszt na miesiąc^c^ |
+| Substancja | Handlowa nazwa | Opakowanie zawiera | Typowe dawkowanie | Opakowanie starcza na | Koszt opakowania | Koszt na miesiąc³  |
 | -------- | -------- | -------- | -------- | -------- | -------- | --------
-| Octan cyproteronu | Androcur | 50 tabletek 50mg^a^ | 12,5mg^b^ dziennie | 250 dni | 31,84 zł  | 3,83 zł |
+| Octan cyproteronu | Androcur | 50 tabletek 50mg¹ | 12,5mg dziennie² | 250 dni | 31,84 zł  | 3,83 zł |
 | Spironolakton | Spironol 100 | 20 tabletek 100mg | 100 mg dziennie | 20 dni | 14,09 zł | 17,61 zł |
 | Goserelina | Reseligo | 1 ampułka | 1 ampułka co 4 tygodnie | 4 tygodnie | 175,20 zł | 175,20 zł |
 
-^a^ W aptekach dostępne są również opakowania z 20 tabletkami za 19,90zł
-^b^ Do tak małego dawkowania należy podzielić tabletkę na 4 części. Przy podzieleniu tabletki na 8 części otrzymujemy 6,25mg, które również może być skuteczne w tłumieniu testosteronu. Jednakże podzielenie tabletki na tak małe i równe cząstki może być trudne - w celu ułatwienia można skruszyć tabletkę na pył przed podzieleniem.
+¹W aptekach dostępne są również opakowania z 20 tabletkami za 19,90zł.  
+²Do tak małego dawkowania należy podzielić tabletkę na 4 części. Przy podzieleniu tabletki na 8 części otrzymujemy 6,25mg, które również może być skuteczne w tłumieniu testosteronu. Jednakże podzielenie tabletki na tak małe i równe cząstki może być trudne - w celu ułatwienia można skruszyć tabletkę na pył przed podzieleniem lub brać lek raz na dwa dni ((takie rozwiązanie jest możliwe dzięki długiemu czasowi pozostawania octanu cyproteronu w organizmie).  
+³Ceny opakowań zaczerpnięte z bazy leków [mp.pl](https://www.mp.pl/pacjent/leki/). Stan na 1 listopada 2021 r.
 :::
 
 Osoby stosujące antyandrogeny mogą odstawić je zupełnie po orchidektomii (usunięciu jąder).
