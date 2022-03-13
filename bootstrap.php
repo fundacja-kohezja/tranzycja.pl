@@ -1,12 +1,15 @@
 <?php
 
-use App\Listeners\FixListsSeparation;
-use App\Listeners\PrependFrontmatter;
-use App\Listeners\GenerateSitemap;
-use App\Listeners\RestoreSourceFiles;
-use App\Listeners\BuildTOC;
-use App\Listeners\ContentPostProcess;
-use App\Listeners\RedirectsFile;
+use App\Listeners\{
+    FixListsSeparation,
+    PrependFrontmatter,
+    GenerateSitemap,
+    RestoreSourceFiles,
+    BuildTOC,
+    ContentPostProcess,
+    RedirectsFile,
+    DynamicNavItems
+};
 
 /** @var $container \Illuminate\Container\Container */
 /** @var $events \TightenCo\Jigsaw\Events\EventBus */
@@ -25,6 +28,8 @@ use App\Listeners\RedirectsFile;
 
 $events->beforeBuild(FixListsSeparation::class);
 $events->beforeBuild(PrependFrontmatter::class);
+
+$events->afterCollections(DynamicNavItems::class);
 
 $events->afterBuild(GenerateSitemap::class);
 $events->afterBuild(RestoreSourceFiles::class);
