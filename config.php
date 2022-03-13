@@ -114,11 +114,6 @@ return (array)$yaml_config + [
         (object)[
             'title' => 'FAQ',
             'path' => '/#faq',
-        ],
-        (object)[
-            'title' => 'Wesprzyj nas!',
-            'path' => '/wsparcie',
-            'accented' => true
         ]
     ],
 
