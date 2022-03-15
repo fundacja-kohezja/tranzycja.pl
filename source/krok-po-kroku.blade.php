@@ -10,10 +10,10 @@
             {{ $page->opisSekcjiKrokPoKroku }}
         </p>
     </div>
-    <ul class="list-none pl-0 py-2 numbered-container">
+    <ul class="list-none pl-0 py-2">
         @foreach($krok_po_kroku as $poradnik)
             <li class="flex flex-1 my-4">
-                <a class="excerpt-card numbered flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $poradnik->getPath() }}">
+                <a class="flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $poradnik->getPath() }}">
                     <article class="flex flex-grow flex-col">
                         <h2 class="font-extrabold leading-tight text-2xl mb-0">
                             {!! $poradnik->title() !!}

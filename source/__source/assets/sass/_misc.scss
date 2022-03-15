@@ -370,9 +370,6 @@ mark {
         height: 100%;
     }
 }
-.numbered-container {
-    counter-reset: cnt;
-}
 .excerpt-card {
     position: relative;
     z-index: 1;
@@ -385,7 +382,6 @@ mark {
         opacity: 0.25;
         background-size: 8rem 6rem;
         z-index: -1;
-        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='%23A0AEC0' class='inline mr-3 h-16 align-middle -mt-8 -mb-6'%3E%3Cpath d='M14.62,2.74A5.64,5.64,0,0,0,10,5.14a5.61,5.61,0,0,0-8.57-.75V17.52A5.64,5.64,0,0,1,10,18.3a5.64,5.64,0,0,1,8.57-.78V4.39A5.61,5.61,0,0,0,14.62,2.74ZM4.44,13v-7A2.32,2.32,0,0,1,5,5.59,3.9,3.9,0,0,1,9,6.76v6.93a8.68,8.68,0,0,0-3.61-.79C5.07,12.9,4.75,12.92,4.44,13Zm11.14,0c-.31,0-.63,0-1,0a8.62,8.62,0,0,0-3.62.8V6.78a3.89,3.89,0,0,1,4-1.19,2.32,2.32,0,0,1,.6.34Z' /%3E%3C/svg%3E");
         @include dark {
             opacity: 0.15;
         }
@@ -394,17 +390,8 @@ mark {
         background-position: center;
         background-size: 12rem 9rem;
     }
-    &.numbered::before {
-        @apply .font-heading;
-        background-image: none;
-        counter-increment: cnt;
-        content: counter(cnt);
-        font-size: 6rem;
-        font-weight: 800;
-        text-align: right;
-        color: #A0AEC0;
-        top: -2rem;
-        pointer-events: none;
+    &.publications::before {
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='%23A0AEC0' class='inline mr-3 h-16 align-middle -mt-8 -mb-6'%3E%3Cpath d='M14.62,2.74A5.64,5.64,0,0,0,10,5.14a5.61,5.61,0,0,0-8.57-.75V17.52A5.64,5.64,0,0,1,10,18.3a5.64,5.64,0,0,1,8.57-.78V4.39A5.61,5.61,0,0,0,14.62,2.74ZM4.44,13v-7A2.32,2.32,0,0,1,5,5.59,3.9,3.9,0,0,1,9,6.76v6.93a8.68,8.68,0,0,0-3.61-.79C5.07,12.9,4.75,12.92,4.44,13Zm11.14,0c-.31,0-.63,0-1,0a8.62,8.62,0,0,0-3.62.8V6.78a3.89,3.89,0,0,1,4-1.19,2.32,2.32,0,0,1,.6.34Z' /%3E%3C/svg%3E");
     }
 }
 .hover-trigger .hover-target {
