@@ -38,7 +38,7 @@ permalink: index.html
         <ul class="flex-1 flex list-none -mr-6 md:-mr-2 -ml-6 py-2 px-4 overflow-auto">
             @foreach($krok_po_kroku as $poradnik)
                     <li class="slider-item-wider flex mx-2">
-                        <a class="excerpt-card trans flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $poradnik->getPath() }}">
+                        <a class="flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $poradnik->getPath() }}">
                             <article class="flex flex-grow flex-col">
                                 <h2 class="font-extrabold leading-tight text-gray-700 text-2xl mb-0">
                                     {!! $poradnik->title() !!}
