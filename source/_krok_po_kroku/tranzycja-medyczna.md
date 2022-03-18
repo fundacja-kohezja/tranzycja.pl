@@ -58,7 +58,7 @@ Jeśli mieszkasz w małym/średnim mieście lub na wsi, to w zdecydowanej więks
 
 ## Pytania i odpowiedzi
 
-:::spoiler O co dokładnie pytają seksulodzy w czasie diagnozy?
+:::spoiler O co dokładnie pytają seksuolodzy w czasie diagnozy?
 
 Dużo zależy tutaj od konkretnego specjalisty, pytania mogą być bardzo różne. Najczęściej orbitować będą jednak wokół paru konkretnych tematów:
 
@@ -100,9 +100,7 @@ Nie da się stwierdzić. Rekordziści dobierając sobie odpowiednich lekarzy pot
 
 Często spotykana długość to 4-6 wizyt u psychologa i 1-3 wizyty u seksuologa klinicznego. Jeśli chcesz się pospieszyć, to możesz postarać się umówić wizyty szybciej (szczególnie u mniej obleganych lekarzy możliwe jest np. umówienie dwóch wizyt w ciągu tygodnia).
 
-:::info
 O ile nie ma pewnego sposobu na upewnienie się, że nie spotkasz się z gatekeepingiem, to można postarać się wysondować specjalistę przez spytanie się go jak wielu wizyt będzie wymagać przed wystawianiem opinii lub diagnozy. **Lekarze wiecznie odsyłający na „potem” i nieumiejący określić żadnego jasnego terminu, mimo upływu kolejnych wizyt, mogą nie być godni zaufania.**
-
 
 ::: 
 
@@ -132,7 +130,6 @@ Tak! **Wymagana jest jednak do tego zgoda co najmniej jednego rodzica.** Nie jes
 
 Tylko niektórzy specjaliści będą przyjmować osoby niepełnoletnie (szczególnie poniżej 16 roku życia). Nieocenionym źródłem informacji będzie tutaj internetowa grupa wsparcia dla rodziców transpłciowych dzieci na Facebooku prowadzona przez Ewelinę Negowetti. Grupa nie jest publiczna, dostęp do niej można uzyskać przez zwrócenie się do organizacji My, Rodzice którąś z poniższych dróg.
 
-:::info
 - wiadomość prywatna na [fanpejdżu My, Rodzice](https://www.facebook.com/myrodziceosobLGBTQIA)
 - mail: info@myrodzice.org
 - numer telefonu: 663 925 154
