@@ -151,6 +151,8 @@ Ponownie jest to pytanie, na które ciężko odpowiedzieć, gdyż zależy to prz
 
 Jeśli jesteś osobą transkobiecą i nie posiadasz takich środków, to [Fundusz Solidarnościowy im. Milo Mazurkiewicz](https://www.facebook.com/FunduszMilo) oferuje możliwość sfinansowania tranzycji. Parę razy do roku Fundusz otwiera kolejną turę zbierania wniosków o wsparcie. Najlepiej zaobserwować media społecznościowe Funduszu, by jej nie przegapić.
 
+:::
+
 :::spoiler Czym jest diagnoza F64.9 i czy to źle, jeśli ją dostał*m?
 
 F64.9, czyli "Zaburzenia identyfikacji płciowej, nieokreślone", to jednostka czasami stosowana u osób niebinarych, bądź u osób, u których z jakiegoś powodu lekarz uznał, że nie wpisują się w kryteria F64 "Transseksualizmu". Niestety takie rozpoznanie często wiąże się z problemami, czy to u innych lekarzy, czy to w sądzie, a to z racji skojarzenia tej diagnozy z większą niestabilnością, czy niepewnością.
