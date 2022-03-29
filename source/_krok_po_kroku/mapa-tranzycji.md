@@ -41,6 +41,10 @@ Wielu lekarzy stawia jednak odrobinę inne wymogi. Szczegółowe informacje uzys
 
 Możesz to zrobić bez żadnej diagnozy, czy terapii hormonalnej. Jedynym ograniczeniem jest to, że wybrane imię nie może wskazywać na płeć inną niż ta w dowodzie (np. nie można zmienić imienia na „Zenon" mając w dowodzie literkę K, można zmienić je na inne imię kobiece lub na imię neutralne, np. „Alex"). Szczegółowo przeczytasz o tym [w naszym poradniku](https://tranzycja.pl/krok-po-kroku/zmiana-imienia-usc/).
 
+#### Chcesz zmienić oznaczenie płci w dokumentach?
+
+Niestety jedyną ścieżką do tego będzie pozwanie własnych rodziców. [Nasz poradnik](https://tranzycja.pl/krok-po-kroku/zmiana-danych-sad/) postara przeprowadzić Cię przez tę procedurę suchą stopą. Będziesz potrzebować do tego wyżej dokumentów od lekarza opisanych [w artykule o tranzycji medycznej](https://tranzycja.pl/krok-po-kroku/tranzycja-medyczna/), ale nie musisz przechodzić przez żadne zabiegi ani zaczynać terapii hormonalnej (choć znacząco ułatwią one sprawę).
+
 #### Interesują Cię zabiegi, takie jak operacja genitaliów, czy mastektomia?
 
 Na ten moment na naszej stronie nie posiadamy poradników do zabiegów chirurgicznych — jeśli orientujesz się dobrze w temacie jakiegoś zabiegu, możesz skontaktować się z nami i pomóc nam w utworzeniu jego opisu na stronie. Jeśli szukasz informacji na ten temat, najlepiej będzie skierować się na grupy wsparcia osób trans w mediach społecznościowych, takie jak:
