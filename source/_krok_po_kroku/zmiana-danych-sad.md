@@ -13,7 +13,7 @@ Ten artykuł dotyczy zmiany oznaczenia płci, czyli literki K lub M w dokumentac
 Jeśli nie chcesz na razie zmieniać oznaczenia płci, ale zależy Ci na zmianie samego imienia, to kwestia ta może być rozwiązana na drodze administracyjnej, bez procesu cywilnego. Piszemy o tym szerzej w [innym artykule](https://tranzycja.pl/krok-po-kroku/zmiana-imienia-usc/).
 :::
 
-Ninejszy poradnik został przygotowany we współpracy z prawnikiem Markiem Urbaniakiem.
+Niniejszy poradnik został przygotowany we współpracy z prawnikiem Markiem Urbaniakiem.
 
 ## Podstawa prawna
 
@@ -52,7 +52,7 @@ Szczególnie mocno zalecamy zwrócenie się o profesjonalną pomoc prawniczą w 
 
 By móc złożyć pozew należy spełnić następujące wymogi:
 - mieć powyżej 18 lat (przypadek osób niepełnoletnich jest opisany w dalszej części poradnika);
-- posiadać dwie opinie zaświadczające o Twojej transpłciowści, jedną przygotowaną przez psychologa-seksuologa (lub psychologa klinicznego lub psychoseksuologa), a drugą przez lekarza ze specjalizacją w seksuologii lub psychiatrii. Jeśli posiadamy tylko jedno z nich znacząco zwiększy to prawdopodobieństwo powołania biegłego przez sąd;
+- posiadać dwie opinie zaświadczające o Twojej transpłciowości, jedną przygotowaną przez psychologa-seksuologa (lub psychologa klinicznego lub psychoseksuologa), a drugą przez lekarza ze specjalizacją w seksuologii lub psychiatrii. Jeśli posiadamy tylko jedno z nich znacząco zwiększy to prawdopodobieństwo powołania biegłego przez sąd;
 - posiadać odpis aktu urodzenia (do uzyskania w Urzędzie Stanu Cywilnego przez ePUAP lub osobiście) oraz skan dowodu osobistego;
 - przeznaczyć ok. 600 zł na opłatę przy składaniu pozwu (ten wymóg można obejść, jeśli do pozwu dołączy się wniosek o zwolnienie z kosztów, a sąd rozpatrzy go pozytywnie).
 
