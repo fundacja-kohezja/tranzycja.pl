@@ -371,6 +371,8 @@ Może się zdarzyć, że urzędnicy w danym Sądzie nie są świadomi, że wysł
 
 W takiej sytuacji można powołać się na podstawę prawną ([Ustawa z dnia 28 listopada 2014 r. - Prawo o aktach stanu cywilnego](https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20140001741/U/D20141741Lj.pdf), art. 4), czy to osobiście, czy pisząc odpowiednie pismo. W praktyce łatwiejsze może okazać się jednak nakłonienie sekretariat sądu do wysyłki dokumentu.
 
+:::
+
 :::spoiler Czy była to jedyna procedura zmiany oznaczenia płci w Polsce i czy istnieje przestrzeń do stworzenia nowej?
 
 Historycznie w Polsce funkcjonowała dużo bardziej ludzka procedura, wypróbowana w latach 60. a potem uregulowana uchwałą Sądu Najwyższego z 25 lutego 1978 r. W jej ramach składało się wniosek do Urzędu Stanu Cywilnego o korektę aktu urodzenia. Procedura wymagała diagnozy seksuologicznej oraz operacji genitaliów, ale przewidywała, że „w szczególnych okolicznościach" ten drugi wymóg mógł zostać pominięty, co było szeroko wykorzystywane. Wszystko działo się w trybie administracyjnym, bez udziału sędziego czy rodziców.
