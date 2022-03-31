@@ -106,13 +106,13 @@ O ile nie ma pewnego sposobu na upewnienie się, że nie spotkasz się z gatekee
 
 :::spoiler Jakie zaburzenia psychiczne mogą utrudniać proces diagnostyczny?
 
-Specjaliści mogą przedłużać proces diagnostyczny ze względu na zaburzenia, które w znaczący sposób destabilizują zdrowie psychiczne danej osoby i mogą rzutować na jej zdolność do podejmowania świadomych decyzji (np. trwający epizod manii) oraz zaburzenia, które mogą dawać objawy podobne do dysforii płciowej. Przeważnie wymienia się tutaj:
+Specjaliści mogą przedłużać proces diagnostyczny ze względu na zaburzenia, które w znaczący sposób destabilizują zdrowie psychiczne danej osoby i mogą rzutować na jej zdolność do podejmowania świadomych decyzji (np. trwający epizod manii). Często można również spotkać się z trzymaniem dłużej pacjentów z następującymi problemami psychicznymi:
 - zaburzenia osobowości z pogranicza (*borderline*);
 - zaburzenia osobowości typu dysocjacyjnego;
 - schizofrenia;
 - dysmorfofobia.
 
-**Żadne zaburzenia nie są jednak absolutnym przeciwwskazaniem dla tranzycji — osoby transpłciowe czasami miewają też schizofrenię czy dysocjacyjne zaburzenia osobowości.** Specjaliści, którzy z tych powodów odsyłają swoich pacjentów z kwitkiem, wykazują się niekompetencją. Mogą one jednak znacząco przedłużać proces wystawienia diagnozy.
+**Żadne zaburzenia nie są jednak absolutnym przeciwwskazaniem dla tranzycji — osoby transpłciowe czasami miewają też schizofrenię czy dysocjacyjne zaburzenia osobowości.** Specjaliści, którzy z tych powodów odsyłają swoich pacjentów z kwitkiem, wykazują się niekompetencją. W praktyce lekarskiej pacjenci z wyżej wymienionymi problemami mogą spotykać się niestety z ableizmem oraz przeciąganiem diagnostyki w nieskończoność, tym ważniejsze jest więc zrobienie dobrego riserczu przed udaniem się do danego lekarza.
 
 :::
 
