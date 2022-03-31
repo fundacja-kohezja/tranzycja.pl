@@ -398,9 +398,9 @@ O historii podejścia do osób transpłciowych w prawie można więcej przeczyta
 
 ## Dodatkowe materiały
 
-Webinar Kampanii Przeciwko Homofobii [„Pomoc prawna dla pełnoletnich i niepełnoletnich osób transpłciowych"](https://www.facebook.com/watch/live/?ref=watch_permalink&v=637815477403772) z prawniczką Anną Mazurczak
+Webinar Kampanii Przeciwko Homofobii [„Pomoc prawna dla pełnoletnich i niepełnoletnich osób transpłciowych"](https://www.youtube.com/watch?v=2Pi9ko4_6uY) z prawniczką Anną Mazurczak
 
-Webinar Tolerado [„Procedura prawna zmiany danych osobowych w procesie tranzycji"](https://www.youtube.com/watch?v=2Pi9ko4_6uY) z prawniczką Mileną Adamczewską-Stachurą
+Webinar Tolerado [„Procedura prawna zmiany danych osobowych w procesie tranzycji"](https://www.facebook.com/watch/live/?ref=watch_permalink&v=637815477403772) z prawniczką Mileną Adamczewską-Stachurą
 
 Wykład prawnika Mikołaja Świstowskiego [„Jak się robi prawną korektę płci?"](https://youtu.be/JzBsjS9oxAc?t=4520) organizowany przez Federację Znaki Równości (część dotycząca zmiany urzędowego oznaczenia płci rozpoczyna się w 1:15:20)
 
