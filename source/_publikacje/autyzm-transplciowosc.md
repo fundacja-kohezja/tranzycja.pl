@@ -2,7 +2,7 @@
 tags: publikacje, dag&nina, opublikowane
 ---
 
-# Spektrum autyzmu, a transpłciowość
+# Spektrum autyzmu a transpłciowość
 
 Autyzm i transpłciowość nie tylko mogą współwystępować, ale bardzo się nawzajem lubią. Choć dokładne szacunki są utrudnione, to wszystkie badania w temacie donoszą o znacząco częstszym występowaniu autyzmu w społeczności osób transpłciowych — według najnowszych badań mówimy nawet tu o od 3 do 6 razy większym odsetku osób autystycznych w porównaniu do ogółu społeczeństwa.[^1] **W związku z tym nie ma co się obawiać, że bycie w spektrum wykluczy się z diagnozą dysforii płciowej, czy dostępem do tranzycji:** zgadzają się z tym zarówno międzynarodowe wytyczne,[^2] jak i polscy specjaliści.[^3] W tym artykule przeczytasz o specyficznych kwestiach związanych z współwystępowaniem transpłciowości oraz autyzmu.
 
