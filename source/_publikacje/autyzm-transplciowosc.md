@@ -2,7 +2,7 @@
 tags: publikacje, dag&nina, opublikowane
 ---
 
-# Spektrum autyzmu, a transpłciowość
+# Spektrum autyzmu a transpłciowość
 
 Autyzm i transpłciowość nie tylko mogą współwystępować, ale bardzo się nawzajem lubią. Choć dokładne szacunki są utrudnione, to wszystkie badania w temacie donoszą o znacząco częstszym występowaniu autyzmu w społeczności osób transpłciowych — według najnowszych badań mówimy nawet tu o od 3 do 6 razy większym odsetku osób autystycznych w porównaniu do ogółu społeczeństwa.[^1] **W związku z tym nie ma co się obawiać, że bycie w spektrum wykluczy się z diagnozą dysforii płciowej, czy dostępem do tranzycji:** zgadzają się z tym zarówno międzynarodowe wytyczne,[^2] jak i polscy specjaliści.[^3] W tym artykule przeczytasz o specyficznych kwestiach związanych z współwystępowaniem transpłciowości oraz autyzmu.
 
@@ -102,7 +102,9 @@ U osób autystycznych bez niepełnosprawności intelektualnej autyzm nie powinie
 
 Na stronie [Fundacji Prodeste](https://prodeste.pl/) oraz [Fundacji Dziewczyny w Spektrum](https://dziewczynywspektrum.pl/) znajdziesz wiele informacji na temat autyzmu, tworzonych przez osoby w spektrum. Druga z nich prowadzi również grupy wsparcia dla autystycznych osób transpłciowych i niebinarnych, stąd warto obserwować ich na [Facebooku](https://www.facebook.com/FundacjaDziewczynywSpektrum).
 
-Grupa [„Dziewczyny w spektrum autyzmu"](https://www.facebook.com/groups/376752513042580) na Facebooku jest otwarta na trans kobiety oraz osoby niebinarne.
+Przygotowane przez Fundację Dziewczyny w Spektrum poradniki [„Nastolatki LGBT+ w spektrum autyzmu. Poradnik dla specjalistów"](https://dziewczynywspektrum.pl/wp-content/uploads/2021/04/Nastolatki-LGBT-w-spektrum-autyzmu_Poradnik-dla-specjalistow.pdf) oraz [„Nastolatki LGBT+ w spektrum autyzmu. Poradnik dla rodziców"](https://dziewczynywspektrum.pl/wp-content/uploads/2021/04/Nastolatki-LGBT-w-spektrum-autyzmu_Poradnik-dla-rodzicow.pdf).
+
+Grupa [„Dziewczyny w spektrum autyzmu"](https://www.facebook.com/groups/376752513042580) na Facebooku jest otwarta na osoby transpłciowe (zarówno transmęskie jak i transkobiece).
 
 Test [Autism Quotient](https://icos.org.uk/autism/test/aq-test-dla-doroslych/) jest popularnym narzędziem do wstępnej diagnostyki autyzmu. Powinien być jednak potraktowany jako wskazówka, nie diagnoza, szczególnie że nie jest pozbawiony stereotypów płciowych. Dla innych osób bardziej pomocna może być [samorzecznicza checklista „kobiecego autyzmu"](https://the-art-of-autism.com/females-and-aspergers-a-checklist/) (w języku angielskim).
 
