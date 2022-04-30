@@ -76,7 +76,7 @@ Zalecenia PTS jako badania opcjonalne wymieniają badanie ginekologiczne u osób
 
 Część z psychologów będzie wymagać wypełnienia kwestionariuszy MMRI-2 do wystawienia opinii psychologicznej. Niestety może wiązać się to ze znaczącym kosztem.
 
-Część seksuologów może wymagać badania kariotypu. Nie ma to uzasadnienia klinicznego, ale jest czasami wymagane przez sąd.
+Część seksuologów może wymagać badania kariotypu. Nie ma to uzasadnienia klinicznego, ale jest czasami wymagane przez sąd. Jest to jednak spotykane coraz rzadziej i wiele lekarzy i pacjentów odpuszcza sobie wykonanie tego badania.
 
 Przed opublikowaniem najnowszych zaleceń PTS od osób trans wielu specjalistów wymagało rutynowego przeprowadzania badań takich jak rezonans magnetyczny głowy, EEG, czy badanie dna oka. Jeśli nie masz żadnych problemów na tle neurologicznym, to ich zrobienie nie ma żadnego sensu klinicznego. **Jeśli specjalista ich od Ciebie wymaga, można ich odmówić powołując się na zalecenia PTSu.**
 
