@@ -3,7 +3,7 @@ kolejnosc: 92
 tags: publikacje, dag&nina, opublikowane
 ---
 
-# Co się dzieje gdy schodzisz z HRT?
+# Odstawienie terapii hormonalnej
 
 :::danger
 **Uwaga:** w chwili obecnej nie istnieją żadne badania poświęcone konkretnie temu tematowi. Wszystko, co na ten moment wiemy o efektach schodzenia z hormonów, jest oparte na danych anegdotycznych osób po detranzycji/osób niebinarnych używających alternatywnych ścieżek HRT/osób zmuszonych do przerwania terapii hormonalnej przez czynniki zewnętrzne. Tam, gdzie jest to możliwe, powołujemy się na źródła; tam, gdzie źródeł brak, zaznaczamy czego na ten moment nie wiemy.
@@ -36,19 +36,19 @@ Osoby znajdujące się w tej sytuacji wymagają priorytetowej opieki i jak najsz
 Poniższa lista dotyczy przede wszystkim osób, u których produkcja endogennych hormonów uległa wznowieniu - w przypadku, gdy się to nie udało cofnięcie się zmian będzie znacznie subtelniejsze.
 
 **Po odstawieniu suplementacji testosteronu:**
-* jeśli nadal ma się macicę oraz jajniki, to powróci miesiączka (prawdopodobnie będzie to jedna z pierwszych zmian);
-* kondycja oraz siła fizyczna ulegną zmniejszeniu
-* rozkład tłuszczu (a więc sylwetka i rysy twarzy) będzie powoli zmieniał się z powrotem ku typowo żeńskiemu;
-* skóra stanie się bardziej miękka, zmniejszy się wydzielanie potu i łoju, zmieni się zapach ciała;
-* zmianie nie ulegnie mutacja, rozmiar łechtaczki oraz zarost i owłosienie ciała (choć te mogą stać się bardziej miękkie i odrastać wolniej). U osób po mastektomii piersi nie odrosną. 
+- jeśli nadal ma się macicę oraz jajniki, to powróci miesiączka (prawdopodobnie będzie to jedna z pierwszych zmian);
+- kondycja oraz siła fizyczna ulegną zmniejszeniu
+- rozkład tłuszczu (a więc sylwetka i rysy twarzy) będzie powoli zmieniał się z powrotem ku typowo żeńskiemu;
+- skóra stanie się bardziej miękka, zmniejszy się wydzielanie potu i łoju, zmieni się zapach ciała;
+- zmianie nie ulegnie mutacja, rozmiar łechtaczki oraz zarost i owłosienie ciała (choć te mogą stać się bardziej miękkie i odrastać wolniej). U osób po mastektomii piersi nie odrosną. 
 
 **Po odstawieniu suplementacji estradiolu:**
-* powrócić mogą spontaniczne erekcje, libido ulegnie zwiększeniu;
-* kondycja oraz siła fizyczna wzrosną;
-* rozkład tłuszczu (a więc sylwetka i rysy twarzy) będą powoli zmieniały się z powrotem ku typowo męskiemu;
-* zwiększone zostanie wydzielanie potu oraz łoju, zapach ciała ulegnie zmianie;
-* piersi pozostaną, choć mogą stać się bardziej zwiotczałe i lekko się pomniejszą; mieszki włosowe usunięte w wyniku elektrolizy nie odrosną, ale testosteron może powodować pojawienie się włosów terminalnych w nowych miejscach, szczególnie u osób, które rozpoczynały HRT we wczesnym wieku;
-* może rozpocząć się łysienie androgeniczne, szczególnie u osób starszych.
+- powrócić mogą spontaniczne erekcje, libido ulegnie zwiększeniu;
+- kondycja oraz siła fizyczna wzrosną;
+- rozkład tłuszczu (a więc sylwetka i rysy twarzy) będą powoli zmieniały się z powrotem ku typowo męskiemu;
+- zwiększone zostanie wydzielanie potu oraz łoju, zapach ciała ulegnie zmianie;
+- piersi pozostaną, choć mogą stać się bardziej zwiotczałe i lekko się pomniejszą; mieszki włosowe usunięte w wyniku elektrolizy nie odrosną, ale testosteron może powodować pojawienie się włosów terminalnych w nowych miejscach, szczególnie u osób, które rozpoczynały HRT we wczesnym wieku;
+- może rozpocząć się łysienie androgeniczne, szczególnie u osób starszych.
 
 Hormony wpływają nie tylko na cechy płciowe, ale na wiele różnych układów funkcjonowania ciała. Stąd jeśli posiadamy jakieś współistniejące problemy zdrowotne, to odstawienie terapii hormonalnej może przełożyć się na ich pogorszenie lub polepszenie. Testosteron może wzmagać problemy dermatologiczne oraz choroby układu krążenia, estradiol może wzmagać choroby autoimmunologiczne, alergie oraz (w przypadku powrotu miesiączki) anemię. 
 
