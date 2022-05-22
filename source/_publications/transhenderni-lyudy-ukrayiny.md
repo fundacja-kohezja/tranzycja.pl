@@ -2,7 +2,7 @@
 
 :::info
 
-Інші варіанти тексту: [Польська](https://tranzycja.pl/publikacje/osoby-transplciowe-ukraina/) | [Aнглійська](https://tranzycja.pl/publications/transgender-people-ukraine/)
+[PL: Tekst w języku polskim](https://tranzycja.pl/publikacje/osoby-transplciowe-ukraina/) | [EN: English version of the text](https://tranzycja.pl/publications/transgender-people-ukraine/)
 
 :::
 
