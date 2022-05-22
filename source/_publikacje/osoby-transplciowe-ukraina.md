@@ -1,5 +1,9 @@
 # Poradnik dla osób transpłciowych z Ukrainy
 
+:::info
+Inne wersje językowe: [Angielska](https://tranzycja.pl/publications/transgender-people-ukraine/) | [Ukraińska](https://tranzycja.pl/publications/transhenderni-lyudy-ukrayiny/)
+:::
+
 Ten poradnik przeznaczony jest dla transpłciowych osób z Ukrainy. Znajdziesz w nim informacje jak bezpiecznie opuścić Ukrainę i gdzie znaleźć schronienie w Polsce (jeśli to wlaśnie tutaj się znajdujesz). W przyszłości mamy nadzieję poszerzyć ten poradnik o informacje dotyczące innych krajów docelowych.
 
 Internet jest wypełniony różnorodnymi ofertami pomocy, często przytłaczającymi w swojej liczbie, przestarzałymi, czy obecnie nieaktualnymi. W tym poradniku chcemy przedstawić Ci najbardziej istotne informacje oraz podać Ci dane kontaktowe do zaufanych, stale działających organizacji doświadczonych w pomaganiu osobom LGBTQ+ z Ukrainy. Autorem poradnika jest transpłciowy aktywista z wieloletnim doświadczeniem w pomocy uchodźcom, w chwili obecnej pracujący w redakcji tranzycja.pl oraz Grupie Granica (koalicji najistotniejszych organizacji migranckich w Polsce). Zawarte tu informacje są zweryfikowane przez aktywistów z ogólnoeuropejskich i ukraińskich organizacji LGBTQ+ bezpośrednio pomagających osobom trans w Ukrainie.
