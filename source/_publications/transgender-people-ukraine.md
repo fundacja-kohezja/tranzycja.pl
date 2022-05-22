@@ -1,5 +1,9 @@
 # Guide for transgender people from Ukraine
 
+:::info
+Other versions of this text: [Polish](https://tranzycja.pl/publikacje/osoby-transplciowe-ukraina/) | [Ukrainian](https://tranzycja.pl/publications/transhenderni-lyudy-ukrayiny/)
+:::
+
 This is a guide for transgender people from Ukraine, which will provide them with information on how to safely escape Ukraine and settle in Poland for time being (if that is the country to which you’ve managed to escape to).  In the future we hope that we will be able to provide additional information regarding the situation in other countries you would prefer to settle in. 
 
 We know that the Internet is full of various contacts and offers of help, sometimes numerous enough to paralyze and sometimes simply not reachable at the moment or outdated. We aim to provide you with links only to trusted, long term operating organizations with experience of helping LGBTQ+ people in Ukraine and explain your situation using the most relevant information available. The following guide was prepared by transgender refugee activist from tranzycja.pl (Polish database about all things transgender) and Grupa Granica (coalition of most important Polish refugee NGOs) based on amazing work and up-to-date knowledge of activists from @lgbtukrainebot helping directly transgender people in Ukraine and connected to both Ukrainian and European LGBTQ+ organizations.
