@@ -1,7 +1,7 @@
 # Guide for transgender people from Ukraine
 
 :::info
-Other versions of this text: [Polish](https://tranzycja.pl/publikacje/osoby-transplciowe-ukraina/) | [Ukrainian](https://tranzycja.pl/publications/transhenderni-lyudy-ukrayiny/)
+[PL: Tekst w języku polskim](https://tranzycja.pl/publikacje/osoby-transplciowe-ukraina/) | [UKR: текст українською мовою](https://tranzycja.pl/publications/transhenderni-lyudy-ukrayiny/)
 :::
 
 This is a guide for transgender people from Ukraine, which will provide them with information on how to safely escape Ukraine and settle in Poland for time being (if that is the country to which you’ve managed to escape to).  In the future we hope that we will be able to provide additional information regarding the situation in other countries you would prefer to settle in. 
