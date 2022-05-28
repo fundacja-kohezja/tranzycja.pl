@@ -1,6 +1,6 @@
 ---
 kolejnosc: 60
-tags: nina&dag, hormony, krok po kroku, opublikowane
+tags: krok po kroku, opublikowane, dag&nina
 ---
 
 # Feminizująca terapia hormonalna
@@ -134,9 +134,9 @@ Dobór dawki i interpretacja wyników badania krwi wymagają posiadania wiedzy e
 
 Jeśli w którymś momencie będziesz chciała przejść z selfmedu na terapię hormonalną prowadzoną przez lekarza, to nie jest to niemożliwe. Choć seksuolodzy są różni i część może patrzeć na taką przeszłość nieprzychylnie, to inni będą chętni do przeprowadzenia typowego procesu diagnostycznego. 
 
-## Jak przebiega terapia hormonalna?
+## Dawkowanie i monitorowanie terapii hormonalnej
 
-Celem feminizującej terapii hormonalnej jest sprowadzenie poziomów estradiolu oraz testosteronu we krwi do poziomów typowych dla cis kobiet. Za docelowe wartości uznaje się obniżenie testosteronu poniżej 50 ng/dL (1.7 nmol/L) oraz utrzymanie estradiolu w zakresie 100-200 pg/dl (67–734 pmol/L). **Dalsze zwiększanie poziomu estradiolu nie ma przełożenia na stopień feminizacji cech płciowych ciała.[^2]** 
+Celem feminizującej terapii hormonalnej jest sprowadzenie poziomów estradiolu oraz testosteronu we krwi do poziomów typowych dla cis kobiet. Za docelowe wartości uznaje się obniżenie testosteronu poniżej 50 ng/dL (1.7 nmol/L) oraz utrzymanie estradiolu w zakresie 100-200 pg/dl (367–734 pmol/L). **Dalsze zwiększanie poziomu estradiolu nie ma przełożenia na stopień feminizacji cech płciowych ciała.[^2]** 
 
 U cis kobiet poziom estradiolu we krwi ulega znacznym wahaniom w trakcie cyklu, na różnych jego etapach może zarówno spaść poniżej tych poziomów jak i znacząco wzrosnąć. Feminizująca terapia hormonalna nie symuluje cyklu menstruacyjnego i w związku z tym celuje w uśredniony, stały poziom hormonów. W przypadku testosteronu zupełne stłumienie go do niewykrywalnych poziomów wbrew pozorom nie pomoże w feminizacji, może mieć natomiast przykre efekty uboczne, w tym utratę libido. Dlatego niektóre wytyczne zalecają utrzymanie go na poziomie wyższym niż 5 ng/dl (0,17 nmol/l). 
 
@@ -150,6 +150,7 @@ Wyniki badań krwi w laboratoriach przeważnie są podawane razem z fizjologiczn
 
 Osoby zniechęcające innych do tranzycji często sugerują, że jest ona eksperymentalna i niezwykle obciążąjąca dla zdrowia fizycznego. W rzeczywistości dobrze prowadzona terapia hormonalna stanowi względnie bezpieczną interwencję medyczną. Sama w sobie bardzo rzadko doprowadza do poważnych efektów ubocznych, natomiast w połączeniu z innymi czynnikami ryzyka może zwiększać prawdopodobieństwo zachorowania na niektóre choroby. Przy odpowiednim monitorowaniu i profilaktyce można jednak znacząco zminimalizować te ryzyko.
 
+#### Zakrzepica 
 Podstawowym obszarem troski związanym z estradiolem jest jego wpływ na krzepliwość krwi i potencjalnie większe ryzyko zatorów. Metaanaliza z 2019 roku[^3] oszacowała, że ryzyko wystąpienia zakrzepicy u osób stosujących feminizującą terapię hormonalną może wzrosnąć o około 50-100%, co przekłada się na 2,3 przypadki zakrzepicy rocznie na każde 1000 trans kobiet. Inne badania wskazywały na jeszcze większy wzrost ryzyka dochodzący nawet do ok. 400%.[^4] Te odsetki nie są jednak pełnym odzwierciedleniem wzrostu ryzyka związanego z terapią hormonalną, ponieważ badania w tym obszarze nie uwzględniają kwestii takich jak sposób podania leku (wyższe ryzyko jest związane z doustną drogą przyjmowania estradiolu), czy różnicy w pozostałych czynnikach ryzyka między populacją osób transpłciowych, a ogółem społeczeństwa (np. trans kobiety częściej palą papierosy, a to dodatkowo zwiększa ryzyko zakrzepicy). **Z tych powodów ciężko jest oszacować dokładny wzrost ryzyka zachorowania na zakrzepicę, możemy jednak stwierdzić, że jest on umiarkowany i zbliżone do wielu innych interwencji medycznych cieszących się akceptacją społeczną[^5]** — dla porównania stosowanie pigułek antykoncepcyjnych powoduje wzrost ryzyka zakrzepicy o około 200-300%,[^6] bycie w ciąży o 400-500% (w obu tych sytuacjach wzrost ryzyka jest również powiązany z estradiolem).[^7] 
 
 **Nie oznacza to jednak, że ryzyko zakrzepicy można ignorować**, szczególnie u osób po 40. roku życia i w sytuacjach występowania innych czynników zwiększających prawdopodobieństwo jej wystąpienia. Działania, które można podjąć by zminimalizować ryzyko zatorów związane z estradiolem:
@@ -158,11 +159,19 @@ Podstawowym obszarem troski związanym z estradiolem jest jego wpływ na krzepli
 - skonsultuj się ze swoim endokrynologiem w sprawie zmiany sposobu podawania leku. Estradiol podawany doustnie wiąże się ze znacząco większym ryzykiem zatoru niż formy podawania leku, które nie wchłaniają się przez układ pokarmowy (przezskórne, podjęzykowe, domięśniowe);[^10]
 - skonsultuj się ze swoim endokrynologiem w sprawie zastosowania anty-androgenu (omówione szczegółowo niżej).
 
+#### Wątroba
+
 Wiele z wytycznych wskazuje na możliwe obciążenie wątroby związane ze stosowaniem terapii hormonalnej, ale w nowszych badaniach[^11][^12] nie wykryto związku estradiolu z poziomami enzymów wątrobowych. U osób, u których występowały już problemy z pracą wątroby wskazane może być przejście na mniej obciążającą metodę podawania leku (każdą inną niż doustna).
+
+#### Rak piersi
 
 Wzrostowi piersi towarzyszy też wzrost ryzyka raka piersi. Nie jest on aż tak częsty wśród trans kobiet jak wśród cis kobiet, ale jest wielokrotnie częstszy niż u cis mężczyzn.[^13] Z tego względu osoby stosujące feminizującą terapię hormonalną powinny stosować się do wytycznych badań okresowych w tym obszarze dostępnych na [stronie Polskiej Unii Onkologii](http://www.puo.pl/badania-profilaktyczne/rak-piersi).
 
+#### Choroby autoimmunologiczne
+
 U pacjentek cierpiących na choroby autoimmunologiczne terapia hormonalna może spowodować pogorszenie się objawów. Przed rozpoczęciem hormonoterapii zalecane jest skonsultowanie możliwego ryzyka z endokrynologiem.
+
+#### Pozostałe efekty uboczne
 
 Dziedziną do tej pory słabo zbadaną i zaniedbaną przez naukowców są pozytywne efekty działania feminizującej terapii hormonalnej na ciało. Z badań wśród cis kobiet wiemy o tym, że estradiol może pełnić ochronną funkcję przed wieloma różnymi chorobami, w tym chorobami układu krążenia,[^14] czy chorobą Alzheimera.[^15] Na ten moment nie dysponujemy wiedzą, czy podobne zjawiska zachodzą też u trans kobiet, a jeśli tak, to w jakim stopniu. Niektóre z pozytywnych efektów terapii hormonalnej udało się jednak potwierdzić — rak prostaty zdarza się u trans kobiet 5-krotnie rzadziej niż wśród cis mężczyzn (szczególnie jeśli zaczęłaś terapię hormonalną przed 50. rokiem życia), co jest powiązane z hormonozależnym charakterem tej choroby.[^16] 
 
@@ -183,7 +192,7 @@ Używane w Polsce drogi podawania estradiolu obejmują podawanie doustne (w tabl
 
 #### Estradiol w formie ustnej:
 
-Dawkowanie: 2-8 mg, najczęściej 4 mg
+**Dawkowanie:** 2-8 mg, najczęściej 4 mg
 
 Estradiol w formie doustnej jest najczęściej przepisywaną i najszerzej dostępną formą tego hormonu. Jeśli masz ponad 40 lat lub występują u Ciebie czynniki zwiększające ryzyko zakrzepicy, zalecane jest skonsultowanie z endokrynologiem zmiany formy podawania leku na inny.
 
@@ -191,9 +200,9 @@ Czasami można jeszcze spotkać się z przepisywaniem nadal dostępnej, lecz ju�
 
 #### Estradiol w formie przezskórnej
 
-Żel: 0.8–3 mg dziennie
-Plastry: 0.05–0.15 mg dziennie, zmiana plastra co 3-5 dni.
-Aerozol: 1,5 mg-3 mg dziennie
+**Żel:** 0.8–3 mg dziennie  
+**Plastry:** 0.05–0.15 mg dziennie, zmiana plastra co 3-5 dni.  
+**Aerozol:** 1,5 mg-3 mg dziennie
 
 Najbezpieczniejsza forma podawania estradiolu, zapewnia stały poziom hormonów we krwi i omija układ trawienny, jest stosowana jako podstawowa forma terapii hormonalnej dla osób po 40. roku życia. Może być mniej efektywna w utrzymywaniu wysokiego poziomu estradiolu we krwi, stąd czasami jest stosowana w połączeniu z którąś z pozostałych form. 
 
@@ -203,21 +212,21 @@ Aerozol może służyć jako uzupełnienie innych form terapii, jako jedyne źr�
 
 #### Estradiol w formie podjęzykowej
 
-Dawkowanie: 1 mg-4 mg
+**Dawkowanie:** 1 mg-4mg
 
 W przypadku podjęzykowego sposobu dawkowania estradiolu używa się tego samego preparatu, co przy metodzie doustnej z tym, że tabletki nie połyka się, ale kładzie się pod językiem (alternatywnie między wargą a dziąsłem) czekając aż się rozpuści i przeniknie do krwi. Podstawowym ryzykiem powiązanym z takim sposobem dawkowania jest bardzo nierówny poziom estradiolu — w ciągu paru godzin od podania może on znacząco opaść. Z tego względu warto skonsultować z endokrynologiem przejście na częstsze dawkowanie leku (np. 4 razy dziennie). Z racji wysokiego stopnia przyswajania estradiolu drogą podjęzykową[^19] stosowane dawki powinny być niższe niż dawki stosowane ustnie, by nie przekroczyć fizjologicznych poziomów tego hormonu we krwi.
 
 #### Estradiol w formie domięśniowej
 
-Dawkowanie: 2-10 mg na tydzień, w preparacie Neofollin na jedną ampułkę przypada 5 mg stąd najczęściej przepisuje się 1 zastrzyk co 5-7 dni.
+**Dawkowanie:** 2-10 mg na tydzień, w preparacie Neofollin na jedną ampułkę przypada 5 mg stąd najczęściej przepisuje się 1 zastrzyk co 5-7 dni.
 
-Wymaga regularnych zastrzyków, przeprowadzanych samodzielnie lub z pomocą wykwalifikowanej osoby. Poziom estradiolu może przechodzić znaczące wahania, stąd przy badaniach krwi konieczne jest określenie ile dni upłynęło od ostatniego zastrzyku (najczęśćiej badanie przeprowadza się w połowie okresu między zastrzykami). Należy zachować ostrożność przy określaniu dawki, gdyż przy zastrzykach łatwiej niż przy innych metodach podawania można doprowadzić do znaczącego (nawet 2-3 krotnego) przekroczenia norm fizjologicznych. 
+Wymaga regularnych zastrzyków, przeprowadzanych [samodzielnie](https://tranzycja.pl/krok-po-kroku/jak-zrobic-zastrzyk/) lub z pomocą wykwalifikowanej osoby. Poziom estradiolu może przechodzić znaczące wahania, stąd przy badaniach krwi konieczne jest określenie ile dni upłynęło od ostatniego zastrzyku (najczęśćiej badanie przeprowadza się w połowie okresu między zastrzykami). Należy zachować ostrożność przy określaniu dawki, gdyż przy zastrzykach łatwiej niż przy innych metodach podawania można doprowadzić do znaczącego (nawet 2-3 krotnego) przekroczenia norm fizjologicznych. 
 
 Ta forma estradiolu jest niedostępna w Polsce i jej zakupienie wymaga podróży do Czech. W celu zminimalizowania kosztów podróży dobrze jest poprosić endokrynologa o receptę na większą liczbę opakowań, na 6, czy 12 miesięcy. Jeśli masz transpłciowe znajome korzystające z neofolinu (lub jeśli poszukasz ich na grupach wsparcia) możecie umówić się na przekazanie recept jednej osobie, by zaoszczędzić w ten sposób pieniądze. Większość aptek nie będzie mieć tak dużej liczby opakowań na stanie, więc najlepiej jest telefonicznie poinformować aptekę o zamówieniu na jakiś czas przed przybyciem. Angielski może być pomocny, ale da się też porozumieć po polsko-czesku. Część aptek zgadza się na wysyłkę leków paczką po przesłaniu recepty, nie jest to jednak rozpowszechniona praktyka.
 
 #### Estradiol w formie podskórnej
 
-Dawkowanie: te same, co w przypadku domięśniowej
+**Dawkowanie:** te same, co w przypadku domięśniowej
 
 Teoretycznie w Polsce i w krajach ościennych nie są dostępne żadne preparaty estradiolu, które byłyby przeznaczone przez producenta do podawania podskórnego. Z tego względu endokrynolodzy z reguły nie informują swoich pacjentów o tej metodzie podawania. Jednakże wiele zachodnich klinik (takich jak [Planned Parenthood](https://www.plannedparenthood.org/planned-parenthood-western-pennsylvania/patients/introducing-hormone-therapy/hormone-therapy-self-injection-tutorials), [Seattle's Children Hospital](https://www.seattlechildrens.org/pdf/PE2706.pdf?fbclid=IwAR32CIoQmaml9NOBc9nptgcQQ6cOvFi78qpbo5kc7a4WII_yNizgkfSS9XQ), czy [Fenway Health](https://fenwayhealth.org/wp-content/uploads/2015/07/COM-1880-trans-health_injection-guide_small_v2.pdf)) dopuszcza ją jako jedną z możliwych metod i stosuje ją z powodzeniem wśród swoich pacjentek. Stosowane są do tego te same preparaty, co do zastrzyków domięśniowych - pierwsze badania w tym obszarze pokazują, że wzrost estradiolu we krwi jest podobny niezależnie od metody zastrzyków.[^20] Podobne, lepiej zbadane zjawisko występuje w przypadku podawania testosteronu, gdzie te same preparaty mogą być używane zarówno do zastrzyków podskórnych jak i domięśniowych.[^21]
 
@@ -249,7 +258,7 @@ Należy tutaj jednak zaznaczyć, że pomimo rosnącej popularności żadne wytyc
 
 Estradiol sam w sobie wywołuje stłumienie produkcji testosteronu w jądrach i dla części osób będzie wystarczający do osiągnięcia poziomu testosteronu we krwi poniżej 50 ng/dl.[^22] Jednakże dla większości nie będzie to tak proste, stąd drugim standardowym komponentem feminizującej terapii hormonalnej jest antyandrogen, mający na celu zbić poziom testosteronu do poziomów typowo kobiecych. Najczęściej przepisywanym antyandrogenem jest w Polsce octan cyproteronu (znany pod nazwą handlową Androcur), lek cieszący się złą sławą w społeczności osób trans z racji tego, jak jest wykorzystywany w praktyce medycznej. 
 
-Octan cyproteronu, choć jest bardzo efektywnym antyandrogenem, nie jest obojętny dla zdrowia. Z tego względu European Medicines Agency zaleca, by dawki o wysokości 10 mg lub więcej były stosowane wyłącznie w sytuacjach, w których mniejsze dawkowanie nie osiągnęło skutku.[^23] W większości przypadków nie będzie potrzeby, by tę granicę przekraczać, gdyż według badań dawka 10 mg jest w zupełności wystarczająca do supresji testosteronu w ramach feminizującej terapii hormonalnej,[^24] a w społeczności osób trans można spotkać się z głosami o efektywności jeszcze mniejszych dawek, np. 5 mg. Cyproteron przy długotrwałym korzystaniu jest powiązany ze znaczącym wzrostem ryzyka wystąpienia oponiaka (nowotwór opon mózgowych),[^25] z tego powodu zaleca się, by nie korzystać z niego dłużej niż 2 lata.[^26] 
+Octan cyproteronu, choć jest bardzo efektywnym antyandrogenem, nie jest obojętny dla zdrowia.**Z tego względu European Medicines Agency zaleca, by dawki o wysokości 10 mg lub więcej były stosowane wyłącznie w sytuacjach, w których mniejsze dawkowanie nie osiągnęło skutku.**[^23] W większości przypadków nie będzie potrzeby, by tę granicę przekraczać, gdyż według badań dawka 10 mg jest w zupełności wystarczająca do supresji testosteronu w ramach feminizującej terapii hormonalnej,[^24] a w społeczności osób trans można spotkać się z głosami o efektywności jeszcze mniejszych dawek, np. 5 mg. Cyproteron przy długotrwałym korzystaniu jest powiązany ze znaczącym wzrostem ryzyka wystąpienia oponiaka (nowotwór opon mózgowych),[^25] z tego powodu zaleca się, by nie korzystać z niego dłużej niż 2 lata.[^26] 
 
 Nie oznacza to, że kategorycznie należy zaprzestać jego używania: przy mniejszych dawkach i przy ograniczonym czasie stosowania będzie on stosunkowo bezpieczny.[^27] Do tego po pewnym czasie może przestać być w ogóle potrzebny — jądra bez odpowiednich poziomów testosteronu we krwi doznają atrofii, co przekłada się na mniejszą produkcję testosteronu, nawet po odstawieniu antyandrogenu.[^28] Stąd wiele osób używa octanu cyproteronu jako leku na pierwsze 6-12 miesięcy terapii.
 
@@ -263,16 +272,15 @@ Octan cyproteronu może też wywoływać długotrwałe poczucie zmęczenia nieus
 
 #### Inne antyandrogeny
 
-Drugim najczęściej używanym antyandrogenem jest spironolakton (100-300 mg dziennie), który nie charakteryzuje się tak dotkliwymi skutkami ubocznymi jak octan cyproteronu, stąd jego użycie może być wskazane przy długotrwałej terapii hormonalnej. Typowe skutki uboczne obejmują utratę libido i moczopędność. Spironolakton wpływa na podwyższenie poziomów potasu we krwi, stąd przy jego stosowaniu istnieje niewielkie ryzyko wystąpienia hiperkalemii (przekroczenia fizjologicznych poziomów potasu we krwi). Z tego względu odradza się stosowanie spironolaktonu u osób z zaburzonym funkcjonowaniem nerek. Niezależnie od występowania czynników ryzyka wszystkim osobom stosującym spironolakton zaleca się regularne monitorowanie poziomów potasu oraz dostosowanie dawki w sytuacji hiperkalemii, gdyż pozostawiona samej sobie może grozić zaburzeniami pracy serca. Działanie spironolaktonu jako antyandrogenu jest słabsze od cyproteronu,[^30] więc u osób z wysokimi poziomami testosteronu może on nie być wystarczający. 
+Drugim najczęściej używanym antyandrogenem jest **spironolakton** (100-300 mg dziennie), który nie charakteryzuje się tak dotkliwymi skutkami ubocznymi jak octan cyproteronu, stąd jego użycie może być wskazane przy długotrwałej terapii hormonalnej. Typowe skutki uboczne obejmują utratę libido i moczopędność. Spironolakton wpływa na podwyższenie poziomów potasu we krwi, stąd przy jego stosowaniu istnieje niewielkie ryzyko wystąpienia hiperkalemii (przekroczenia fizjologicznych poziomów potasu we krwi). Z tego względu odradza się stosowanie spironolaktonu u osób z zaburzonym funkcjonowaniem nerek. Niezależnie od występowania czynników ryzyka wszystkim osobom stosującym spironolakton zaleca się regularne monitorowanie poziomów potasu oraz dostosowanie dawki w sytuacji hiperkalemii, gdyż pozostawiona samej sobie może grozić zaburzeniami pracy serca. Działanie spironolaktonu jako antyandrogenu jest słabsze od cyproteronu,[^30] więc u osób z wysokimi poziomami testosteronu może on nie być wystarczający. 
 
-Czasami spotkać można jeszcze użycie antyandrogenów z dziedziny inhibitorów 5-alfa-reduktazy: finasterydu i dutasterydu. Ich użycie nie jest jednak uzasadnione, poza rzadkimi przypadkami, w których terapia hormonalna nie wystarczyła do zatrzymania łysienia typu męskiego.[^31] Same w sobie nie są wystarczające do stłumienia testosteronu, gdyż ich podstawowe działanie dotyczy jego pochodnej, dihydrotestosteronu, która nie ma większego znaczenia dla maskulinizacji ciała poza obszarem łysienia typu męskiego (stąd są podstawowym lekiem na tą przypadłość u cis mężczyzn). Inne antyandrogeny obniżą poziom dihydrotestosteronu razem z obniżeniem testosteronu, więc dodatkowe używanie inhibitorów 5-alfa-reduktazy będzie zbyteczne. Do efektów ubocznych należy utrata libido i problemy z erekcją.
+Czasami spotkać można jeszcze użycie antyandrogenów z dziedziny inhibitorów 5-alfa-reduktazy: **finasterydu i dutasterydu.** Ich użycie nie jest jednak uzasadnione, poza rzadkimi przypadkami, w których terapia hormonalna nie wystarczyła do zatrzymania łysienia typu męskiego.[^31] Same w sobie nie są wystarczające do stłumienia testosteronu, gdyż ich podstawowe działanie dotyczy jego pochodnej, dihydrotestosteronu, która nie ma większego znaczenia dla maskulinizacji ciała poza obszarem łysienia typu męskiego (stąd są podstawowym lekiem na tą przypadłość u cis mężczyzn). Inne antyandrogeny obniżą poziom dihydrotestosteronu razem z obniżeniem testosteronu, więc dodatkowe używanie inhibitorów 5-alfa-reduktazy będzie zbyteczne. Do efektów ubocznych należy utrata libido i problemy z erekcją.
 
-Innym przestarzałym antyandrogenem jest flutamid - jego użycie nie jest zalecane z racji na toksyczność dla wątroby.[^32]
+Innym przestarzałym antyandrogenem jest **flutamid** - jego użycie nie jest zalecane z racji na toksyczność dla wątroby.[^32]
 
-Część osób nie chcących używać żadnego antyandrogenu stosuje monoterapię wysokimi dawkami estradiolu (300-500pg/mL we krwi), najczęściej przy użyciu zastrzyków domięśniowych/podskórnych. Tak wysokie poziomy estradiolu bardzo często są wystarczające do stłumienia testosteronu, jednakże z racji znaczącego przekroczenia fizjologicznych zakresów estradiolu we krwi wiążą się one z kilkukrotnie zwiększonym ryzykiem wystąpienia zakrzepicy.[^33] Nigdy nie powinny być stosowane długoterminowo, mogą służyć jako alternatywa dla antyandrogenu do czasu atrofii jąder.
+Część osób nie chcących używać żadnego antyandrogenu stosuje **monoterapię wysokimi dawkami estradiol**u (300-500pg/mL we krwi), najczęściej przy użyciu zastrzyków domięśniowych/podskórnych. Tak wysokie poziomy estradiolu bardzo często są wystarczające do stłumienia testosteronu, jednakże z racji znaczącego przekroczenia fizjologicznych zakresów estradiolu we krwi wiążą się one z kilkukrotnie zwiększonym ryzykiem wystąpienia zakrzepicy.[^33] Nigdy nie powinny być stosowane długoterminowo, mogą służyć jako alternatywa dla antyandrogenu do czasu atrofii jąder.
 
-
-W części krajów europejskich (Wielka Brytania, Włochy, Holandia) najczęściej używanym antyandrogenem są leki z grupy agonistów GnRH (gosarelina lub leuprolina) podawane w formie zastrzyku podskórnego raz na 4 tygodnie. Leki te łączą skuteczność w obniżaniu poziomu testosteronu[^34] z brakiem poważnych skutków ubocznych,[^35] stąd są one powszechnie używane w terapii hormonalnej dla nastolatków. Ich najważniejszą wadą jest cena - poza Wielką Brytanią są bardzo rzadko stosowane w terapii hormonalnej dla dorosłych. W Polsce nie są one refundowane, więc cena za 1 ampułkę będzie wynosić min. 175 złotych. 
+W części krajów europejskich (Wielka Brytania, Włochy, Holandia) najczęściej używanym antyandrogenem są **leki z grupy agonistów GnRH (gosarelina lub leuprolina**) podawane w formie zastrzyku podskórnego raz na 4 tygodnie. Leki te łączą skuteczność w obniżaniu poziomu testosteronu[^34] z brakiem poważnych skutków ubocznych,[^35] stąd są one powszechnie używane w terapii hormonalnej dla nastolatków. Ich najważniejszą wadą jest cena - poza Wielką Brytanią są bardzo rzadko stosowane w terapii hormonalnej dla dorosłych. W Polsce nie są one refundowane, więc cena za 1 ampułkę będzie wynosić min. 175 złotych. 
 
 U małego odsetka osób nawet przy najwyższych możliwych dawkach antyandrogenu testosteron może nadal nie osiągnąć docelowego poziomu. W takich sytuacjach konieczna jest konsultacja z endokrynologiem - czasami naprawić może to zmiana sposobu podawania estradiolu na inny lub zmiana antyandrogenu. Jeśli mimo to nie udaje się stłumić testosteronu, może to być objawem innych problemów zdrowotnych, np. guzów jąder.[^36] 
 
@@ -319,7 +327,7 @@ W społeczności osób trans czasami można spotkać się z poradami dotyczącym
 Jeśli uważasz, że któraś z informacji zamieszczonych w naszym artykule jest błędna lub nieaktualna, skontaktuj się z nami przez email kontakt@tranzycja.pl lub na [nasz fanpage na FB](https://www.facebook.com/tranzycjapl).
 :::
 
-Artykuł stworzony w oparciu o wytyczne dotyczące terapii hormonalnej opublikowane przez [University of California San Francisco](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy), [Endocrine Society](https://academic.oup.com/jcem/article/102/11/3869/4157558) oraz [WPATH](https://www.wpath.org/media/cms/Documents/SOC%20v7/SOC%20V7_Polish.pdf?_t=1573660119). Dodatkowe źródła podane poniżej:
+Artykuł stworzony w oparciu o wytyczne dotyczące terapii hormonalnej opublikowane przez [University of California San Francisco](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy) i [Endocrine Society](https://academic.oup.com/jcem/article/102/11/3869/4157558) oraz stronę [Transfemscience.org](https://transfemscience.org/). Dodatkowe źródła podane poniżej:
 
 [^1]: [Changes in regional body fat, lean body mass and body shape in trans persons using cross-sex hormonal therapy: results from a multicenter prospective study](https://eje.bioscientifica.com/view/journals/eje/178/2/EJE-17-0496.xml), M. Klaver i in. 2018 
 [^2]: [Relationship Between Serum Estradiol Concentrations and Clinical Outcomes in Transgender Individuals Undergoing Feminizing Hormone Therapy: A Narrative Review](https://www.liebertpub.com/doi/10.1089/trgh.2020.0077), Brendan J. Nolan, Ada S. Cheung, 2021
