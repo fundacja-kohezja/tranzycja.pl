@@ -40,6 +40,6 @@ class Orphans
          */
         $re      = '/(&nbsp;)([' . $this->single_letters . ']) +/i';
         $content = preg_replace( $re, '$1$2&nbsp;', $content );
-        return $content;
+        return str_replace('&nbsp;', ' ', $content);
     }
 }
