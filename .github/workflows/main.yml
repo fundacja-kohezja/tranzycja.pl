@@ -8,6 +8,7 @@ on:
     paths: 
       - source/_publikacje/*
       - source/_aktualnosci/*
+      - source/_publications/*
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
