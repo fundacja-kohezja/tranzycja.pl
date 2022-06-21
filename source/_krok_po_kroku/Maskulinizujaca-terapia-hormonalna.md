@@ -1,6 +1,6 @@
 ---
 kolejnosc: 61
-tags: nina&dag, hormony, krok po kroku, opublikowane
+tags: krok po kroku, opublikowane, dag&nina
 ---
 
 # Maskulinizująca terapia hormonalna
@@ -18,9 +18,7 @@ Terapia hormonalna jest jedną z najczęściej stosowanych interwencji medycznyc
 | Fioletowy | Zmiany mogą być trwałe, im dużej trwa terapia hormonalna tym bardziej prawdopodobne, że takie będą |
 | Zielony | Zmiany utrzymują się w trakcie terapii, cofają się przy powrocie do testosteronu |
 | Niebieski | HRT jest znaczącym czynnikiem, ale zależą też od indywidualnych działań danej osoby |
-
 :::
-
 #### Zmiany psychologiczne 
 
 Terapia hormonalna wymaga czasu, więc początki będą charakteryzować się jedynie pomniejszymi zmianami fizycznymi. Część trans mężczyzn doznaje jednak zmian w obrębie samopoczucia i zdrowia psychicznego - poprawia się kontakt z własnymi emocjami, momenty dysocjacji stają się rzadsze, w głowie robi się jaśniej, znika ociężałość myślenia. Inne osoby mogą nie odnotować żadnych szczególnych zmian emocjonalnych, a u jeszcze innej grupy efekty te mogą być mniej pozytywne i wiązać się z większymi wahaniami nastroju. W dłuższej perspektywie czasowej maskulinizująca terapia hormonalna nie ma jednak negatywnego wpływu na samopoczucie czy stabilność emocjonalną, wprost przeciwnie.
@@ -83,6 +81,7 @@ Efekty kilkumiesięcznego stosowania minoksydylu u transpłciowego nastolatka:
 :::warning
 **UWAGA:** minoksydyl jest na ten moment jedynym istniejącym preparatem o potwierdzonym pozytywnym działaniu na zarost. Środki na porost brody pozbawione minoksydylu są stratą czasu i pieniędzy.
 :::
+
 
 #### Menstruacja
 
@@ -162,7 +161,7 @@ Dobór dawki i interpretacja wyników badania krwi wymagają posiadania wiedzy e
 
 Jeśli w którymś momencie będziesz chciał przejść z selfmedu na terapię hormonalną prowadzoną przez lekarza, to nie jest to niemożliwe. Choć seksuolodzy są różni i część może patrzeć na taką przeszłość nieprzychylnie, to inni będą chętni do przeprowadzenia typowego procesu diagnostycznego.
 
-## Jak przebiega terapia hormonalna?
+## Dawkowanie i monitorowanie terapii hormonalnej
 
 Celem maskulinizującej terapii hormonalnej jest sprowadzenie poziomów estradiolu oraz testosteronu we krwi do poziomów typowych dla cis mężczyzn. Za docelową wartość uznaje się podwyższenie testosteronu do poziomu 300-1000 ng/dL (10.4–37.4 nmol/L). Końcowe efekty maskulinizacji ciała nie są zależne od dokładnego poziomu testosteronu i wyższe poziomy nie przełożą się na większy stopień maskulinizacji. Przy wysokich poziomach może ona jednak zachodzić szybciej w początkowej fazie terapii hormonalnej, stąd osoby, którym zależy na szybkości zmian mogą celować w wyższe dawkowanie.[^9] Z drugiej strony wyższe poziomy wiążą się ze zwiększeniem ryzyka i natężenia efektów ubocznych, stąd przy długotrwałej terapii hormonalnej zalecane jest ich obniżenie. Wykroczenie poza górną granicę fizjologicznego poziomu męskiego jest stanowczo odradzane: poza problemami zdrowotnymi paradoksalnie może doprowadzić to do mniejszej maskulinizacji ciała, bo nadmiarowy testosteron będzie metabolizowany w komórkach ciała w estradiol. 
 
@@ -199,17 +198,17 @@ U części osób mogą pojawiać się bolesne skurcze mięśni w obszarze podbrz
 
 #### Pozostałe efekty uboczne
 
-Testosteron może zwiększać ciśnienie krwi, co u niektórych osób może wywołać nadciśnienie.[^17] Regularne monitorowanie ciśnienia krwi jest zalecane, szczególnie u osób, u których występują czynniki ryzyka (mało aktywny tryb życia, nadwaga lub otyłość, palenie papierosów, wiek 40+).
+Testosteron **może zwiększać ciśnienie krwi**, co u niektórych osób może wywołać nadciśnienie.[^17] Regularne monitorowanie ciśnienia krwi jest zalecane, szczególnie u osób, u których występują czynniki ryzyka (mało aktywny tryb życia, nadwaga lub otyłość, palenie papierosów, wiek 40+).
 
-Zespół policystycznych jajników nie jest przeciwwskazaniem dla maskulinizującej terapii hormonalnej,[^18] ale może wymagać dodatkowych konsultacji z endokrynologiem i ginekologiem.
+**Zespół policystycznych jajników** nie jest przeciwwskazaniem dla maskulinizującej terapii hormonalnej,[^18] ale może wymagać dodatkowych konsultacji z endokrynologiem i ginekologiem.
 
-U osób z chorobami autoimmunologicznymi maskulinizująca terapia hormonalna może spowodować zmniejszenie natężenia objawów.
+U osób z **chorobami autoimmunologicznymi** maskulinizująca terapia hormonalna może spowodować zmniejszenie natężenia objawów.
 
-W czasie pierwszych paru miesięcy używania testosteronu wiele osób odczuwa większe niż zwykle zatrzymanie wody w organizmie.[^19] Najbardziej widocznym efektem jest opuchnięcie twarzy i innych części ciała oraz uczucie ociężałości. Efekt ten będzie odczuwalny mocniej przy wyższych poziomach testosteronu. Ćwiczenia oraz zredukowanie ilości soli w diecie może przyśpieszyć pozbywanie się dodatkowej wody. Jeśli zwiększona retencja wody jest bardzo uciążliwa lub utrzymuje się dłużej niż parę miesięcy zalecana jest konsultacja z lekarzem i zastosowanie diuretyków.
+W czasie pierwszych paru miesięcy używania testosteronu wiele osób odczuwa większe niż zwykle **zatrzymanie wody w organizmie.**[^19] Najbardziej widocznym efektem jest opuchnięcie twarzy i innych części ciała oraz uczucie ociężałości. Efekt ten będzie odczuwalny mocniej przy wyższych poziomach testosteronu. Ćwiczenia oraz zredukowanie ilości soli w diecie może przyśpieszyć pozbywanie się dodatkowej wody. Jeśli zwiększona retencja wody jest bardzo uciążliwa lub utrzymuje się dłużej niż parę miesięcy zalecana jest konsultacja z lekarzem i zastosowanie diuretyków.
 
-Maskulinizująca terapia hormonalna nie wpływa na ryzyko wystąpienia zakrzepicy,[^20] ani nie ma negatywnego wpływu na wątrobę.[^21] Dane dotyczące uszkodzeń wątroby powiązanych z testosteronem dotyczą wyłącznie metylotestosteronu, formy tego hormonu, która nie jest obecnie używana w terapii hormonalnej.
+Maskulinizująca terapia hormonalna **nie wpływa na ryzyko wystąpienia zakrzepicy,[^20] ani nie ma negatywnego wpływu na wątrobę.[^21]** Dane dotyczące uszkodzeń wątroby powiązanych z testosteronem dotyczą wyłącznie metylotestosteronu, formy tego hormonu, która nie jest obecnie używana w terapii hormonalnej.
 
-Dane dotyczące ryzyka chorób układu krążenia są niekonkluzywne: część badań pokazuje wzrost ryzyka,[^22] część nie.[^23] W przypadku osób osób, u których występują czynniki ryzyka (nadwaga lub otyłość, wiek 40+, mało aktywny tryb życia, palenie papierosów) wskazane jest monitorowanie profilu lipidów we krwi oraz regularne wizyty kontrolne.
+Dane dotyczące ryzyka chorób układu krążenia są niekonkluzywne: część badań pokazuje wzrost ryzyka względem cis mężczyzn,[^22] część nie.[^23] W przypadku osób osób, u których występują czynniki ryzyka (nadwaga lub otyłość, wiek 40+, mało aktywny tryb życia, palenie papierosów) wskazane jest monitorowanie profilu lipidów we krwi oraz regularne wizyty kontrolne.
 
 ## Formy podawania testosteronu
 
@@ -225,11 +224,11 @@ Testosteron w lekach nie występuje samodzielnie, ale w związku z estrami. Od d
 
 - Testosteronum Prolongatum, potocznie prolka (enantan testosteronu): 100mg na ampułkę testosteronu raz na 1-2 tygodnie
 - Omnadren 250 (mieszanina 4 różnych estrów): 250mg na ampułkę raz na 2-4 tygodnie
-- Nebido (undecylan testosteronu): 1000mg na ampułkę raz na 10-14 tygodni (wyjątkiem jest drugi zastrzyk 6 tygodni od pierwszego), znacznie droższy od pozostałych
+- Nebido (undecylan testosteronu):  1000mg na ampułkę raz na 10-14 tygodni (wyjątkiem jest drugi zastrzyk 6 tygodni od pierwszego), znacznie droższy od pozostałych
 
 Podawane dawkowanie jest orientacyjne. W zależności od uzyskiwanych poziomów testosteronu dane preparaty mogą być stosowane częściej lub rzadziej. 
 
-Zastrzyki domięśniowe wykonuje się w pośladek lub w udo. Zastrzyki można wykonywać samodzielnie lub z pomocą pielęgniarza, w takim przypadku konieczne będzie zlecenie od lekarza na wykonywanie zastrzyku. Zastrzyki przy użyciu Nebido powinny zawsze być wykonywane przez przeszkoloną osobę z racji 4 razy większej ilości leku. Niepoprawne czy zbyt szybkie podanie tak dużej dawki może wiązać się z rozerwaniem mięśnia lub innymi efektami ubocznymi. 
+Zastrzyki domięśniowe wykonuje się w udo. Zastrzyki można wykonywać [samodzielnie](https://tranzycja.pl/krok-po-kroku/jak-zrobic-zastrzyk/) lub z pomocą pielęgniarza, w takim przypadku konieczne będzie zlecenie od lekarza na wykonywanie zastrzyku. Zastrzyki przy użyciu Nebido powinny zawsze być wykonywane przez przeszkoloną osobę z racji 4 razy większej ilości leku. Niepoprawne czy zbyt szybkie podanie tak dużej dawki może wiązać się z rozerwaniem mięśnia lub innymi efektami ubocznymi. 
 
 Preparaty domięśniowe cechują się niestabilnością poziomu testosteronu we krwi — bezpośrednio po podaniu będzie on znacznie wyższy niż tuż przed następnym zastrzykiem. Z trzech podanych preparatów w największym stopniu dotyczy to Omnadrenu 250, gdyż zawiera on 4 estry testosteronu o różnym okresie uwalniania się do krwi. Umożliwia to rzadsze stosowanie, ale jednocześnie sprawia, że skok testosteronu bezpośrednio po zastrzyku jest większy niż w przypadku innych preparatów.[^25] Większą stabilność poziomu testosteronu można uzyskać robiąc zastrzyki częściej lub używając preparatów o bardzo długim czasie przenikania do krwi. Bardziej stabilne poziomy testosteronu przekładają się na mniejszą liczbę skutków ubocznych, takich jak wahania nastroju na parę dni przed zastrzykiem, intensywny trądzik, nadkrwistość, czy problemy z zatrzymaniem menstruacji. Jeśli którekolwiek z wymienionych problemów doskwierają Ci w znaczący sposób, warto skonsultować z endokrynologiem przejście na bardziej stabilną formę podawania.
 
@@ -237,11 +236,11 @@ Z racji wahań poziomu testosteronu badania krwi powinny być zawsze wykonywane 
 
 Omnadren 250 oraz Testosteronum Prolangatum zawierają przetworzony olej arachidowy. Istniejące badania nie wskazują na to, by stanowił on zagrożenie dla osób z alergią na orzeszki ziemne, gdyż przetworzony olej jest znacznie mniej uczulający niż ten spotykany w orzeszkach.[^26][^27] Niemniej jednak, w przypadku wystąpienia reakcji skórnych w miejscu zastrzyku warto skonsultować tę kwestię z endokrynologiem.
 
-Przy wieloletnim korzystaniu z zastrzyków domięśniowych może pojawić się ryzyko zrostów i zwłóknień. W celu zminimalizowania tego ryzyka zaleca się regularnie zmieniać miejsce zastrzyku (np. lewy-prawy pośladek) oraz rozmasowywać miejsca zastrzyku bezpośrednio po iniekcji. Ryzyko to nadal będzie występować, stąd przy długotrwałej terapii może być konieczne przejście na inną formę podawania testosteronu. 
+Przy wieloletnim korzystaniu z zastrzyków domięśniowych może pojawić się ryzyko zrostów i zwłóknień. W celu zminimalizowania tego ryzyka zaleca się regularnie zmieniać miejsce zastrzyku  oraz rozmasowywać miejsca zastrzyku bezpośrednio po iniekcji. Ryzyko to nadal będzie występować, stąd przy długotrwałej terapii może być konieczne przejście na inną formę podawania testosteronu. 
 
 ### Testosteron w formie podskórnej
 
-Dawkowanie: 50 - 150 mg testosteronu na tydzień.
+**Dawkowanie:** 50 - 150 mg testosteronu na tydzień.
 
 Teoretycznie preparaty podskórne nie są dostępne w Polsce, gdyż zalecenia producenta nie przewidują takiej drogi podawania przy żadnym z opisywanych tu leków. Z tego względu endokrynolodzy rzadko kiedy będą wspominać o tej możliwości. **W praktyce wszystkie dostępne w Polsce preparaty domięśniowe mogą być również stosowane podskórnie.** Szczególnie dotyczy to Testosteronum Prolongatum z racji występowania w preparatach 100 mg, których dawkowanie łatwiej dostosować do wytycznych - przy zastrzykach podskórnych stosuje się mniejsze dawki niż przy zastrzykach domięśniowych. Taka metoda podawania testosteronu jest efektywna i bezpieczna.[^28][^29][^30] 
 
@@ -253,11 +252,12 @@ Do efektów ubocznych należy swędzenie, zaczerwienie i obrzęk w miejscu zastr
 
 ### Testosteron w formie przezskórnej 
 
-Dawkowanie: 50-100 mg żelu dziennie
+**Dawkowanie:** 50-100 mg żelu dziennie
 
 Żel dostępny jest w formie pompki dozującej (handlowa nazwa Androtop lub Testavan), kiedyś sprzedawane szaszetki z żelem (handlowa nazwa Testim) nie są już dostępne w Polsce. Powinien być rozprowadzony na skórze barku i ramion, nie należy stosować go w miejscach takich jak genitalia, twarz, czy piersi. Z racji codziennego podawania wiąże się z najstabilniejszymi poziomami testosteronu we krwi ze wszystkich metod podawania.
 
 Żel wysycha w ciągu paru minut i w takiej formie powinien być pozostawiony na skórze do 6  godzin — stąd producenci zalecają stosowanie go rano, po prysznicu. Jeśli wymaga tego sytuacja, czasami można pozwolić sobie na zmycie żelu wcześniej, powinien on jednak pozostać na skórze na co najmniej 2 godziny. Regularne wcześniejsze zmywanie żelu może wiązać się z ryzykiem obniżonego poziomu testosteronu.
+
 
 :::danger
 **UWAGA:** Stosowanie żelu jest związane z ryzykiem przypadkowego przekazania żelu na drugą osobę, co może skończyć się dla niej przykrymi i niepożądanymi efektami, szczególnie w przypadku kobiet i dzieci. Z tego względu przy stosowaniu żelu konieczna jest duża doza ostrożności: 
@@ -275,16 +275,16 @@ Do efektów ubocznych żelu należy trądzik, podrażenienie i wysuszenie w miej
 
 
 :::spoiler Tabelka z porównaniem kosztu poszczególnych metod
-| Droga podania | Handlowa nazwa | Opakowanie zawiera | Typowe dawkowanie^a^ | Opakowanie starcza na | Koszt opakowania^b^ | Koszt na miesiąc |
+| Droga podania | Handlowa nazwa | Opakowanie zawiera | Typowe dawkowanie¹ | Opakowanie starcza na | Koszt opakowania² | Koszt na miesiąc |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Domięśniowo/podskórnie | Testosteronum Prolongatum Jelfa | 5 ampułek 100mg | 1 zastrzyk co 10 dni | 50 dni |  59,31zł  | 35,60 zł|
 |  | Omnadren 250 | 5 ampułek 250 mg | 1 zastrzyk co 21 dni  | 105 dni |  88,14 zł | 23,50 zł|
-| | Nebido | 1 ampułka 1000mg | 1 zastrzyk co 90 dni | 90 dni | ok. 400-500zł^c^ | ok. 133-166 zł| 
+| | Nebido | 1 ampułka 1000mg | 1 zastrzyk co 90 dni | 90 dni | ok. 400-500zł³ | ok. 133-166 zł| 
 | Przezskórnie | Androtop | 60 dawek x 20,25mg | 3 dawki raz dziennie | 20 dni |  248 zł  | 330 zł| 
 
-^a^ Typowe dawkowanie zakłada najczęściej spotykaną dawkę leku. 
-^b^ Ceny opakowań zaczerpnięte z bazy leków [mp.pl](https://www.mp.pl/pacjent/leki/). W rzeczywistości ceny w aptekach mogą być wyższe o kilkanaście złoty. Stan na 1 listopada 2021 r.
-^c^ Ceny Nebido ulegają dużym wahaniom w zależności od apteki.
+¹Typowe dawkowanie zakłada najczęściej spotykaną dawkę leku.  
+²Ceny opakowań zaczerpnięte z bazy leków [mp.pl](https://www.mp.pl/pacjent/leki/). W rzeczywistości ceny w aptekach mogą być wyższe o kilkanaście złoty. Stan na 1 listopada 2021 r.  
+³Ceny Nebido ulegają dużym wahaniom w zależności od apteki.
 :::
 
 ### Inne leki
@@ -293,9 +293,9 @@ Poza testosteronem maskulinizująca terapia hormonalna może obejmować równie�
 
 U osób, u których menstruacja utrzymuje się dłużej niż 6-12 miesięcy po rozpoczęciu testosteronu, konieczna będzie konsultacja ginekologiczna w celu zidentyfikowania źródła problemu. U niektórych osób konieczne może być włączenie progestynów do terapii hormonalnej, co poza zatrzymaniem menstruacji będzie miało również funkcję antykoncepcyjną. Efektem ubocznym progestynów jest zwiększenie ryzyka zakrzepicy, stąd wskazane jest minimalizowanie innych czynników ryzyka (nadwaga lub otyłość, palenie papierosów, mało aktywny tryb życia). U osób, które nie planują zachodzić w ciążę, a które nie dążą również do pełnej histerektomii dobrym rozwiązaniem może być też ablacja endometrium, operacja polegająca na usunięciu błony śluzowej macicy. 
 
-Leki z grupy inhibitorów 5alfa-reduktazy (finasteryd, diutasteryd) zostały omówione w innej sekcji artykułu. Część lekarzy stosuje je jako rutynową część terapii hormonalnej, co jest odradzane. Powinny być one używane wyłącznie w celu ograniczenia łysienia androgonowego, po uprzedniej konsultacji z pacjentem co do efektów ubocznych.
+Leki z grupy inhibitorów 5alfa-reduktazy (**finasteryd, dutasteryd**) zostały omówione w innej sekcji artykułu. Część lekarzy stosuje je jako rutynową część terapii hormonalnej, co jest odradzane. Powinny być one używane wyłącznie w celu ograniczenia łysienia androgonowego, po uprzedniej konsultacji z pacjentem co do efektów ubocznych.
 
-Zdecydowanie odradza się używania danazolu, androgenu nadal przepisywanego przez niektórych lekarzy w celu zatrzymania menstruacji. Danazol jest związany z podwyższonym ryzykiem uszkodzeń wątroby[^32] oraz zakrzepów krwi.[^33]
+Zdecydowanie odradza się używania **danazolu**, androgenu nadal przepisywanego przez niektórych lekarzy w celu zatrzymania menstruacji. Danazol jest związany z podwyższonym ryzykiem uszkodzeń wątroby[^32] oraz zakrzepów krwi.[^33]
 
 
 ## Alternatywne formy maskulinizującej terapii hormonalnej
