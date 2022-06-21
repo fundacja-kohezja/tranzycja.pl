@@ -1,12 +1,12 @@
 <?php
 
-use App\Listeners\FixListsSeparation;
 use App\Listeners\PrependFrontmatter;
 use App\Listeners\GenerateSitemap;
 use App\Listeners\RestoreSourceFiles;
 use App\Listeners\BuildTOC;
-use App\Listeners\ContentPostProcess;
 use App\Listeners\RedirectsFile;
+use App\CustomMarkdownParser;
+use Mni\FrontYAML\Markdown\MarkdownParser;
 
 /** @var $container \Illuminate\Container\Container */
 /** @var $events \TightenCo\Jigsaw\Events\EventBus */
@@ -22,13 +22,12 @@ use App\Listeners\RedirectsFile;
  * });
  * 
  */
+$container->bind(MarkdownParser::class, CustomMarkdownParser::class);
 
-$events->beforeBuild(FixListsSeparation::class);
 $events->beforeBuild(PrependFrontmatter::class);
 
 $events->afterBuild(GenerateSitemap::class);
 $events->afterBuild(RestoreSourceFiles::class);
-$events->afterBuild(ContentPostProcess::class);
 $events->afterBuild(BuildTOC::class);
 $events->afterBuild(RedirectsFile::class);
 
