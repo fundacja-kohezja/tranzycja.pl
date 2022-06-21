@@ -21,7 +21,9 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      - uses: php-actions/composer@v5
+      - uses: php-actions/composer@v6
+        with:
+          php_version: '7.4'
 
       - uses: nanasess/setup-php@master
         with:
