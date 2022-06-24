@@ -108,6 +108,9 @@ details {
         @apply .p-0;
         background-color: transparent!important;
         @apply .overflow-visible;
+        > div {
+            @apply .pt-6;
+        }
     }
     summary {
         @apply .leading-tight;
@@ -362,6 +365,7 @@ mark {
 .ratio-iframe {
     position: relative;
     width: 100%;
+    margin: 1em 0;
     iframe {
         position: absolute;
         top: 0;

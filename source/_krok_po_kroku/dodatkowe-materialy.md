@@ -25,8 +25,6 @@ Fundacja Trans-Fuzja 2019, [Źródło](http://transfuzja.org/pl/artykuly/publika
 
 :::
 
-:::
-
 :::spoiler O rety! Cishety!
 
 Odpowiedzi na pytania, na które nie masz już siły odpowiadać.
@@ -137,7 +135,7 @@ Fundacja Trans-Fuzja, 2016
 
 ## Uczelnia
 
-:::spoiler Tworzenie szkoły wyższej przyjaznej studiującym osobom trans\*
+:::spoiler Tworzenie szkoły wyższej przyjaznej studiującym osobom trans*
 
 Trzy poradniki: dla administracji uczelnianej, dla uczelni wyższych, dla studiujących osób trans\*
 Queer UW, 2019 [Źródło](http://queer.uw.edu.pl/2019/09/trzy-poradniki-dotyczace-osob-trans-na-uczelniach-sa-juz-dostepne-za-darmo-dla-kazdego/)
