@@ -1,7 +1,6 @@
 ---
-tags: publikacje, dag&nina
+data: '2022-06-24 07:30:36'
 ---
-
 # Tranzycja na żądanie, czyli model świadomej zgody.
 
 Granice naszej wyobraźni są granicami naszego działania. By osiągnąć progres, musimy odważyć się marzyć o lepszym świecie dla osób trans.
