@@ -1,5 +1,5 @@
 ---
-data: '2021-10-09 23:08:50'
+date: '2021-10-09 23:08:50'
 ---
 # Eli Kappo: rzecz wyjęta z cis horroru
 

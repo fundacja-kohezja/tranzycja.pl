@@ -1,5 +1,5 @@
 ---
-data: '2021-02-01 20:51:12'
+date: '2021-02-01 20:51:12'
 tags: opublikowane, publikacje, zalążek testu
 ---
 # Transpłciowość w rodzinie

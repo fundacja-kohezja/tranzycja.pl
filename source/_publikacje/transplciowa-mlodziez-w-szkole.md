@@ -1,7 +1,6 @@
 ---
-data: '2021-01-27 10:32:37'
+date: '2021-01-27 10:32:37'
 ---
-
 # Transpłciowa młodzież w szkole
 
 Ten wpis jest w dużym stopniu kierowany dla nauczycieli, ale nie tylko. Znajdziesz w nim informacje na temat potrzeb transpłciowej młodzieży w szkole, trudnych sytuacji z jakimi się zmaga, ale przykłady rozwiązań i podpowiedzi. W zależności od preferencji, możesz zapoznać się tutaj z tekstowym podsumowaniem, załączonymi materiałami wideo, a nawet znaleźć gotowe poradniki do zapoznania się czy wydrukowania i zaniesienia do szkoły.

@@ -1,7 +1,6 @@
 ---
-data: '2022-05-22 15:00:00'
+date: '2022-05-22 15:00:00'
 ---
-
 # Poradnik dla osób transpłciowych z Ukrainy
 
 :::info

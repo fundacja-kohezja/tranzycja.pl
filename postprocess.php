@@ -2,30 +2,47 @@
 
 require_once __DIR__ . '/vendor/autoload.php';
 
+use Illuminate\Container\Container;
 use Illuminate\Support\Facades\Date;
+use Symfony\Component\Yaml\Yaml;
 use TightenCo\Jigsaw\File\Filesystem;
+use TightenCo\Jigsaw\Parsers\FrontMatterParser;
 
-$files = array_merge(
-    (new Filesystem)->files(__DIR__ . '/source/_aktualnosci'),
-    (new Filesystem)->files(__DIR__ . '/source/_publikacje'),
-    (new Filesystem)->files(__DIR__ . '/source/_publications')
-);
+
+/* 
+ * This file is meant to be called by GitHub Actions.
+ * 
+ * Its purpose is to automatically fill missing dates of publication in articles
+ * so authors don't need to do it manually each time they write new article.
+ * 
+ */
+
+$foldersToProcess = ['_aktualnosci', '_publikacje', '_publications'];
+
+$c = new Container;
+$parser = $c[FrontMatterParser::class];
+
+$fs = new Filesystem;
+
+$files = [];
+foreach ($foldersToProcess as $folder) {
+    $files = array_merge($files, $fs->files(__DIR__ . '/source/' . $folder));
+}
 
 foreach ($files as $file) {
-    $parser = new Mni\FrontYAML\Parser();
 
-    $document = $parser->parse((new Filesystem)->get($file), false);
+    $file_contents = $fs->get($file);
 
-    $yaml = $document->getYAML();
-    if (!isset($yaml['data']) || strlen($yaml['data']) !== 19) {
+    $yaml = $parser->getFrontMatter($file_contents);
 
-        $new_content = 
-'---
-data: \'' . Date::now() . '\'
----
-' . $document->getContent();
+    $rest = $parser->getContent($file_contents);
 
-        (new Filesystem)->putWithDirectories($file, $new_content);
+    if (!isset($yaml['date']) || !$yaml['date']) {
+
+        $yaml['date'] = (string)Date::now();
+
+        $new_content = '---' . PHP_EOL . Yaml::dump($yaml) . '---' . PHP_EOL . $rest;
+        $fs->putWithDirectories($file, $new_content);
     }
     
 }

@@ -1,5 +1,5 @@
 ---
-data: '2021-09-06 21:12:26'
+date: '2021-09-06 21:12:26'
 tags: dag&nina, opublikowane, publikacje, posty
 ---
 # „Teraz myślisz, że jesteś trans, a potem ci się odwidzi". Detranzycja i żal pooperacyjny.

@@ -1,5 +1,5 @@
 ---
-data: '2021-03-29 15:49:00'
+date: '2021-03-29 15:49:00'
 ---
 # Zalecenia PTS dotyczące opieki nad zdrowiem dorosłych osób transpłciowych
 

@@ -1,5 +1,5 @@
 ---
-data: '2022-06-24 07:30:36'
+date: '2022-06-24 07:30:36'
 ---
 # Tranzycja na żądanie, czyli model świadomej zgody.
 

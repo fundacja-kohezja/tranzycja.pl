@@ -1,8 +1,7 @@
 ---
-data: '2021-08-22 17:30:18'
+date: '2021-08-22 17:30:18'
 tags: dag&nina, posty, popraw
 ---
-
 # Czy tranzycja medyczna pomaga osobom transpłciowym? 
 
 Jednym z najstarszych postulatów ruchu walczącego o prawa osób trans jest swobodny i łatwy dostęp do tranzycji medycznej – terapii hormonalnych i zabiegów chirurgicznych mających na celu korektę anatomicznych cech płciowych danej osoby. Gdy w 1970 r. koalicja różnych organizacji osób trans (w tym współtworzonego przez Marshę Johnson i Sylvię Riverę S.T.A.R) opracowała wspólną listę postulatów ruchu, numer trzeci na niej zajmowało właśnie żądanie w pełni refundowanego dostęp do tranzycji na żądanie[^1]. Medyczna tranzycja często spotykała się jednak z daleko idącą nieufnością, podważaniem jej sensowności i stojących za nią uzasadnień. Nadal nierzadko można spotkać głosy twierdzące, że jest ona formą utwierdzania osób trans w ich „zaburzonym poczuciu płci”, która na dłuższą metę musi skończyć się żalem, cierpieniem i dalszymi problemami. **Taka wizja transpłciowości i tranzycji medycznej nie ma jednak żadnego pokrycia w rzeczywistości.**

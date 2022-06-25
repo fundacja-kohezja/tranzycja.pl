@@ -15,27 +15,32 @@ function excerpt(CollectionItem $page, int $words) {
 
 
     $content = $page->getContent();
-
-    /* Markdown spoiler */
-
-    $content = preg_replace('/(<p>:::|:::)\s*spoiler (.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
-    $content = preg_replace('/(<p>:::|:::)\s*spoiler(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
-
-
-    /* Markdown blocks */
-
-    $block_types = ['success', 'info', 'warning', 'danger'];
-    foreach ($block_types as $type) {
-        $content = preg_replace('/(<p>:::|:::)\s*' . $type . '(.*?)(\R|<\/p>\R)([\s\S]*?)(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
+    
+    $content = preg_replace('|<sup[^>]*>(.*)</sup>|siU', '', $content);
+    $found = preg_match('|<p[^>]*>(.*)</p>|siU', $content, $match);
+    if ($found) {
+        if (mb_strlen(strip_tags($match[1])) > $words * 2.5) {
+            /* 
+             * We want the excerpt to end nicely at the end of a sentence
+             * so we get only the fist paragraph...
+             */
+            $content = $match[1];
+        } else {
+            /*
+             * ...unless the first paragraph is very short.
+             * In that case we get the whole text (we'll limit amount of words later anyway)
+             */
+            preg_match_all('|<p[^>]*>(.*)</p>|siU', $content, $matches);
+            $content = implode('<br><br>', $matches[1]);
+        }
     }
 
 
-    /* One ending for nested block */
-
-    $content = preg_replace('/(\R|\R<p>)(:::<\/p>|:::)/u', '', $content);
-    
-    preg_match('|<p[^>]*>(.*)</p>|siU', $content, $matches);
-    return Str::of(strip_tags($matches[1] ?? $content))->words($words) . ' <b class="inline-block">Czytaj dalej →</b>';
+    return Str::of($content)
+            ->stripTags('<br>')
+            ->replace('<br><br><br><br>', '<br><br>')
+            ->words($words)
+            . ' <b class="inline-block">Czytaj dalej →</b>';
 
 }
 
@@ -48,16 +53,15 @@ $pub_config = [
         return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
     },
     'excerpt' => function ($page) {
-        return excerpt($page, 40);
+        return excerpt($page, 30);
     },
     'longerExcerpt' => function ($page) {
-        return excerpt($page, 120);
+        return excerpt($page, 80);
     }
 ];
 
 return (array)$yaml_config + [
     'baseUrl' => 'https://tranzycja.pl',
-    'production' => false,
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
@@ -70,10 +74,11 @@ return (array)$yaml_config + [
                 preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
                 preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
                 return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
-            }
+            },
+            'extends' => '__source.layouts.page'
         ],
-        'publikacje' => $pub_config,
-        'publications' => $pub_config,
+        'publikacje' => $pub_config + ['extends' => '__source.layouts.artl'],
+        'publications' => $pub_config + ['extends' => '__source.layouts.aeng'],
         'krok_po_kroku' => [
             'sort' => 'kolejnosc',
             'title' => function ($page) {
@@ -83,11 +88,13 @@ return (array)$yaml_config + [
                 return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
             },
             'excerpt' => function ($page) {
-                return excerpt($page, 80);
-            }
+                return excerpt($page, 60);
+            },
+            'extends' => '__source.layouts.step'
         ],
         'aktualnosci' => [
-            'sort' => '-data'
+            'sort' => '-data',
+            'extends' => '__source.layouts.post'
         ]
     ],
 
@@ -107,11 +114,7 @@ return (array)$yaml_config + [
         (object)[
             'title' => 'Pytania i odpowiedzi',
             'path' => '/#faq',
-        ],
-        /* (object)[
-            'title' => 'Materiały',
-            'path' => '/materialy',
-        ] */
+        ]
     ],
 
     // helpers

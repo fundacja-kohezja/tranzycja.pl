@@ -1,5 +1,5 @@
 ---
-data: '2021-12-23 23:14:42'
+date: '2021-12-23 23:14:42'
 ---
 # Jak przetrwać terapię konwersyjną?
 
