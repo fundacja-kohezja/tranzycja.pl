@@ -194,4 +194,4 @@ Artykuł jest tłumaczeniem transkrypcji filmiku stworzonego Erica Tannehilla i 
 [^1]: [European Parliament resolution of 11 March 2021 on the declaration of the EU as an LGBTIQ Freedom Zone](https://www.europarl.europa.eu/doceo/document/TA-9-2021-0089_EN.html)
 [^2]: [Report on conversion therapy autorstwa ONZ ds. zwalczania przemocy i dyskryminacji z powodu orientacji seksualnej i tożsamości płciowej]( https://www.ohchr.org/EN/Issues/SexualOrientationGender/Pages/ReportOnConversiontherapy.aspx)
 [^3]: [Stanowisko Polskiego Towarzystwa Seksuologicznego na temat zdrowia osób o orientacji homoseksualnej ](https://pts-seksuologia.pl/sites/strona/59/stanowiskopts-na-temat-zdrowia-osob-o-orientacji-homoseksualnej)
-[^4]:[Sexual Orientation Change Efforts, Adverse Childhood Experiences, and Suicide Ideation and Attempt Among Sexual Minority Adults, United States, 2016-2018](https://pubmed.ncbi.nlm.nih.gov/32437277/)
+[^4]: [Sexual Orientation Change Efforts, Adverse Childhood Experiences, and Suicide Ideation and Attempt Among Sexual Minority Adults, United States, 2016-2018](https://pubmed.ncbi.nlm.nih.gov/32437277/)
