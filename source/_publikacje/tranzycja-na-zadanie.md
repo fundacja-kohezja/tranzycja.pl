@@ -1,5 +1,6 @@
 ---
-date: '2022-06-24 07:30:36'
+opublikowano: '2022-06-24 07:30:36'
+zaktualizowano: '2022-06-24 07:30:36'
 ---
 # Tranzycja na żądanie, czyli model świadomej zgody.
 

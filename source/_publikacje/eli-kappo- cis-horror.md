@@ -1,5 +1,6 @@
 ---
-date: '2021-10-09 23:08:50'
+opublikowano: '2021-10-09 23:08:50'
+zaktualizowano: '2021-10-10 12:00:00'
 ---
 # Eli Kappo: rzecz wyjęta z cis horroru
 

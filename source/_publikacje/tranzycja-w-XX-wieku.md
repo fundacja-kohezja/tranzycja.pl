@@ -1,5 +1,6 @@
 ---
-date: '2021-04-03 14:30:00'
+opublikowano: '2021-04-03 14:30:00'
+zaktualizowano: '2021-04-03 14:30:00'
 ---
 # Tranzycja w latach 80./90. XX wieku
 

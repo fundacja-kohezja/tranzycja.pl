@@ -1,5 +1,6 @@
 ---
-date: '2021-08-02 12:51:40'
+opublikowano: '2021-08-02 12:51:40'
+zaktualizowano: '2021-08-04 12:51:40'
 tags: opublikowane, tranfobia, terf
 ---
 # Ku zaskoczeniu absolutnie nikogo, Gazeta Wyborcza ponownie opublikowała transfobiczny tekst

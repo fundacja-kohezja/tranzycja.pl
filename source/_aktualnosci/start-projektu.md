@@ -1,5 +1,5 @@
 ---
-date: '2021-03-10 10:00:00'
+opublikowano: '2021-03-10 10:00:00'
 ---
 # Z radością i dumą otwieramy projekt tranzycja.pl!
 

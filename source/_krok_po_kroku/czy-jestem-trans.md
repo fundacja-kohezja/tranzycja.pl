@@ -1,8 +1,8 @@
 ---
 kolejnosc: 20
 tags: dag&nina, opublikowane, krok po kroku
+zaktualizowano: '2021-09-12 12:00:00'
 ---
-
 # Jak poznać, że jestem trans?
 
 Dla pewnej części osób trans, transpłciowość jest czymś oczywistym, odczuwanym w jaskrawy sposób od najmłodszych lat życia. Dla wielu innych dojście do swojej transpłciowości jest jednak procesem zajmującym znacznie więcej czasu. Informacje na temat transpłciowości nie są łatwo dostępne, bycie trans jest związane z pewną stygmatyzacją, a odczuwana zewsząd presja społeczna może jeszcze bardziej pogłębiać zamęt w swoim odczuciu płciowości.

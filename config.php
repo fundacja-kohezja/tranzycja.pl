@@ -45,7 +45,7 @@ function excerpt(CollectionItem $page, int $words) {
 }
 
 $pub_config = [
-    'sort' => '-date',
+    'sort' => '-opublikowano',
     'title' => function ($page) {
         $tresc = $page->getContent();
         preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
@@ -93,7 +93,7 @@ return (array)$yaml_config + [
             'extends' => '__source.layouts.step'
         ],
         'aktualnosci' => [
-            'sort' => '-date',
+            'sort' => '-opublikowano',
             'extends' => '__source.layouts.post'
         ]
     ],

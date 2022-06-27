@@ -1,8 +1,8 @@
 ---
 kolejnosc: 40
 tags: dag&nina, opublikowane, krok po kroku, hormony
+zaktualizowano: '2021-10-16 12:00:00'
 ---
-
 # Euforia płciowa
 
 Przypatrując się popularnemu przedstawieniu transpłciowości w mediach, nawet tych przychylnych i tolerancyjnych, trudno nie odnieść wrażenia, że musi to być temat pochmurny i tragiczny, idealny dla fabuły egzystencjalnego dramatu psychologicznego. Seksuolodzy opowiadają o transpłciowości przez pryzmat medycznej kategorii dysforii płciowej i związanych z nią odsetków zaburzeń depresyjnych i lękowych; dziennikarze opisują trudy dyskryminacji i odrzucenia, a kasowe hollywoodzkie filmy prześcigają się w męczeniu swoich transpłciowych bohaterów do tego stopnia, że na ich cześć powstało nawet określenie „trauma porn”. 

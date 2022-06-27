@@ -1,8 +1,8 @@
 ---
 kolejnosc: 91
 tags: dag&nina, opublikowane, krok po kroku
+zaktualizowano: '2022-03-31 12:00:00'
 ---
-
 # Jak zmienić oznaczenie płci w dokumentach? Poradnik do sądu
 
 W Polsce zmiana oznaczenia płci w dokumentach jest możliwa wyłącznie poprzez proces cywilny o ustalenie płci, w którym pozywa się swoich rodziców. Z tego artykułu dowiesz się co powinien zawierać pozew, jak może wyglądać sam proces i z jakimi potencjalnymi kłopotami możesz się zmierzyć w jego trakcie.

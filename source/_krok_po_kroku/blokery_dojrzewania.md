@@ -1,8 +1,8 @@
 ---
 kolejnosc: 70
 tags: dag&nina, poprawki, opublikowane, krok po kroku, hormony
+zaktualizowano: '2022-05-25 12:00:00'
 ---
-
 # Blokery dojrzewania 
 
 Blokery dojrzewania to rodzaj całkowicie odwracalnej formy leczenia, która tymczasowo powstrzymuje dojrzewanie organizmu. Przepisuje się je po diagnozie psychiatrycznej, która potwierdzi występowanie dysforii płciowej u danego nastolatka. Są to leki obniżające poziom hormonów płciowych, najczęściej z grupy agonistów GnRH.

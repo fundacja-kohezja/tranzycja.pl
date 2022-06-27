@@ -1,8 +1,8 @@
 ---
 kolejnosc: 92
 tags: krok po kroku, dag&nina, opublikowane
+zaktualizowano: '2022-05-16 12:00:00'
 ---
-
 # Następstwa przerwania terapii hormonalnej
 
 Większość osób transpłciowych pozostaje na terapii hormonalnej do końca życia, ale są od tego wyjątki. Terapię hormonalną przerywają:

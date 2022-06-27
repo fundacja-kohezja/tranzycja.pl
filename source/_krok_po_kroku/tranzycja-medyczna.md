@@ -1,8 +1,8 @@
 ---
 kolejnosc: 50
 tags: dag&nina, krok po kroku
+zaktualizowano: '2022-04-01 12:00:00'
 ---
-
 # Jak rozpocząć tranzycję medyczną? Proces diagnostyczny
 
 Wiele z działań mogących wchodzić w zakres tranzycji można podjąć samodzielnie (część z nich omawialiśmy w [poprzednich](https://tranzycja.pl/krok-po-kroku/czy-jestem-trans/) [artykułach](https://tranzycja.pl/krok-po-kroku/dysforia-plciowa/)). Uzyskanie dostępu do interwencji medycznych wymaga jednak przejścia przez proces diagnostyczny. W tym tekście znajdziesz podstawowe informacje, które ułatwią Ci jego rozpoczęcie i pozwolą zorientować się w dosyć zagmatwanej sytuacji, w jakiej znajdują się osoby trans w obrębie polskiej służby zdrowia.

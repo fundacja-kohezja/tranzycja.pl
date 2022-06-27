@@ -1,5 +1,6 @@
 ---
-date: '2021-12-23 23:14:42'
+opublikowano: '2021-12-23 23:14:42'
+zaktualizowano: '2021-12-24 12:00:00'
 ---
 # Jak przetrwać terapię konwersyjną?
 

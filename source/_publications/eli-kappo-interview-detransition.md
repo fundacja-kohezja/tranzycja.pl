@@ -1,5 +1,6 @@
 ---
-date: '2021-10-16 19:09:13'
+opublikowano: '2021-10-16 19:09:13'
+zaktualizowano: '2021-10-19 12:00:00'
 ---
 # Detransition: I wouldn't like to have it any other way.
 

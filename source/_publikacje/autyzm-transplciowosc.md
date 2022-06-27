@@ -1,5 +1,6 @@
 ---
-date: '2022-04-30 19:00:00'
+opublikowano: '2022-04-30 19:00:00'
+zaktualizowano: '2022-05-31 12:00:00'
 tags: publikacje, dag&nina, opublikowane
 ---
 # Spektrum autyzmu a transpłciowość

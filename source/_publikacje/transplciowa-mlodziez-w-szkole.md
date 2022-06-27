@@ -1,5 +1,6 @@
 ---
-date: '2021-01-27 10:32:37'
+opublikowano: '2021-01-27 10:32:37'
+zaktualizowano: '2021-03-11 12:00:00'
 ---
 # Transpłciowa młodzież w szkole
 

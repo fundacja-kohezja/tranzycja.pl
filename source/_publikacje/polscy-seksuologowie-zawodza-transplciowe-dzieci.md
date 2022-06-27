@@ -1,5 +1,6 @@
 ---
-date: '2022-05-30 16:00:00'
+opublikowano: '2022-05-30 16:00:00'
+zaktualizowano: '2022-06-01 16:00:00'
 tags: publikacje, dag&nina
 ---
 # Polscy seksuologowie zawodzą transpłciowe dzieci — krytyka kompendium „Dysforia i niezgodność płciowa"
