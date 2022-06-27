@@ -1,8 +1,8 @@
 ---
 kolejnosc: 61
 tags: krok po kroku, opublikowane, dag&nina
+zaktualizowano: '2022-05-29 12:00:00'
 ---
-
 # Maskulinizująca terapia hormonalna
 
 Terapia hormonalna jest jedną z najczęściej stosowanych interwencji medycznych mających zmniejszyć dysforię płciową. Przez zmianę poziomu hormonów płciowych doprowadza ona z czasem do zmian w obrębie cech płciowych naszego ciała. Z tego artykułu dowiesz się wszystkich podstawowych informacji na temat tego, jak maskulinizująca terapia hormonalna wygląda w praktyce.

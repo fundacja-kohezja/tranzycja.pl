@@ -1,5 +1,6 @@
 ---
-data: '2021-03-16 12:00:00'
+opublikowano: '2021-03-16 12:00:00'
+zaktualizowano: '2021-03-27 12:00:00'
 ---
 # Niebinarność
 

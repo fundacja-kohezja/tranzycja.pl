@@ -1,5 +1,5 @@
 ---
-data: '2021-04-01 13:32:48'
+opublikowano: '2021-04-01 13:32:48'
 ---
 # Spis powszechny
 

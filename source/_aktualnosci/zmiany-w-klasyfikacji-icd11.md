@@ -1,5 +1,5 @@
 ---
-data: '2022-01-05 15:48:38'
+opublikowano: '2022-01-05 15:48:38'
 ---
 # Co oznaczają zmiany w klasyfikowaniu transpłciowości w ICD-11?
 

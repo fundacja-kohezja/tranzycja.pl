@@ -1,5 +1,6 @@
 ---
-data: '2022-02-02 14:36:23'
+opublikowano: '2022-02-02 14:36:23'
+zaktualizowano: '2022-02-02 14:36:23'
 ---
 # Prawo inkluzywności, praktyki wykluczania - raport eksperta ONZ nt. sytuacji osób transpłciowych
 

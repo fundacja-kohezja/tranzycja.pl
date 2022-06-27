@@ -1,8 +1,8 @@
 ---
-data: '2022-05-30 16:00:00'
+opublikowano: '2022-05-30 16:00:00'
+zaktualizowano: '2022-06-01 16:00:00'
 tags: publikacje, dag&nina
 ---
-
 # Polscy seksuologowie zawodzą transpłciowe dzieci — krytyka kompendium „Dysforia i niezgodność płciowa"
 
 Wiele osób śledzących najnowsze doniesienia dotyczące transpłciowości słyszały o opublikowanym w zeszłym tygodniu badaniu, które pokazało trwałość transpłciowej tożsamości wśród dzieci przed okresem dojrzewania.[^1] Spośród 317 transpłciowych dzieci, których losy badacze śledzili przez aż 5 lat, jedynie 2,5% przeszło przez detranzycję. Kolejne 3,5% określało się jako niebinarne, 1,3% przeszło retranzycję (przez pewien czas określało się w odmienny sposób, ale wróciło do swojej pierwotnej trans-tożsamości), **a pozostałe przytłaczające 94% nie doświadczyło żadnych zmian w swojej tożsamości**. Jest to drugie badanie z ostatnich kilku miesięcy pokazujące dokładnie to samo zjawisko. Podobną skalę detranzycji stwierdzono w badaniu katalońskiej kliniki - przez 18 lat jedynie 2,4% przyjętych w niej transpłciowych dzieci z czasem przestało się tak określać.[^2]
