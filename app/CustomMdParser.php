@@ -8,7 +8,7 @@ use Kaoken\MarkdownIt\MarkdownIt;
 use Kaoken\MarkdownIt\Plugins\{MarkdownItMark as Mark, MarkdownItEmoji as Emoji, MarkdownItSup as Superscript};
 use Mni\FrontYAML\Markdown\MarkdownParser;
 
-class CustomMarkdownParser implements MarkdownParser {
+class CustomMdParser implements MarkdownParser {
 
     protected $content;
 
