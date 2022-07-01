@@ -6,13 +6,21 @@ use TightenCo\Jigsaw\Collection\CollectionItem;
 Jenssegers\Date\Date::setLocale('pl_PL');
 
 $parser = new Mni\FrontYAML\Parser();
-
 $document = $parser->parse(file_get_contents(__DIR__ . '/source/_ogolne/konfiguracja.yml'), false);
-
 $yaml_config = $document->getYAML();
 
-function excerpt(CollectionItem $page, int $words) {
+$title = function ($page) {
+    $tresc = $page->getContent();
+    preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
+    preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
+    return isset($matches[1])
+        ? strip_tags(html_entity_decode($matches[1]))
+        : Str::of(html_entity_decode($matches2[1] ?? $tresc))
+            ->stripTags()
+            ->limit(30);
+};
 
+$excerpt = function(CollectionItem $page, int $words) {
 
     $content = $page->getContent();
     
@@ -42,22 +50,13 @@ function excerpt(CollectionItem $page, int $words) {
             ->words($words)
             . ' <b class="inline-block">Czytaj dalej →</b>';
 
-}
+};
 
 $pub_config = [
     'sort' => '-opublikowano',
-    'title' => function ($page) {
-        $tresc = $page->getContent();
-        preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
-        preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
-        return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
-    },
-    'excerpt' => function ($page) {
-        return excerpt($page, 30);
-    },
-    'longerExcerpt' => function ($page) {
-        return excerpt($page, 80);
-    }
+    'excerpt' => fn($page) => $excerpt($page, 30),
+    'longerExcerpt' => fn($page) => $excerpt($page, 80),
+    'title' => $title
 ];
 
 return (array)$yaml_config + [
@@ -69,31 +68,20 @@ return (array)$yaml_config + [
 
     'collections' => [
         'strony' => [
-            'title' => function ($page) {
-                $tresc = $page->getContent();
-                preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
-                preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
-                return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
-            },
+            'title' => $title,
             'extends' => '__source.layouts.page'
         ],
         'publikacje' => $pub_config + ['extends' => '__source.layouts.artl'],
         'publications' => $pub_config + ['extends' => '__source.layouts.aeng'],
         'krok_po_kroku' => [
             'sort' => 'kolejnosc',
-            'title' => function ($page) {
-                $tresc = $page->getContent();
-                preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
-                preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
-                return $matches[1] ?? (isset($matches2[1]) ? Str::of($matches2[1])->limit(30) : Str::of(strip_tags($tresc))->limit(30));
-            },
-            'excerpt' => function ($page) {
-                return excerpt($page, 60);
-            },
+            'title' => $title,
+            'excerpt' => fn($page) => $excerpt($page, 60),
             'extends' => '__source.layouts.step'
         ],
         'aktualnosci' => [
             'sort' => '-opublikowano',
+            'title' => $title,
             'extends' => '__source.layouts.post'
         ]
     ],

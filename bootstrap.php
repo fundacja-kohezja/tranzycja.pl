@@ -1,8 +1,9 @@
 <?php
 
-use App\Listeners\{GenerateSitemap, BuildTOC, RedirectsFile};
-use App\CustomMarkdownParser;
+use App\Listeners\{GenerateSitemap, RedirectsFile};
+use App\{CustomMdParser, CustomMdHandler};
 use Mni\FrontYAML\Markdown\MarkdownParser;
+use TightenCo\Jigsaw\Handlers\MarkdownHandler;
 
 /** @var $container \Illuminate\Container\Container */
 /** @var $events \TightenCo\Jigsaw\Events\EventBus */
@@ -14,18 +15,26 @@ use Mni\FrontYAML\Markdown\MarkdownParser;
  * to parse markdown and does some extra processing as well.
  * 
  */
-$container->bind(MarkdownParser::class, CustomMarkdownParser::class);
+$container->bind(MarkdownParser::class, CustomMdParser::class);
+
+
+/*
+ * Replace the jigsaw's handler of markdown files with our custom handler
+ * to do the further content processing which depends on metadata.
+ * 
+ * For now that is just generating Table of Contents (we do it only for
+ * some of the collections, and slightly differently for each one, so it
+ * is needed to check in metadata which collection the page we are
+ * processing belongs to).
+ * 
+ */
+$container->bind(MarkdownHandler::class, CustomMdHandler::class);
 
 
 /*
  * Generate sitemap.xml for search engines
  */
 $events->afterBuild(GenerateSitemap::class);
-
-/*
- * Generate and attach Table of Contents to articles
- */
-$events->afterBuild(BuildTOC::class);
 
 /*
  * Copy redirects info from the file with human readable name

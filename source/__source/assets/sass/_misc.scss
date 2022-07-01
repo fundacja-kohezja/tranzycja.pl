@@ -322,9 +322,14 @@ mark {
         summary {
             @apply .my-0;
         }
-        ol {
-            @apply .list-decimal;
-            @apply .pl-8;
+        ul:not(.list-none) {
+            @apply .pl-6;
+            > li::marker {
+                @apply .text-gray-400;
+                @include dark {
+                    @apply .text-gray-600;
+                }
+            }
         }
         .text-xs {
             padding-top: 0.4rem;
