@@ -1,13 +1,15 @@
 <?php
 
 use Illuminate\Support\Str;
+use Symfony\Component\Yaml\Yaml;
 use TightenCo\Jigsaw\Collection\CollectionItem;
+
 
 Jenssegers\Date\Date::setLocale('pl_PL');
 
-$parser = new Mni\FrontYAML\Parser();
-$document = $parser->parse(file_get_contents(__DIR__ . '/source/_ogolne/konfiguracja.yml'), false);
-$yaml_config = $document->getYAML();
+
+$yaml_config = Yaml::parse(file_get_contents(__DIR__ . '/source/_ogolne/konfiguracja.yml'));
+
 
 $title = function ($page) {
     $tresc = $page->getContent();
@@ -19,6 +21,7 @@ $title = function ($page) {
             ->stripTags()
             ->limit(30);
 };
+
 
 $excerpt = function(CollectionItem $page, int $words) {
 
@@ -43,7 +46,6 @@ $excerpt = function(CollectionItem $page, int $words) {
         }
     }
 
-
     return Str::of($content)
             ->stripTags('<br>')
             ->replace('<br><br><br><br>', '<br><br>')
@@ -52,12 +54,14 @@ $excerpt = function(CollectionItem $page, int $words) {
 
 };
 
+
 $pub_config = [
     'sort' => '-opublikowano',
     'excerpt' => fn($page) => $excerpt($page, 30),
     'longerExcerpt' => fn($page) => $excerpt($page, 80),
     'title' => $title
 ];
+
 
 return (array)$yaml_config + [
     'baseUrl' => 'https://tranzycja.pl',
