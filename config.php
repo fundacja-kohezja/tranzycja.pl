@@ -10,19 +10,28 @@ Jenssegers\Date\Date::setLocale('pl_PL');
 
 $yaml_config = Yaml::parse(file_get_contents(__DIR__ . '/source/_ogolne/konfiguracja.yml'));
 
-
+/*
+ * get the title from the first h1 (or first paragraph if no h1)
+ * so authors don't need to specify it in frontmatter
+ */
 $title = function ($page) {
+
     $tresc = $page->getContent();
-    preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches);
-    preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches2);
-    return isset($matches[1])
-        ? strip_tags(html_entity_decode($matches[1]))
-        : Str::of(html_entity_decode($matches2[1] ?? $tresc))
+
+    if (preg_match('|<h1[^>]*>(.*)</h1>|miU', $tresc, $matches)) {
+        return strip_tags(html_entity_decode($matches[1]));
+    }
+
+    preg_match('|<p[^>]*>(.*)</p>|siU', $tresc, $matches);
+
+    return Str::of(html_entity_decode($matches[1] ?? $tresc))
             ->stripTags()
             ->limit(30);
 };
 
-
+/*
+ * get the beginning of the page content as an excerpt
+ */
 $excerpt = function(CollectionItem $page, int $words) {
 
     $content = $page->getContent();
