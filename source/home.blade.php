@@ -40,7 +40,7 @@ permalink: index.html
                     <li class="slider-item-wider flex mx-2">
                         <a class="flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $poradnik->getPath() }}">
                             <article class="flex flex-grow flex-col">
-                                <h2 class="font-extrabold leading-tight text-gray-700 text-2xl mb-0">
+                                <h2 class="font-extrabold leading-tight text-gray-700 dark:text-gray-300 text-2xl mb-0">
                                     {!! $poradnik->title() !!}
                                 </h2>
                                 <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">
@@ -79,7 +79,7 @@ permalink: index.html
                     <li class="slider-item flex mx-2">
                         <a class="excerpt-card publications flex flex-grow border-b-0 bg-gray-300 hover:bg-gray-350 dark:bg-gray-800 dark:hover:bg-blue-900 rounded-lg break-words px-4 py-6" href="{{ $publikacja->getPath() }}">
                             <article class="flex flex-grow flex-col">
-                                <h2 class="font-extrabold leading-tight text-gray-700 text-2xl mb-0">
+                                <h2 class="font-extrabold leading-tight text-gray-700 dark:text-gray-300 text-2xl mb-0">
                                     {!! $publikacja->title() !!}
                                 </h2>
                                 <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">
