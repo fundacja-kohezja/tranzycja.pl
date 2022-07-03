@@ -41,6 +41,8 @@ return $yaml_config + [
 
         'aktualnosci' => [
             'sort' => '-opublikowano',
+            'excerpt' => fn($page) => $beginning($page, 1000),
+            'longerExcerpt' => fn($page) => $beginning($page, 1600),
             'extends' => '__source.layouts.post'
         ]
     ],

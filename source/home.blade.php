@@ -125,7 +125,8 @@ permalink: index.html
                     </svg>
                     <span class="align-middle">{{ Jenssegers\Date\Date::create($aktualnosci->first()->opublikowano)->format('j M Y') }}</span>
                 </header>
-                {!! $aktualnosci->first()->getContent() !!}
+                {!! $aktualnosci->first()->excerpt() !!}
+                <a href="{{ $aktualnosci->first()->getPath() }}">Czytaj całość →</a>
             </article>
         </div>
     </section>
