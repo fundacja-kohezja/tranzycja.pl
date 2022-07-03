@@ -98,21 +98,40 @@ $beginning = function(CollectionItem $page, int $length) {
         return $content;
     }
 
+    /**
+     * finish gracefully at the end of the line
+     * to avoid chopping part of a word or sentence
+     */
     preg_match('/^.{0,' . $length. '}([^\r\n]*)/su', $content, $matches);
     $content = $matches[0];
 
     /* close any html tags that are left open */
-    $content = (new Tidy)->repairString($content, [
+    $dom = new DOMDocument;
+    $dom->loadHTML(
 
         /**
-         * output and input must be xml, otherwise !doctype declaration,
-         * <html>, <head> and <body> would be added
+         * there needs to be some element wrapping the whole content
+         * for DOMDocument to parse it correctly, hence the <div> wrapper
+         * 
+         * mb_convert_encoding is needed because DOMDocument doesn't support UTF-8
          */
-        'input-xml' => true,
-        'output-xml' => true
-    ]);
+        '<div>' . mb_convert_encoding($content, 'HTML-ENTITIES', 'UTF-8') . '</div>',
+
+        /* prevents wrapping in <!DOCTYPE><html><body> */
+        LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD
+    );
+    $content = $dom->saveHTML();
 
     return Str::of($content)
+
+        /* unwrap the dummy div */
+        ->replaceFirst('<div>', '')
+        ->replaceLast('</div>', '')
+
+        /**
+         * add ellipsis inside the last element
+         * to indicate there is more content
+         */
         ->replaceLast('</', '...</')
         ->replaceLast('....</', '...</');
 };
