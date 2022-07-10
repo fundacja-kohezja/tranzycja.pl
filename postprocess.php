@@ -9,7 +9,7 @@ use TightenCo\Jigsaw\File\Filesystem;
 use TightenCo\Jigsaw\Parsers\FrontMatterParser;
 
 
-/* 
+/**
  * This file is meant to be called by GitHub Actions.
  * 
  * Its purpose is to automatically fill missing dates in articles
