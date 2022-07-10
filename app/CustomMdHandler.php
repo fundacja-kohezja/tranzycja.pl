@@ -24,24 +24,39 @@ class CustomMdHandler extends MarkdownHandler {
             switch ($collection) {
 
                 case 'krok_po_kroku':
+                    /**
+                     * In this case TOC contains all pages of the collection
+                     * so we need to get them, but only once, not every time an item
+                     * is processed, hence the static property
+                     */
                     if (!isset(static::$collectionsForTOC['krok_po_kroku'])){
-
-                        /* we do this, because all pages of the collection are listed in TOC */
                         static::$collectionsForTOC['krok_po_kroku'] = $this->getAllCollectionItems('krok_po_kroku', $pageData);
                     }
 
+                    /**
+                     * Split all pages of the collection into two chunks:
+                     * those which are before the current page
+                     * and those which are after the current page
+                     */
                     $chunked = collect(static::$collectionsForTOC['krok_po_kroku'])
+
+                        /* split at the path of the current page */
                         ->chunkWhile(fn($value, $key) => $key !== $pageData->page->_meta->path->first())
                         ->toArray();
                     
                     if (!isset($chunked[1])) {
+                        /**
+                         * if array has not been split (has only 1 chunk), that means the current page
+                         * is the first one from the collection so we need to move the chunk
+                         * to the position of the "after" chunk and the "before" chunk must be empty
+                         */
                         array_unshift($chunked, []);
                     };
                     [$chunk1, $chunk2] = $chunked;
 
+                    /* remove the current page from the "after" chunk */
                     array_shift($chunk2);
 
-                    $pageData->page->_meta->path->first();
                     $new_content = $this->insertTOC(
                         $outputFile->contents(),
                         'Tranzycja krok po kroku',
