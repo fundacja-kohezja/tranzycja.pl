@@ -28,3 +28,4 @@ Projekt realizowany jest przy wsparciu [![Stowarzyszenia Grupa Stonewall](/media
 
 Masz pytanie czy pomysły którymi chcesz się podzielić?
 Pisz: kontakt@tranzycja.pl
+Tel. +48 732 066 641
