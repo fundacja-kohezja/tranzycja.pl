@@ -69,9 +69,13 @@
           <div class="items-center h-full flex space-x-4 font-heading font-semibold tracking-wider">
             @foreach ($items as $path => $label)
               <a href="{{ $path }}"
-                  class="{{ $isActive($page, $path) ? 'text-indigo-600 hover:text-indigo-600 font-extrabold dark:text-purple-400 dark:hover:text-purple-400' : 'text-gray-700 dark:text-gray-300 hover:bg-white dark:hover:bg-gray-850 hover:text-blue-400 dark:hover:text-indigo-300' }} px-3 py-2 rounded-md text-sm border-0"
+                  @if($label && $label[0] === '*')
+                    class="text-gray-700 dark:text-gray-300 bg-white hover:bg-gray-200 dark:bg-gray-850 dark:hover:bg-gray-900 hover:text-blue-400 dark:hover:text-indigo-300 px-3 py-2 rounded-md text-sm border-0{{ $isActive($page, $path) ? ' font-extrabold' : ''}}"
+                  @else
+                    class="{{ $isActive($page, $path) ? 'text-indigo-600 hover:text-indigo-600 font-extrabold dark:text-purple-400 dark:hover:text-purple-400' : 'text-gray-700 dark:text-gray-300 hover:bg-white dark:hover:bg-gray-850 hover:text-blue-400 dark:hover:text-indigo-300' }} px-3 py-2 rounded-md text-sm border-0"
+                  @endif
               >
-                  {{ $label }}
+                  {{ ltrim($label, '*') }}
               </a>
             @endforeach
           </div>
@@ -79,9 +83,6 @@
       </div>
     
       <div class="absolute inset-y-0 right-0 flex items-center flex-1 justify-end text-right">
-          @if ($page->docsearchApiKey && $page->docsearchIndexName)
-              @include('__source.partials.search-input')
-          @endif
           <div class="relative inline-block text-left hover-trigger -mr-2 sm:mr-0">
             <button type="button" class="inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-purple-800 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0" id="options-menu" aria-haspopup="true">
               <span class="sr-only">Motyw</span>

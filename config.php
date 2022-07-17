@@ -44,7 +44,12 @@ return $yaml_config + [
             'excerpt' => fn($page) => $beginning($page, 1000),
             'longerExcerpt' => fn($page) => $beginning($page, 1600),
             'extends' => '__source.layouts.post'
-        ]
+        ],
+
+        'wsparcie' => [
+            'sort' => 'kolejnosc',
+            'extends' => '__source.layouts.sprt'
+        ],
     ],
 
     'mainNav' => [
@@ -52,7 +57,8 @@ return $yaml_config + [
             '/krok-po-kroku' => 'Krok po kroku',
             '/publikacje' => 'Publikacje',
             '/aktualnosci' => 'Aktualności',
-            '/#faq' => 'Pytania i odpowiedzi',
+            '/#faq' => 'FAQ',
+            '/wsparcie' => '*Wesprzyj nas!'
         ],
         'isActive' => fn($page, $path) => Str::startsWith($page->getPath(), $path)
     ],

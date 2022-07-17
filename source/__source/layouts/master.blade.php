@@ -18,10 +18,6 @@
         <meta name="twitter:image" content="{{ $page->baseUrl }}/assets/img/social-share.png"/>
         <meta name="twitter:card" content="summary_large_image">
 
-        @if ($page->docsearchApiKey && $page->docsearchIndexName)
-            <meta name="generator" content="tighten_jigsaw_doc">
-        @endif
-
         <title>{{ $page->nazwaWitryny }}{{ $page->title() ? ' | ' . $page->title() : ' – ' . $page->opisWitryny }}</title>
 
         <link rel="home" href="{{ $page->baseUrl ?: '/' }}">
@@ -31,10 +27,6 @@
         @stack('meta')
 
         <link id="stylesheet_link" rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}" data-mainsheeturl="{{ mix('css/main.css', 'assets/build') }}" data-manualmodesheeturl="{{ mix('css/manual_mode.css', 'assets/build') }}">
-
-        @if ($page->docsearchApiKey && $page->docsearchIndexName)
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
-        @endif
 
         <script>
             if (localStorage.theme == 'dark' || localStorage.theme == 'light') {
