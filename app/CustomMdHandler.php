@@ -18,19 +18,25 @@ class CustomMdHandler extends MarkdownHandler {
         /* generate output files to have the base for modifications */
         $outputFiles = parent::handleCollectionItem($file, $pageData);
 
-        return $outputFiles->map(function($outputFile) use ($pageData) {
+        $tocLabels = [
+            'krok_po_kroku' => 'Tranzycja krok po kroku',
+            'wsparcie' => 'Wsparcie projektu tranzycja.pl'
+        ];
+
+        return $outputFiles->map(function($outputFile) use ($pageData, $tocLabels) {
             $collection = $pageData->page->_meta->collection;
 
             switch ($collection) {
 
                 case 'krok_po_kroku':
-                    if (!isset(static::$collectionsForTOC['krok_po_kroku'])){
+                case 'wsparcie':
+                    if (!isset(static::$collectionsForTOC[$collection])){
 
                         /* we do this, because all pages of the collection are listed in TOC */
-                        static::$collectionsForTOC['krok_po_kroku'] = $this->getAllCollectionItems('krok_po_kroku', $pageData);
+                        static::$collectionsForTOC[$collection] = $this->getAllCollectionItems($collection, $pageData);
                     }
 
-                    $chunked = collect(static::$collectionsForTOC['krok_po_kroku'])
+                    $chunked = collect(static::$collectionsForTOC[$collection])
                         ->chunkWhile(fn($value, $key) => $key !== $pageData->page->_meta->path->first())
                         ->toArray();
                     
@@ -44,7 +50,7 @@ class CustomMdHandler extends MarkdownHandler {
                     $pageData->page->_meta->path->first();
                     $new_content = $this->insertTOC(
                         $outputFile->contents(),
-                        'Tranzycja krok po kroku',
+                        $tocLabels[$collection],
                         true,
                         $chunk1,
                         $chunk2
