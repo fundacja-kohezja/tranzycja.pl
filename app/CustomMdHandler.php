@@ -13,44 +13,69 @@ class CustomMdHandler extends MarkdownHandler {
 
     protected static $collectionsForTOC;
 
+    /** 
+     * Table of Contents is hidden inside <details> element
+     * (and collapsed on mobile by default).
+     * 
+     * Below are labels to put in the <summary> of the <details>
+     * (always visible, pressable to expand TOC).
+     * 
+     */
+    protected const TOC_LABELS = [
+        'krok_po_kroku' => 'Tranzycja krok po kroku',
+        'publikacje'    => 'Spis treści',
+        'publications'  => 'Contents',
+        'wsparcie'      => 'Wsparcie projektu tranzycja.pl'
+    ];
+
     public function handleCollectionItem($file, PageData $pageData)
     {
         /* generate output files to have the base for modifications */
         $outputFiles = parent::handleCollectionItem($file, $pageData);
 
-        $tocLabels = [
-            'krok_po_kroku' => 'Tranzycja krok po kroku',
-            'wsparcie' => 'Wsparcie projektu tranzycja.pl'
-        ];
-
-        return $outputFiles->map(function($outputFile) use ($pageData, $tocLabels) {
+        return $outputFiles->map(function($outputFile) use ($pageData) {
             $collection = $pageData->page->_meta->collection;
 
             switch ($collection) {
 
                 case 'krok_po_kroku':
                 case 'wsparcie':
+                    /**
+                     * In this case TOC contains all pages of the collection
+                     * so we need to get them, but only once, not every time an item
+                     * is processed, hence the static property
+                     */
                     if (!isset(static::$collectionsForTOC[$collection])){
-
-                        /* we do this, because all pages of the collection are listed in TOC */
                         static::$collectionsForTOC[$collection] = $this->getAllCollectionItems($collection, $pageData);
                     }
 
+                    /**
+                     * Split all pages of the collection into two chunks:
+                     * those which are before the current page
+                     * and those which are after the current page
+                     */
                     $chunked = collect(static::$collectionsForTOC[$collection])
+
+                        /* split at the path of the current page */
                         ->chunkWhile(fn($value, $key) => $key !== $pageData->page->_meta->path->first())
                         ->toArray();
                     
                     if (!isset($chunked[1])) {
+                        /**
+                         * if array has not been split (has only 1 chunk), that means the current page
+                         * is the first one from the collection so we need to move the chunk
+                         * to the position of the "after" chunk and the "before" chunk must be empty
+                         */
                         array_unshift($chunked, []);
                     };
                     [$chunk1, $chunk2] = $chunked;
 
+                    /* remove the current page from the "after" chunk */
                     array_shift($chunk2);
 
-                    $pageData->page->_meta->path->first();
                     $new_content = $this->insertTOC(
                         $outputFile->contents(),
-                        $tocLabels[$collection],
+                        self::TOC_LABELS[$collection],
                         true,
                         $chunk1,
                         $chunk2
@@ -59,11 +84,8 @@ class CustomMdHandler extends MarkdownHandler {
                     break;
 
                 case 'publikacje':
-                    $new_content = $this->insertTOC($outputFile->contents(), 'Spis treści');
-                    break;
-                    
                 case 'publications':
-                    $new_content = $this->insertTOC($outputFile->contents(), 'Contents');
+                    $new_content = $this->insertTOC($outputFile->contents(), self::TOC_LABELS[$collection]);
                     break;
 
                 default:
