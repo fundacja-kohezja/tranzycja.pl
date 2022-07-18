@@ -12,7 +12,7 @@ Treści, z pominięciem publikacji autorskich oraz gdy zaznaczone jest inaczej, 
 
 Kod strony rozwijany jest na licencji GPLv3 - znajdziesz go w [repozytorium projektu](https://github.com/Tash-Feneko/tranzycja.pl/).
 
-Projekt realizowany jest przy wsparciu [![Stowarzyszenia Grupa Stonewall](/media/img/logo/STOn_logo_transparent-pink.svg){.h-8.inline}](https://grupa-stonewall.pl){.border-b-0} oraz [Fundacji Kohezja](http://kohezja.org].
+Projekt realizowany jest przy wsparciu [![Stowarzyszenia Grupa Stonewall](/media/img/logo/STOn_logo_transparent-pink.svg){.h-8 .inline}](https://grupa-stonewall.pl){.border-b-0} oraz [Fundacji Kohezja](http://kohezja.org).
 
 Chcesz z nami rozwijać projekt tranzycja.pl? Dołącz do naszej grupy na FB: https://www.facebook.com/groups/889108318556729
 
