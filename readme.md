@@ -25,7 +25,7 @@ Jest jeszcze folder [Ogólne](source/_ogolne/), gdzie można zmienić:
 - sekcję wstępu i FAQ na stronie głównej
 - stopkę witryny
 
-Treść strony jest dostępna na licencji CC BY-SA 3.0 PL (więcej: https://tranzycja.pl/wsparcie/licencja/)
+Treść strony jest dostępna na licencji CC BY-SA 3.0 PL ([więcej](https://tranzycja.pl/wsparcie/licencja/)).
 
 ## Kod witryny
 
