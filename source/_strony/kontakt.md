@@ -24,7 +24,8 @@ Pracujesz w mediach i chcesz z nami porozmawiać o naszym projekcie, tranzycji i
 
 :::warning
 
-**Chcesz skorzystać z materiałów z naszej strony w swoim projekcie?**
-Śmiało! Uprzednio jednak zapoznaj się z informacjami w dziale [licencja](/wsparcie/licencja).
+## Chcesz skorzystać z materiałów z naszej strony?
+
+Śmiało! Treści dostępne na naszej stronie, z pominięciem publikacji autorskich oraz gdy zaznaczone jest inaczej, rozwijane są na licencji uznanie autorstwa-na tych samych warunkach 3.0 Polska [(CC BY-SA 3.0 PL)](https://creativecommons.org/licenses/by-sa/3.0/pl/). To znaczy, że możesz skorzystać z nich nieodpłatnie, także przy innych projektach, pod warunkiem czytelnego wskazania autorstwa i zastosowania się do pozostałych zasad licencji. Dokładniejsze informacje znajdziesz w sekcji [licencja](/wsparcie/licencja).
 
 :::
