@@ -2,8 +2,16 @@
 
 namespace App\Markdown;
 
+use Kaoken\MarkdownIt\MarkdownIt;
+
 class Spoiler extends Alert
 {
+    public function plugin(MarkdownIt $md, string $name, $options = null)
+    {
+        parent::plugin($md, $name, $options);
+        $this->md = $md;
+    }
+
     function validateDefault($params/*, markup*/) {
         return explode(' ', trim($params), 2)[0] === $this->name;
     }
@@ -15,7 +23,7 @@ class Spoiler extends Alert
         if ($tokens[$idx]->nesting === 1) {
             $title = explode(' ', trim($tokens[$idx]->info), 2)[1] ?? null;
 
-            return '<details>' . ($title ? '<summary>' . strip_tags($title) . '</summary>' : '') . $slf->renderToken($tokens, $idx, $options, $env, $slf);
+            return '<details>' . ($title ? '<summary>' . $this->md->renderInline($title) . '</summary>' : '') . $slf->renderToken($tokens, $idx, $options, $env, $slf);
         }
         if ($tokens[$idx]->nesting === -1) {
             return $slf->renderToken($tokens, $idx, $options, $env, $slf) . '</details>';

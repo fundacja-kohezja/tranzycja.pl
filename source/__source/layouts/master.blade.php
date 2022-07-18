@@ -5,17 +5,18 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="description" content="{{ $page->description ?? $page->opisWitryny }}">
+        <meta name="format-detection" content="telephone=no">
 
-        <meta property="og:site_name" content="{{ $page->nazwaWitryny }}"/>
-        <meta property="og:title" content="{{ $page->title() ?  $page->title() . ' | ' : '' }}{{ $page->nazwaWitryny }}"/>
-        <meta property="og:description" content="{{ $page->description ?? $page->opisWitryny }}"/>
-        <meta property="og:url" content="{{ $page->baseUrl }}{{ $page->getPath() == '/home' ? '' : $page->getPath() }}"/>
-        <meta property="og:image" content="{{ $page->baseUrl }}/assets/img/social-share.png"/>
-        <meta property="og:type" content="website"/>
+        <meta property="og:site_name" content="{{ $page->nazwaWitryny }}">
+        <meta property="og:title" content="{{ $page->title() ?  $page->title() . ' | ' : '' }}{{ $page->nazwaWitryny }}">
+        <meta property="og:description" content="{{ $page->description ?? $page->opisWitryny }}">
+        <meta property="og:url" content="{{ $page->baseUrl }}{{ $page->getPath() == '/home' ? '' : $page->getPath() }}">
+        <meta property="og:image" content="{{ $page->baseUrl }}/assets/img/social-share.png">
+        <meta property="og:type" content="website">
 
         <meta name="twitter:image:alt" content="{{ $page->nazwaWitryny }}">
-        <meta name="twitter:description" content="{{ $page->description ?? $page->opisWitryny }}"/>
-        <meta name="twitter:image" content="{{ $page->baseUrl }}/assets/img/social-share.png"/>
+        <meta name="twitter:description" content="{{ $page->description ?? $page->opisWitryny }}">
+        <meta name="twitter:image" content="{{ $page->baseUrl }}/assets/img/social-share.png">
         <meta name="twitter:card" content="summary_large_image">
 
         <title>{{ $page->nazwaWitryny }}{{ $page->title() ? ' | ' . $page->title() : ' – ' . $page->opisWitryny }}</title>

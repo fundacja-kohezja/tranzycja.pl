@@ -69,11 +69,19 @@
           <div class="items-center h-full flex space-x-4 font-heading font-semibold tracking-wider">
             @foreach ($items as $path => $label)
               <a href="{{ $path }}"
-                  @if($label && $label[0] === '*')
-                    class="text-gray-700 dark:text-gray-300 bg-white hover:bg-gray-200 dark:bg-gray-850 dark:hover:bg-gray-900 hover:text-blue-400 dark:hover:text-indigo-300 px-3 py-2 rounded-md text-sm border-0{{ $isActive($page, $path) ? ' font-extrabold' : ''}}"
-                  @else
-                    class="{{ $isActive($page, $path) ? 'text-indigo-600 hover:text-indigo-600 font-extrabold dark:text-purple-400 dark:hover:text-purple-400' : 'text-gray-700 dark:text-gray-300 hover:bg-white dark:hover:bg-gray-850 hover:text-blue-400 dark:hover:text-indigo-300' }} px-3 py-2 rounded-md text-sm border-0"
-                  @endif
+                class="
+                  px-3 py-2 rounded-md text-sm border-0
+
+                  {{ ($label && $label[0] === '*')
+                    ? 'bg-white hover:bg-gray-200 dark:bg-gray-850 dark:hover:bg-gray-900 font-extrabold'
+                    :          'hover:bg-white                     dark:hover:bg-gray-850'
+                  }}
+
+                  {{ $isActive($page, $path)
+                    ? 'text-indigo-600 hover:text-indigo-600 dark:text-purple-400 dark:hover:text-purple-400 font-extrabold'
+                    : 'text-gray-700   hover:text-blue-400   dark:text-gray-300   dark:hover:text-indigo-300'
+                  }}
+                "
               >
                   {{ ltrim($label, '*') }}
               </a>
@@ -130,9 +138,21 @@
     <div class="px-2 pt-2 pb-3 space-y-1 font-heading font-semibold tracking-wider">
       @foreach ($items as $path => $label)
         <a href="{{ $path }}"
-            class="{{ $isActive($page, $path) ? 'text-indigo-600 hover:text-indigo-600 font-extrabold dark:text-purple-400 dark:hover:text-purple-400' : 'text-gray-700 dark:text-gray-300 hover:bg-white dark:hover:bg-indigo-800 hover:text-blue-400 dark:hover:text-white' }} block px-3 py-2 rounded-md text-base border-0"
+          class="
+            block px-3 py-2 rounded-md text-base border-0
+
+            {{ ($label && $label[0] === '*')
+              ? 'bg-white hover:bg-gray-200 dark:bg-gray-850 dark:hover:bg-gray-900 font-extrabold'
+              :          'hover:bg-white                     dark:hover:bg-gray-850'
+            }}
+
+            {{ $isActive($page, $path)
+              ? 'text-indigo-600 hover:text-indigo-600 dark:text-purple-400 dark:hover:text-purple-400 font-extrabold'
+              : 'text-gray-700   hover:text-blue-400   dark:text-gray-300   dark:hover:text-indigo-300'
+            }}
+          "
         >
-            {{ $label }}
+            {{ ltrim($label, '*') }}
         </a>
       @endforeach
     </div>
