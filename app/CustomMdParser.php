@@ -8,7 +8,8 @@ use Kaoken\MarkdownIt\MarkdownIt;
 use Kaoken\MarkdownIt\Plugins\{MarkdownItMark as Mark, MarkdownItEmoji as Emoji, MarkdownItSup as Superscript};
 use Mni\FrontYAML\Markdown\MarkdownParser;
 
-class CustomMdParser implements MarkdownParser {
+class CustomMdParser implements MarkdownParser
+{
 
     protected $content;
 
@@ -38,8 +39,13 @@ class CustomMdParser implements MarkdownParser {
     protected function renderMarkdown()
     {
         $parser = (new MarkdownIt([
+
             /* preserve raw html (like embedded videos) in markdown when parsing */
-            'html' => true
+            'html' => true,
+
+            /* automatically convert plain urls to links */
+            'linkify' => true,
+
         ]))
             ->plugin(new Alert, 'success')      // :::success
             ->plugin(new Alert, 'info')         // :::info
@@ -52,6 +58,11 @@ class CustomMdParser implements MarkdownParser {
             ->plugin(new Emoji)                 // :emoji:
             ->plugin(new Superscript)           // ^sup^
         ;
+
+        $parser->linkify->set([
+            /* autoconvert only full urls (with http) */
+            'fuzzyLink'  => false
+        ]);
 
         $this->content = $parser->render($this->content);
         

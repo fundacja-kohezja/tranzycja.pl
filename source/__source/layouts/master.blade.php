@@ -5,22 +5,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="description" content="{{ $page->description ?? $page->opisWitryny }}">
+        <meta name="format-detection" content="telephone=no">
 
-        <meta property="og:site_name" content="{{ $page->nazwaWitryny }}"/>
-        <meta property="og:title" content="{{ $page->title() ?  $page->title() . ' | ' : '' }}{{ $page->nazwaWitryny }}"/>
-        <meta property="og:description" content="{{ $page->description ?? $page->opisWitryny }}"/>
-        <meta property="og:url" content="{{ $page->baseUrl }}{{ $page->getPath() == '/home' ? '' : $page->getPath() }}"/>
-        <meta property="og:image" content="{{ $page->baseUrl }}/assets/img/social-share.png"/>
-        <meta property="og:type" content="website"/>
+        <meta property="og:site_name" content="{{ $page->nazwaWitryny }}">
+        <meta property="og:title" content="{{ $page->title() ?  $page->title() . ' | ' : '' }}{{ $page->nazwaWitryny }}">
+        <meta property="og:description" content="{{ $page->description ?? $page->opisWitryny }}">
+        <meta property="og:url" content="{{ $page->baseUrl }}{{ $page->getPath() == '/home' ? '' : $page->getPath() }}">
+        <meta property="og:image" content="{{ $page->baseUrl }}/assets/img/social-share.png">
+        <meta property="og:type" content="website">
 
         <meta name="twitter:image:alt" content="{{ $page->nazwaWitryny }}">
-        <meta name="twitter:description" content="{{ $page->description ?? $page->opisWitryny }}"/>
-        <meta name="twitter:image" content="{{ $page->baseUrl }}/assets/img/social-share.png"/>
+        <meta name="twitter:description" content="{{ $page->description ?? $page->opisWitryny }}">
+        <meta name="twitter:image" content="{{ $page->baseUrl }}/assets/img/social-share.png">
         <meta name="twitter:card" content="summary_large_image">
-
-        @if ($page->docsearchApiKey && $page->docsearchIndexName)
-            <meta name="generator" content="tighten_jigsaw_doc">
-        @endif
 
         <title>{{ $page->nazwaWitryny }}{{ $page->title() ? ' | ' . $page->title() : ' – ' . $page->opisWitryny }}</title>
 
@@ -31,10 +28,6 @@
         @stack('meta')
 
         <link id="stylesheet_link" rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}" data-mainsheeturl="{{ mix('css/main.css', 'assets/build') }}" data-manualmodesheeturl="{{ mix('css/manual_mode.css', 'assets/build') }}">
-
-        @if ($page->docsearchApiKey && $page->docsearchIndexName)
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
-        @endif
 
         <script>
             if (localStorage.theme == 'dark' || localStorage.theme == 'light') {
@@ -48,8 +41,8 @@
     </head>
 
     <body style="visibility:hidden" tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
-    <header class="bg-gray-100 dark:bg-gray-800 z-10" role="banner">
-            @include('__source.partials.menu', ['items' => $page->mainNav])
+        <header class="bg-gray-100 dark:bg-gray-800 z-10" role="banner">
+            @include('__source.partials.menu', $page->mainNav)
         </header>
 
         <div class="w-full flex-auto {{ $container_class ?? '' }} pt-8">

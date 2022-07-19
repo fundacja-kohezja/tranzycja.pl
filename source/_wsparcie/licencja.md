@@ -1,8 +1,11 @@
+---
+kolejnosc: 4  
+---
 # Licencja
 
-Cała treść niniejszej witryny ustostępniana jest na licencji:
+## Chcesz skorzystać z materiałów z naszej strony?
 
-## Uznanie autorstwa-na tych samych warunkach 3.0 Polska (CC BY-SA 3.0 PL)
+Śmiało! Treści dostępne na naszej stronie, z pominięciem publikacji autorskich oraz gdy zaznaczone jest inaczej, rozwijane są na licencji uznanie autorstwa-na tych samych warunkach 3.0 Polska [(CC BY-SA 3.0 PL)](https://creativecommons.org/licenses/by-sa/3.0/pl/). To znaczy, że możesz skorzystać z nich nieodpłatnie, także przy innych projektach, pod warunkiem czytelnego wskazania autorstwa i zastosowania się do pozostałych zasad licencji.
 
 ### Dozwolone:
 * Dzielenie się — kopiuj i rozpowszechniaj utwór w dowolnym medium i formacie
@@ -15,3 +18,7 @@ dla dowolnego celu, także komercyjnego.
 * Brak dodatkowych ograniczeń — Nie możesz korzystać ze środków prawnych lub technologicznych, które ograniczają innych w korzystaniu z utworu na warunkach określonych w licencji.
 
 Streszczenie licencji zaczerpnięto ze strony [creativecommons.org](https://creativecommons.org/licenses/by-sa/3.0/pl/), pełną treść licencji znajdziesz [tutaj](https://creativecommons.org/licenses/by-sa/3.0/pl/legalcode).
+
+## Kod strony
+
+Kod strony rozwijany jest na licencji GPLv3. Znajdziesz go w [repozytorium projektu](https://github.com/tranzycja-pl/tranzycja.pl/) - zachęcamy do wsparcia w naprawianiu błędów, i rozwijaniu nowych funkcjonalności!

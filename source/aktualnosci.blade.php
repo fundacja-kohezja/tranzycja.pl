@@ -29,7 +29,8 @@ pagination:
                         </svg>
                         <span class="align-middle">{{ Jenssegers\Date\Date::create($entry->opublikowano)->format('j M Y') }}</span>
                     </header>
-                    {!! $entry->getContent() !!}
+                    {!! $entry->longerExcerpt() !!}
+                    <a href="{{ $entry->getPath() }}">Czytaj całość →</a>
                 </article>
             </li>
         @endforeach
