@@ -22,4 +22,5 @@
 
 @push('scripts')
     <script src="{{ mix('js/section-highlight.js', 'assets/build') }}"></script>
+    <script src="{{ mix('js/search/mark.js', 'assets/build') }}"></script>
 @endpush
