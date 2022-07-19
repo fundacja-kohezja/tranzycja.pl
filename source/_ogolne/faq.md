@@ -106,7 +106,7 @@ Terapia hormonalna nie zmieni powiązanych z dojrzewaniem zmian szkieletu, jeśl
 
 Feminizująca terapia hormonalna nie jest w stanie cofnąć mutacji, ani nie doprowadza do zaniku zarostu. Głos można zmienić przez ćwiczenia u foniatry, a do trwałego usunięcia zarostu konieczne są zabiegi kosmetyczne, takie jak elektroliza lub laser.
 
-Pełna lista efektów dostępna w artykułach o maskulinizującej i [feminizującej](https://tranzycja.pl/krok-po-kroku/feminizujaca-terapia-hormonalna/) terapii hormonalnej.
+Pełna lista efektów dostępna w artykułach o [maskulinizującej](/krok-po-kroku/maskulinizujaca-terapia-hormonalna/) i [feminizującej](/krok-po-kroku/feminizujaca-terapia-hormonalna/) terapii hormonalnej.
 
 :::
 
@@ -120,9 +120,9 @@ Po usunięciu gonad (jajników lub jąder) możliwe jest zmniejszenie dawki horm
 
 :::spoiler Czy terapia hormonalna skraca życie?
 
-Z terapii hormonalnej można spokojnie korzystać całe dekady i dożyć sędziwego wieku. Sama w sobie nie wywoła ona żadnych problemów zdrowotnych, może jednak zmieniać ryzyko chorób związanych z płcią: np. feminizująca terapia hormonalna znacząco podnosi ryzyko zachorowania na raka piersi jednocześnie zmniejszając ryzyko raka prostaty. Tego rodzaju zagrożenia można jednak minimalizować odpowiednią profilaktyką, dokładny opis związku terapii hormonalnej z ryzykiem zachorowania na różne choroby znajdziesz w artykułach o maskulinizującej i [feminizującej](https://tranzycja.pl/krok-po-kroku/feminizujaca-terapia-hormonalna/) terapii hormonalnej. 
+Z terapii hormonalnej można spokojnie korzystać całe dekady i dożyć sędziwego wieku. Sama w sobie nie wywoła ona żadnych problemów zdrowotnych, może jednak zmieniać ryzyko chorób związanych z płcią: np. feminizująca terapia hormonalna znacząco podnosi ryzyko zachorowania na raka piersi jednocześnie zmniejszając ryzyko raka prostaty. Tego rodzaju zagrożenia można jednak minimalizować odpowiednią profilaktyką, dokładny opis związku terapii hormonalnej z ryzykiem zachorowania na różne choroby znajdziesz w artykułach o [maskulinizującej](/krok-po-kroku/maskulinizujaca-terapia-hormonalna/) i [feminizującej](/krok-po-kroku/feminizujaca-terapia-hormonalna/) terapii hormonalnej. 
 
-Główne powody, dla których osoby transpłciowe żyją krócej niż ogół populacji, to [kwestie niezwiązane z terapią hormonalną](https://www.transvisie.nl/wp-content/uploads/2021/09/lancet-mortality-transgender.pdf): stres mniejszościowy, niezdrowy tryb życia, częstsze korzystanie z używek, wyższy odsetek prób samobójczych, czy rzadsze korzystanie z usług medycznych z racji obawy przed transfobią. Terapia hormonalna [może znacząco zmniejszyć dysforię płciową i usprawnić codzienne funkcjonowanie psychospołeczne](https://tranzycja.pl/publikacje/skutecznosc-medycznej-tranzycji/) i tym samym przyczynia się do poprawy we wszystkich wymienionych obszarach.
+Główne powody, dla których osoby transpłciowe żyją krócej niż ogół populacji, to [kwestie niezwiązane z terapią hormonalną](https://www.transvisie.nl/wp-content/uploads/2021/09/lancet-mortality-transgender.pdf): stres mniejszościowy, niezdrowy tryb życia, częstsze korzystanie z używek, wyższy odsetek prób samobójczych, czy rzadsze korzystanie z usług medycznych z racji obawy przed transfobią. Terapia hormonalna [może znacząco zmniejszyć dysforię płciową i usprawnić codzienne funkcjonowanie psychospołeczne](/publikacje/skutecznosc-medycznej-tranzycji/) i tym samym przyczynia się do poprawy we wszystkich wymienionych obszarach.
 
 :::
 
