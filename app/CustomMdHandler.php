@@ -92,7 +92,7 @@ class CustomMdHandler extends MarkdownHandler {
         $new_content = preg_replace_callback(
             '|<h([^>]+)>(.*)</h([^>]+)>|iU',
             function (&$matches) use (&$processed_headings) {
-                if (in_array($matches[1][0], ['1', '2', '3'])) {
+                if (in_array($matches[1][0], ['1', '2', '3', '4', '5', '6'])) {
                     $processed_headings[] = [
                         'level' => $matches[1][0],
                         'text' => $matches[2],
@@ -104,6 +104,14 @@ class CustomMdHandler extends MarkdownHandler {
             },
             $contents
         );
+
+        $new_content = preg_replace_callback('|<details>.*?<summary>(.*?)<\/summary>(.*?)<\/details>|xs', function (&$matches) {
+                $slug = Str::slug($matches[1]);
+                return "<details id=\"$slug\">\n<summary>$matches[1]</summary>\n\n$matches[2]</details>";
+            },
+            $new_content
+        );
+
         $toc = '<aside class="toc-container"><details id="toc" class="bg-gray-100 dark:bg-gray-800 rounded-lg px-4 py-1 lg:py-0 toc lg:my-4"><summary>' . $label . '</summary><nav><ul class="' . ($pagesBefore || $pagesAfter ? '' : 'list-none ') . 'pl-0 mt-0">';
 
         if ($pagesBefore || $pagesAfter) {

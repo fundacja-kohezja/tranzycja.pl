@@ -4,12 +4,13 @@ permalink: index.html
 @extends('__source.layouts.master', ['container_class' => 'overflow-hidden'])
 
 @section('body')
+<div id="autocomplete-search-container" class="max-w-6xl mx-auto px-6 py-0 md:py-4"></div>
 <main class="container max-w-6xl mx-auto px-6 py-10 md:py-12">
     <section class="flex flex-col-reverse mb-10 lg:flex-row lg:mb-24">
         <div class="introdution">
             @include('_ogolne.str_glowna_wstep')
         </div>
-        <div class="-mt-24 -mb-20 lg:-mt-10 lg:mb-0 lg:-mr-32 xl:-mr-48 lg:-ml-8 ml-5 flex items-end justify-end flex-shrink-0 gradient-overlay">
+        <div class="-mb-20 lg:-mt-10 lg:mb-0 lg:-mr-32 xl:-mr-48 lg:-ml-8 ml-5 flex items-end justify-end flex-shrink-0 gradient-overlay">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="/assets/img/ilustracja-trans-ciemne.svg">
                 <img src="/assets/img/ilustracja-trans-jasne.svg" alt="" class="auto-dark h-auto ml-auto">

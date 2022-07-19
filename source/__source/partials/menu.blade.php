@@ -1,5 +1,5 @@
 <nav class="container flex flex-1 flex-col max-w-6xl mx-auto px-4 lg:px-6">
-  <div class="max-w-7xl flex flex-1 items-center">
+  <div class="max-w-7xl flex flex-1 items-center relative">
     <div class="relative flex items-center flex-1 justify-between h-16 lg:h-24">
       <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
         {{-- Mobile menu button --}}
@@ -82,7 +82,10 @@
           @if ($page->docsearchApiKey && $page->docsearchIndexName)
               @include('__source.partials.search-input')
           @endif
-          <div class="relative inline-block text-left hover-trigger -mr-2 sm:mr-0">
+          <button type="button" id="toggle-search" class="inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-purple-800 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0" id="options-menu" aria-haspopup="true">
+              <svg class="h-5 w-5" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m18.7778 20-7.3056-7.3056c-.5555.4815-1.2037.8565-1.94442 1.125-.74074.2686-1.52778.4028-2.36111.4028-2 0-3.69445-.6944-5.08334-2.0833C.694444 10.75 0 9.07407 0 7.11111c0-1.96296.694444-3.63889 2.08333-5.02778C3.47222.694444 5.15741 0 7.13889 0c1.96296 0 3.63421.694444 5.01391 2.08333 1.3796 1.38889 2.0694 3.06482 2.0694 5.02778 0 .7963-.1296 1.56482-.3889 2.30556-.2592.74073-.6481 1.43523-1.1666 2.08333L20 18.7778 18.7778 20ZM7.13889 12.5556c1.5 0 2.77778-.5325 3.83331-1.5973 1.0556-1.06478 1.5834-2.34719 1.5834-3.84719s-.5278-2.78241-1.5834-3.84722C9.91667 2.19907 8.63889 1.66667 7.13889 1.66667c-1.51852 0-2.81019.5324-3.875 1.59722C2.19907 4.3287 1.66667 5.61111 1.66667 7.11111s.5324 2.78241 1.59722 3.84719c1.06481 1.0648 2.35648 1.5973 3.875 1.5973Z"/></svg>
+          </button>
+          <div class="relative text-left hover-trigger -mr-2 sm:mr-0 hidden lg:inline-block">
             <button type="button" class="inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-purple-800 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0" id="options-menu" aria-haspopup="true">
               <span class="sr-only">Motyw</span>
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="h-5 mr-1" stroke="currentColor">
@@ -93,38 +96,13 @@
                 <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
               </svg>
             </button>
-            <div class="hidden hover-target origin-top-right absolute right-0 w-56 rounded-lg shadow-lg bg-gray-100 dark:bg-gray-800 ring-1 ring-black ring-opacity-5">
-              <div class="p-2 flex flex-col" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
-                <input class="w-0 h-0 invisible" name="theme" id="theme_auto" type="radio" onchange="el = document.getElementById('stylesheet_link'); el.href = el.dataset.mainsheeturl; document.documentElement.classList.remove('dark'); localStorage.removeItem('theme')">
-                <label for="theme_auto" class="cursor-pointer radio-label text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0 flex" role="menuitem">
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="h-5 mr-2" stroke="currentColor">
-                    <path stroke-width="2" stroke-linecap="square" d="M20.07,3.93l-.79.79M23,11H21.89M13,1V2.11" />
-                    <path stroke-width="2" d="M5.67,13A9.44,9.44,0,0,1,5,9.5a9.6,9.6,0,0,1,.71-3.61,9,9,0,1,0,12.4,12.4A9.6,9.6,0,0,1,14.5,19a10,10,0,0,1-1.35-.09" />
-                    <path stroke-width="2" stroke-linejoin="bevel" d="M12.14,5.17a5.5,5.5,0,0,1,6.71,6.62M8.08,16.38l3.5-8.76,3.5,8.76M9.34,14h4.48" />
-                  </svg>
-                  Automatycznie
-                </label>
-                <input class="w-0 h-0 invisible" name="theme" id="theme_light" type="radio" onchange="el = document.getElementById('stylesheet_link'); el.href = el.dataset.manualmodesheeturl; document.documentElement.classList.remove('dark'); localStorage.theme = 'light'">
-                <label for="theme_light" class="cursor-pointer radio-label text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0 flex" role="menuitem">
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="h-5 mr-2" stroke="currentColor">
-                    <path stroke-linecap="square" stroke-width="2" d="M5.72,18.28l-.79.79M19.07,4.93l-.79.79m-12.56,0-.79-.79M19.07,19.07l-.79-.79M3.11,12H2m20,0H20.89M12,20.89V22M12,2V3.11M12,7a5,5,0,1,0,5,5A5,5,0,0,0,12,7Z" />
-                  </svg>
-                  Jasny
-                </label>
-                <input class="w-0 h-0 invisible" name="theme" id="theme_dark" type="radio" onchange="el = document.getElementById('stylesheet_link'); el.href = el.dataset.manualmodesheeturl; document.documentElement.classList.add('dark'); localStorage.theme = 'dark'">
-                <label for="theme_dark" class="cursor-pointer radio-label text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0 flex" role="menuitem">
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="h-5 mr-2" stroke="currentColor">
-                    <path stroke-width="2" d="M17.5,15.5a9,9,0,0,1-9-9,8.89,8.89,0,0,1,.52-3A9,9,0,1,0,20.48,15,8.89,8.89,0,0,1,17.5,15.5Z" />
-                  </svg>
-                  Ciemny
-                </label>
-              </div>
-            </div>
+           @include('__source.partials.theme-select', ['positionClass' => "right-0"])
+
           </div>
       </div>
+      <div id="autocomplete-search-container-menu" class="hidden w-full absolute"></div>
     </div>
   </div>
-
   <div id="js-nav-menu" class="block hidden lg:hidden">
     <div class="px-2 pt-2 pb-3 space-y-1 font-heading font-semibold tracking-wider">
       @foreach ($items as $item)
@@ -135,6 +113,12 @@
             {{ $item->title }}
         </a>
     @endforeach
+    <div class="relative inline-block text-left hover-trigger -mr-2 sm:mr-0">
+      <a class="text-gray-700 dark:text-gray-300 hover:bg-white dark:hover:bg-indigo-800 hover:text-blue-400 dark:hover:text-white block px-3 py-2 rounded-md text-base border-0">
+        Motyw
+      </a>
+      @include('__source.partials.theme-select', ['positionClass' => "left-0"])
+    </div>
     </div>
   </div>
 </nav>
