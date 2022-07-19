@@ -11,13 +11,13 @@ Chcesz z nami rozwijać projekt tranzycja.pl? Dołącz do [naszej grupy na FB](h
 Masz pytania lub pomysły którymi chcesz się podzielić? A może chcesz nas wesprzeć bądź zaproponować jakąś współpracę?
 
 📧 Adres email: [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl)  
-🌐 Facebook: https://www.facebook.com/tranzycjapl/  
+🌐 Facebook: [facebook.com/tranzycjapl](https://www.facebook.com/tranzycjapl/)  
 
 ## Kontakt dla mediow
 
 Pracujesz w mediach i chcesz z nami porozmawiać o naszym projekcie, tranzycji i transpłciowości, bądź poprosić o komentarz w innej sprawie?
 
-📧 Adres email: [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl) 
+📧 Adres email: [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl)  
 📞 Telefon: tel. [+48 732 066 641](tel:+48732066641)
 
 :::warning
