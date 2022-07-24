@@ -47,19 +47,25 @@ Z poważaniem
 * Fundacja Trans-Fuzja
 * Grupa Stonewall
 * Stowarzyszenie Kampania Przeciw Homofobii
+* Stowarzyszenia na rzecz osób LGBT Tolerado
 * Równik Praw
 * Fabryka Równości
 * Lambda Szczecin
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
-* Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
 
 ### Osoby
-* Karolina Stachowiak, lekarka
-* Alicja Fidowicz, Uniwersytet Jagielloński
+* Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
+* Karolina Stachowiak - lekarka
 * Agata Młynarczyk-Buerk - psycholog, psychoterapeuta
-* Maja Heban, dziennikarka
-* Piotr Jacoń, dziennikarz
+* Jan Świerszcz - psycholog, psychoterapeuta
+* Dr Aleksandra Sarna - psycholog
+* Julia Pankiewicz - rezydentka psychiatrii
+* Maja Heban - dziennikarka
+* Anna Tess Gołębiowska - dziennikarka
+* Piotr Jacoń - dziennikarz
 * Wiktoria Jacoń
+* Alicja Fidowicz, Uniwersytet Jagielloński
+* Lu Olszewski - aktywistka
 
 :::info
 Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl).
