@@ -45,6 +45,7 @@ Z poważaniem
 ### Organizacje i grupy nieformalne
 * Zespół tranzycja.pl
 * Fundacja Trans-Fuzja
+* Rada Języka Neutralnego
 * Grupa Stonewall
 * Stowarzyszenie Kampania Przeciw Homofobii
 * Stowarzyszenia na rzecz osób LGBT Tolerado
@@ -54,6 +55,7 @@ Z poważaniem
 * Homokomando
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 * Stowarzyszenie Łódzkie Dziewuchy Dziewuchom
+* Inicjatywa 8 Marca
 
 ### Osoby publiczne
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
@@ -62,14 +64,19 @@ Z poważaniem
 * Jan Świerszcz - psycholog, psychoterapeuta
 * Aleksandra Sarna - psycholog
 * Julia Pankiewicz - rezydentka psychiatrii
+* Krzysztof Kościółek- superwizorem, psychoterapeuta, seksuolog
+* Artur Król - psycholog, seksuolog
+* Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji *Dobra terapia*
+* Zuzanna Piechowic - dziennikarka, współautor audycji *Dobra terapia*
 * Maja Heban - dziennikarka
 * Anna Tess Gołębiowska - dziennikarka
 * Piotr Jacoń - dziennikarz
 * Wiktoria Jacoń
-* Alicja Fidowicz, Uniwersytet Jagielloński
 * Lu Olszewski - aktywistka
 * Linus Lewandowski - aktywista
+* Sybil Grzybowski - aktywista
 * Aleksandra Knapik-Gauza i Katarzyna Gauza - aktywistki
+* Alicja Fidowicz, Uniwersytet Jagielloński
 
 :::info
 Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl).
