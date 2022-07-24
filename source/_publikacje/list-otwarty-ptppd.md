@@ -1,7 +1,8 @@
 ---
-tags:
+tags: null
+opublikowano: '2022-07-24 10:51:00'
+zaktualizowano: '2022-07-24 10:51:00'
 ---
-
 # List otwarty do władz Polskiego Towarzystwa Psychoterapii Psychodynamicznej 
 
 :::info
