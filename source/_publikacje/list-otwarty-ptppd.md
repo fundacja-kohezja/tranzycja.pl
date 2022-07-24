@@ -5,9 +5,9 @@ zaktualizowano: '2022-07-24 10:51:00'
 ---
 # List otwarty do władz Polskiego Towarzystwa Psychoterapii Psychodynamicznej 
 
-:::info
 Poniżej zamieszczamy list otwarty do Polskiego Towarzystwa Psychoterapii Psychodynamicznej wyrażający nasz sprzeciw wobec zaproszenia przez nich Marcusa i Susan Evansów na IX Konferencję PTPPd, psychologów propagujących terapię konwersyjną osób transpłciowych.
-:::
+
+## Treść listu
 
 Szanowni Państwo,
 
@@ -15,7 +15,7 @@ Z oburzeniem przyjmujemy informację o zaproszeniu Marcusa i Susan Evansów na I
 
 Marcus i Susan Evansowie w tworzonych przez siebie artykułach, książkach, wywiadach i publikacjach wielokrotnie wypowiadają się o osobach trans w sposób deprecjonujący, patologizujący i podważający ich tożsamość płciową. Proponowane przez nich interwencje psychoterapeutyczne sprowadzają się do prób wpływania na transpłciowe dziecko lub nastolatka, by porzuciło swoją tożsamość płciową – innymi słowy, są formą terapii konwersyjnej. 
 
-— w wywiadzie *Moim zadaniem jest myśleć. Psychoanalityczne podejście do dysforii płciowej* opublikowanym w numerze 8. periodyku *Psychoterapia Psychodynamiczna w Polsce* Marcus Evans stwierdza: „Myślę, że wiele z operacji zmiany płci będzie w przyszłości traktowane tak, jak my teraz traktujemy lobotomię”. W wywiadzie wiąże transpłciową tożsamość płciową z „pozycją paranoidalno-schizoidalną”, brakiem uprawiania seksu przez nastolatków, zaburzeniami osobowości borderline oraz „zlaniem się z matką i erotyzowaniem jej”. Dane dotyczące wysokiego odsetka satysfakcji z korekty płci uznaje za „fałszywe” bez żadnego uzasadnienia dla tak skrajnego stwierdzenia. Evans nie podaje źródeł dla większości ze swoich stwierdzeń z wyjątkiem paru odniesień do prac z lat 70. autorstwa Roberta Stollera oraz Mervina Glassera, terapeutów konwersyjnych dążących do „zapobiegania” rozwojowi homoseksualności i zachowań nienormatywnych płciowo u dzieci. 
+— w wywiadzie *Moim zadaniem jest myśleć. Psychoanalityczne podejście do dysforii płciowej* opublikowanym w numerze 8. periodyku *Psychoterapia Psychodynamiczna w Polsce*, Marcus Evans stwierdza: „Myślę, że wiele z operacji zmiany płci będzie w przyszłości traktowane tak, jak my teraz traktujemy lobotomię”. W wywiadzie wiąże transpłciową tożsamość płciową z „pozycją paranoidalno-schizoidalną”, brakiem uprawiania seksu przez nastolatków, zaburzeniami osobowości borderline oraz „zlaniem się z matką i erotyzowaniem jej”. Dane dotyczące wysokiego odsetka satysfakcji z korekty płci uznaje za „fałszywe” bez żadnego uzasadnienia dla tak skrajnego stwierdzenia. Evans nie podaje źródeł dla większości ze swoich stwierdzeń z wyjątkiem paru odniesień do prac z lat 70. autorstwa Roberta Stollera oraz Mervina Glassera, terapeutów konwersyjnych dążących do „zapobiegania” rozwojowi homoseksualności i zachowań nienormatywnych płciowo u dzieci. 
 
 — w artykule Marcusa Evansa [*Freedom to think: the need for thorough assessment and treatment of gender dysphoric children*](https://www.cambridge.org/core/journals/bjpsych-bulletin/article/freedom-to-think-the-need-for-thorough-assessment-and-treatment-of-gender-dysphoric-children/F4B7F5CAFC0D0BE9FF3C7886BA6E904B) z 2020 r. autor porównuje zwiększającą się widoczność transpłciowych dzieci do epidemii anoreksji, a dostęp do interwencji afirmujących płeć do zachęcania osób z anoreksją do głodzenia się. Evans w celu udowodnienia tezy, że diagnostyka transpłciowych dzieci i nastolatków powinna być dłuższa stara się przedstawić interwencje afirmujące płeć w jak najbardziej negatywnym świetle - twierdzi że zastosowanie blokerów dojrzewania w wieku 14 lat jest równoznaczne ze zgodą na operacje genitaliów lub usunięcia gonad oraz szerzy medyczną dezinformację jakoby blokery dojrzewania miały powodować bezpłodność i utratę zdolności do orgazmu.
 
@@ -41,16 +41,18 @@ W ostatnich miesiącach obserwujemy intensyfikację działań prawicy wymierzony
 
 Z poważaniem
 
-Redakcja Tranzycja.pl
-Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
-Fabryka Równości
-Fundacja Trans-Fuzja
-Grupa Stonewall
-Maja Heban, dziennikarka
-Lambda Szczecin
-Piotr Jacoń, dziennikarz
-Równik Praw
-Stowarzyszenie Kampania Przeciw Homofobii
+## Podpisy
+
+* Zespół Tranzycja.pl
+* Fundacja Trans-Fuzja
+* Grupa Stonewall
+* Stowarzyszenie Kampania Przeciw Homofobii
+* Równik Praw
+* Fabryka Równości
+* Lambda Szczecin
+* Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
+* Maja Heban, dziennikarka
+* Piotr Jacoń, dziennikarz
 
 :::info
 Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail (kontakt@tranzycja.pl)[mailto:kontakt@tranzyacja.pl]
