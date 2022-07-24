@@ -42,8 +42,8 @@ W ostatnich miesiącach obserwujemy intensyfikację działań prawicy wymierzony
 Z poważaniem
 
 ## Podpisy
-
-* Zespół Tranzycja.pl
+### Organizacje i grupy nieformalne
+* Zespół tranzycja.pl
 * Fundacja Trans-Fuzja
 * Grupa Stonewall
 * Stowarzyszenie Kampania Przeciw Homofobii
@@ -52,7 +52,11 @@ Z poważaniem
 * Lambda Szczecin
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
+
+### Osoby
 * Karolina Stachowiak, lekarka
+* Alicja Fidowicz, Uniwersytet Jagielloński
+* Agata Młynarczyk-Buerk - psycholog, psychoterapeuta
 * Maja Heban, dziennikarka
 * Piotr Jacoń, dziennikarz
 * Wiktoria Jacoń
