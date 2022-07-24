@@ -66,6 +66,7 @@ Z poważaniem
 * Julia Pankiewicz - rezydentka psychiatrii
 * Krzysztof Kościółek- superwizorem, psychoterapeuta, seksuolog
 * Artur Król - psycholog, seksuolog
+* Maria Biegańska-Prochaczek - psycholożka, psychoterapeutka
 * Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji *Dobra terapia*
 * Zuzanna Piechowic - dziennikarka, współautor audycji *Dobra terapia*
 * Maja Heban - dziennikarka
