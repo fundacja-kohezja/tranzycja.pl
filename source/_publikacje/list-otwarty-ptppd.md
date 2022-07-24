@@ -53,7 +53,7 @@ Z poważaniem
 * Lambda Szczecin
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 
-### Osoby
+### Osoby publiczne
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
 * Karolina Stachowiak - lekarka
 * Agata Młynarczyk-Buerk - psycholog, psychoterapeuta
