@@ -51,8 +51,10 @@ Z poważaniem
 * Fabryka Równości
 * Lambda Szczecin
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
+* Karolina Stachowiak, lekarka
 * Maja Heban, dziennikarka
 * Piotr Jacoń, dziennikarz
+* Wiktoria Jacoń
 
 :::info
 Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl).
