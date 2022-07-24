@@ -39,32 +39,22 @@ Jak wykazaliśmy, działania Marcusa i Susan Evansów są skrajnie transfobiczne
 
 W ostatnich miesiącach obserwujemy intensyfikację działań prawicy wymierzonych w osoby transpłciowe, zarówno za granicą (zakazy tranzycji osób niepełnoletnich w wielu stanach amerykańskich) jak i w Polsce (wypowiedzi Jarosława Kaczyńskiego, petycja Ordo Iuris o wprowadzenie analogicznego zakazu tranzycji w Polsce). Specjaliści zdrowia psychicznego, jako osoby odpowiedzialne za wspieranie swoich transpłciowych pacjentów, powinni w takiej sytuacji stanowić przeciwwagę dla tego trendu, stąd wyrażamy nadzieję, że Państwa decyzja o zaproszeniu Evansów jako gości konferencji nie wynika z aprobaty dla ich poglądów i działalności ani sympatii politycznych, a jedynie z nieświadomości. W świetle powyższych faktów wierzymy jednak, że jedynym wyjściem z tej przykrej sytuacji jest wycofanie zaproszenia. Służymy pomocą w poszukiwaniu innych psychoterapeutów, których warto ugościć na Państwa konferencji. Temat dysforii płciowej wśród młodzieży jest niezwykle istotny, ale równie istotnym jest potraktowanie go rzetelnie i z szacunkiem wobec osób transpłciowych oraz z ich aktywnym udziałem.
 
-___
-
-## Lista podpisów 
-
-:::info
-Jeśli chcesz, by Twój podpis został dodany do listy podpisów, napisz do nas na podpisy@tranzycja.pl
-:::
-
-**Organizacje pozarządowe i grupy nieformalne:**
+Z poważaniem
 
 1. Redakcja Tranzycja.pl
-2. Centrum Terapii HAAK w Poznaniu
+2. Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
 3. Fabryka Równości
 4. Fundacja Trans-Fuzja
 5. Grupa Stonewall
-6. Lambda Szczecin
-8. Równik Praw
-9. Stowarzyszenie Kampania Przeciw Homofobii
+6. Maja Heban, dziennikarka
+7. Lambda Szczecin
+8. Piotr Jacoń, dziennikarz
+9. Równik Praw
+10. Stowarzyszenie Kampania Przeciw Homofobii
 
-**Osoby indywidualne:**
-
-1. Piotr Jacoń
-2. Dominik Haak, zespół Centrum Terapii HAAK w Poznaniu
-3. Maja Heban
-4. Marek Urbaniak
-
+:::info
+Organizacje oraz osoby publiczne chcące dołączyć się do listy podpisów zapraszamy do skontaktowania się z nami przez e-mail kontakt@tranzycja.pl
+:::
 
 [^1]: Florence Ashley, [A critical commentary on ‘rapid-onset gender dysphoria’](https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_a_critical_commentary_on_rapid-onset_gender_dysphoria.pdf), *The Sociological Review*, 2020 r.
 [^2]: Greta R. Bauer, Margaret L. Lawson, Daniel L. Metzger, [Do Clinical Data from Transgender Adolescents Support the Phenomenon of “Rapid Onset Gender Dysphoria”?](Do Clinical Data from Transgender Adolescents Support the Phenomenon of “Rapid Onset Gender Dysphoria”?), *The Journal of Pediatrics*, 2022 r.
