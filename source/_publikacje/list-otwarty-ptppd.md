@@ -41,19 +41,19 @@ W ostatnich miesiącach obserwujemy intensyfikację działań prawicy wymierzony
 
 Z poważaniem
 
-1. Redakcja Tranzycja.pl
-2. Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
-3. Fabryka Równości
-4. Fundacja Trans-Fuzja
-5. Grupa Stonewall
-6. Maja Heban, dziennikarka
-7. Lambda Szczecin
-8. Piotr Jacoń, dziennikarz
-9. Równik Praw
-10. Stowarzyszenie Kampania Przeciw Homofobii
+Redakcja Tranzycja.pl
+Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
+Fabryka Równości
+Fundacja Trans-Fuzja
+Grupa Stonewall
+Maja Heban, dziennikarka
+Lambda Szczecin
+Piotr Jacoń, dziennikarz
+Równik Praw
+Stowarzyszenie Kampania Przeciw Homofobii
 
 :::info
-Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail kontakt@tranzycja.pl
+Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail (kontakt@tranzycja.pl)[mailto:kontakt@tranzyacja.pl]
 :::
 
 [^1]: Florence Ashley, [A critical commentary on ‘rapid-onset gender dysphoria’](https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_a_critical_commentary_on_rapid-onset_gender_dysphoria.pdf), *The Sociological Review*, 2020 r.
