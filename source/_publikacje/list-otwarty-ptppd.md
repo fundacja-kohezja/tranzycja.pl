@@ -44,9 +44,10 @@ Z poważaniem
 ## Podpisy
 ### Organizacje i grupy nieformalne
 * Zespół tranzycja.pl
+* Polskie Towarzystwo Terapii Poznawczej i Behawioralnej im. Prof. Zdzisława Bizonia (PTTPB)
 * Fundacja Trans-Fuzja
 * Rada Języka Neutralnego
-* Grupa Stonewall
+* Stowarzyszenie Grupa Stonewall
 * Stowarzyszenie Kampania Przeciw Homofobii
 * Stowarzyszenia na rzecz osób LGBT Tolerado
 * Stowarzyszenie Queerowy Maj
@@ -58,10 +59,12 @@ Z poważaniem
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 * Stowarzyszenie Łódzkie Dziewuchy Dziewuchom
 * Inicjatywa 8 Marca
+* Poznański Ruch Antyfaszystowski (Kolektyw PyRA)
 
 ### Osoby publiczne
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
 * Agnieszka Tousty-Ingielewicz - psycholog, psychoterapeuta, przewodnicząca PTTPB
+* Karolina Staniaszek - psycholożka, psychoterapeutka, superwizorka, wiceprzewodnicząca PTTPB
 * Karolina Stachowiak - lekarka
 * Agata Młynarczyk-Buerk - psycholog, psychoterapeuta
 * Jan Świerszcz - psycholog, psychoterapeuta
