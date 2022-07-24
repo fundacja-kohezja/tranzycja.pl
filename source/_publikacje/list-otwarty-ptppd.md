@@ -49,6 +49,8 @@ Z poważaniem
 * Grupa Stonewall
 * Stowarzyszenie Kampania Przeciw Homofobii
 * Stowarzyszenia na rzecz osób LGBT Tolerado
+* Stowarzyszenie Queerowy Maj
+* Fundacja Równość.org.pl
 * Równik Praw
 * Fabryka Równości
 * Lambda Szczecin
@@ -67,6 +69,7 @@ Z poważaniem
 * Krzysztof Kościółek- superwizorem, psychoterapeuta, seksuolog
 * Artur Król - psycholog, seksuolog
 * Maria Biegańska-Prochaczek - psycholożka, psychoterapeutka
+* Ania Tereszko - rezydentka psychiatrii, psycholożka
 * Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji *Dobra terapia*
 * Zuzanna Piechowic - dziennikarka, współautor audycji *Dobra terapia*
 * Maja Heban - dziennikarka
@@ -77,6 +80,7 @@ Z poważaniem
 * Linus Lewandowski - aktywista
 * Sybil Grzybowski - aktywista
 * Aleksandra Knapik-Gauza i Katarzyna Gauza - aktywistki
+* Edyta Baker - aktywistka
 * Alicja Fidowicz, Uniwersytet Jagielloński
 
 :::info
