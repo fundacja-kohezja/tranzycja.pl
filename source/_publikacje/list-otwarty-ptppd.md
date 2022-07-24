@@ -50,6 +50,7 @@ Z poważaniem
 * Równik Praw
 * Fabryka Równości
 * Lambda Szczecin
+* Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
 * Karolina Stachowiak, lekarka
 * Maja Heban, dziennikarka
