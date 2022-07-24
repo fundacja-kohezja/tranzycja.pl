@@ -51,6 +51,7 @@ Z poważaniem
 * Równik Praw
 * Fabryka Równości
 * Lambda Szczecin
+* Homokomando
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 
 ### Osoby publiczne
@@ -58,7 +59,7 @@ Z poważaniem
 * Karolina Stachowiak - lekarka
 * Agata Młynarczyk-Buerk - psycholog, psychoterapeuta
 * Jan Świerszcz - psycholog, psychoterapeuta
-* Dr Aleksandra Sarna - psycholog
+* Aleksandra Sarna - psycholog
 * Julia Pankiewicz - rezydentka psychiatrii
 * Maja Heban - dziennikarka
 * Anna Tess Gołębiowska - dziennikarka
@@ -66,6 +67,7 @@ Z poważaniem
 * Wiktoria Jacoń
 * Alicja Fidowicz, Uniwersytet Jagielloński
 * Lu Olszewski - aktywistka
+* Linus Lewandowski - aktywista
 
 :::info
 Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl).
