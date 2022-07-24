@@ -53,6 +53,7 @@ Z poważaniem
 * Lambda Szczecin
 * Homokomando
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
+* Stowarzyszenie Łódzkie Dziewuchy Dziewuchom
 
 ### Osoby publiczne
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
@@ -68,6 +69,7 @@ Z poważaniem
 * Alicja Fidowicz, Uniwersytet Jagielloński
 * Lu Olszewski - aktywistka
 * Linus Lewandowski - aktywista
+* Aleksandra Knapik-Gauza i Katarzyna Gauza - aktywistki
 
 :::info
 Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl).
