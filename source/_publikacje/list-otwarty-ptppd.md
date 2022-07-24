@@ -61,6 +61,7 @@ Z poważaniem
 
 ### Osoby publiczne
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
+* Agnieszka Tousty-Ingielewicz - psycholog, psychoterapeuta, przewodnicząca PTTPB
 * Karolina Stachowiak - lekarka
 * Agata Młynarczyk-Buerk - psycholog, psychoterapeuta
 * Jan Świerszcz - psycholog, psychoterapeuta
