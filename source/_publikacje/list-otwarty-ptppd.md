@@ -55,7 +55,7 @@ Z poważaniem
 * Piotr Jacoń, dziennikarz
 
 :::info
-Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail (kontakt@tranzycja.pl)[mailto:kontakt@tranzyacja.pl]
+Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl).
 :::
 
 [^1]: Florence Ashley, [A critical commentary on ‘rapid-onset gender dysphoria’](https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_a_critical_commentary_on_rapid-onset_gender_dysphoria.pdf), *The Sociological Review*, 2020 r.
