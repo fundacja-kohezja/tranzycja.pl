@@ -64,6 +64,14 @@ class CustomMdParser implements MarkdownParser
             'fuzzyLink'  => false
         ]);
 
+        /* fix {{'@'}} in mailto links */
+        $parser->renderer->rules->link_open = function($tokens, $idx, $options, $env, $slf) {
+            if ($url = $tokens[$idx]->attrGet('href')) {
+                $tokens[$idx]->attrSet('href', str_replace("%7B%7B'@'%7D%7D", '@', $url));
+            }
+            return $slf->renderToken($tokens, $idx, $options, $env, $slf);
+        };
+
         $this->content = $parser->render($this->content);
         
         return $this;
