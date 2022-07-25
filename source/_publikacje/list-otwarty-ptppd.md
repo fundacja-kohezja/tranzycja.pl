@@ -73,7 +73,7 @@ Z poważaniem
 * Jan Świerszcz - psycholog, psychoterapeuta
 * Aleksandra Sarna - psycholog
 * Julia Pankiewicz - rezydentka psychiatrii
-* Krzysztof Kościółek- superwizorem, psychoterapeuta, seksuolog
+* Krzysztof Kościółek- superwizor, psychoterapeuta, seksuolog
 * Grzegorz Marek - psycholog, psychoterapeuta, działacz społeczny
 * Julianna Graczyk - psychoseksuolożka
 * Beata Sieczko - psychoterapeutka
