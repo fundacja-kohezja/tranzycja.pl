@@ -44,7 +44,6 @@ Z poważaniem
 ## Podpisy
 ### Organizacje i grupy nieformalne
 * Zespół tranzycja.pl
-* Polskie Towarzystwo Terapii Poznawczej i Behawioralnej im. Prof. Zdzisława Bizonia (PTTPB)
 * Fundacja Trans-Fuzja
 * Rada Języka Neutralnego
 * Stowarzyszenie Grupa Stonewall
@@ -58,47 +57,52 @@ Z poważaniem
 * Lambda Szczecin
 * Kolektyw Grupa Nieustającej Pomocy
 * Homokomando
-* Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
+* Fundacja Herstory
 * Stowarzyszenie Łódzkie Dziewuchy Dziewuchom
 * Inicjatywa 8 Marca
 * Poznański Ruch Antyfaszystowski (Kolektyw PyRA)
 
-### Osoby publiczne
-* Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
-* Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB
-* Karolina Staniaszek - psycholożka, psychoterapeutka, superwizorka, wiceprzewodnicząca PTTPB
-* Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta
-* Karolina Stachowiak - lekarka
-* Agata Młynarczyk-Buerk - psycholog, psychoterapeuta
-* Jan Świerszcz - psycholog, psychoterapeuta
-* Aleksandra Sarna - psycholog
-* Julia Pankiewicz - rezydentka psychiatrii
-* Krzysztof Kościółek- superwizor, psychoterapeuta, seksuolog
-* Grzegorz Marek - psycholog, psychoterapeuta, działacz społeczny
-* Julianna Graczyk - psychoseksuolożka
-* Beata Sieczko - psychoterapeutka
-* Magdalena Kujda - psycholog, psychoterapeuta
-* Katarzyna Grabia - psycholog
-* Ewa Bujacz - psychiatrka dzieci i młodzieży, psychoterapeutka dzieci i młodzieży w trakcie szkolenia
-* Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
-* Artur Król - psycholog, seksuolog
-* Maria Biegańska-Prochaczek - psycholożka, psychoterapeutka
-* Dominika Rajska - psycholożka, psychoterapeutka
-* Ania Tereszko - rezydentka psychiatrii, psycholożka
-* Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji *Dobra terapia*
-* Zuzanna Piechowic - dziennikarka, współautor audycji *Dobra terapia*
-* Maja Heban - dziennikarka
-* Anna Tess Gołębiowska - dziennikarka
-* Miłosz Wiatrowski - dziennikarz
-* Piotr Jacoń - dziennikarz
-* Wiktoria Jacoń
-* Lu Olszewski - aktywistka
-* Linus Lewandowski - aktywista
-* Sybil Grzybowski - aktywista
-* Magdalena Pilecka - aktywistka, blog_ka.pl
-* Aleksandra Knapik-Gauza i Katarzyna Gauza - aktywistki
+### Środowisko naukowe i medyczne
+* Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu 
+* Polskie Towarzystwo Terapii Poznawczej i Behawioralnej im. Prof. Zdzisława Bizonia (PTTPB)
+* dr n. społ. Karolina Staniaszek - psycholożka, psychoterapeutka, superwizorka, wiceprzewodnicząca PTTPB
+* dr n. o zdr. Kosma Kołodziej, CM UMK
+* dr Aleksandra Sarna - psycholog
+* dr Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji Dobra terapia
+* dr Alicja Fidowicz, Uniwersytet Jagielloński
+* lek. Karolina Stachowiak - lekarka 
+* lek. Ewa Bujacz - psychiatrka dzieci i młodzieży, psychoterapeutka dzieci i młodzieży w trakcie szkolenia * Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
+* lek. Julia Pankiewicz - rezydentka psychiatrii
+* lek. Ania Tereszko - rezydentka psychiatrii, psycholożka 
+* mgr Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB 
+* mgr Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta 
+* mgr Agata Młynarczyk-Burek - psycholog, psychoterapeuta 
+* mgr Jan Świerszcz - psycholog, psychoterapeuta
+* mgr Krzysztof Kościółek- superwizorem, psychoterapeuta, seksuolog 
+* mgr Grzegorz Marek - psycholog, psychoterapeuta, działacz społeczny 
+* mgr Julianna Graczyk - psychoseksuolożka 
+* mgr Beata Sieczko - psychoterapeutka 
+* mgr Magdalena Kujda - psycholog, psychoterapeuta 
+* mgr Katarzyna Grabia - psycholog
+* mgr Artur Król - psycholog, seksuolog 
+* mgr Maria Biegańska-Prochaczek - psycholożka, psychoterapeutka 
+* mgr Dominika Rajska - psycholożka, psychoterapeutka
+* mgr Marcin Grabowski - psycholog, seksuolog, psychoterapeuta
+* Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
+
+### Osoby publiczne 
+* Zuzanna Piechowic - dziennikarka, współautor audycji Dobra terapia 
+* Maja Heban - dziennikarka 
+* Anna Tess Gołębiowska - dziennikarka 
+* Miłosz Wiatrowski - dziennikarz 
+* Piotr Jacoń - dziennikarz 
+* Wiktoria Jacoń 
+* Lu Olszewski - aktywistka 
+* Linus Lewandowski – aktywista
+* Sybil Grzybowski - aktywista 
+* Magdalena Pilecka - aktywistka, blog_ka.pl 
+* Aleksandra Knapik-Gauza i Katarzyna Gauza - aktywistki 
 * Edyta Baker - aktywistka
-* Alicja Fidowicz, Uniwersytet Jagielloński
 
 :::info
 Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl).
