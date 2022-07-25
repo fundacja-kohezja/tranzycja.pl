@@ -52,6 +52,7 @@ Z poważaniem
 * Stowarzyszenia na rzecz osób LGBT Tolerado
 * Stowarzyszenie Queerowy Maj
 * Fundacja Równość.org.pl
+* Fundacja Młodorośli
 * Równik Praw
 * Fabryka Równości
 * Lambda Szczecin
