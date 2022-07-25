@@ -83,6 +83,7 @@ Z poważaniem
 * Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
 * Artur Król - psycholog, seksuolog
 * Maria Biegańska-Prochaczek - psycholożka, psychoterapeutka
+* Dominika Rajska - psycholożka, psychoterapeutka
 * Ania Tereszko - rezydentka psychiatrii, psycholożka
 * Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji *Dobra terapia*
 * Zuzanna Piechowic - dziennikarka, współautor audycji *Dobra terapia*
