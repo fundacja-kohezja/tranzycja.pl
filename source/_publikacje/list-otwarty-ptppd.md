@@ -71,7 +71,8 @@ Z poważaniem
 * dr Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji Dobra terapia
 * dr Alicja Fidowicz, Uniwersytet Jagielloński
 * lek. Karolina Stachowiak - lekarka 
-* lek. Ewa Bujacz - psychiatrka dzieci i młodzieży, psychoterapeutka dzieci i młodzieży w trakcie szkolenia * Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
+* lek. Ewa Bujacz - psychiatrka dzieci i młodzieży, psychoterapeutka dzieci i młodzieży w trakcie szkolenia
+* lek. Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
 * lek. Julia Pankiewicz - rezydentka psychiatrii
 * lek. Ania Tereszko - rezydentka psychiatrii, psycholożka 
 * mgr Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB 
@@ -88,6 +89,7 @@ Z poważaniem
 * mgr Maria Biegańska-Prochaczek - psycholożka, psychoterapeutka 
 * mgr Dominika Rajska - psycholożka, psychoterapeutka
 * mgr Marcin Grabowski - psycholog, seksuolog, psychoterapeuta
+* mgr Magdalena Widłak-Langer - psycholożka
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 
 ### Osoby publiczne 
