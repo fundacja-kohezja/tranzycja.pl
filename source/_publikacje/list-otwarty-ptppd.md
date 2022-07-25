@@ -75,7 +75,8 @@ Z poważaniem
 * lek. Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
 * lek. Julia Pankiewicz - rezydentka psychiatrii
 * lek. Ania Tereszko - rezydentka psychiatrii, psycholożka 
-* mgr Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB 
+* mgr Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB
+* mgr Dorota Baran - psycholog, seksuolog kliniczny, psychoterapeuta, skarbnik PTTPB 
 * mgr Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta 
 * mgr Agata Młynarczyk-Burek - psycholog, psychoterapeuta 
 * mgr Jan Świerszcz - psycholog, psychoterapeuta
@@ -96,7 +97,8 @@ Z poważaniem
 * Zuzanna Piechowic - dziennikarka, współautor audycji Dobra terapia 
 * Maja Heban - dziennikarka 
 * Anna Tess Gołębiowska - dziennikarka 
-* Miłosz Wiatrowski - dziennikarz 
+* Miłosz Wiatrowski - dziennikarz
+* Jędrzej Dudkiewicz - dziennikarz
 * Piotr Jacoń - dziennikarz 
 * Wiktoria Jacoń 
 * Lu Olszewski - aktywistka 
