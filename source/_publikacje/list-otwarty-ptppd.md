@@ -55,6 +55,7 @@ Z poważaniem
 * Równik Praw
 * Fabryka Równości
 * Lambda Szczecin
+* Kolektyw Grupa Nieustającej Pomocy
 * Homokomando
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 * Stowarzyszenie Łódzkie Dziewuchy Dziewuchom
@@ -63,7 +64,7 @@ Z poważaniem
 
 ### Osoby publiczne
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
-* Agnieszka Tousty-Ingielewicz - psycholog, psychoterapeuta, przewodnicząca PTTPB
+* Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB
 * Karolina Staniaszek - psycholożka, psychoterapeutka, superwizorka, wiceprzewodnicząca PTTPB
 * Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta
 * Karolina Stachowiak - lekarka
@@ -72,6 +73,13 @@ Z poważaniem
 * Aleksandra Sarna - psycholog
 * Julia Pankiewicz - rezydentka psychiatrii
 * Krzysztof Kościółek- superwizorem, psychoterapeuta, seksuolog
+* Grzegorz Marek - psycholog, psychoterapeuta, działacz społeczny
+* Julianna Graczyk - psychoseksuolożka
+* Beata Sieczko - psychoterapeutka
+* Magdalena Kujda - psycholog, psychoterapeuta
+* Katarzyna Grabia - psycholog
+* Ewa Bujacz - psychiatrka dzieci i młodzieży, psychoterapeutka dzieci i młodzieży w trakcie szkolenia
+* Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
 * Artur Król - psycholog, seksuolog
 * Maria Biegańska-Prochaczek - psycholożka, psychoterapeutka
 * Ania Tereszko - rezydentka psychiatrii, psycholożka
@@ -79,6 +87,7 @@ Z poważaniem
 * Zuzanna Piechowic - dziennikarka, współautor audycji *Dobra terapia*
 * Maja Heban - dziennikarka
 * Anna Tess Gołębiowska - dziennikarka
+* Miłosz Wiatrowski - dziennikarz
 * Piotr Jacoń - dziennikarz
 * Wiktoria Jacoń
 * Lu Olszewski - aktywistka
