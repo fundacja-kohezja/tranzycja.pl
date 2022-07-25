@@ -95,6 +95,7 @@ Z poważaniem
 * Lu Olszewski - aktywistka
 * Linus Lewandowski - aktywista
 * Sybil Grzybowski - aktywista
+* Magdalena Pilecka - aktywistka, blog_ka.pl
 * Aleksandra Knapik-Gauza i Katarzyna Gauza - aktywistki
 * Edyta Baker - aktywistka
 * Alicja Fidowicz, Uniwersytet Jagielloński
