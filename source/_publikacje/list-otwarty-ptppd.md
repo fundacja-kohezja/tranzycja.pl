@@ -65,6 +65,7 @@ Z poważaniem
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
 * Agnieszka Tousty-Ingielewicz - psycholog, psychoterapeuta, przewodnicząca PTTPB
 * Karolina Staniaszek - psycholożka, psychoterapeutka, superwizorka, wiceprzewodnicząca PTTPB
+* Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta
 * Karolina Stachowiak - lekarka
 * Agata Młynarczyk-Buerk - psycholog, psychoterapeuta
 * Jan Świerszcz - psycholog, psychoterapeuta
