@@ -16,7 +16,7 @@ Terapia hormonalna jest jedną z najczęściej stosowanych interwencji medycznyc
 | -------- | -------- |
 | Czerwony | Zmiany są trwałe. |
 | Fioletowy | Zmiany mogą być trwałe, im dużej trwa terapia hormonalna tym bardziej prawdopodobne, że takie będą |
-| Zielony | Zmiany utrzymują się w trakcie terapii, cofają się przy powrocie do testosteronu |
+| Zielony | Zmiany utrzymują się w trakcie terapii, cofają się po odstawieniu testosteronu |
 | Niebieski | HRT jest znaczącym czynnikiem, ale zależą też od indywidualnych działań danej osoby |
 :::
 #### Zmiany psychologiczne 
