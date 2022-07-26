@@ -66,6 +66,7 @@ Z poważaniem
 ### Środowisko naukowe i medyczne
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu 
 * Polskie Towarzystwo Terapii Poznawczej i Behawioralnej im. Prof. Zdzisława Bizonia (PTTPB)
+* Polskie Stowarzyszenie Studentów i Absolwentów Psychologii
 * dr n. społ. Karolina Staniaszek - psycholożka, psychoterapeutka, superwizorka, wiceprzewodnicząca PTTPB
 * dr n. o zdr. Kosma Kołodziej, CM UMK
 * dr Aleksandra Sarna - psycholog
@@ -79,6 +80,10 @@ Z poważaniem
 * lek. Ania Tereszko - rezydentka psychiatrii, psycholożka
 * lek. Maja Czepiel - lekarka, rezydentka psychiatrii
 * lek. Katarzyna Marzęda
+* lek. Monika Szymczakowska - psychiatra
+* lek. Olga Sikorska - psychiatra
+* lek. Patrycja Rybak - rezydentka psychiatrii
+* lek. Agata Chylińska - rezydentka psychiatrii
 * mgr Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB
 * mgr Dorota Baran - psycholog, seksuolog kliniczny, psychoterapeuta, skarbnik PTTPB 
 * mgr Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta 
@@ -89,6 +94,8 @@ Z poważaniem
 * mgr Julianna Graczyk - psychoseksuolożka
 * mgr Joanna Maciejewska, psycholożka
 * mgr Daniel Pobudkiewicz - psycholog
+* mgr Aleksandra Woźniak-Miszewska - psycholog
+* mgr Angelika Sadkowska - psycholożka
 * mgr Ania Moczulska - psycholożka, psychoterapeutka w trakcie certyfikacji
 * mgr Joanna Kruk - psycholożka, psychoterapeutka
 * mgr Daniela Frygier - socjoterapeutka
@@ -118,6 +125,7 @@ Z poważaniem
 * Magdalena Pilecka - aktywistka, blog_ka.pl 
 * Aleksandra Knapik-Gauza i Katarzyna Gauza - aktywistki 
 * Edyta Baker - aktywistka
+* Jakub Sajkowski - poeta, tłumacz
 
 :::info
 Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl).
