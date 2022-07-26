@@ -70,6 +70,7 @@ Z poważaniem
 * dr n. o zdr. Kosma Kołodziej, CM UMK
 * dr Aleksandra Sarna - psycholog
 * dr Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji Dobra terapia
+* dr Andrzej Śliwerski, Instytut Psychologii Uniwersytetu Łódzkiego, psychoterapeuta
 * dr Alicja Fidowicz, Uniwersytet Jagielloński
 * lek. Karolina Stachowiak - lekarka 
 * lek. Ewa Bujacz - psychiatrka dzieci i młodzieży, psychoterapeutka dzieci i młodzieży w trakcie szkolenia
@@ -77,6 +78,7 @@ Z poważaniem
 * lek. Julia Pankiewicz - rezydentka psychiatrii
 * lek. Ania Tereszko - rezydentka psychiatrii, psycholożka
 * lek. Maja Czepiel - lekarka, rezydentka psychiatrii
+* lek. Katarzyna Marzęda
 * mgr Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB
 * mgr Dorota Baran - psycholog, seksuolog kliniczny, psychoterapeuta, skarbnik PTTPB 
 * mgr Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta 
