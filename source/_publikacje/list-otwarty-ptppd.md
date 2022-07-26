@@ -75,17 +75,19 @@ Z poważaniem
 * lek. Ewa Bujacz - psychiatrka dzieci i młodzieży, psychoterapeutka dzieci i młodzieży w trakcie szkolenia
 * lek. Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
 * lek. Julia Pankiewicz - rezydentka psychiatrii
-* lek. Ania Tereszko - rezydentka psychiatrii, psycholożka 
+* lek. Ania Tereszko - rezydentka psychiatrii, psycholożka
+* lek. Maja Czepiel - lekarka, rezydentka psychiatrii
 * mgr Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB
 * mgr Dorota Baran - psycholog, seksuolog kliniczny, psychoterapeuta, skarbnik PTTPB 
 * mgr Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta 
-* mgr Agata Młynarczyk-Burek - psycholog, psychoterapeuta 
+* mgr Agata Młynarczyk-Burek - psycholog, psychoterapeuta uzależnien
 * mgr Jan Świerszcz - psycholog, psychoterapeuta
 * mgr Krzysztof Kościółek- superwizorem, psychoterapeuta, seksuolog 
 * mgr Grzegorz Marek - psycholog, psychoterapeuta, działacz społeczny 
 * mgr Julianna Graczyk - psychoseksuolożka
 * mgr Joanna Maciejewska, psycholożka
 * mgr Daniel Pobudkiewicz - psycholog
+* mgr Ania Moczulska - psycholożka, psychoterapeutka w trakcie certyfikacji
 * mgr Joanna Kruk - psycholożka, psychoterapeutka
 * mgr Daniela Frygier - socjoterapeutka
 * mgr Paulina Tokarczyk - psycholożka, psychoterapeutką w trakcie certyfikacji
