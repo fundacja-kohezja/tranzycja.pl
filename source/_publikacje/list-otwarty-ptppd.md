@@ -54,6 +54,7 @@ Z poważaniem
 * Fundacja Młodorośli
 * Równik Praw
 * Fabryka Równości
+* Stowarzyszenie Kultura Równości 
 * Lambda Szczecin
 * Kolektyw Grupa Nieustającej Pomocy
 * Homokomando
@@ -82,7 +83,13 @@ Z poważaniem
 * mgr Jan Świerszcz - psycholog, psychoterapeuta
 * mgr Krzysztof Kościółek- superwizorem, psychoterapeuta, seksuolog 
 * mgr Grzegorz Marek - psycholog, psychoterapeuta, działacz społeczny 
-* mgr Julianna Graczyk - psychoseksuolożka 
+* mgr Julianna Graczyk - psychoseksuolożka
+* mgr Joanna Maciejewska, psycholożka
+* mgr Daniel Pobudkiewicz - psycholog
+* mgr Joanna Kruk - psycholożka, psychoterapeutka
+* mgr Daniela Frygier - socjoterapeutka
+* mgr Paulina Tokarczyk - psycholożka, psychoterapeutką w trakcie certyfikacji
+* mgr Lidia Rymarkiewicz-Wnęk - psycholog, psychoterapeuta w procesie certyfikacji
 * mgr Beata Sieczko - psychoterapeutka 
 * mgr Magdalena Kujda - psycholog, psychoterapeuta 
 * mgr Katarzyna Grabia - psycholog
