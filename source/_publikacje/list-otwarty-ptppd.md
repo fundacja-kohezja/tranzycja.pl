@@ -59,21 +59,27 @@ Z poważaniem
 * Kolektyw Grupa Nieustającej Pomocy
 * Homokomando
 * Fundacja Herstory
+* Strajk Kobiet Kraków
+* Fundacja Psycho-Edukacja
 * Stowarzyszenie Łódzkie Dziewuchy Dziewuchom
 * Inicjatywa 8 Marca
 * Poznański Ruch Antyfaszystowski (Kolektyw PyRA)
 
 ### Środowisko naukowe i medyczne
-* Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu 
+
 * Polskie Towarzystwo Terapii Poznawczej i Behawioralnej im. Prof. Zdzisława Bizonia (PTTPB)
-* Polskie Stowarzyszenie Studentów i Absolwentów Psychologii
 * dr n. społ. Karolina Staniaszek - psycholożka, psychoterapeutka, superwizorka, wiceprzewodnicząca PTTPB
 * dr n. o zdr. Kosma Kołodziej, CM UMK
+* dr hab. prof. UAM Marcela Kościańczuk
+* dr n.med. Adam Woźniak - specjalista psychiatra
+* dr Anna Tylikowska, psycholożka i psychoterapeutka
+* dr n. hum. Anna Mach-Żebrowska - certyfikowana psychoterapeutka, psycholożka, 
 * dr Aleksandra Sarna - psycholog
 * dr Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji Dobra terapia
 * dr Andrzej Śliwerski, Instytut Psychologii Uniwersytetu Łódzkiego, psychoterapeuta
 * dr Alicja Fidowicz, Uniwersytet Jagielloński
 * lek. Karolina Stachowiak - lekarka 
+* lek. Paula Ziółkowska - lekarka, rezydentka chorób wewnętrznych
 * lek. Ewa Bujacz - psychiatrka dzieci i młodzieży, psychoterapeutka dzieci i młodzieży w trakcie szkolenia
 * lek. Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
 * lek. Julia Pankiewicz - rezydentka psychiatrii
@@ -109,7 +115,25 @@ Z poważaniem
 * mgr Dominika Rajska - psycholożka, psychoterapeutka
 * mgr Marcin Grabowski - psycholog, seksuolog, psychoterapeuta
 * mgr Magdalena Widłak-Langer - psycholożka
+* mgr Ela Kardacka-Gruszka - psycholożka, oligogrenopedagożka, terapeutka zajęciowa
+* mgr Maciej Dąbrowski - psycholog, psychoterapeuta
+* mgr Barbara Janisławska - psycholożka, psychoterapeutka
+* mgr Jadwiga Samolińska - psychoterapeutka
+* mgr Patrycja Orłowska  - psycholog
+* mgr Daria Świderek - psycholożka, seksuolożka
+* mgr Anna Tobolewska - psycholożka, psychoterapeutka
+* mgr Maciej Schmidt - psycholog, seksuolog
+* mgr Karolina Królikowska-Grzelak - psycholog, psychoterapeutka
+* mgr Martyna Dutkiewicz - psycholog, psychoterapeuta w trakcie certyfikacji
+* mgr Rafał Suchta - psycholog, interwent kryzysowy
+* mgr Dominika Paradowska - psycholożka, psycholożka- seksuolożka
+* mgr Halina Zaszkiewicz - psycholożka
+* mgr Lena Skalska - psycholog
+* Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
+* Bezpieczne Miejsce, Centrum Terapii DBT - Maria Bagińska, Martyna Stefańska, Ada Gomoradzka, Zuzanna Kalinowska, Antoni Głaz, Joanna Wiatr-Abramowska i Ewa Grzybowska
+* Polskie Stowarzyszenie Studentów i Absolwentów Psychologii
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
+* Stowarzyszenie Społeczności LGBT+ UAM
 
 ### Osoby publiczne 
 * Zuzanna Piechowic - dziennikarka, współautor audycji Dobra terapia 
@@ -125,6 +149,7 @@ Z poważaniem
 * Magdalena Pilecka - aktywistka, blog_ka.pl 
 * Aleksandra Knapik-Gauza i Katarzyna Gauza - aktywistki 
 * Edyta Baker - aktywistka
+* Janina Bąk - aktywistka
 * Jakub Sajkowski - poeta, tłumacz
 
 :::info
