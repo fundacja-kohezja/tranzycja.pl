@@ -69,6 +69,7 @@ Z poważaniem
 
 * Polskie Towarzystwo Terapii Poznawczej i Behawioralnej im. Prof. Zdzisława Bizonia (PTTPB)
 * dr n. społ. Karolina Staniaszek - psycholożka, psychoterapeutka, superwizorka, wiceprzewodnicząca PTTPB
+* dr n. med. Łukasz Müldner-Nieckowski, psychiatra, psychoterapeuta, seksuolog, superwizor, przewodniczący zarządu SNP PTP, prezes PTPJ.
 * dr n. o zdr. Kosma Kołodziej, CM UMK
 * dr hab. prof. UAM Marcela Kościańczuk
 * dr n.med. Adam Woźniak - specjalista psychiatra
