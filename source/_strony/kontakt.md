@@ -27,3 +27,5 @@ Pracujesz w mediach i chcesz z nami porozmawiać o naszym projekcie, tranzycji i
 Śmiało! Treści dostępne na naszej stronie, z pominięciem publikacji autorskich oraz gdy zaznaczone jest inaczej, rozwijane są na licencji uznanie autorstwa-na tych samych warunkach 3.0 Polska [(CC BY-SA 3.0 PL)](https://creativecommons.org/licenses/by-sa/3.0/pl/). To znaczy, że możesz skorzystać z nich nieodpłatnie, także przy innych projektach, pod warunkiem czytelnego wskazania autorstwa i zastosowania się do pozostałych zasad licencji. Dokładniejsze informacje znajdziesz w sekcji [licencja](/wsparcie/licencja).
 
 :::
+
+<script type="text/javascript" src="https://webform.statslive.info/ow/eyJpdiI6InczekdTUTRMdHAzMWVyV2xaR0k1djNhelpUdTZIcFNJQWRkZGNDRTV2bGs9IiwidmFsdWUiOiJpRWdHUlZxNXRWUW1pKzdCVnBIS3ZYUmNOcXZwSWIrUlwvYVpkOU5KcFJEQT0iLCJtYWMiOiJiZjZjZTBlMDkxY2UxYmE0MDZmZWRiMWRjYjFjN2UzMTRhNDc5NTg0MzI2ZTcxYzBjNDE1ODkwYzI2NmVjOTk5In0="></script>
