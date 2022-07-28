@@ -63,6 +63,7 @@ Z poważaniem
 * Fundacja Psycho-Edukacja
 * Stowarzyszenie Łódzkie Dziewuchy Dziewuchom
 * Inicjatywa 8 Marca
+* Stowarzyszenie Nomada
 * Poznański Ruch Antyfaszystowski (Kolektyw PyRA)
 
 ### Środowisko naukowe i medyczne
@@ -91,6 +92,7 @@ Z poważaniem
 * lek. Olga Sikorska - psychiatra
 * lek. Patrycja Rybak - rezydentka psychiatrii
 * lek. Agata Chylińska - rezydentka psychiatrii
+* lek. Leszek Asman - lekarz specjalista psychiatra
 * mgr Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB
 * mgr Dorota Baran - psycholog, seksuolog kliniczny, psychoterapeuta, skarbnik PTTPB 
 * mgr Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta 
@@ -151,6 +153,7 @@ Z poważaniem
 * Aleksandra Knapik-Gauza i Katarzyna Gauza - aktywistki 
 * Edyta Baker - aktywistka
 * Janina Bąk - aktywistka
+* Lalka Podobińska - współzałożycielka Fundacji Trans-Fuzja
 * Jakub Sajkowski - poeta, tłumacz
 
 :::info
