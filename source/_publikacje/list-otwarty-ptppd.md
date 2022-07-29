@@ -162,7 +162,7 @@ Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapr
 
 :::info
 
-W treście listu zostało poprawione odniesienie do książki *Gender Dysphoria A Therapeutic Model for Working with Children, Adolescents and Young Adults* ze s. 56 na s. 57. Za błąd serdecznie przepraszamy.
+W treści listu zostało poprawione odniesienie do książki *Gender Dysphoria A Therapeutic Model for Working with Children, Adolescents and Young Adults* ze s. 56 na s. 57. Za błąd serdecznie przepraszamy.
 
 :::
 
