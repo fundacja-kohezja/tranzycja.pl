@@ -1,7 +1,7 @@
 ---
 opublikowano: '2022-05-22 15:00:00'
 zaktualizowano: '2022-05-31 12:00:00'
-tags: english
+tags: English
 meta: 
     Autorzy: Dag
     Korekta: Nina
