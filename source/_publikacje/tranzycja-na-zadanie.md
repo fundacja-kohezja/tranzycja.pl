@@ -1,6 +1,10 @@
 ---
 opublikowano: '2022-06-24 07:30:36'
 zaktualizowano: '2022-06-24 07:30:36'
+tags: publikacje, modele opieki
+meta:
+  Autorzy: Nina, Dag
+  Korekta: Tash, Kasia
 ---
 # Tranzycja na żądanie, czyli model świadomej zgody.
 
