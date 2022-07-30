@@ -1,10 +1,11 @@
 ---
 opublikowano: '2021-10-16 19:09:13'
 zaktualizowano: '2021-10-19 12:00:00'
-tags: English
+tags:
 meta: 
     Autorzy: Dag
     Korekta: Nina
+lang: ENG
 ---
 # Detransition: I wouldn't like to have it any other way.
 
