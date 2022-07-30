@@ -141,7 +141,7 @@ Z poważaniem
 * Stowarzyszenie Społeczności LGBT+ UAM
 
 ### Osoby publiczne 
-* Zuzanna Piechowic - dziennikarka, współautor audycji Dobra terapia 
+* Zuzanna Piechowicz - dziennikarka, współautorka audycji Dobra terapia 
 * Maja Heban - dziennikarka 
 * Anna Tess Gołębiowska - dziennikarka 
 * Miłosz Wiatrowski - dziennikarz
