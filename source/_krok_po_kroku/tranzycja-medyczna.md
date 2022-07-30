@@ -1,6 +1,9 @@
 ---
 kolejnosc: 50
-tags: dag&nina, krok po kroku
+tags: krok po kroku, tranzycja medyczna, terapia hormonalna
+meta: 
+    Autorzy: Nina
+    Korekta: Kasia, Dag, Tash
 zaktualizowano: '2022-04-01 12:00:00'
 ---
 # Jak rozpocząć tranzycję medyczną? Proces diagnostyczny
@@ -22,7 +25,7 @@ W celu uzyskania dostępu do interwencji medycznych afirmujących płeć, takich
 
 Liczba specjalistów biorących udział w procesie diagnostycznym może być różna, ale modelowo powinny być to dwie osoby:
 1. psycholog, najlepiej ze specjalizacją seksuologiczną, który ma za zadanie wystawić opinię psychologiczną. Jest to prawdopodobnie najbardziej czasochłonna część tranzycji, która przeważnie wymaga co najmniej kilku wizyt.
-2. lekarz ze specjalizacją seksuologiczną. W świetle prawa psycholog nie jest lekarzem, więc nie jest w stanie wystawić diagnozy medycznej. Potrzebny jest tutaj seksuolog kliniczny, czyli taki, który poza specjalizacją seksuologiczną ma też specjalizację lekarską. Najczęściej będzie to psychiatra-seksuolog, ale może być też ginekolog-seksuolog, endokrynolog-seksuolog, czy internista-seksuolog.
+2. psychiatra lub lekarz ze specjalizacją seksuologiczną. W świetle prawa psycholog nie jest lekarzem, więc nie jest w stanie wystawić diagnozy medycznej. Najczęściej będzie to psychiatra-seksuolog, ale może być też ginekolog-seksuolog, endokrynolog-seksuolog, czy internista-seksuolog. 
 
 Na ten moment używanym przez NFZ katalogiem chorób i zaburzeń jest ICD-10, w którym jednostką diagnostyczną leżącą najbliżej dysforii płciowej jest "transseksualizm" oznaczany kodem F64 — do zebrania dokumentacji z tym właśnie kodem dążymy. W następnych latach, wraz z implementacją ICD-11, kod i nazwa tej jednostki ulegnie zmianie, ale ma to bardzo umiarkowane przełożenie na sam proces diagnostyczny.
 
@@ -34,10 +37,10 @@ Powyżej opisany model jest często stosowany i kierując się zawartymi w nim w
 
 Do często spotykanych wariacji procesu diagnostycznego należą poniższe scenariusze:
 
-- seksuolog kliniczny może nie wymagać opinii psychologicznej i wystawić diagnozę bez niej opierając się wyłącznie na własnej ekspertyzie;
-- niektórzy seksuolodzy kliniczni mogą wypisać receptę na pierwszej wizycie, a diagnozę postawić dopiero po jakimś czasie (zgodnie z tzw. modelem świadomej zgody);
-- jeśli seksuolog kliniczny nie jest psychiatrą, może wymagać dodatkowego zaświadczenia od psychiatry o braku przeciwwskazań do tranzycji. W takim wypadku psychiatra nie musi posiadać specjalizacji seksuologicznej.
-- seksuolog kliniczny może zdecydować się samemu wypisać receptę na hormony i ustalić dawkowanie. Jeśli jest endokrynologiem-seksuologiem jest to dosyć naturalnym zjawiskiem, jeśli jednak jest psychiatrą-seksuologiem, to istnieje bardzo duże ryzyko, że nie ma do tego odpowiednich kompetencji. W takim wypadku po uzyskaniu diagnozy najlepiej zanieść ją razem z opinią psychologiczną do endokrynologa.
+- lekarz-seksuolog może nie wymagać opinii psychologicznej i wystawić diagnozę bez niej opierając się wyłącznie na własnej ekspertyzie;
+- niektórzy lekarze-seksuologowie mogą wypisać receptę na pierwszej wizycie, a diagnozę postawić dopiero po jakimś czasie (zgodnie z tzw. modelem świadomej zgody);
+- jeśli lekarz-seksuolog nie jest psychiatrą, może wymagać dodatkowego zaświadczenia od psychiatry o braku przeciwwskazań do tranzycji.
+- lekarz-seksuolog może zdecydować się samemu wypisać receptę na hormony i ustalić dawkowanie. Jeśli jest endokrynologiem-seksuologiem jest to dosyć naturalnym zjawiskiem, jeśli jednak jest psychiatrą-seksuologiem, to istnieje bardzo duże ryzyko, że nie ma do tego odpowiednich kompetencji. W takim wypadku po uzyskaniu diagnozy najlepiej zanieść ją razem z opinią psychologiczną do endokrynologa.
 - może istnieć opcja obejścia diagnozy medycznej, gdyż niektorzy endokrynolodzy wypiszą receptę na HRT wyłącznie w oparciu o opinię psychologiczną i/lub zaświadczenie o braku przeciwwskazań do tranzycji. 
 
 Okoliczność ta znacząco utrudnia nam sformułowanie uniwersalnego poradnika: **w praktyce w zależności od tego, do jakiego lekarza pójdziesz, możesz spotkać się z diametralnie różnym traktowaniem.** Najpewniejszym sposobem na uzyskanie informacji odnośnie podejścia danego lekarza jest udanie się na grupy wsparcia dla osób trans i skorzystanie z opcji szukaj (wpisując np. nazwisko danego lekarza, czy miasto, w którym szukamy specjalisty - niektóre miasta mają też swoje lokalne grupy). 
@@ -50,7 +53,7 @@ Dwie największe grupy wsparcia dla osób trans w Polsce to:
 :::
 
 :::danger
-**Nie każdy psycholog-seksuolog czy seksuolog kliniczny będzie chętny do prowadzenia procesu diagnostycznego osobom transpłciowym**, a nawet jeśli ma to w swojej ofercie, to jeszcze nie znaczy, że posiada odpowiednie kompetencje. W z związku z tym szukanie specjalistów przez portale typu znanylekarz.pl może nie przynieść pozytywnych rezultatów. Przed umówieniem się na wizytę wskazane jest napisanie maila do lekarza/psychologa z pytaniem czy przyjmuje osoby trans i/lub sprawdzenie opinii o nim na grupach wsparcia. 
+**Nie każdy psycholog-seksuolog czy lekarz-seksuolog będzie chętny do prowadzenia procesu diagnostycznego osobom transpłciowym**, a nawet jeśli ma to w swojej ofercie, to jeszcze nie znaczy, że posiada odpowiednie kompetencje. W z związku z tym szukanie specjalistów przez portale typu znanylekarz.pl może nie przynieść pozytywnych rezultatów. Przed umówieniem się na wizytę wskazane jest napisanie maila do lekarza/psychologa z pytaniem czy przyjmuje osoby trans i/lub sprawdzenie opinii o nim na grupach wsparcia. 
 
 Jeśli mieszkasz w małym/średnim mieście lub na wsi, to w zdecydowanej większości przypadków wizyty u lekarzy będą wiązały się z podróżą do któregoś z wielkich miast.
 :::
@@ -98,7 +101,7 @@ Nie da się stwierdzić. Rekordziści dobierając sobie odpowiednich lekarzy pot
 - niekompetencja i/lub transfobia lekarza;
 - obecność innych zaburzeń, problemów psychicznych oraz zdrowotnych.
 
-Często spotykana długość to 4-6 wizyt u psychologa i 1-3 wizyty u seksuologa klinicznego. Jeśli chcesz się pospieszyć, to możesz postarać się umówić wizyty szybciej (szczególnie u mniej obleganych lekarzy możliwe jest np. umówienie dwóch wizyt w ciągu tygodnia).
+Często spotykana długość to 4-6 wizyt u psychologa i 1-3 wizyty u lekarza-seksuologa. Jeśli chcesz się pospieszyć, to możesz postarać się umówić wizyty szybciej (szczególnie u mniej obleganych lekarzy możliwe jest np. umówienie dwóch wizyt w ciągu tygodnia).
 
 O ile nie ma pewnego sposobu na upewnienie się, że nie spotkasz się z gatekeepingiem, to można postarać się wysondować specjalistę przez spytanie się go jak wielu wizyt będzie wymagać przed wystawianiem opinii lub diagnozy. **Lekarze wiecznie odsyłający na „potem” i nieumiejący określić żadnego jasnego terminu, mimo upływu kolejnych wizyt, mogą nie być godni zaufania.**
 
