@@ -3,7 +3,7 @@ kolejnosc: 80
 tags: krok po kroku, tranzycja medyczna, terapia hormonalna
 meta: 
     Autorzy: Nina, Kasia, Tash
-    Grafika: @maxluman
+    Grafika: maxluman
     Zdjęcia: Tash
 zaktualizowano: '2022-01-26 12:00:00'
 ---
