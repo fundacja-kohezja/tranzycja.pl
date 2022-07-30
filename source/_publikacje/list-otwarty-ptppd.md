@@ -108,7 +108,6 @@ Z poważaniem
 * mgr Daniel Pobudkiewicz - psycholog
 * mgr Aleksandra Woźniak-Miszewska - psycholog
 * mgr Angelika Sadkowska - psycholożka
-* mgr Ania Moczulska - psycholożka, psychoterapeutka w trakcie certyfikacji
 * mgr Joanna Kruk - psycholożka, psychoterapeutka
 * mgr Daniela Frygier - socjoterapeutka
 * mgr Paulina Tokarczyk - psycholożka, psychoterapeutką w trakcie certyfikacji
