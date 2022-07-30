@@ -91,7 +91,7 @@ Jeśli Ty lub któreś z rodziców mieszka stale poza Polską, nie ma przeszkód
 
 Jednakże, jeśli rodzice są nam przychylni, istnieje możliwość wybrania każdego innego Sądu Okręgowego w Polsce. Konieczna będzie do tego tzw. **umowa prorogacyjna**, w której obie strony proszą dany Sąd o przejęcie sprawy. Taka umowa powinna zostać podpisana przez obie strony (czyli przez Ciebie i Twoich rodziców/rodzica) i załączona razem z pozwem pod adres docelowego Sądu. Umowy nie trzeba poświadczać notarialnie. 
 
-**Z racji dużej zależności przebiegu procesu od postawy sędziego, taka ustawa prorogacyjna może w niektórych sytuacjach zaoszczędzić wiele czasu i stresu.** Przed złożeniem pozwu do danego Sądu, dobrze jest zasięgnąć o nim opinii na grupach wsparcia dla osób transpłciowych. Niektóre z Sądów Okręgowych cieszą się złą sławą, wynikającą z długiego czasu oczekiwania na pozew i przedłużającej proces postawy sędziów (dotyczy to w szczególności Sądów Okręgowych w Warszawie i Poznaniu), podczas gdy inne są znane z procesów szybkich i bezproblemowych (np. Słupsk, Koszalin i Piotrków Trybunalski). 
+**Z racji dużej zależności przebiegu procesu od postawy sędziego, taka umowa prorogacyjna może w niektórych sytuacjach zaoszczędzić wiele czasu i stresu.** Przed złożeniem pozwu do danego Sądu, dobrze jest zasięgnąć o nim opinii na grupach wsparcia dla osób transpłciowych. Niektóre z Sądów Okręgowych cieszą się złą sławą, wynikającą z długiego czasu oczekiwania na pozew i przedłużającej proces postawy sędziów (dotyczy to w szczególności Sądów Okręgowych w Warszawie i Poznaniu), podczas gdy inne są znane z procesów szybkich i bezproblemowych (np. Słupsk, Koszalin i Piotrków Trybunalski). 
 
 :::info
 Teoretycznie sąd może nie zgodzić się na umowę prorogacyjną i przekierować pozew do Sądu Okręgowego, który domyślnie miał zająć się sprawą, ale jest to bardzo rzadka okoliczność. Jeśli tak się stało, można napisać zażalenie na postanowienie o przekazaniu pozwu do innego Sądu Okręgowego. Powinien je przygotować profesjonalny prawnik. Takie zażalenia są zwykle rozpatrywane pozytywnie.
@@ -400,6 +400,8 @@ O historii podejścia do osób transpłciowych w prawie można więcej przeczyta
 - [Wzór wniosku o udostępnienie danych z rejestru PESEL](https://drive.google.com/file/d/1iGKHj2zlipgZwbj51y4imTyZCUqhVrQ_/view?usp=sharing)
 
 - [Wzór wniosku o przyspiesznie rozpoznania sprawy](https://docs.google.com/document/d/1TU21zhg9XBmNTFCAAVzHBb5R-54V4F4x/edit?usp=sharing&ouid=107936684266840851469&rtpof=true&sd=true)
+
+- [Wzrór umowy prorogacyjnej przygotowany przez Julię](/media/docs/prawo/umowa_prorogacyjna_wzor.docx)
 
 ## Dodatkowe materiały
 
