@@ -1,5 +1,8 @@
 ---
 kolejnosc: 100
+tags: krok po kroku
+meta: 
+    Autorzy: Tash
 zaktualizowano: '2021-11-14 12:00:00'
 ---
 # Dodatkowe materiały do pobrania
