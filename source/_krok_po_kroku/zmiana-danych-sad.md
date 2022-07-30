@@ -1,6 +1,9 @@
 ---
 kolejnosc: 91
-tags: dag&nina, opublikowane, krok po kroku
+tags: krok po kroku, tranzycja prawna
+meta: 
+    Autorzy: Nina, Marek Urbaniak
+    Korekta: Kasia, Dag
 zaktualizowano: '2022-03-31 12:00:00'
 ---
 # Jak zmienić oznaczenie płci w dokumentach? Poradnik do sądu
