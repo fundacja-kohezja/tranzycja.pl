@@ -1,9 +1,11 @@
 ---
 opublikowano: '2021-08-02 12:51:40'
 zaktualizowano: '2021-08-04 12:51:40'
-tags: opublikowane, tranfobia, terf
+tags: publikacje, media
+meta: 
+  Autorzy: Dag, Nina
 ---
-# Ku zaskoczeniu absolutnie nikogo, Gazeta Wyborcza ponownie opublikowała transfobiczny tekst
+# Ku zaskoczeniu nikogo, Gazeta Wyborcza ponownie opublikowała transfobiczny tekst
 
 Dogłębna analiza merytoryczna artykułu od strony naukowych i politycznych nieścisłości.
 
