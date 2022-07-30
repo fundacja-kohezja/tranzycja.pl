@@ -1,7 +1,9 @@
 ---
 opublikowano: '2021-02-01 20:51:12'
 zaktualizowano: '2021-11-29 12:00:00'
-tags: opublikowane, publikacje, zalążek testu
+tags: publikacje, tranzycja społeczna
+meta:
+  Autorzy: Tash
 ---
 # Transpłciowość w rodzinie
 
