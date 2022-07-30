@@ -1,6 +1,9 @@
 ---
 kolejnosc: 40
-tags: dag&nina, opublikowane, krok po kroku, hormony
+tags: krok po kroku, definicje
+meta: 
+    Autorzy: Nina
+    Korekta: Dag, Kasia
 zaktualizowano: '2021-10-16 12:00:00'
 ---
 # Euforia płciowa
