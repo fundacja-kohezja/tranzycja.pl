@@ -1,6 +1,9 @@
 ---
 kolejnosc: 1
-tags: dag&nina, opublikowane, krok po kroku
+tags: krok po kroku, tranzycja medyczna, definicje
+meta: 
+    Autorzy: Nina
+    Korekta: Tash, Dag, Kasia
 zaktualizowano: '2022-03-29 12:00:00'
 ---
 # Mapa tranzycji
@@ -31,7 +34,7 @@ Sprawdź nasze artykuły o [feminizującej](https://tranzycja.pl/krok-po-kroku/f
 
 Najczęściej do przepisania hormonów będziesz potrzebować: 
 - opinii psychologicznej od psychologa-seksuologa
-- diagnozy od seksuologa klinicznego 
+- diagnozy od lekarza-seksuologa lub psychiatry
 - endokrynologa, który dobierze dawki w oparciu o badania krwi.
 
 Wielu lekarzy stawia jednak odrobinę inne wymogi. Szczegółowe informacje uzyskasz [w naszym artykule na ten temat](https://tranzycja.pl/krok-po-kroku/tranzycja-medyczna/). Diagnoza będzie potrzebna do zmiany oznaczenia płci oraz jest wymogiem przy wielu zabiegach chirurgicznych.
