@@ -1,6 +1,8 @@
 ---
 kolejnosc: 80
-tags: opublikowane, krok po kroku, hormony
+tags: krok po kroku, tranzycja medyczna, terapia hormonalna
+meta: 
+    Autorzy: Nina, Kasia, Tash
 zaktualizowano: '2022-01-26 12:00:00'
 ---
 # Jak zrobić sobie zastrzyk? Poradnik do iniekcji podskórnych i domięśniowych.
