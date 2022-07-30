@@ -1,7 +1,9 @@
 ---
 opublikowano: '2021-08-22 17:30:18'
 zaktualizowano: '2021-08-25 12:00:00'
-tags: dag&nina, posty, popraw
+tags: publikacje, badania
+meta:
+  Autorzy: Nina, Dag
 ---
 # Czy tranzycja medyczna pomaga osobom transpłciowym? 
 
