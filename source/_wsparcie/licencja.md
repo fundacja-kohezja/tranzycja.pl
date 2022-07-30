@@ -21,4 +21,4 @@ Streszczenie licencji zaczerpnięto ze strony [creativecommons.org](https://crea
 
 ## Kod strony
 
-Kod strony rozwijany jest na licencji GPLv3. Znajdziesz go w [repozytorium projektu](https://github.com/tranzycja-pl/tranzycja.pl/) - zachęcamy do wsparcia w naprawianiu błędów, i rozwijaniu nowych funkcjonalności!
+Kod strony rozwijany jest na licencji GPLv3. Znajdziesz go w [repozytorium projektu](https://github.com/fundacja-kohezja/tranzycja.pl/) - zachęcamy do wsparcia w naprawianiu błędów, i rozwijaniu nowych funkcjonalności!
