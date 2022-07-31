@@ -72,6 +72,7 @@ Z poważaniem
 ### Środowisko naukowe i medyczne
 
 * Polskie Towarzystwo Terapii Poznawczej i Behawioralnej im. Prof. Zdzisława Bizonia (PTTPB)
+* Porozumienie Rezydentów
 * dr n. społ. Karolina Staniaszek - psycholożka, psychoterapeutka, superwizorka, wiceprzewodnicząca PTTPB
 * dr n. med. Łukasz Müldner-Nieckowski, psychiatra, psychoterapeuta, seksuolog, superwizor, przewodniczący zarządu SNP PTP, prezes PTPJ.
 * dr n. o zdr. Kosma Kołodziej, CM UMK
@@ -134,6 +135,15 @@ Z poważaniem
 * mgr Dominika Paradowska - psycholożka, psycholożka- seksuolożka
 * mgr Halina Zaszkiewicz - psycholożka
 * mgr Lena Skalska - psycholog
+* mgr Malgorzata Pyka - Biegła sadowa z zakresu psychologii
+* mgr Aleksandra Błaszkiewicz-Okrągły - psycholog, psychoterapeutka, seksuolog
+* mgr Jacek Jarmuła - pracownik psychiatrycznej opieki zdrowotnej
+* mgr Olga Woźna - psycholożka, seksuolożka, psychoterapeutka w procesie szkolenia
+* mgr Mateusz Gawiński - psycholog, psychoonkolog, psychoterapeuta poznawczo-behawioralny w trakcie certyfikacji
+* mgr Joanna Frejus - psycholożka, psychoterapeutka, prezeska Fundacji Czułość
+* mgr Anna Jurek - psycholog, psychoseksuolog, psychoterapeuta
+* mgr Barbara Puchalska - specjalista ochrony zdrowia 
+* mgr Monika Kowalska-Wojtysiak - psycholog, coach kryzysowy
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
 * Bezpieczne Miejsce, Centrum Terapii DBT - Maria Bagińska, Martyna Stefańska, Ada Gomoradzka, Zuzanna Kalinowska, Antoni Głaz, Joanna Wiatr-Abramowska i Ewa Grzybowska
 * Polskie Stowarzyszenie Studentów i Absolwentów Psychologii
@@ -141,6 +151,10 @@ Z poważaniem
 * Stowarzyszenie Społeczności LGBT+ UAM
 
 ### Osoby publiczne 
+* Anna Grodzka - współzałożycielka Fundacji Trans-Fuzja, posłanka na Sejm RP
+* Lalka Podobińska - współzałożycielka Fundacji Trans-Fuzja
+* prof. Joanna Senyszyn -posłanka na Sejm RP
+* Marcin Dzierżanowski - dziennikarz, współzałożyciel Fundacji Wiara I Tęcza
 * Zuzanna Piechowicz - dziennikarka, współautorka audycji Dobra terapia 
 * Maja Heban - dziennikarka 
 * Anna Tess Gołębiowska - dziennikarka 
@@ -155,8 +169,10 @@ Z poważaniem
 * Aleksandra Knapik-Gauza i Katarzyna Gauza - aktywistki 
 * Edyta Baker - aktywistka
 * Janina Bąk - aktywistka
-* Lalka Podobińska - współzałożycielka Fundacji Trans-Fuzja
 * Jakub Sajkowski - poeta, tłumacz
+* Bartosz Treder - radny Dzielnicy Suchanino w Gdańsku, aktywista na rzecz osób LGBT+, działacz miejski
+* Mateusz Panek - Nowa Lewica
+* Piotr Bucki - edukator, autor
 
 :::info
 Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl).
