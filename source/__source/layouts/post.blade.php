@@ -29,3 +29,7 @@
     </main>
 </div>
 @endsection
+
+@push('scripts')
+    <script src="{{ mix('js/search/mark.js', 'assets/build') }}"></script>
+@endpush
