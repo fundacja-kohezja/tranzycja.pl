@@ -1,4 +1,8 @@
 User-agent: *
+@if(getenv('BRANCH') === 'main')
 Allow: /
 
 Sitemap: {{ $page->baseUrl }}/sitemap.xml
+@else
+Disallow: /
+@endif
