@@ -134,7 +134,7 @@ Powyższy akapit dotyczy osób, które w chwili osiągnięcia  50. roku życia j
 
 Artykuł opracowany w oparciu o wytyczne [Endocrine Society](https://academic.oup.com/jcem/article/102/11/3869/4157558), [University of California](https://transcare.ucsf.edu/guidelines) oraz stronę [transfemscience.org](https://transfemscience.org/).
 
-[^1] [Optimal feminizing hormone treatment in transgender people](https://eje.bioscientifica.com/view/journals/eje/185/2/EJE-21-0059.xml), Dorte Glintborg, Guy T’Sjoen, Pernille Ravn, Marianne Skovsager Andersen, 2021
+[^1]: [Optimal feminizing hormone treatment in transgender people](https://eje.bioscientifica.com/view/journals/eje/185/2/EJE-21-0059.xml), Dorte Glintborg, Guy T’Sjoen, Pernille Ravn, Marianne Skovsager Andersen, 2021
 [^2]: [Mortality trends over five decades in adult transgender people receiving hormone treatment: a report from the Amsterdam cohort of gender dysphoria](https://www.transvisie.nl/wp-content/uploads/2021/09/lancet-mortality-transgender.pdf), Christel de Blok i in. 2021
 [^3]: [A long-term follow-up study of mortality in transsexuals receiving treatment with cross-sex hormones](https://pubmed.ncbi.nlm.nih.gov/21266549/), Henk Asscheman, Erik J. Giltay, Jos A. J. Megens, W. Pim de Ronde, Michael A. A. van Trotsenburg, Louis J. G. Gooren, 2011
 [^4]: [Longitudinal Changes in Liver Enzyme Levels Among Transgender People Receiving Gender Affirming Hormone Therapy](https://pubmed.ncbi.nlm.nih.gov/34366264/), Leila Hashemi, 2021
