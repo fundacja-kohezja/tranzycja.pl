@@ -41,19 +41,8 @@
     </head>
 
     <body style="visibility:hidden" tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
-        <header class="bg-gray-100 dark:bg-gray-800 z-10" role="banner">
-            @include('__source.partials.menu', $page->mainNav)
-        </header>
-
-        <div class="w-full flex-auto {{ $container_class ?? '' }} pt-8">
-            @yield('body')
+        <div>
+        {{ $_ENV }}
         </div>
-        
-        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
-        @stack('scripts')
-
-        <footer class="bg-gray-100 dark:bg-gray-900 text-center text-sm mt-12 p-4" role="contentinfo">
-            @include('_ogolne.stopka')
-        </footer>
     </body>
 </html>
