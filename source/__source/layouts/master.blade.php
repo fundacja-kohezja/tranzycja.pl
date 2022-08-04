@@ -42,7 +42,7 @@
 
     <body style="visibility:hidden" tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
         <pre>
-        {{ print_r($_ENV, true) }}
+        {{ print_r($_SERVER, true) }}
         </pre>
     </body>
 </html>
