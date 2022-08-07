@@ -1,6 +1,6 @@
 <?php
 
-use App\Listeners\{GenerateSitemap, RedirectsFile};
+use App\Listeners\{GenerateSitemap, RedirectsFile, GenerateSearchCaches};
 use App\{CustomMdParser, CustomMdHandler};
 use Mni\FrontYAML\Markdown\MarkdownParser;
 use TightenCo\Jigsaw\Handlers\MarkdownHandler;
@@ -42,3 +42,8 @@ $events->afterBuild(GenerateSitemap::class);
  */
 $events->afterBuild(RedirectsFile::class);
 
+
+/*
+ * Generate JSON caches used by search input
+ */
+$events->afterBuild(GenerateSearchCaches::class);
