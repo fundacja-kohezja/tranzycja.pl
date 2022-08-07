@@ -19,7 +19,7 @@ $tags_index->clearObjects();
 $blacklist_pathes = [
     'strony', 'aktualnosci',
 ];
-$first_glob = glob(__DIR__ . '/../../build_local/*/**/index.html') ;
+$first_glob = glob(__DIR__ . '/../../build_local/*/**/index.html');
 $second_glob = glob(__DIR__ . '/../../build_local/index.html');
 $all_used_tags = [];
 
@@ -86,7 +86,7 @@ foreach (array_merge($first_glob, $second_glob) as $filename) {
 
                     $unique_id = $el->getLineNo() . md5($el->textContent);
                     $parsed = in_array($unique_id, $parsed_lines);
-                    if ($parsed) {
+                    if ($parsed || any_parent_have_element_name($el, 'summary')) {
                         return true;
                     }
 
@@ -117,10 +117,11 @@ foreach (array_merge($first_glob, $second_glob) as $filename) {
                             );
                         }
                     }
-
                     $parent_node = $el->parentNode ?? null;
                     $parent_node_attributes = $parent_node->attributes ?? null;
-                    $parent_node_id = $parent_node_attributes['id'] ?? null;
+                    $parent_node_id = $parent_node_attributes && $parent_node_attributes->getNamedItem('id')  ?
+                        $parent_node_attributes->getNamedItem('id')->textContent : null;
+
                     if ($id === null && $is_child && strlen(trim($el->textContent)) > 0 && $parent_node_id === null) {
                         $collected_data[$last_parent_id]['content'] .= $el->textContent;
                         $parsed_lines[] = $unique_id;

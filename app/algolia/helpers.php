@@ -23,14 +23,13 @@ function extract_attr_from_comment($str, $field)
 function read_dom_depth(&$el, $fn, $exclude_fn)
 {
     if ($el !== null) {
-        if ($exclude_fn($el)) {
-            return;
-        }
         if (count($el->childNodes) > 0) {
             foreach ($el->childNodes as $child_node) {
-                read_dom_depth($child_node, function ($arg) use ($fn) {
-                    return $fn($arg, true);
-                }, $exclude_fn);
+                if (!$exclude_fn($child_node) && !$exclude_fn($el)) {
+                    read_dom_depth($child_node, function ($arg) use ($fn) {
+                        return $fn($arg, true);
+                    }, $exclude_fn);
+                }
             }
         }
         $next = $fn($el, false);
@@ -125,7 +124,7 @@ function extended_exclude_fn($el, $type)
 function file_path_to_url($filename)
 {
     $url = str_replace('build_local/', '', strstr($filename, 'build_local/'));
-    $url = str_replace('/index.html', '', $url);
+    $url = str_replace('index.html', '', $url);
     return $url;
 }
 
