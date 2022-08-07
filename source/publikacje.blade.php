@@ -1,7 +1,7 @@
 ---
 pagination:
     collection: publikacje
-    perPage: 6
+    perPage: 10
 ---
 @extends('__source.layouts.master')
 

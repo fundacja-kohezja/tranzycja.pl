@@ -53,29 +53,34 @@ $excerpt = function(CollectionItem $page, int $words) {
     
     /* remove footnote refererences as there are no footnotes in excerpt */
     $content = preg_replace('|<sup[^>]*>(.*)</sup>|siU', '', $content);
+
+    /* regex for grabbing only paragraphs and lists */
+    $regex = '/<(p|ul|ol)[^>]*>(.*)<\/(p|ul|ol)>/siU';
     
-    $found = preg_match('|<p[^>]*>(.*)</p>|siU', $content, $match);
+    $found = preg_match($regex, $content, $match);
     if ($found) {
-        if (mb_strlen(strip_tags($match[1])) > $words * 2.5) {
+        if (mb_strlen(strip_tags($match[2])) > $words * 2.5) {
             /* 
              * We want the excerpt to end nicely at the end of a sentence
              * so we get only the fist paragraph...
              */
-            $content = $match[1];
+            $content = $match[2];
         } else {
             /*
              * ...unless the first paragraph is very short.
-             * In that case we get the whole text
-             * (we'll limit amount of words later anyway).
+             * In that case we get the text up to the <!--more--> tag if present,
+             * otherwise we get the whole text so it can be later limited
+             * to specified amount of words.
              */
-            preg_match_all('|<p[^>]*>(.*)</p>|siU', $content, $matches);
-            $content = implode('<br><br>', $matches[1]);
+            preg_match_all($regex, explode('<!--more-->', $content)[0], $matches);
+            $content = implode('<br>', $matches[2]);
         }
     }
 
     return Str::of($content)
+        ->replace('</li><li>', ', ')
         ->stripTags('<br>')
-        ->replace('<br><br><br><br>', '<br><br>')
+        ->replace('<br>', '<br><span class="spacer"></span>')
         ->words($words)
         . ' <b class="inline-block">Czytaj dalej →</b>';
 };
@@ -98,12 +103,19 @@ $beginning = function(CollectionItem $page, int $length) {
         return $content;
     }
 
-    /**
-     * finish gracefully at the end of the line
-     * to avoid chopping part of a word or sentence
-     */
-    preg_match('/^.{0,' . $length. '}([^\r\n]*)/su', $content, $matches);
-    $content = $matches[0];
+    if (Str::contains($content, '<!--more-->')) {
+        /**
+         * finish at the <!--more--> tag if present
+         */
+        $content = explode('<!--more-->', $content)[0];
+    } else {
+        /**
+         * otherwise finish gracefully at the end of the line
+         * to avoid chopping part of a word or sentence
+         */
+        preg_match('/^.{0,' . $length. '}([^\r\n]*)/su', $content, $matches);
+        $content = $matches[0];
+    }
 
     /* close any html tags that are left open */
     $dom = new DOMDocument;

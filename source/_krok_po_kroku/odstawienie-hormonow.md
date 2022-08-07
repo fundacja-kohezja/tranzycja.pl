@@ -8,17 +8,20 @@ zaktualizowano: '2022-05-16 12:00:00'
 ---
 # Następstwa przerwania terapii hormonalnej
 
-Większość osób transpłciowych pozostaje na terapii hormonalnej do końca życia, ale są od tego wyjątki. Terapię hormonalną przerywają:
+Większość osób transpłciowych pozostaje na terapii hormonalnej do końca życia, ale są od tego wyjątki.
+
+Terapię hormonalną przerywają:
 - osoby przechodzące przez detranzycję,
 - osoby niebinarne w ramach alternatywnej ścieżki tranzycji
 - osoby zmuszone do tego przez rzadkie problemy zdrowotne (np. rak piersi);
 - osoby chcące zajść w ciążę;
 - osoby zmuszone przez czynniki zewnętrzne (przymus rodziny, ograniczenia dostaw).
+<!--more-->
 
 Niniejszy artykuł został napisany we współpracy z organizacją [QueersForUA](https://www.instagram.com/queersforua/). W związku z tym omówiona tutaj perspektywa dotyczy przede wszystkim ostatniej grupy osób - osób trans, które przerwały terapię hormonalną wbrew swojej woli. W przyszłości zamierzamy rozszerzyć ten temat również o osoby niebinarne i/lub detrans.
 
 :::danger
-**Uwaga:** w chwili obecnej nie istnieją żadne badania poświęcone konkretnie temu tematowi. Wszystko, co na ten moment wiemy o efektach schodzenia z hormonów, jest oparte na danych anegdotycznychTam, gdzie jest to możliwe, powołujemy się na źródła; tam, gdzie źródeł brak, zaznaczamy czego na ten moment nie wiemy.
+**Uwaga:** w chwili obecnej nie istnieją żadne badania poświęcone konkretnie temu tematowi. Wszystko, co na ten moment wiemy o efektach schodzenia z hormonów, jest oparte na danych anegdotycznych. Tam, gdzie jest to możliwe, powołujemy się na źródła; tam, gdzie źródeł brak, zaznaczamy czego na ten moment nie wiemy.
 :::
 
 Ryzyko zdrowotne związane z odstawieniem hormonów można rozdzielić na dwie grupy. Pierwszym z nich są zagrożenia związane z początkowym okresem odstawiania hormonów i przechodzenia z powrotem na tryb funkcjonowania sprzed HRT. Drugim jest ryzyko nawrotu dysforii płciowej powiązanej z cofaniem się zmian związanych z tranzycją.
@@ -48,8 +51,8 @@ Osoby znajdujące się w tej sytuacji wymagają priorytetowej opieki i jak najsz
 Poniższa lista dotyczy przede wszystkim osób, u których produkcja endogennych hormonów uległa wznowieniu - w przypadku, gdy się to nie udało cofnięcie się zmian będzie znacznie subtelniejsze.
 
 **Po odstawieniu suplementacji testosteronu:**
-- jeśli nadal ma się macicę oraz jajniki, to powróci miesiączka (prawdopodobnie będzie to jedna z pierwszych zmian);
--* kondycja oraz siła fizyczna ulegną zmniejszeniu
+* jeśli nadal ma się macicę oraz jajniki, to powróci miesiączka (prawdopodobnie będzie to jedna z pierwszych zmian);
+* kondycja oraz siła fizyczna ulegną zmniejszeniu
 * rozkład tłuszczu (a więc sylwetka i rysy twarzy) będzie powoli zmieniał się z powrotem ku typowo żeńskiemu;
 * skóra stanie się bardziej miękka, zmniejszy się wydzielanie potu i łoju, zmieni się zapach ciała;
 * zmianie nie ulegnie mutacja, rozmiar łechtaczki oraz zarost i owłosienie ciała (choć te mogą stać się bardziej miękkie i odrastać wolniej). U osób po mastektomii piersi nie odrosną. 
