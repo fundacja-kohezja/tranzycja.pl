@@ -1,6 +1,9 @@
 ---
 opublikowano: '2021-01-27 10:32:37'
 zaktualizowano: '2021-03-11 12:00:00'
+tags: publikacje, tranzycja społeczna
+meta:
+  Autorzy: Tash
 ---
 # Transpłciowa młodzież w szkole
 

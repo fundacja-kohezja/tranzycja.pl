@@ -1,6 +1,9 @@
 ---
 kolejnosc: 20
-tags: dag&nina, opublikowane, krok po kroku
+tags: krok po kroku, definicje
+meta: 
+    Autorzy: Nina, Dag
+    Korekta: Kasia
 zaktualizowano: '2021-09-12 12:00:00'
 ---
 # Jak poznać, że jestem trans?

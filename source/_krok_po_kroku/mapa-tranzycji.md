@@ -1,6 +1,9 @@
 ---
 kolejnosc: 1
-tags: dag&nina, opublikowane, krok po kroku
+tags: krok po kroku, tranzycja medyczna, definicje
+meta: 
+    Autorzy: Nina
+    Korekta: Tash, Dag, Kasia
 zaktualizowano: '2022-03-29 12:00:00'
 ---
 # Mapa tranzycji
@@ -21,28 +24,28 @@ Choć artykuły na stronie muszą wyświetlać się w określonej kolejności, t
 
 #### Zastanawiasz się nad tym, czy w ogóle jesteś osobą transpłciową? 
 
-Zajrzyj do naszego [artykułu zawierającego porady pomagające w samookreśleniu swojej płci](https://tranzycja.pl/krok-po-kroku/czy-jestem-trans/), a także do artykułów o [dysforii](https://tranzycja.pl/krok-po-kroku/dysforia-plciowa/) i [euforii płciowej](https://tranzycja.pl/krok-po-kroku/euforia-plciowa/). 
+Zajrzyj do naszego [artykułu zawierającego porady pomagające w samookreśleniu swojej płci](/krok-po-kroku/czy-jestem-trans/), a także do artykułów o [dysforii](/krok-po-kroku/dysforia-plciowa/) i [euforii płciowej](/krok-po-kroku/euforia-plciowa/). 
 
 #### Szukasz informacji na temat efektów terapii hormonalnej? 
 
-Sprawdź nasze artykuły o [feminizującej](https://tranzycja.pl/krok-po-kroku/feminizujaca-terapia-hormonalna/) i [maskulinizującej](https://tranzycja.pl/krok-po-kroku/maskulinizujaca-terapia-hormonalna/) terapii hormonalnej.
+Sprawdź nasze artykuły o [feminizującej](/krok-po-kroku/feminizujaca-terapia-hormonalna/) i [maskulinizującej](/krok-po-kroku/maskulinizujaca-terapia-hormonalna/) terapii hormonalnej.
 
 #### Jesteś zdecydowan*, by rozpocząć terapię hormonalną, ale nie wiesz jak się za to zabrać? 
 
 Najczęściej do przepisania hormonów będziesz potrzebować: 
 - opinii psychologicznej od psychologa-seksuologa
-- diagnozy od seksuologa klinicznego 
+- diagnozy od lekarza-seksuologa lub psychiatry
 - endokrynologa, który dobierze dawki w oparciu o badania krwi.
 
-Wielu lekarzy stawia jednak odrobinę inne wymogi. Szczegółowe informacje uzyskasz [w naszym artykule na ten temat](https://tranzycja.pl/krok-po-kroku/tranzycja-medyczna/). Diagnoza będzie potrzebna do zmiany oznaczenia płci oraz jest wymogiem przy wielu zabiegach chirurgicznych.
+Wielu lekarzy stawia jednak odrobinę inne wymogi. Szczegółowe informacje uzyskasz [w naszym artykule na ten temat](/krok-po-kroku/tranzycja-medyczna/). Diagnoza będzie potrzebna do zmiany oznaczenia płci oraz jest wymogiem przy wielu zabiegach chirurgicznych.
 
 #### Chcesz zmienić imię? 
 
-Możesz to zrobić bez żadnej diagnozy, czy terapii hormonalnej. Jedynym ograniczeniem jest to, że wybrane imię nie może wskazywać na płeć inną niż ta w dowodzie (np. nie można zmienić imienia na „Zenon" mając w dowodzie literkę K, można zmienić je na inne imię kobiece lub na imię neutralne, np. „Alex"). Szczegółowo przeczytasz o tym [w naszym poradniku](https://tranzycja.pl/krok-po-kroku/zmiana-imienia-usc/).
+Możesz to zrobić bez żadnej diagnozy, czy terapii hormonalnej. Jedynym ograniczeniem jest to, że wybrane imię nie może wskazywać na płeć inną niż ta w dowodzie (np. nie można zmienić imienia na „Zenon" mając w dowodzie literkę K, można zmienić je na inne imię kobiece lub na imię neutralne, np. „Alex"). Szczegółowo przeczytasz o tym [w naszym poradniku](/krok-po-kroku/zmiana-imienia-usc/).
 
 #### Chcesz zmienić oznaczenie płci w dokumentach?
 
-Niestety jedyną ścieżką do tego będzie pozwanie własnych rodziców. [Nasz poradnik](https://tranzycja.pl/krok-po-kroku/zmiana-danych-sad/) postara przeprowadzić Cię przez tę procedurę suchą stopą. Będziesz potrzebować do tego wyżej dokumentów od lekarza opisanych [w artykule o tranzycji medycznej](https://tranzycja.pl/krok-po-kroku/tranzycja-medyczna/), ale nie musisz przechodzić przez żadne zabiegi ani zaczynać terapii hormonalnej (choć znacząco ułatwią one sprawę).
+Niestety jedyną ścieżką do tego będzie pozwanie własnych rodziców. [Nasz poradnik](/krok-po-kroku/zmiana-danych-sad/) postara przeprowadzić Cię przez tę procedurę suchą stopą. Będziesz potrzebować do tego wyżej dokumentów od lekarza opisanych [w artykule o tranzycji medycznej](/krok-po-kroku/tranzycja-medyczna/), ale nie musisz przechodzić przez żadne zabiegi ani zaczynać terapii hormonalnej (choć znacząco ułatwią one sprawę).
 
 #### Interesują Cię zabiegi, takie jak operacja genitaliów, czy mastektomia?
 
@@ -55,4 +58,4 @@ Kliniki wykonujące zabiegi często będą stawiać wymóg przedstawienia dokume
 
 #### Chcesz dowiedzieć się więcej na temat transpłciowości?
 
-Zerknij do naszego działu [„Publikacje"](https://tranzycja.pl/publikacje/), w którym znajdziesz artykuły poświęcone bardziej teoretycznym aspektom transpłciowości i tranzycji.
+Zerknij do naszego działu [„Publikacje"](/publikacje/), w którym znajdziesz artykuły poświęcone bardziej teoretycznym aspektom transpłciowości i tranzycji.

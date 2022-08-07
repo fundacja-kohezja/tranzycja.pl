@@ -1,6 +1,9 @@
 ---
 kolejnosc: 61
-tags: krok po kroku, opublikowane, dag&nina
+tags: krok po kroku, terapia hormonalna, tranzycja medyczna
+meta: 
+    Autorzy: Nina
+    Korekta: Dag, Tash, Kasia
 zaktualizowano: '2022-05-29 12:00:00'
 ---
 # Maskulinizująca terapia hormonalna
@@ -16,7 +19,7 @@ Terapia hormonalna jest jedną z najczęściej stosowanych interwencji medycznyc
 | -------- | -------- |
 | Czerwony | Zmiany są trwałe. |
 | Fioletowy | Zmiany mogą być trwałe, im dużej trwa terapia hormonalna tym bardziej prawdopodobne, że takie będą |
-| Zielony | Zmiany utrzymują się w trakcie terapii, cofają się przy powrocie do testosteronu |
+| Zielony | Zmiany utrzymują się w trakcie terapii, cofają się po odstawieniu testosteronu |
 | Niebieski | HRT jest znaczącym czynnikiem, ale zależą też od indywidualnych działań danej osoby |
 :::
 #### Zmiany psychologiczne 

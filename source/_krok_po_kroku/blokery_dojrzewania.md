@@ -1,6 +1,9 @@
 ---
 kolejnosc: 70
-tags: dag&nina, poprawki, opublikowane, krok po kroku, hormony
+tags: krok po kroku, tranzycja medyczna, terapia hormonalna
+meta: 
+    Autorzy: Nina
+    Korekta: Dag, Kasia
 zaktualizowano: '2022-05-25 12:00:00'
 ---
 # Blokery dojrzewania 

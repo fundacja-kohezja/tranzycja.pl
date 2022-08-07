@@ -1,6 +1,9 @@
 ---
 kolejnosc: 92
-tags: krok po kroku, dag&nina, opublikowane
+tags: krok po kroku, tranzycja medyczna, terapia hormonalna
+meta: 
+    Autorzy: Nina
+    Korekta: Kasia
 zaktualizowano: '2022-05-16 12:00:00'
 ---
 # Następstwa przerwania terapii hormonalnej

@@ -1,6 +1,10 @@
 ---
 opublikowano: '2021-10-14 22:35:46'
 zaktualizowano: '2021-10-15 12:00:00'
+tags: publikacje, wywiad
+meta: 
+  Autorzy: Dag
+  Korekta: Nina
 ---
 # Detranzycja: nie wybrałabym żadnej innej drogi
 

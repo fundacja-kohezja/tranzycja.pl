@@ -1,7 +1,10 @@
 ---
 opublikowano: '2022-05-30 16:00:00'
 zaktualizowano: '2022-06-01 16:00:00'
-tags: publikacje, dag&nina
+tags: publikacje, modele opieki
+meta:
+  Autorzy: Nina, Dag
+  Korekta: Kasia, Tash
 ---
 # Polscy seksuologowie zawodzą transpłciowe dzieci — krytyka kompendium „Dysforia i niezgodność płciowa"
 
