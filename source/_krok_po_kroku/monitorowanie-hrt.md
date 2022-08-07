@@ -1,11 +1,11 @@
 ---
 kolejnosc: 65
-tags: krok po kroku, terapia hormonalna, tranzycja medyczna
+tags: 'krok po kroku, terapia hormonalna, tranzycja medyczna'
 meta:
     Autorzy: Nina
     Korekta: Kasia
+zaktualizowano: '2022-08-07 17:44:50'
 ---
-
 # Długoterminowe monitorowanie terapii hormonalnej
 
 Ten artykuł przeznaczony jest dla osób, które mają już za sobą pewien staż na terapii hormonalnej i chciałyby się dowiedzieć jak długoterminowo monitorować swój stan zdrowia. 
