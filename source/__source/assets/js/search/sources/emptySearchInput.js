@@ -1,28 +1,14 @@
-const { getAlgoliaFacets } = require('@algolia/autocomplete-js');
-
-const searchClient = require('../client');
-const { getIsDetachedMode } = require('../states');
-const { transformTagResponse } = require('../tags');
-const { BeginningHint, SimpleArticleTag, ArticleTag } = require('../templates');
+const { getIsDetachedMode, getCachedTags } = require('../states');
+const {
+    BeginningHint,
+    BeginningHintWithTag,
+    SimpleArticleTag,
+    ArticleTag,
+} = require('../templates');
 
 const getEmptySearchInputSource = (query, state) => ({
     sourceId: 'articles_tags',
-    getItems() {
-        return getAlgoliaFacets({
-            searchClient,
-            queries: [
-                {
-                    indexName: 'articles',
-                    facet: 'tags',
-                    params: {
-                        facetQuery: '*',
-                        maxFacetHits: 5,
-                    },
-                },
-            ],
-            transformResponse: transformTagResponse(state),
-        });
-    },
+    getItems: () => getCachedTags(),
     onSelect({ item, setQuery }) {
         if (item.label.toLowerCase().includes(query.toLowerCase())) {
             setQuery('');
@@ -30,7 +16,9 @@ const getEmptySearchInputSource = (query, state) => ({
     },
     templates: {
         header: ({ html }) => (
-            html`${BeginningHint(html)}${getIsDetachedMode() && html`<hr class="my-2"/>`}`
+            !state.context.tagsPlugin.tags.length
+                ? html`${BeginningHint(html)}${getIsDetachedMode() && html`<hr class="my-2"/>`}`
+                : html`${BeginningHintWithTag(html)}${getIsDetachedMode() && html`<hr class="my-2"/>`}`
         ),
         item: ({ item, html }) => (
             !getIsDetachedMode() ? ArticleTag(item, false, html) : SimpleArticleTag(item, html)

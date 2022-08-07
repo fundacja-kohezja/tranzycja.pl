@@ -132,8 +132,8 @@ permalink: index.html
         </div>
     </section>
     <section>
-        <div>
-            <h1 id="faq" class="inline mr-4 text-indigo-600 dark:text-purple-300 text-3xl sm:text-4xl uppercase tracking-wider">
+        <div class="faq-section">
+            <h1 id="faq" class="inline mr-4 text-indigo-600 dark:text-purple-300 text-3xl sm:text-4xl uppercase tracking-wider mb-8 w-full">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 h-8 sm:h-10 align-middle -mt-8 -mb-6">
                     <path d="M10,1.81A8.19,8.19,0,1,1,1.81,10,8.21,8.21,0,0,1,10,1.81m1.2,9.24A3.32,3.32,0,1,0,7.26,6.11l-.65,1,2,1.29.65-1A1,1,0,0,1,10,7a1,1,0,0,1,0,2H8.86V12.1H11.2Zm0,2.25H8.86v2.33H11.2Z" />
                 </svg>
@@ -147,10 +147,26 @@ permalink: index.html
                         echo $matches[1];
                         return '';
                     }, $faq);
+
+                    $faq = preg_replace_callback(
+                        '|<h([^>]+)>(.*)<\/h([^>]+)>|iU',
+                        function (&$matches) {
+                            if (in_array($matches[1][0], ['1', '2', '3', '4', '5', '6'])) {
+                                $slug = Illuminate\Support\Str::slug(html_entity_decode($matches[2]));
+                                return "<h{$matches[1]} id=\"{$slug}\">{$matches[2]}</h{$matches[3]}>";
+                            }
+                            return $matches[0];
+                        },
+                        $faq
+                    );
+                    
+
+                    $faq = preg_replace_callback('|<details>.*?<summary>(.*?)<\/summary>(.*?)<\/details>|xs', function (&$matches) {
+                        $slug = Illuminate\Support\Str::slug($matches[1]);
+                        return "<details id=\"{$slug}\">\n<summary>{$matches[1]}</summary>\n\n{$matches[2]}</details>";
+                    }, $faq);
                 @endphp
             </h1>
-        </div>
-        <div class="faq-section mt-8">
             {!! $faq !!}
         </div>
         <div class="clear-both"></div>
@@ -173,3 +189,7 @@ permalink: index.html
     </section> --}}
 </main>
 @endsection
+
+@push('scripts')
+    <script src="{{ mix('js/search/mark.js', 'assets/build') }}"></script>
+@endpush

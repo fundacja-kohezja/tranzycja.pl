@@ -1,5 +1,6 @@
 const { createTagsPlugin } = require('@algolia/autocomplete-plugin-tags');
-const { getIsDetachedMode } = require('./states');
+const { useCachedArticles, useCachedTags } = require('./cachedSource');
+const { getIsDetachedMode, getIsUsingCachedData } = require('./states');
 const { createArticleTagElement, ArticleTag } = require('./templates');
 
 require('@algolia/autocomplete-plugin-tags/dist/theme.css');
@@ -29,7 +30,12 @@ const tagsPlugin = createTagsPlugin({
             },
         };
     },
-    onChange({ tags, setIsOpen }) {
+    onChange({ tags }) {
+        if (getIsUsingCachedData()) {
+            useCachedArticles(tags);
+            useCachedTags(tags);
+        }
+
         requestAnimationFrame(() => {
             if (getIsDetachedMode()) {
                 return;
@@ -46,20 +52,16 @@ const tagsPlugin = createTagsPlugin({
             }
 
             container.appendChild(tagsContainer);
-            setIsOpen(false);
         });
     },
 });
 
-const transformTagResponse = (state) => ({ facetHits }) => (
-    facetHits[0].map(
-        (hit) => !state.context.tagsPlugin.tags.filter(({ label }) => label === hit.label).length
-        && ({
-            ...hit,
-            facet: 'tags',
-        }),
-    ).filter(Boolean)
-);
+const transformTagResponse = ({ facetHits }) => facetHits[0].map(
+    (hit) => ({
+        ...hit,
+        facet: 'name',
+    }),
+).filter(Boolean);
 
 module.exports = tagsPlugin;
 module.exports.transformTagResponse = transformTagResponse;

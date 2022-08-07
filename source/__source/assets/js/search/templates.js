@@ -36,6 +36,22 @@ const SearchArticleResult = (item, algoliaSnippet, html) => {
     </div>`;
 };
 
+const SimpleSearchArticleResult = ({ title, lead }, html) => (
+    html`
+    <div class="aa-ItemWrapper">
+        <div class="aa-ItemContent">
+            <div class="aa-ItemContentBody">
+                <div class="aa-ItemContentTitle font-bold">
+                    ${title}
+                </div>
+                <div class="aa-ItemContentDescription px-2">
+                    ${lead}
+                </div>
+            </div>
+        </div>
+    </div>`
+);
+
 const NoResults = (html) => (
     html`<i>Nie znaleziono tekstów spełniających kryteria. Spróbuj zmienić tagi bądź szukaną frazę</i>`
 );
@@ -43,7 +59,15 @@ const NoResults = (html) => (
 const BeginningHint = (html) => (
     html`
     <p class="m-0 mb-2">
-        <i>Aby rozpocząć wyszukiwanie wprowadź minimum trzy znaki, poniżej znajduje się 5 najczęstszych tagów</i>
+        <i>Aby rozpocząć wyszukiwanie wprowadź minimum trzy znaki lub wybierz tag, poniżej znajduje się 5 najczęstszych tagów</i>
+    </p>
+    `
+);
+
+const BeginningHintWithTag = (html) => (
+    html`
+    <p class="m-0 mb-2">
+        <i>Możesz zawężyć wyszukiwanie bez frazy wybierając więcej tagów</i>
     </p>
     `
 );
@@ -68,8 +92,10 @@ const ArticleTag = ({ label }, minusSvgIcon, html) => (
 module.exports = {
     createArticleTagElement,
     SearchArticleResult,
+    SimpleSearchArticleResult,
     NoResults,
     BeginningHint,
+    BeginningHintWithTag,
     SimpleArticleTag,
     ArticleTag,
 };
