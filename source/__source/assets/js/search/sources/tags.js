@@ -4,6 +4,8 @@ const searchClient = require('../client');
 const { getIsDetachedMode } = require('../states');
 const { transformTagResponse } = require('../tags');
 const { SimpleArticleTag, ArticleTag } = require('../templates');
+const { LIMIT_SEARCH_TAGS } = require('../consts');
+const { mapToAlgoliaNegativeFilters } = require('../utils');
 
 const getTagsSearchSource = (query, state) => ({
     sourceId: 'articles_tags',
@@ -12,15 +14,19 @@ const getTagsSearchSource = (query, state) => ({
             searchClient,
             queries: [
                 {
-                    indexName: 'articles',
-                    facet: 'tags',
+                    indexName: 'tags',
+                    facet: 'name',
                     params: {
                         facetQuery: query,
-                        maxFacetHits: 5,
+                        maxFacetHits: LIMIT_SEARCH_TAGS,
+                        filters: mapToAlgoliaNegativeFilters(
+                            state.context.tagsPlugin.tags,
+                            ['name'],
+                        ),
                     },
                 },
             ],
-            transformResponse: transformTagResponse(state),
+            transformResponse: transformTagResponse,
         });
     },
     onSelect({ item, setQuery }) {

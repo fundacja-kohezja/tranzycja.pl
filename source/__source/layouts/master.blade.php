@@ -56,5 +56,6 @@
             @include('_ogolne.stopka')
         </footer>
         <!--TAGS: {{$page->tags}}-->
+        <!--LANG: {{$page->lang}}-->
     </body>
 </html>

@@ -1,4 +1,6 @@
+const tagsPlugin = require('./tags');
 const { setIsDetachedMode, getIsDetachedMode } = require('./states');
+const { useCachedArticles } = require('./cachedSource');
 
 const registerListeners = () => {
     setIsDetachedMode(!!document.querySelector('.aa-DetachedSearchButton'));
@@ -32,6 +34,22 @@ const registerListeners = () => {
             }, 100);
         });
     }
+
+    document.getElementById('autocomplete-search-container')?.addEventListener('click', (e) => {
+        if (e.target) {
+            const tagEl = e.target.closest('.search-tag');
+            if (tagEl && tagEl.className.includes('search-tag')) {
+                requestAnimationFrame(() => {
+                    tagsPlugin.data.setTags(
+                        tagsPlugin.data.tags.filter(
+                            ({ label }) => label !== tagEl.children[0].textContent,
+                        ),
+                    );
+                    useCachedArticles(tagsPlugin.data.tags);
+                });
+            }
+        }
+    });
 };
 
 module.exports = registerListeners;

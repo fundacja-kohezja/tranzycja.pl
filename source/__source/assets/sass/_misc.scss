@@ -230,7 +230,6 @@ mark {
             float: right;
             width: 70%;
         }
-        > h1,
         > h2,
         > h3,
         > h4,
@@ -529,6 +528,10 @@ search-mark {
         @apply .bg-purple-700;
     }
     background-color: #f2c2ce !important;
+}
+
+search-line {
+    background-color: #c2e1f2 !important;
 }
 
 .search-tag {

@@ -4,6 +4,8 @@ const tagsPlugin = require('./tags');
 const getArticlesSearchSource = require('./sources/articles');
 const getTagsSearchSource = require('./sources/tags');
 const getEmptySearchInputSource = require('./sources/emptySearchInput');
+const getCachedArticlesSearchSource = require('./sources/cachedArticles');
+const { setRefreshMethod, setIsUsingCachedData } = require('./states');
 
 require('@algolia/autocomplete-theme-classic');
 
@@ -19,11 +21,15 @@ const searchConfig = {
     },
     plugins: [tagsPlugin],
     getSources({ query, state }) {
-        if (!query || query.trim().length < 3) {
+        const usingCached = !query || query.trim().length < 3;
+        setIsUsingCachedData(usingCached);
+        if (usingCached) {
             return [
                 getEmptySearchInputSource(query, state),
+                getCachedArticlesSearchSource(state),
             ];
         }
+
         return [
             getTagsSearchSource(query, state),
             getArticlesSearchSource(query, state),
@@ -32,7 +38,7 @@ const searchConfig = {
 };
 
 const injectInput = () => {
-    autocomplete({
+    const { refresh } = autocomplete({
         ...document.getElementById('autocomplete-search-container') ? {
             container: '#autocomplete-search-container',
         } : {
@@ -40,6 +46,7 @@ const injectInput = () => {
         },
         ...searchConfig,
     });
+    setRefreshMethod(refresh);
 };
 
 module.exports = injectInput;

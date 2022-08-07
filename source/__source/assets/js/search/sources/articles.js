@@ -1,26 +1,29 @@
 const { getAlgoliaResults } = require('@algolia/autocomplete-js');
 
 const searchClient = require('../client');
-const { mapToAlgoliaFilters, groupBy } = require('../utils');
 const { SearchArticleResult, NoResults } = require('../templates');
+const { LIMIT_SEARCH_ARTICLES } = require('../consts');
+const { mapToAlgoliaFilters, groupBy } = require('../utils');
 
 const getArticlesSearchSource = (query, state) => {
     const tagsByFacet = groupBy(
         state.context.tagsPlugin.tags,
-        (tag) => tag.facet,
+        'tags',
     );
 
     return {
         sourceId: 'articles_search',
         getItems() {
+            const advancedSyntax = query.split(' ').filter((e) => e.trim().length > 0).length > 1;
             return getAlgoliaResults({
                 searchClient,
                 queries: [
                     {
                         indexName: 'articles',
-                        query,
+                        advancedSyntax,
+                        query: advancedSyntax ? `"${query}"` : query,
                         params: {
-                            hitsPerPage: 5,
+                            hitsPerPage: LIMIT_SEARCH_ARTICLES,
                             attributesToSnippet: ['content:35'],
                             filters: mapToAlgoliaFilters(tagsByFacet),
                         },

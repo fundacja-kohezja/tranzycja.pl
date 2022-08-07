@@ -120,15 +120,15 @@ class CustomMdHandler extends MarkdownHandler {
         $new_content = preg_replace_callback(
             '|<h([^>]+)>(.*)</h([^>]+)>|iU',
             function (&$matches) use (&$processed_headings) {
-                if (in_array($matches[1][0], ['1', '2', '3', '4', '5', '6'])) {
+                $slug = Str::slug(html_entity_decode($matches[2]));
+                if (in_array($matches[1][0], ['1', '2', '3'])) {
                     $processed_headings[] = [
                         'level' => $matches[1][0],
                         'text' => $matches[2],
-                        'slug' => $slug = Str::slug(html_entity_decode($matches[2]))
+                        'slug' => $slug,
                     ];
-                    return "<h$matches[1] id=\"$slug\">$matches[2]</h$matches[3]>";
                 }
-                return $matches[0];
+                return "<h$matches[1] id=\"$slug\">$matches[2]</h$matches[3]>";
             },
             $contents
         );

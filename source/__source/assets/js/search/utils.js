@@ -1,6 +1,6 @@
 const readDOMDepth = (el, fn, excludeTags = []) => {
     if (el) {
-        if (el.childNodes.length > 0) {
+        if (el.childNodes.length > 0 && !excludeTags.includes(el.tagName)) {
             Array.from(el.childNodes)
                 .forEach(
                     (child) => !excludeTags.includes(child.tagName)
@@ -21,8 +21,15 @@ const mapToAlgoliaFilters = (tagsByFacet, operator = 'AND') => Object.keys(tagsB
         .join(' AND ')})`)
     .join(` ${operator} `);
 
-const groupBy = (items, predicate) => items.reduce((acc, item) => {
-    const key = predicate(item);
+const mapToAlgoliaNegativeFilters = (tags, facetsToNegate, operator = 'AND') => tags
+    .map(({ label, facet }) => {
+        const filter = `${facet}:"${label}"`;
+        return facetsToNegate.includes(facet) && `NOT ${filter}`;
+    })
+    .filter(Boolean)
+    .join(` ${operator} `);
+
+const groupBy = (items, key) => items.reduce((acc, item) => {
     if (!Object.prototype.hasOwnProperty.call(acc, key)) {
         acc[key] = [];
     }
@@ -33,5 +40,6 @@ const groupBy = (items, predicate) => items.reduce((acc, item) => {
 module.exports = {
     readDOMDepth,
     mapToAlgoliaFilters,
+    mapToAlgoliaNegativeFilters,
     groupBy,
 };
