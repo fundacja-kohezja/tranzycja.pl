@@ -49,7 +49,7 @@ foreach (array_merge($first_glob, $second_glob) as $filename) {
             $comments = get_comments_from_document($body);
             $tags = extract_attr_from_comment($comments['tags'], 'TAGS');
             $lang = extract_attr_from_comment($comments['lang'], 'LANG');
-            if (count($lang) > 1) {
+            if (count($lang) > 0) {
                 continue;
             }
             $all_used_tags = array_merge($tags, $all_used_tags);
