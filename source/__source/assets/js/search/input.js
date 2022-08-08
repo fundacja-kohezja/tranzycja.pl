@@ -5,13 +5,13 @@ const getArticlesSearchSource = require('./sources/articles');
 const getTagsSearchSource = require('./sources/tags');
 const getEmptySearchInputSource = require('./sources/emptySearchInput');
 const getCachedArticlesSearchSource = require('./sources/cachedArticles');
-const { setRefreshMethod, setIsUsingCachedData } = require('./states');
+const { setRefreshMethod, getIsUsingCachedData, setIsUsingCachedData } = require('./states');
+const { useCachedArticles } = require('./cachedSource');
 
 require('@algolia/autocomplete-theme-classic');
 
 const searchConfig = {
     placeholder: 'Co Cię interesuje?',
-    debug: true,
     openOnFocus: true,
     classNames: {
         submitButton: 'hidden',
@@ -19,9 +19,17 @@ const searchConfig = {
         input: 'search-input',
         panel: 'z-10',
     },
+    initialState: {
+        activeItemId: 1,
+    },
     plugins: [tagsPlugin],
     getSources({ query, state }) {
+        const oldUsingCached = getIsUsingCachedData();
         const usingCached = !query || query.trim().length < 3;
+        if (oldUsingCached !== usingCached && usingCached && state.context.tagsPlugin.tags.length) {
+            useCachedArticles(state.context.tagsPlugin.tags);
+        }
+
         setIsUsingCachedData(usingCached);
         if (usingCached) {
             return [

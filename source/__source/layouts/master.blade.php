@@ -34,9 +34,13 @@
                 el = document.getElementById('stylesheet_link')
                 el.href = el.dataset.manualmodesheeturl
             }
-            if (localStorage.theme == 'dark') {
-                document.documentElement.classList.add('dark')
-            }
+            requestAnimationFrame(() => {
+                if (localStorage.theme == 'dark') {
+                    document.documentElement.classList.add('dark'); 
+                    document.body.classList.add('dark');
+                }
+            })
+     
         </script>
     </head>
 

@@ -1,5 +1,5 @@
 const tagsPlugin = require('./tags');
-const { setIsDetachedMode, getIsDetachedMode } = require('./states');
+const { setIsDetachedMode, getIsDetachedMode, setSearchInternalError } = require('./states');
 const { useCachedArticles } = require('./cachedSource');
 
 const registerListeners = () => {
@@ -49,6 +49,12 @@ const registerListeners = () => {
                 });
             }
         }
+    });
+
+    window.addEventListener('unhandledrejection', (e) => {
+        setSearchInternalError(true);
+        // eslint-disable-next-line no-console
+        console.error(e);
     });
 };
 
