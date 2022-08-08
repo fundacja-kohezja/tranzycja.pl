@@ -4,6 +4,7 @@ let refreshMethod = null;
 let cachedArticles = [];
 let cachedTags = [];
 let isUsingCachedData = false;
+let searchInternalError = false;
 
 const getIsDetachedMode = () => isDetachedMode;
 
@@ -41,6 +42,12 @@ const setIsUsingCachedData = (value) => {
     isUsingCachedData = value;
 };
 
+const getSearchInternalError = () => searchInternalError;
+
+const setSearchInternalError = (value) => {
+    searchInternalError = value;
+};
+
 module.exports = {
     getIsDetachedMode,
     setIsDetachedMode,
@@ -54,4 +61,6 @@ module.exports = {
     setCachedTags,
     getIsUsingCachedData,
     setIsUsingCachedData,
+    getSearchInternalError,
+    setSearchInternalError,
 };

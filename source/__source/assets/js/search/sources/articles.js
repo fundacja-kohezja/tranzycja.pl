@@ -10,18 +10,15 @@ const getArticlesSearchSource = (query, state) => {
         state.context.tagsPlugin.tags,
         'tags',
     );
-
     return {
         sourceId: 'articles_search',
         getItems() {
-            const advancedSyntax = query.split(' ').filter((e) => e.trim().length > 0).length > 1;
             return getAlgoliaResults({
                 searchClient,
                 queries: [
                     {
                         indexName: 'articles',
-                        advancedSyntax,
-                        query: advancedSyntax ? `"${query}"` : query,
+                        query,
                         params: {
                             hitsPerPage: LIMIT_SEARCH_ARTICLES,
                             attributesToSnippet: ['content:35'],
@@ -37,7 +34,7 @@ const getArticlesSearchSource = (query, state) => {
             // eslint-disable-next-line no-underscore-dangle
             const value = item?._highlightResult?.content?.value;
             if (value) {
-                const matches = value.match(/__aa-highlight__(.*?)__\/aa-highlight__/);
+                const matches = Array.from(value.matchAll(/__aa-highlight__(.*?)__\/aa-highlight__/g)).sort((a, b) => b[1].length - a[1].length)[0];
                 if (matches?.[1]) {
                     url.searchParams.append('q', matches[1]);
                 }

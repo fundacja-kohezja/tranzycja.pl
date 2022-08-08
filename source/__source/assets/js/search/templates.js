@@ -85,6 +85,13 @@ const SimpleArticleTag = ({ label }, html) => (
     </div><hr class="my-2"/>`
 );
 
+const InternalErrorInfo = (html) => (
+    html`
+    <p class="m-0 text-red-600 font-bold mb-2">
+        Wygląda na to że mamy wewnętrzny problem. Wyszukiwanie fraz nie będzie działać, ale nadal możesz używać tagów. Przepraszamy za problem
+    </p>`
+);
+
 const ArticleTag = ({ label }, minusSvgIcon, html) => (
     html([createArticleTagElement(label, minusSvgIcon)])
 );
@@ -98,4 +105,5 @@ module.exports = {
     BeginningHintWithTag,
     SimpleArticleTag,
     ArticleTag,
+    InternalErrorInfo,
 };

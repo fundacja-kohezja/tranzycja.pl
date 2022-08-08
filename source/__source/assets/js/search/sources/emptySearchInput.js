@@ -1,9 +1,10 @@
-const { getIsDetachedMode, getCachedTags } = require('../states');
+const { getIsDetachedMode, getCachedTags, getSearchInternalError } = require('../states');
 const {
     BeginningHint,
     BeginningHintWithTag,
     SimpleArticleTag,
     ArticleTag,
+    InternalErrorInfo,
 } = require('../templates');
 
 const getEmptySearchInputSource = (query, state) => ({
@@ -15,11 +16,12 @@ const getEmptySearchInputSource = (query, state) => ({
         }
     },
     templates: {
-        header: ({ html }) => (
-            !state.context.tagsPlugin.tags.length
+        header: ({ html }) => {
+            const Header = !state.context.tagsPlugin.tags.length
                 ? html`${BeginningHint(html)}${getIsDetachedMode() && html`<hr class="my-2"/>`}`
-                : html`${BeginningHintWithTag(html)}${getIsDetachedMode() && html`<hr class="my-2"/>`}`
-        ),
+                : html`${BeginningHintWithTag(html)}${getIsDetachedMode() && html`<hr class="my-2"/>`}`;
+            return html`${getSearchInternalError() && InternalErrorInfo(html)}${Header}`;
+        },
         item: ({ item, html }) => (
             !getIsDetachedMode() ? ArticleTag(item, false, html) : SimpleArticleTag(item, html)
         ),
