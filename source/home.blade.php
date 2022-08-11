@@ -44,7 +44,7 @@ permalink: index.html
                                 {!! $poradnik->title() !!}
                             </h2>
                             <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">
-                                {!! $poradnik->excerpt() !!}
+                                {!! $poradnik->excerpt(60) !!}
                             </p>
                         </article>
                     </a>
@@ -83,7 +83,7 @@ permalink: index.html
                                 {!! $publikacja->title() !!}
                             </h2>
                             <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">
-                                {!! $publikacja->excerpt() !!}
+                                {!! $publikacja->excerpt(30) !!}
                             </p>
                         </article>
                     </a>
@@ -125,7 +125,7 @@ permalink: index.html
                     </svg>
                     <span class="align-middle">{{ Jenssegers\Date\Date::create($aktualnosci->first()->opublikowano)->format('j M Y') }}</span>
                 </header>
-                {!! $aktualnosci->first()->excerpt() !!}
+                {!! $aktualnosci->first()->beginning(1000) !!}
                 <a href="{{ $aktualnosci->first()->getPath() }}">Czytaj całość →</a>
             </article>
         </div>

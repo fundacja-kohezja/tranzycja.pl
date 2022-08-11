@@ -3,7 +3,9 @@
 namespace App;
 
 use App\Markdown\{Alert, Attributes, Footnote, Spoiler};
-use GuzzleHttp\Client;
+use Illuminate\Container\Container;
+use Illuminate\Support\Str;
+use Illuminate\View\Factory;
 use Kaoken\MarkdownIt\MarkdownIt;
 use Kaoken\MarkdownIt\Plugins\{MarkdownItMark as Mark, MarkdownItEmoji as Emoji, MarkdownItSup as Superscript};
 use Mni\FrontYAML\Markdown\MarkdownParser;
@@ -11,8 +13,11 @@ use Mni\FrontYAML\Markdown\MarkdownParser;
 class CustomMdParser implements MarkdownParser
 {
 
-    protected $content;
+    protected $content, $pageData;
 
+    protected static $collectionsForTOC;
+    
+    protected const TOC_MAX_HEADING_LEVEL = 3;
     
     /**
      * Process our markdown file to turn it into the final html content
@@ -23,15 +28,19 @@ class CustomMdParser implements MarkdownParser
     public function parse($markdown)
     {
         $this->content = $markdown;
+        $this->pageData = $this->getPageDataFromContainer();
 
         $this->embedVideos()
              ->renderMarkdown()
+             ->insertTOC()
+             ->insertFooter()
              ->wrapTables()
              ->removeOrphans();
 
+        $this->flushPageData();
+
         return $this->content;
     }
-
 
     /**
      * Parse markdown and render it as html
@@ -77,51 +86,52 @@ class CustomMdParser implements MarkdownParser
         return $this;
     }
 
-
-    /**
-     * Replace tags like {%youtube video_id %} with html embeds
-     */
     protected function embedVideos()
     {
-        $noembed_replacements = [
-            'youtube' => 'https://www.youtube.com/watch?v=',
-            'vimeo' => 'https://vimeo.com/'
-        ];
-
-        $callables = [];
-
-        $http = new Client(['base_uri' => 'http://noembed.com']);
-
-        foreach ($noembed_replacements as $service => $prefix) {
-
-            $callables["/{%$service +(.*?) *%}/"] = function (&$matches) use ($prefix, $http) {
-
-                /* make http request to noembed.com and recieve html video embed  */
-                $resp = json_decode($http->get('/embed?url=' . urlencode($prefix . $matches[1]))
-                    ->getBody()
-                    ->getContents()
-                );
-
-                /*
-                 * wrap the embed with a div and set the bottom padding
-                 * it's the css hack to maintain proper aspect ratio of the embed no matter the width
-                 */
-                if (intval($resp->width ?? 0) && intval($resp->height ?? 0)) {
-                    $ratio = $resp->height / $resp->width * 100;
-                    return ('<div class="ratio-iframe" style="padding-bottom: ' . $ratio . '%">') . ($resp->html ?? '') . '</div>';
-                }
-
-                return $resp->html ?? '';
-            };
-        }
-        
-        $this->content = preg_replace_callback_array(
-            $callables,
-            $this->content
-        );
+        $this->content = ContentHelpers::embedVideos($this->content);
         return $this;
     }
 
+    /**
+     * Insert Table of Contents into content as defined in config file
+     */
+    protected function insertTOC()
+    {
+        if ($this->pageData->TOC ?? false) {
+            $headings = $this->extractHeadings();
+
+            $label = $this->pageData->TOC->label ?? 'Spis treści';
+            $hasAllPages = $this->pageData->TOC->allPages ?? false;
+
+            if ($hasAllPages) {
+                $collectionItems = $this->getAllCollectionItems();
+                [$pagesBefore, $pagesAfter] = $this->splitAtCurrentPage($collectionItems);
+            } else {
+                $pagesBefore = [];
+                $pagesAfter = [];
+            }
+
+            $viewFactory = Container::getInstance()[Factory::class];
+            $toc = $viewFactory->make('__source.partials.toc', compact('headings', 'label', 'pagesBefore', 'pagesAfter'));
+
+            $this->content = $hasAllPages
+                ? ($toc . $this->content)
+                : preg_replace('/<\/h1>/iu', "</h1>\n$toc", $this->content, 1);
+        }
+
+        return $this;
+    }
+
+    /**
+     * Insert article footer before footnote references for some
+     * collections as defined in config file unless frontmatter
+     * explicitly disables it
+     */
+    protected function insertFooter()
+    {
+
+        return $this;
+    }
 
     /**
      * Wrap tables with a div so they can be scrollable horizontally
@@ -133,57 +143,104 @@ class CustomMdParser implements MarkdownParser
         return $this;
     }
 
-
-    /**
-     * Remove orphans (short words hanging at the end of the line)
-     * by replacing spaces before them with the non-breaking ones
-     */
     protected function removeOrphans()
     {
-        $content = $this->content;
-
-        $single_letters = 'aiouwz';
-        $terms = ['al.','albo','ale','ależ','b.','bez','bm.','bp','br.','by','bym','byś','bł.','cyt.','cz.','czy','czyt.','dn.','do','doc.','dr','ds.','dyr.','dz.','fot.','gdy','gdyby','gdybym','gdybyś','gdyż','godz.','im.','inż.','jw.','kol.','komu','ks.','która','którego','której','któremu','który','których','którym','którzy','lecz','lic.','m.in.','max','mgr','min','moich','moje','mojego','mojej','mojemu','mych','mój','na','nad','nie','niech','np.','nr','nr.','nrach','nrami','nrem','nrom','nrowi','nru','nry','nrze','nrze','nrów','nt.','nw.','od','oraz','os.','p.','pl.','pn.','po','pod','pot.','prof.','przed','przez','pt.','pw.','pw.','tak','tamtej','tamto','tej','tel.','tj.','to','twoich','twoje','twojego','twojej','twych','twój','tylko','ul.','we','wg','woj.','więc','za','ze','śp.','św.','że','żeby','żebyś','—'];
-
-        /* numbers */
-        preg_match_all( '/(>[^<]+<)/', $content, $parts );
-        if ( $parts && is_array( $parts ) && ! empty( $parts ) ) {
-            $parts = array_shift( $parts );
-            foreach ( $parts as $part ) {
-                $to_change = $part;
-                while ( preg_match( '/(\d+) ([\da-z]+)/i', $to_change, $matches ) ) {
-                    $to_change = preg_replace( '/(\d+) ([\da-z]+)/i', '$1&nbsp;$2', $to_change );
-                }
-                if ( $part != $to_change ) {
-                    $content = str_replace( $part, $to_change, $content );
-                }
-            }
-        }
-
-        /* orphans */
-        $re      = '/^([' . $single_letters . ']|' . preg_replace( '/\./', '\.', implode( '|', $terms ) ) . ') +/i';
-        $content = preg_replace( $re, '$1$2&nbsp;', $content );
-
-        /**
-         * single letters
-         */
-        $re = '/([ >\(]+|&nbsp;|&#8222;|&quot;)([' . $single_letters . ']|' . preg_replace( '/\./', '\.', implode( '|', $terms ) ) . ') +/i';
-
-        /**
-         * double call to handle orphan after orphan after orphan
-         */
-        $content = preg_replace( $re, '$1$2&nbsp;', $content );
-        $content = preg_replace( $re, '$1$2&nbsp;', $content );
-
-        /**
-         * single letter after previous orphan
-         */
-        $re      = '/(&nbsp;)([' . $single_letters . ']) +/i';
-        $content = preg_replace( $re, '$1$2&nbsp;', $content );
-
-        $this->content = $content;
+        $this->content = ContentHelpers::removeOrphans($this->content);
         return $this;
 
+    }
+
+    /**
+     * Add id attribute to headings in the content and return all
+     * these headings as an array to put in TOC
+     */
+    protected function extractHeadings()
+    {
+        $headings = [];
+
+        $this->content = preg_replace_callback(
+            '|<h([^>]+)>(.*)</h([^>]+)>|iU',
+            function (&$matches) use (&$headings) {
+                if (in_array($matches[1][0], range(1, self::TOC_MAX_HEADING_LEVEL))) {
+                    $headings[] = [
+                        'level' => $matches[1][0],
+                        'text' => $matches[2],
+                        'slug' => $slug = Str::slug(html_entity_decode($matches[2]))
+                    ];
+                    return "<h$matches[1] id=\"$slug\">$matches[2]</h$matches[3]>";
+                }
+                return $matches[0];
+            },
+            $this->content
+        );
+
+        return $headings;
+    }
+
+    /**
+     * Get all pages from the collection (slugs and titles)
+     * to use in TOC (if this collection is set to display
+     * all pages in TOC)
+     */
+    protected function getAllCollectionItems()
+    {
+        $collectionName = $this->pageData->collection->name;
+
+        if (isset(static::$collectionsForTOC[$collectionName])){
+            /* get from cache if possible */
+            return static::$collectionsForTOC[$collectionName];
+        } else {
+            $collectionItems = [];
+
+            $this->flushPageData(); // necessary to avoid infinite recursion
+
+            foreach($this->pageData->collection as $slug => $item) {
+                $collectionItems[$slug] = $item->title();
+            }
+
+            /* cache collection so it doesn't get rebuilt with every item */
+            static::$collectionsForTOC[$collectionName] = $collectionItems;
+            
+            return $collectionItems;
+        }
+    }
+
+    /**
+     * Split all pages of the collection for TOC into two chunks:
+     * those before the current page and those after
+     */
+    protected function splitAtCurrentPage(array $collectionItems)
+    {
+        
+        $chunked = collect($collectionItems)
+            /* split at the path of the current page */
+            ->chunkWhile(fn($value, $key) => $key !== $this->pageData->_meta->filename)
+            ->toArray();
+        
+        if (!isset($chunked[1])) {
+            /**
+             * if array has not been split (has only 1 chunk), that means the current page
+             * is the first one from the collection so we need to move the chunk
+             * to the position of the "after" chunk and the "before" chunk must be empty
+             */
+            array_unshift($chunked, []);
+        };
+        [$chunk1, $chunk2] = $chunked;
+
+        /* remove the current page from the "after" chunk */
+        array_shift($chunk2);
+        
+        return [$chunk1, $chunk2];
+    }
+
+    protected function getPageDataFromContainer()
+    {
+        return Container::getInstance()['page'];
+    }
+
+    protected function flushPageData()
+    {
+        Container::getInstance()->bind('page', fn() => null);
     }
 
 }

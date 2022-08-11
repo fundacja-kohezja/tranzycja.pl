@@ -19,13 +19,12 @@ $container->bind(MarkdownParser::class, CustomMdParser::class);
 
 
 /*
- * Replace the jigsaw's handler of markdown files with our custom handler
- * to do the further content processing which depends on metadata.
+ * Replace the jigsaw's default markdown handler with our custom handler
+ * which puts current page data in the container so it can be retrievied
+ * by our custom parser.
  * 
- * For now that is just generating Table of Contents (we do it only for
- * some of the collections, and slightly differently for each one, so it
- * is needed to check in metadata which collection the page we are
- * processing belongs to).
+ * This allows content processing to be manipulated per collection
+ * in config file or per page in frontmatter.
  * 
  */
 $container->bind(MarkdownHandler::class, CustomMdHandler::class);
