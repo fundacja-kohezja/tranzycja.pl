@@ -193,7 +193,7 @@ W treści listu zostało poprawione odniesienie do książki *Gender Dysphoria A
 
 :::
 
-W następstwie naszego listu otwartego, Polskie Towarzystwo Stomatologiczne wydało oświadczenie, z który można zapoznać się [tutaj](https://pts-seksuologia.pl/sites/strona/126/oswiadczenie-zarzadu-glownego-polskiego-towarzystwa-seksuologicznego-w-sprawie-wystapienia-dra-marcusa-evansa-i-dr-susan-evans-na-konferencji-w-polsce).
+W następstwie naszego listu otwartego, oświadczenia wydały także [Polskie Towarzystwo Psychoterapii Psychodynamicznej](https://ptppd.pl/aktualnosci/oswiadczenie-polskiego-towarzystwa-psychoterapii-psychodynamicznej-dotyczace-ix-konferencji-ptppd--p.html) oraz [Polskie Towarzystwo Stomatologiczne](https://pts-seksuologia.pl/sites/strona/126/oswiadczenie-zarzadu-glownego-polskiego-towarzystwa-seksuologicznego-w-sprawie-wystapienia-dra-marcusa-evansa-i-dr-susan-evans-na-konferencji-w-polsce).
 
 [^1]: Florence Ashley, [A critical commentary on ‘rapid-onset gender dysphoria’](https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_a_critical_commentary_on_rapid-onset_gender_dysphoria.pdf), *The Sociological Review*, 2020 r.
 [^2]: Greta R. Bauer, Margaret L. Lawson, Daniel L. Metzger, [Do Clinical Data from Transgender Adolescents Support the Phenomenon of “Rapid Onset Gender Dysphoria”?](Do Clinical Data from Transgender Adolescents Support the Phenomenon of “Rapid Onset Gender Dysphoria”?), *The Journal of Pediatrics*, 2022 r.
