@@ -85,19 +85,20 @@ Z poważaniem
 * dr Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji Dobra terapia
 * dr Andrzej Śliwerski, Instytut Psychologii Uniwersytetu Łódzkiego, psychoterapeuta
 * dr Alicja Fidowicz, Uniwersytet Jagielloński
-* lek. Karolina Stachowiak - lekarka 
-* lek. Paula Ziółkowska - lekarka, rezydentka chorób wewnętrznych
+* lek. Paula Ziółkowska - rezydentka chorób wewnętrznych
 * lek. Ewa Bujacz - psychiatrka dzieci i młodzieży, psychoterapeutka dzieci i młodzieży w trakcie szkolenia
-* lek. Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
+* lek. Urszula Domysławska - rezydentka psychiatrii dzieci i młodzieży
 * lek. Julia Pankiewicz - rezydentka psychiatrii
 * lek. Ania Tereszko - rezydentka psychiatrii, psycholożka
-* lek. Maja Czepiel - lekarka, rezydentka psychiatrii
-* lek. Katarzyna Marzęda
+* lek. Maja Czepiel - rezydentka psychiatrii
 * lek. Monika Szymczakowska - psychiatra
 * lek. Olga Sikorska - psychiatra
 * lek. Patrycja Rybak - rezydentka psychiatrii
 * lek. Agata Chylińska - rezydentka psychiatrii
-* lek. Leszek Asman - lekarz specjalista psychiatra
+* lek. Leszek Asman - specjalista psychiatra
+* lek. Miłosz Kotarba - specjalista psychiatra
+* lek. Katarzyna Marzęda
+* lek. Karolina Stachowiak
 * mgr Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB
 * mgr Dorota Baran - psycholog, seksuolog kliniczny, psychoterapeuta, skarbnik PTTPB 
 * mgr Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta 
@@ -138,22 +139,26 @@ Z poważaniem
 * mgr Lena Skalska - psycholog
 * mgr Malgorzata Pyka - Biegła sadowa z zakresu psychologii
 * mgr Aleksandra Błaszkiewicz-Okrągły - psycholog, psychoterapeutka, seksuolog
+* mgr Kamil Elkader - psycholog, psychoterapeuta
 * mgr Jacek Jarmuła - pracownik psychiatrycznej opieki zdrowotnej
 * mgr Olga Woźna - psycholożka, seksuolożka, psychoterapeutka w procesie szkolenia
 * mgr Mateusz Gawiński - psycholog, psychoonkolog, psychoterapeuta poznawczo-behawioralny w trakcie certyfikacji
+* mgr Magdalena Smaś-Myszczyszyn - psychoterapeutka, seksuolożka, specjalistka psychoterapii uzależnień, syperwizorka
 * mgr Joanna Frejus - psycholożka, psychoterapeutka, prezeska Fundacji Czułość
 * mgr Anna Jurek - psycholog, psychoseksuolog, psychoterapeuta
-* mgr Barbara Puchalska - specjalista ochrony zdrowia 
+* mgr Barbara Puchalska - specjalista ochrony zdrowia
 * mgr Monika Kowalska-Wojtysiak - psycholog, coach kryzysowy
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
 * Bezpieczne Miejsce, Centrum Terapii DBT - Maria Bagińska, Martyna Stefańska, Ada Gomoradzka, Zuzanna Kalinowska, Antoni Głaz, Joanna Wiatr-Abramowska i Ewa Grzybowska
 * Polskie Stowarzyszenie Studentów i Absolwentów Psychologii
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 * Stowarzyszenie Społeczności LGBT+ UAM
+* Queerowy Ruch Akademicki PW (QRA PW)
 
 ### Osoby publiczne 
 * Anna Grodzka - współzałożycielka Fundacji Trans-Fuzja, posłanka na Sejm RP
 * Lalka Podobińska - współzałożycielka Fundacji Trans-Fuzja
+* Marek Urbaniak - prawnik i działacz społeczny
 * prof. Joanna Senyszyn -posłanka na Sejm RP
 * Marcin Dzierżanowski - dziennikarz, współzałożyciel Fundacji Wiara I Tęcza
 * Zuzanna Piechowicz - dziennikarka, współautorka audycji Dobra terapia 
@@ -171,6 +176,7 @@ Z poważaniem
 * Edyta Baker - aktywistka
 * Janina Bąk - aktywistka
 * Jakub Sajkowski - poeta, tłumacz
+* Adrian Jasiński - aktywista LGBT+ Activist Sanok i działacz Demokratów Ziemi Sanockiej
 * Bartosz Treder - radny Dzielnicy Suchanino w Gdańsku, aktywista na rzecz osób LGBT+, działacz miejski
 * Mateusz Panek - Nowa Lewica
 * Piotr Bucki - edukator, autor
