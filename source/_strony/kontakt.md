@@ -19,6 +19,7 @@ Pamiętaj, że w przypadku korzystania z tracydyjnej poczty e-mail oraz innych p
 
 :::spoiler Nasz klucz publiczny PGP
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
 
@@ -71,6 +72,7 @@ xBSdPLPTEjbLtiEVvfRec7fqxNMBRJ1D8ZtIYkm3AWzSJveGo2iNrv98/xiuE/3Q
 ksXyRD1SkKilTDbNrQ==
 =H0/s
 -----END PGP PUBLIC KEY BLOCK-----
+```
 
 :::
 
