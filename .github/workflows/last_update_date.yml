@@ -14,7 +14,7 @@ jobs:
       - name: Ustawienie dat aktualizacji
         shell: bash
         run: >
-         for file in $( ls source/**/*.md ); do grep -qF 'opublikowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i opublikowano:" $file ; sed -i "/opublikowano/c\opublikowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file }  ; done; git status
+         for file in $( ls source/**/*.md ); do grep -qF 'opublikowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i opublikowano:" $file ; sed -i "/opublikowano/c\opublikowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file ; }  done; git status
       - name: Ustawienie dat aktualizacji
         shell: bash
         run: >
