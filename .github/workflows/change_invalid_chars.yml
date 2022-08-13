@@ -33,5 +33,5 @@ jobs:
      - name: Zamiana polskich znaków
        shell: bash
        run: |
-          ls './source/_publikacje/niebinarność.md'
+          ls source/_publikacje/*
           
