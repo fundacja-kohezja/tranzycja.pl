@@ -34,4 +34,6 @@ jobs:
        shell: bash
        run: |
           ls source/_publikacje/*
+          echo "AA"
+          git ls-files
           
