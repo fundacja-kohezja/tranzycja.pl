@@ -2,7 +2,7 @@ name: Daty zaktualizowania artykułu
 on:
  pull_request:
     branches:
-      - action_update_date
+      - action_update_date_source
 
 jobs:
   update:
