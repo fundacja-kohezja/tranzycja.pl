@@ -14,7 +14,10 @@ jobs:
       - name: Zamiana polskich znaków
         shell: bash
         run: |
+         LANG=pl_PL.UTF-8 ls ./source/**/*.md
          sudo locale-gen ${{ env.LANG }}
+         LANG=pl_PL.UTF-8 ls ./source/**/*.md
          sudo update-locale LANG=${{ env.LANG }}
-         dpkg-reconfigure locale 
+         LANG=pl_PL.UTF-8 ls ./source/**/*.md
+         sudo dpkg-reconfigure locale 
          LANG=pl_PL.UTF-8 ls ./source/**/*.md
