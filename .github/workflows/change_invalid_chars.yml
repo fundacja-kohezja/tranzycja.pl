@@ -18,6 +18,8 @@ jobs:
           sudo localectl set-locale LANG="pl_PL.UTF-8"
           export LANG="pl_PL.UTF-8"
           sudo update-locale
+          setxkbmap pl
+          
           echo "Testing language settings"
           echo "All languages..."
           locale -a
@@ -30,6 +32,7 @@ jobs:
           echo "LocaleCtl"
           localectl status
           echo "ŚĆĄĆŻŹĆĘ"
+          
           ls -aq ./source/**/*.md
           ls -b ./source/**/*.md
           
