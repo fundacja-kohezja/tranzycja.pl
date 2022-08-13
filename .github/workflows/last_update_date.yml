@@ -11,14 +11,14 @@ jobs:
       - uses: actions/checkout@v2
         with:
          fetch-depth: 0
+      - name: Ustawienie dat publikacji
+        shell: bash
+        run: >
+         for file in $( ls source/**/*.md ); do if [[ "$file" == *"/_aktualnosci/"* ]] || [[ "$file" == *"/_publikacje/"* ]] || [[ "$file" == *"/_publications/"* ]]; then grep -qF 'opublikowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i opublikowano:" $file ; sed -i "/opublikowano/c\opublikowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file ; }  fi; done;
       - name: Ustawienie dat aktualizacji
         shell: bash
         run: >
-         for file in $( ls source/**/*.md ); do grep -qF 'opublikowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i opublikowano:" $file ; sed -i "/opublikowano/c\opublikowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file ; }  done; git status
-      - name: Ustawienie dat aktualizacji
-        shell: bash
-        run: >
-         for file in $( git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' ); do grep -qF 'zaktualizowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i zaktualizowano:" $file ; } && sed -i "/zaktualizowano/c\zaktualizowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file ; done;
+         for file in $( git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' ); do if [[ "$file" == *"/_krok_po_kroku/"* ]] || [[ "$file" == *"/_publikacje/"* ]] || [[ "$file" == *"/_publications/"* ]]; then grep -qF 'zaktualizowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i zaktualizowano:" $file ; } && sed -i "/zaktualizowano/c\zaktualizowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file ; fi; done;
       - name: Commit & push nowe daty
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
