@@ -4,7 +4,7 @@ tags: publikacje
 meta: 
   Autorzy: Nina, Dag
   Korekta: Kasia
-zaktualizowano: '2022-08-13 23:26:01'
+zaktualizowano: '2022-08-13 23:40:18'
 ---
 # Spektrum autyzmu a transpłciowość
 

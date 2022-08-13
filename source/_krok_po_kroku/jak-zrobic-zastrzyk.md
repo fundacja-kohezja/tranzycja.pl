@@ -5,7 +5,7 @@ meta:
     Autorzy: Nina, Kasia, Tash
     Grafika: maxluman
     Zdjęcia: Tash
-zaktualizowano: '2022-01-26 12:00:00'
+zaktualizowano: '2022-08-13 23:40:18'
 opublikowano: '2022-08-13 23:26:01'
 ---
 # Jak zrobić sobie zastrzyk? Poradnik do iniekcji podskórnych i domięśniowych.

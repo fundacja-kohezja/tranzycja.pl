@@ -4,7 +4,7 @@ tags: krok po kroku, tranzycja medyczna, terapia hormonalna
 meta: 
     Autorzy: Nina
     Korekta: Kasia, Dag, Tash
-zaktualizowano: '2022-04-01 12:00:00'
+zaktualizowano: '2022-08-13 23:40:18'
 opublikowano: '2022-08-13 23:26:01'
 ---
 # Jak rozpocząć tranzycję medyczną? Proces diagnostyczny

@@ -3,7 +3,7 @@ kolejnosc: 90
 tags: krok po kroku, tranzycja prawna
 meta: 
     Autorzy: Tash
-zaktualizowano: '2021-03-14 12:00:00'
+zaktualizowano: '2022-08-13 23:40:18'
 opublikowano: '2022-08-13 23:26:01'
 ---
 # Zmiana imienia w USC

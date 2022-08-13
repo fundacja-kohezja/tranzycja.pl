@@ -4,7 +4,7 @@ tags: krok po kroku, definicje
 meta: 
     Autorzy: Nina, Dag
     Korekta: Kasia
-zaktualizowano: '2022-03-12 12:00:00'
+zaktualizowano: '2022-08-13 23:40:18'
 opublikowano: '2022-08-13 23:26:01'
 ---
 # Dysforia płciowa

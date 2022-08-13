@@ -4,7 +4,7 @@ tags: krok po kroku, tranzycja medyczna, terapia hormonalna
 meta: 
     Autorzy: Nina
     Korekta: Kasia
-zaktualizowano: '2022-05-16 12:00:00'
+zaktualizowano: '2022-08-13 23:40:18'
 opublikowano: '2022-08-13 23:26:01'
 ---
 # Następstwa przerwania terapii hormonalnej
