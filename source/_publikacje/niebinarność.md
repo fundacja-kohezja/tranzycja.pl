@@ -11,6 +11,7 @@ Temat niebinarności jest bardzo często trudny do zrozumienia, nie tylko dla os
 
 ## Co oznacza "non-binary"?
 
+smoll
 Niebinarność (w skrócie nb lub enby) ma tak naprawdę dwa znaczenia. Pierwsze, bardziej rozległe, to parasolka dla identyfikacji, które nie mieszczą się w podziale na dwie kategorie (binarnym): kobieta/mężczyzna. Mowa o identyfikacjach takich jak genderfluid czy agender.
 Drugie znaczenie - niebinarność jako konkretna identyfikacja, polegająca na tym, że dana osoba nie określa się ani jako mężczyzna ani jako kobieta, jednak (w odróżnieniu od osoby agender) posiada poczucie płci.
 Jeżeli patrzylibyśmy na płeć tak jak na kolory to: kobiety byłyby np. czerwonym, mężczyźni niebieskim, a osoby niebinarne w różnych punktach spektrum pomiędzy, np. żółtym czy zielonym.
