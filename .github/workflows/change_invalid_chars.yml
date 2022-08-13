@@ -10,11 +10,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Zamiana polskich znaków
+     - name: Zamiana polskich znaków
         shell: bash
         run: |
-          ls './source/_publikacje/niebinarność.md'
           sudo apt-get update && sudo apt-get install tzdata locales -y && sudo locale-gen pl_PL.UTF-8
           sudo localectl set-locale LANG="pl_PL.UTF-8"
           export LANG="pl_PL.UTF-8"
@@ -33,7 +31,10 @@ jobs:
           echo "LocaleCtl"
           localectl status
           echo "ŚĆĄĆŻŹĆĘ"
-          
-          ls -aq ./source/**/*.md
-          ls -b ./source/**/*.md
+
+      - uses: actions/checkout@v2
+      - name: Zamiana polskich znaków
+        shell: bash
+        run: |
+          ls './source/_publikacje/niebinarność.md'
           
