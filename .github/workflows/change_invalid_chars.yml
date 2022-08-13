@@ -14,7 +14,6 @@ jobs:
       - name: Zamiana polskich znaków
         shell: bash
         run: |
-          ls './source/_publikacje/niebinarno'$'\305\233\304\207''.md'
           ls './source/_publikacje/niebinarnosc.md'
           sudo apt-get update && sudo apt-get install tzdata locales -y && sudo locale-gen pl_PL.UTF-8
           sudo localectl set-locale LANG="pl_PL.UTF-8"
