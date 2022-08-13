@@ -10,4 +10,4 @@ jobs:
       - name: Zamiana polskich znaków
         shell: bash
         run: >
-         sudo apt-get install -y rename && shopt -s globstar && rename 's/ś/s/g' ./source/**/*.md && ls ./source**/*.md && git status
+         sudo apt-get install -y rename && shopt -s globstar && rename 's/ś/s/g' ./source/**/*.md && ls ./source/**/*.md && git status
