@@ -1,6 +1,10 @@
 name: Aktualizuje niepoprawne znaki w nazwach plików
 on:
  pull_request
+env:
+  LANG: "pl_PL.UTF-8"
+  LANGUAGE: "pl_PL:pl"
+  LC_ALL: "pl_PL.UTF-8"
 
 jobs:
   update:
@@ -10,6 +14,7 @@ jobs:
       - name: Zamiana polskich znaków
         shell: bash
         run: |
-         sudo locale-gen pl_PL.UTF-8
-         sudo update-locale LANG=pl_PL.UTF-8
-         sudo apt-get install -y rename && shopt -s globstar && rename 's/ś/s/g' ./source/**/*.md && ls ./source/**/*.md && git status
+         sudo locale-gen ${{ env.LANG }}
+         sudo update-locale LANG=${{ env.LANG }}
+         dpkg-reconfigure locale 
+         LANG=pl_PL.UTF-8 ls ./source/**/*.md
