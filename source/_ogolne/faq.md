@@ -1,5 +1,6 @@
 ---
 tags: opublikowane, faq
+opublikowano: '2022-08-13 23:26:01'
 ---
 
 # Pytania i odpowiedzi

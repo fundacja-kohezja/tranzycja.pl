@@ -1,5 +1,6 @@
 ---
 kolejnosc: 2  
+opublikowano: '2022-08-13 23:26:01'
 ---
 
 # Dlaczego nas wspierać?

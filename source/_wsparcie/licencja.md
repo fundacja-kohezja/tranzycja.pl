@@ -1,5 +1,6 @@
 ---
 kolejnosc: 4  
+opublikowano: '2022-08-13 23:26:01'
 ---
 # Licencja
 

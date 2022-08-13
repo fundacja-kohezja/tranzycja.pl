@@ -5,6 +5,7 @@ meta:
     Autorzy: Nina, Marek Urbaniak
     Korekta: Kasia, Dag
 zaktualizowano: '2022-03-31 12:00:00'
+opublikowano: '2022-08-13 23:26:01'
 ---
 # Jak zmienić oznaczenie płci w dokumentach? Poradnik do sądu
 

@@ -3,6 +3,8 @@ tags: publikacje, badania
 meta: 
   Autorzy: Nina, Dag
   Korekta: Kasia
+opublikowano: '2022-08-13 23:26:01'
+zaktualizowano: '2022-08-13 23:26:01'
 ---
 # „Teraz myślisz, że jesteś trans, a potem ci się odwidzi". Detranzycja i żal pooperacyjny.
 

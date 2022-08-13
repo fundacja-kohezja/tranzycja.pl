@@ -1,5 +1,6 @@
 ---
 kolejnosc: 1  
+opublikowano: '2022-08-13 23:26:01'
 ---
 # Wpłaty na konto
 

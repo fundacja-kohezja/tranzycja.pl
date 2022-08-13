@@ -5,6 +5,7 @@ meta:
     Autorzy: Nina
     Korekta: Tash, Dag, Kasia
 zaktualizowano: '2022-03-29 12:00:00'
+opublikowano: '2022-08-13 23:26:01'
 ---
 # Mapa tranzycji
 

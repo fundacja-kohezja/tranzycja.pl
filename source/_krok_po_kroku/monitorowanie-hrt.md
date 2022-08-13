@@ -5,6 +5,7 @@ meta:
     Autorzy: Nina
     Korekta: Kasia
 zaktualizowano: '2022-08-07 17:44:50'
+opublikowano: '2022-08-13 23:26:01'
 ---
 # Długoterminowe monitorowanie terapii hormonalnej
 

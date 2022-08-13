@@ -5,6 +5,7 @@ meta:
     Autorzy: Nina, Dag
     Korekta: Kasia
 zaktualizowano: '2021-09-12 12:00:00'
+opublikowano: '2022-08-13 23:26:01'
 ---
 # Jak poznać, że jestem trans?
 
