@@ -29,5 +29,4 @@ jobs:
           echo "$LANG"
           echo "LocaleCtl"
           localectl status
-          echo "Printing decimal"
-          printf "%'.3f\n" 123123,123
+          echo "ŚĆĄĆŻŹĆĘ"
