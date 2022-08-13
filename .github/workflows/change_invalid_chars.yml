@@ -9,5 +9,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Zamiana polskich znaków
         shell: bash
-        run: >
+        run: |
+         sudo locale-gen pl_PL.UTF-8
+         sudo update-locale LANG=pl_PL.UTF-8
          sudo apt-get install -y rename && shopt -s globstar && rename 's/ś/s/g' ./source/**/*.md && ls ./source/**/*.md && git status
