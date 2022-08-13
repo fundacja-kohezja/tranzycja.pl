@@ -1,4 +1,4 @@
-name: Daty zaktualizowania artykułu
+name: Daty zaktualizowania/opublikowania artykułu
 on:
  pull_request:
     branches:
@@ -11,13 +11,17 @@ jobs:
       - uses: actions/checkout@v2
         with:
          fetch-depth: 0
-      - name: Aktualizowanie dat
+      - name: Ustawienie dat aktualizacji
         shell: bash
         run: >
-         git branch -r; for file in $( git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' ); do grep -qF 'zaktualizowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i zaktualizowano:" $file ; } && sed -i "/zaktualizowano/c\zaktualizowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file ; done; git status
+         for file in $( ls source/**/*.md ); do grep -qF 'opublikowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i opublikowano:" $file ; sed -i "/opublikowano/c\opublikowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file }  ; done; git status
+      - name: Ustawienie dat aktualizacji
+        shell: bash
+        run: >
+         for file in $( git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' ); do grep -qF 'zaktualizowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i zaktualizowano:" $file ; } && sed -i "/zaktualizowano/c\zaktualizowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file ; done;
       - name: Commit & push nowe daty
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'Uzupełnienie dat aktualizacji w treściach'
+          commit_message: 'Uzupełnienie dat w treściach'
           file_pattern: source/**
           skip_dirty_check: false
