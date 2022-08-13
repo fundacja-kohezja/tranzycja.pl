@@ -1,43 +1,27 @@
-# This is a basic workflow to help you get started with Actions
-
-name: UzupelnianieDat
-
-# Controls when the action will run. 
+name: Daty zaktualizowania/opublikowania artykułu
 on:
-  push:
-    paths: 
-      - source/_publikacje/*
-      - source/_aktualnosci/*
-      - source/_publications/*
+ pull_request:
+    branches:
+      - main
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  update:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
-      - uses: php-actions/composer@v6
         with:
-          php_version: '7.4'
-
-      - uses: nanasess/setup-php@master
+         fetch-depth: 0
+      - name: Ustawienie dat publikacji
+        shell: bash
+        run: >
+         for file in $( ls source/**/*.md ); do if [[ "$file" == *"/_aktualnosci/"* ]] || [[ "$file" == *"/_publikacje/"* ]] || [[ "$file" == *"/_publications/"* ]]; then grep -qF 'opublikowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i opublikowano:" $file ; sed -i "/opublikowano/c\opublikowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file ; }  fi; done;
+      - name: Ustawienie dat aktualizacji
+        shell: bash
+        run: >
+         for file in $( git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' ); do if [[ "$file" == *"/_krok_po_kroku/"* ]] || [[ "$file" == *"/_publikacje/"* ]] || [[ "$file" == *"/_publications/"* ]]; then grep -qF 'zaktualizowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i zaktualizowano:" $file ; } && sed -i "/zaktualizowano/c\zaktualizowano: \'$(date -u +'%Y-%m-%d %H:%M:%S' -d '+2 hour')'" $file ; fi; done;
+      - name: Commit & push nowe daty
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          php-version: '7.4'
-      - run: php postprocess.php
-          
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          # Optional but recommended
-          # Defaults to "Apply automatic changes"
           commit_message: 'Uzupełnienie dat w treściach'
-          
           file_pattern: source/**
-
-          # Optional: Disable dirty check and always try to create a commit and push
           skip_dirty_check: false
