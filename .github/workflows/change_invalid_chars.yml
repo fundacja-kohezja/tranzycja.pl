@@ -30,3 +30,4 @@ jobs:
           echo "LocaleCtl"
           localectl status
           echo "ŚĆĄĆŻŹĆĘ"
+          ls ./source/**/*.md
