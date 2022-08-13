@@ -9,7 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+         fetch-depth: 0
       - name: Aktualizowanie dat
         shell: bash
         run: >
-         for file in $( git diff main..${{ github.event.pull_request.base.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' ); do grep -qF 'zaktualizowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i zaktualizowano:" $file ; } && sed -i "/zaktualizowano/c\zaktualizowano: \'$(date +'%Y-%m-%d %H:%M:%S')'" $file ; done; git status
+         for file in $( git diff ${{ github.event.pull_request.base.ref }}..${{ github.event.pull_request.head.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' ); do grep -qF 'zaktualizowano' $file || { grep -qn "\-\-\-" $file && sed -i "$(grep -n "\-\-\-" $file | gawk '{print $1}' FS=":" | head -2 | tail -1 ) i zaktualizowano:" $file ; } && sed -i "/zaktualizowano/c\zaktualizowano: \'$(date +'%Y-%m-%d %H:%M:%S')'" $file ; done; git status
