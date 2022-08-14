@@ -1,4 +1,4 @@
-name: Aktualizuje niepoprawne znaki w nazwach plików
+name: Podmienia niepoprawne znaki w nazwach plików
 on:
  pull_request
 
@@ -9,11 +9,27 @@ jobs:
      - uses: actions/checkout@v2
        with:
         ref: ${{ github.event.pull_request.head.ref }}
-     - name: Zamiana polskich znaków
+     - name: Poprawienie znaków
        shell: bash
        run: |
-          git branch
-          ls source/_publikacje/*
-          echo "AA"
-          git ls-files
-          
+          sudo apt-get install rename -y
+          rename -n 's/ą/a/g' ./source/**/*.md
+          rename -n 's/ć/c/g' ./source/**/*.md
+          rename -n 's/ę/e/g' ./source/**/*.md
+          rename -n 's/ł/l/g' ./source/**/*.md
+          rename -n 's/ń/n/g' ./source/**/*.md
+          rename -n 's/ó/o/g' ./source/**/*.md
+          rename -n 's/ś/s/g' ./source/**/*.md
+          rename -n 's/ź/z/g' ./source/**/*.md
+          rename -n 's/ż/z/g' ./source/**/*.md
+          rename -n 's/_/-/g' ./source/**/*.md
+          rename 'y/A-Z/a-z/' ./source/**/*.md
+     - name: Sprawdzanie niepoprawialnych znaków
+       shell: bash
+       run: for file in $( ls ./source/**/*.md ); do if ! [[ "$file" =~ ^[a-z0-9-]+$ ]]; then exit 1; fi; done;
+     - name: Commit & push
+       uses: stefanzweifel/git-auto-commit-action@v4
+       with:
+          commit_message: 'Automatycznie poprawione znaki'
+          file_pattern: source/**/*.md
+          skip_dirty_check: false
