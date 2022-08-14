@@ -12,21 +12,21 @@ jobs:
      - name: Poprawienie znaków
        shell: bash
        run: |
-          sudo apt-get install rename -y
-          rename -n 's/ą/a/g' ./source/**/*.md
-          rename -n 's/ć/c/g' ./source/**/*.md
-          rename -n 's/ę/e/g' ./source/**/*.md
-          rename -n 's/ł/l/g' ./source/**/*.md
-          rename -n 's/ń/n/g' ./source/**/*.md
-          rename -n 's/ó/o/g' ./source/**/*.md
-          rename -n 's/ś/s/g' ./source/**/*.md
-          rename -n 's/ź/z/g' ./source/**/*.md
-          rename -n 's/ż/z/g' ./source/**/*.md
-          rename -n 's/_/-/g' ./source/**/*.md
+          sudo apt-get install rename -y &&
+          rename -n 's/ą/a/g' ./source/**/*.md &&
+          rename -n 's/ć/c/g' ./source/**/*.md &&
+          rename -n 's/ę/e/g' ./source/**/*.md &&
+          rename -n 's/ł/l/g' ./source/**/*.md &&
+          rename -n 's/ń/n/g' ./source/**/*.md &&
+          rename -n 's/ó/o/g' ./source/**/*.md &&
+          rename -n 's/ś/s/g' ./source/**/*.md &&
+          rename -n 's/ź/z/g' ./source/**/*.md &&
+          rename -n 's/ż/z/g' ./source/**/*.md &&
+          rename -n 's/_/-/g' ./source/**/*.md &&
           rename 'y/A-Z/a-z/' ./source/**/*.md
      - name: Sprawdzanie niepoprawialnych znaków
        shell: bash
-       run: for file in $( ls ./source/**/*.md ); do if ! [[ "$file" =~ ^[a-z0-9-]+$ ]]; then exit 1; fi; done;
+       run: git status; for file in $( ls ./source/**/*.md ); do if ! [[ "$file" =~ ^[a-z0-9-]+$ ]]; then echo $file; exit 1; fi; done;
      - name: Commit & push
        uses: stefanzweifel/git-auto-commit-action@v4
        with:
