@@ -1,0 +1,39 @@
+name: Podmienia niepoprawne znaki w nazwach plików
+on:
+ pull_request:
+  branches:
+   - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+     - uses: actions/checkout@v2
+       with:
+        ref: ${{ github.event.pull_request.head.ref }}
+     - name: Poprawienie znaków
+       shell: bash
+       run: |
+          sudo apt-get install rename -y &&
+          find source/**/*.md -type f -execdir rename 's/_/-/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ą/a/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ć/c/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ę/e/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ł/l/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ń/n/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ó/o/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ś/s/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ż/z/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ź/z/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ /-/g' {} \;
+          find source/**/*.md -type f -execdir rename 's/--/-/g' {} \;
+          find source/**/*.md -type f -execdir rename 'y/A-Z/a-z/' {} \;
+     - name: Sprawdzanie niepoprawialnych znaków
+       shell: bash
+       run: for file in $( ls ./source/**/*.md ); do if ! [[ "$( awk -F/ '{ print $NF}' <<< $file )" =~ ^[a-z0-9-].+\.md$ ]]; then echo $file; exit 1; fi; done;
+     - name: Commit & push
+       uses: stefanzweifel/git-auto-commit-action@v4
+       with:
+          commit_message: 'Automatycznie poprawione znaki'
+          file_pattern: source/**/*.md
+          skip_dirty_check: false
