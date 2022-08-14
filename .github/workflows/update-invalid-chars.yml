@@ -35,4 +35,4 @@ jobs:
           commit_message: 'Automatycznie poprawione znaki'
           file_pattern: source/**/*.md
           skip_dirty_check: false
-          add_options: ''
+          add_options: '--all'
