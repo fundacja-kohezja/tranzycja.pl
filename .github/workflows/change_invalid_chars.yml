@@ -7,9 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
      - uses: actions/checkout@v2
+       with:
+        ref: ${{ github.event.pull_request.head.ref }}
      - name: Zamiana polskich znaków
        shell: bash
        run: |
+          git branch
           ls source/_publikacje/*
           echo "AA"
           git ls-files
