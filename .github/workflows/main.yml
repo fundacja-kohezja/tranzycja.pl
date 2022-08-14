@@ -2,7 +2,7 @@ name: Daty zaktualizowania/opublikowania artykułu
 on:
  pull_request:
     branches:
-      - main
+      - github_actions_test
 
 jobs:
   update:
