@@ -9,19 +9,7 @@ meta:
 
 Terapia hormonalna jest jedną z najczęściej stosowanych interwencji medycznych mających zmniejszyć dysforię płciową. Przez zmianę poziomu hormonów płciowych doprowadza ona z czasem do zmian w obrębie cech płciowych naszego ciała. Z tego artykułu dowiesz się wszystkich podstawowych informacji na temat tego, jak feminizująca terapia hormonalna wygląda w praktyce.
 
-## Jakich efektów możesz się spodziewać
-
-:::spoiler Skrócony opis zmian razem ze spodziewanym okresem ich zajścia można znaleźć w tabelce opracowanej przez WPATH:
-![Tabela zmian związanych z feminizującą terapią hormonalną](https://tranzycja.pl/media/img/feminizujaca-terapia-efekty.png)
-
-| Kolor | Rodzaj zmian |
-| -------- | -------- |
-| Czerwony | Zmiany są trwałe. |
-| Fioletowy | Zmiany mogą być trwałe, im dużej trwa terapia hormonalna tym bardziej prawdopodobne, że takie będą |
-| Zielony | Zmiany utrzymują się w trakcie terapii, cofają się przy powrocie do testosteronu |
-| Niebieski | HRT jest znaczącym czynnikiem, ale zależą też od indywidualnych działań danej osoby |
-
-:::
+Coś zmienię
 
 #### Efekty psychologiczne
 
