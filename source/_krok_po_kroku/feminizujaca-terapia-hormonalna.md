@@ -27,6 +27,8 @@ Skóra staje się bardziej sucha i mniej przetłuszczona, z czasem zwiększa si�
 
 Włosy na ciele mogą stać się jaśniejsze i bardziej miękkie w dotyku, będą też wolniej odrastać po zgoleniu.
 
+Coś jeszcze zmienię
+
 #### Piersi
 
 Rozwój piersi będzie przebiegać tym samym torem, co w przypadku cis kobiet w okresie dojrzewania. Najczęściej zaczyna się od powiększania się sutków oraz swędzenia w ich obszarze, z czasem ilość tkanki tłuszczowej zwiększa się, by po paru latach terapii  hormonalnej przyjąć finalny kształt i rozmiar (najczęściej ma to miejsce po 2-3 latach, ale w niektórych przypadkach może trwać dłużej lub krócej). W czasie rośnięcia piersi mogą być obolałe, a w rejonie sutków może pojawić się swędzenie i nadwrażliwość.
