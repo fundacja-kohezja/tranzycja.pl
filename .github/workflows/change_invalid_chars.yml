@@ -13,6 +13,7 @@ jobs:
      - name: Zamiana polskich znaków
        shell: bash
        run: |
+          git config --list
           sudo apt-get update && sudo apt-get install tzdata locales -y && sudo locale-gen pl_PL.UTF-8
           sudo localectl set-locale LANG="pl_PL.UTF-8"
           export LANG="pl_PL.UTF-8"
