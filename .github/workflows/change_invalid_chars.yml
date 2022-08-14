@@ -13,7 +13,7 @@ jobs:
        shell: bash
        run: |
           sudo apt-get install rename -y &&
-          find source/**/*.md -type f -execdir rename 'y/_/-/' {} \; 
+          find source/**/*.md -type f -execdir rename 's/_/-/g' {} \; 
           find source/**/*.md -type f -execdir rename 's/ą/a/g' {} \; 
           find source/**/*.md -type f -execdir rename 's/ć/c/g' {} \; 
           find source/**/*.md -type f -execdir rename 's/ę/e/g' {} \; 
@@ -23,6 +23,8 @@ jobs:
           find source/**/*.md -type f -execdir rename 's/ś/s/g' {} \; 
           find source/**/*.md -type f -execdir rename 's/ż/z/g' {} \; 
           find source/**/*.md -type f -execdir rename 's/ź/z/g' {} \; 
+          find source/**/*.md -type f -execdir rename 's/ /-/g' {} \;
+          find source/**/*.md -type f -execdir rename 's/--/-/g' {} \;
           find source/**/*.md -type f -execdir rename 'y/A-Z/a-z/' {} \;
      - name: Sprawdzanie niepoprawialnych znaków
        shell: bash
