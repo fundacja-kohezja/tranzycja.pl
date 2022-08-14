@@ -14,6 +14,7 @@ jobs:
        run: |
           sudo apt-get install rename -y &&
           ls /usr/bin/rename.ul &&
+          /usr/bin/rename.ul --version &&
           prename --version &&
           shopt -s globstar &&
           prename -n 's/ą/a/g' ./source/**/*.md &&
