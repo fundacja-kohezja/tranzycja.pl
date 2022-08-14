@@ -1,11 +1,3 @@
----
-opublikowano: '2022-02-02 14:36:23'
-zaktualizowano: '2022-02-02 14:36:23'
-tags: publikacje, media
-meta:
-  Autorzy: Dag
-  Korekta: Nina
----
 # Prawo inkluzywności, praktyki wykluczania - raport eksperta ONZ nt. sytuacji osób transpłciowych
 
 W tym artykule pragniemy zwrócić uwagę na pracę Niezależnego Eksperta ONZ ds. orientacji seksualnej i tożsamości płciowej, Victora Madrigala-Borloza i wydane przez jego urząd w poprzednim roku kalendarzowym (tj. 2021) dwa raporty — Laws of Inclusion oraz Practices of Exclusion (Prawa Inkluzywności oraz Praktyki Wykluczania) prezentowane na 47. sesji Rady Praw Człowieka Organizacji Narodów Zjednoczonych oraz 76. Zgromadzeniu Ogólnym ONZ.
