@@ -13,6 +13,7 @@ jobs:
        shell: bash
        run: |
           sudo apt-get install rename -y &&
+          ls /usr/bin/rename.ul &&
           prename --version &&
           shopt -s globstar &&
           prename -n 's/ą/a/g' ./source/**/*.md &&
