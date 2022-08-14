@@ -13,21 +13,7 @@ jobs:
        shell: bash
        run: |
           sudo apt-get install rename -y &&
-          ls /usr/bin/rename.ul &&
-          /usr/bin/rename.ul --version &&
-          prename --version &&
-          shopt -s globstar &&
-          prename -n 's/ą/a/g' ./source/**/*.md &&
-          prename -n 's/ć/c/g' ./source/**/*.md &&
-          prename -n 's/ę/e/g' ./source/**/*.md &&
-          prename -n 's/ł/l/g' ./source/**/*.md &&
-          prename -n 's/ń/n/g' ./source/**/*.md &&
-          prename -n 's/ó/o/g' ./source/**/*.md &&
-          prename -n 's/ś/s/g' ./source/**/*.md &&
-          prename -n 's/ź/z/g' ./source/**/*.md &&
-          prename -n 's/ż/z/g' ./source/**/*.md &&
-          prename -n 's/_/-/g' ./source/**/*.md &&
-          prename 'y/A-Z/a-z/' ./source/**/*.md
+          find source/**/*.md -type f -execdir rename 'y/_/-/' {} \; -execdir rename 's/ą/a/g' {} \; -execdir rename 's/ć/c/g' {} \; -execdir rename 's/ę/e/g' {} \; -execdir rename 's/ł/l/g' {} \; -execdir rename 's/ń/n/g' {} \; -execdir rename 's/ó/o/g' {} \; -execdir rename 's/ś/s/g' {} \; -execdir rename 's/ż/z/g' {} \; -execdir rename 's/ź/z/g' {} \; -execdir rename 'y/A-Z/a-z/' {} \;
      - name: Sprawdzanie niepoprawialnych znaków
        shell: bash
        run: for file in $( ls ./source/**/*.md ); do if ! [[ "$( awk -F/ '{ print $NF}' <<< $file )" =~ ^[a-z0-9-].+\.md$ ]]; then echo $file; exit 1; fi; done;
