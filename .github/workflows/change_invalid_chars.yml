@@ -1,35 +1,11 @@
 name: Aktualizuje niepoprawne znaki w nazwach plików
 on:
  pull_request
-env:
-  LANG: "pl_PL.UTF-8"
-  LANGUAGE: "pl_PL:pl"
-  LC_ALL: "pl_PL.UTF-8"
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-     - name: Zamiana polskich znaków
-       shell: bash
-       run: |
-          git config --list
-          sudo apt-get update && sudo apt-get install tzdata locales -y && sudo locale-gen pl_PL.UTF-8
-          sudo localectl set-locale LANG="pl_PL.UTF-8"
-          export LANG="pl_PL.UTF-8"
-          sudo update-locale          
-          echo "Testing language settings"
-          echo "All languages..."
-          locale -a
-          echo "Actual locale"
-          locale
-          echo "Actual numeric settings"
-          locale -c -k LC_NUMERIC
-          echo "LANG Variable"
-          echo "$LANG"
-          echo "LocaleCtl"
-          localectl status
-          echo "ŚĆĄĆŻŹĆĘ"
      - uses: actions/checkout@v2
      - name: Zamiana polskich znaków
        shell: bash
