@@ -4,7 +4,6 @@ tags: krok po kroku, terapia hormonalna, tranzycja medyczna
 meta: 
     Autorzy: Nina
     Korekta: Dag, Tash, Kasia
-zaktualizowano: '2022-05-29 12:00:00'
 ---
 # Feminizująca terapia hormonalna
 
