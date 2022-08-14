@@ -13,18 +13,19 @@ jobs:
        shell: bash
        run: |
           sudo apt-get install rename -y &&
+          prename --version &&
           shopt -s globstar &&
-          rename -n 's/ą/a/g' ./source/**/*.md &&
-          rename -n 's/ć/c/g' ./source/**/*.md &&
-          rename -n 's/ę/e/g' ./source/**/*.md &&
-          rename -n 's/ł/l/g' ./source/**/*.md &&
-          rename -n 's/ń/n/g' ./source/**/*.md &&
-          rename -n 's/ó/o/g' ./source/**/*.md &&
-          rename -n 's/ś/s/g' ./source/**/*.md &&
-          rename -n 's/ź/z/g' ./source/**/*.md &&
-          rename -n 's/ż/z/g' ./source/**/*.md &&
-          rename -n 's/_/-/g' ./source/**/*.md &&
-          rename 'y/A-Z/a-z/' ./source/**/*.md
+          prename -n 's/ą/a/g' ./source/**/*.md &&
+          prename -n 's/ć/c/g' ./source/**/*.md &&
+          prename -n 's/ę/e/g' ./source/**/*.md &&
+          prename -n 's/ł/l/g' ./source/**/*.md &&
+          prename -n 's/ń/n/g' ./source/**/*.md &&
+          prename -n 's/ó/o/g' ./source/**/*.md &&
+          prename -n 's/ś/s/g' ./source/**/*.md &&
+          prename -n 's/ź/z/g' ./source/**/*.md &&
+          prename -n 's/ż/z/g' ./source/**/*.md &&
+          prename -n 's/_/-/g' ./source/**/*.md &&
+          prename 'y/A-Z/a-z/' ./source/**/*.md
      - name: Sprawdzanie niepoprawialnych znaków
        shell: bash
        run: for file in $( ls ./source/**/*.md ); do if ! [[ "$( awk -F/ '{ print $NF}' <<< $file )" =~ ^[a-z0-9-].+\.md$ ]]; then echo $file; exit 1; fi; done;
