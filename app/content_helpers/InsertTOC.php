@@ -26,7 +26,7 @@ class InsertTOC
 
             if ($hasAllPages) {
                 $collectionItems = self::getAllCollectionItems($data);
-                $currentPageSlug = $data->_meta->filename;
+                $currentPageSlug = $data->getPath();
                 [$pagesBefore, $pagesAfter] = self::splitAtPage($collectionItems, $currentPageSlug);
             } else {
                 $pagesBefore = [];
@@ -85,8 +85,8 @@ class InsertTOC
         } else {
             $collectionItems = [];
 
-            foreach($data->collection as $slug => $item) {
-                $collectionItems[$slug] = $item->title();
+            foreach($data->collection as $item) {
+                $collectionItems[$item->getPath()] = $item->title();
             }
 
             /* cache collection so it doesn't get rebuilt with every item */
