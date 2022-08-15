@@ -270,7 +270,7 @@ mark {
     }
 }
 .long-article {
-    h1 {
+    h1 ~ .metabox {
         @apply .border-b-2;
         border-color: rgba(242, 194, 206, 0.5);
         @include dark {

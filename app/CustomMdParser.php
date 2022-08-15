@@ -2,7 +2,7 @@
 
 namespace App;
 
-use App\ContentHelpers\{EmbedVideos, InsertFooter, InsertTOC, RemoveOrphans};
+use App\ContentHelpers\{EmbedVideos, InsertFooter, InsertMeta, InsertTOC, RemoveOrphans};
 use App\Markdown\{Alert, Attributes, Footnote, Spoiler};
 use Illuminate\Container\Container;
 use Kaoken\MarkdownIt\MarkdownIt;
@@ -27,6 +27,7 @@ class CustomMdParser implements MarkdownParser
 
         $this->process(EmbedVideos::class)
              ->renderMarkdown()
+             ->process(InsertMeta::class)
              ->process(InsertTOC::class)
              ->process(InsertFooter::class)
              ->wrapTables()
