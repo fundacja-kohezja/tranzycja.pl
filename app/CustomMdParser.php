@@ -2,8 +2,9 @@
 
 namespace App;
 
+use App\ContentHelpers\{EmbedVideos, InsertFooter, InsertMeta, InsertTOC, RemoveOrphans};
 use App\Markdown\{Alert, Attributes, Footnote, Spoiler};
-use GuzzleHttp\Client;
+use Illuminate\Container\Container;
 use Kaoken\MarkdownIt\MarkdownIt;
 use Kaoken\MarkdownIt\Plugins\{MarkdownItMark as Mark, MarkdownItEmoji as Emoji, MarkdownItSup as Superscript};
 use Mni\FrontYAML\Markdown\MarkdownParser;
@@ -11,8 +12,7 @@ use Mni\FrontYAML\Markdown\MarkdownParser;
 class CustomMdParser implements MarkdownParser
 {
 
-    protected $content;
-
+    protected $content, $pageData;
     
     /**
      * Process our markdown file to turn it into the final html content
@@ -23,15 +23,18 @@ class CustomMdParser implements MarkdownParser
     public function parse($markdown)
     {
         $this->content = $markdown;
+        $this->fillPageData();
 
-        $this->embedVideos()
+        $this->process(EmbedVideos::class)
              ->renderMarkdown()
+             ->process(InsertMeta::class)
+             ->process(InsertTOC::class)
+             ->process(InsertFooter::class)
              ->wrapTables()
-             ->removeOrphans();
+             ->process(RemoveOrphans::class);
 
         return $this->content;
     }
-
 
     /**
      * Parse markdown and render it as html
@@ -64,64 +67,21 @@ class CustomMdParser implements MarkdownParser
             'fuzzyLink'  => false
         ]);
 
-        /* fix {{'@'}} in mailto links */
-        $parser->renderer->rules->link_open = function($tokens, $idx, $options, $env, $slf) {
-            if ($url = $tokens[$idx]->attrGet('href')) {
-                $tokens[$idx]->attrSet('href', str_replace("%7B%7B'@'%7D%7D", '@', $url));
-            }
-            return $slf->renderToken($tokens, $idx, $options, $env, $slf);
-        };
+        $this->fixEmails($parser);
 
         $this->content = $parser->render($this->content);
         
         return $this;
     }
 
-
     /**
-     * Replace tags like {%youtube video_id %} with html embeds
+     * Call classes responsible for different stages of content processing
      */
-    protected function embedVideos()
+    protected function process($class)
     {
-        $noembed_replacements = [
-            'youtube' => 'https://www.youtube.com/watch?v=',
-            'vimeo' => 'https://vimeo.com/'
-        ];
-
-        $callables = [];
-
-        $http = new Client(['base_uri' => 'http://noembed.com']);
-
-        foreach ($noembed_replacements as $service => $prefix) {
-
-            $callables["/{%$service +(.*?) *%}/"] = function (&$matches) use ($prefix, $http) {
-
-                /* make http request to noembed.com and recieve html video embed  */
-                $resp = json_decode($http->get('/embed?url=' . urlencode($prefix . $matches[1]))
-                    ->getBody()
-                    ->getContents()
-                );
-
-                /*
-                 * wrap the embed with a div and set the bottom padding
-                 * it's the css hack to maintain proper aspect ratio of the embed no matter the width
-                 */
-                if (intval($resp->width ?? 0) && intval($resp->height ?? 0)) {
-                    $ratio = $resp->height / $resp->width * 100;
-                    return ('<div class="ratio-iframe" style="padding-bottom: ' . $ratio . '%">') . ($resp->html ?? '') . '</div>';
-                }
-
-                return $resp->html ?? '';
-            };
-        }
-        
-        $this->content = preg_replace_callback_array(
-            $callables,
-            $this->content
-        );
+        $this->content = $class::process($this->content, $this->pageData);
         return $this;
     }
-
 
     /**
      * Wrap tables with a div so they can be scrollable horizontally
@@ -133,57 +93,33 @@ class CustomMdParser implements MarkdownParser
         return $this;
     }
 
+    /**
+     * Fix {{'@'}} in mailto links
+     */
+    protected function fixEmails($parser)
+    {
+        $parser->renderer->rules->link_open = function($tokens, $idx, $options, $env, $slf) {
+            if ($url = $tokens[$idx]->attrGet('href')) {
+                $tokens[$idx]->attrSet('href', str_replace("%7B%7B'@'%7D%7D", '@', $url));
+            }
+            return $slf->renderToken($tokens, $idx, $options, $env, $slf);
+        };
+    }
 
     /**
-     * Remove orphans (short words hanging at the end of the line)
-     * by replacing spaces before them with the non-breaking ones
+     * Get the page data (given by our custom handler) from the container
      */
-    protected function removeOrphans()
+    protected function fillPageData()
     {
-        $content = $this->content;
+        $c = Container::getInstance();
+        $this->pageData = $c['page'];
 
-        $single_letters = 'aiouwz';
-        $terms = ['al.','albo','ale','ależ','b.','bez','bm.','bp','br.','by','bym','byś','bł.','cyt.','cz.','czy','czyt.','dn.','do','doc.','dr','ds.','dyr.','dz.','fot.','gdy','gdyby','gdybym','gdybyś','gdyż','godz.','im.','inż.','jw.','kol.','komu','ks.','która','którego','której','któremu','który','których','którym','którzy','lecz','lic.','m.in.','max','mgr','min','moich','moje','mojego','mojej','mojemu','mych','mój','na','nad','nie','niech','np.','nr','nr.','nrach','nrami','nrem','nrom','nrowi','nru','nry','nrze','nrze','nrów','nt.','nw.','od','oraz','os.','p.','pl.','pn.','po','pod','pot.','prof.','przed','przez','pt.','pw.','pw.','tak','tamtej','tamto','tej','tel.','tj.','to','twoich','twoje','twojego','twojej','twych','twój','tylko','ul.','we','wg','woj.','więc','za','ze','śp.','św.','że','żeby','żebyś','—'];
-
-        /* numbers */
-        preg_match_all( '/(>[^<]+<)/', $content, $parts );
-        if ( $parts && is_array( $parts ) && ! empty( $parts ) ) {
-            $parts = array_shift( $parts );
-            foreach ( $parts as $part ) {
-                $to_change = $part;
-                while ( preg_match( '/(\d+) ([\da-z]+)/i', $to_change, $matches ) ) {
-                    $to_change = preg_replace( '/(\d+) ([\da-z]+)/i', '$1&nbsp;$2', $to_change );
-                }
-                if ( $part != $to_change ) {
-                    $content = str_replace( $part, $to_change, $content );
-                }
-            }
-        }
-
-        /* orphans */
-        $re      = '/^([' . $single_letters . ']|' . preg_replace( '/\./', '\.', implode( '|', $terms ) ) . ') +/i';
-        $content = preg_replace( $re, '$1$2&nbsp;', $content );
-
-        /**
-         * single letters
+        /*
+         * we flush the binding immediately to prevent infinite recursion when
+         * getting content of other pages than the current one (e.g. to extract
+         * titles for TOC)
          */
-        $re = '/([ >\(]+|&nbsp;|&#8222;|&quot;)([' . $single_letters . ']|' . preg_replace( '/\./', '\.', implode( '|', $terms ) ) . ') +/i';
-
-        /**
-         * double call to handle orphan after orphan after orphan
-         */
-        $content = preg_replace( $re, '$1$2&nbsp;', $content );
-        $content = preg_replace( $re, '$1$2&nbsp;', $content );
-
-        /**
-         * single letter after previous orphan
-         */
-        $re      = '/(&nbsp;)([' . $single_letters . ']) +/i';
-        $content = preg_replace( $re, '$1$2&nbsp;', $content );
-
-        $this->content = $content;
-        return $this;
-
+        $c->bind('page', fn() => null);
     }
 
 }
