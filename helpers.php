@@ -1,15 +1,5 @@
 <?php
 
-/**
- * Here are functions to put in the config file so they
- * can be available to use in page templates with access
- * to all page data (via automatically passed $page argument).
- * 
- * They all must be Closures, because function or method
- * names passed as callbacks in the config file won't work.
- * 
- */
-
 use Illuminate\Support\Str;
 
 return [

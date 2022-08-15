@@ -1,6 +1,6 @@
 <?php
 
-use App\Listeners\{GenerateSitemap, RedirectsFile};
+use App\Listeners\{GenerateSitemap, RedirectsFile, TemplateNames};
 use App\{CustomMdParser, CustomMdHandler};
 use Mni\FrontYAML\Markdown\MarkdownParser;
 use TightenCo\Jigsaw\Handlers\MarkdownHandler;
@@ -31,13 +31,19 @@ $container->bind(MarkdownHandler::class, CustomMdHandler::class);
 
 
 /*
+ * Automatically set template names for collections so they don't need
+ * to be specified in the config file.
+ */
+$events->beforeBuild(TemplateNames::class);
+
+/*
  * Generate sitemap.xml for search engines
  */
 $events->afterBuild(GenerateSitemap::class);
 
 /*
- * Copy redirects info from the file with human readable name
- * to the file readable by netlify
+ * Copy redirects info from the file with human readable name to the file
+ * readable by netlify and add dynamically generated items.
  */
 $events->afterBuild(RedirectsFile::class);
 

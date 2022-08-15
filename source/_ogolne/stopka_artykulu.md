@@ -1,5 +1,5 @@
-## Ten tekst był da Ciebie pomocny?
+## Ten tekst był dla Ciebie pomocny?
 
-Pomóż nam dalej rozwijać ten projekt!
+Pomóż nam dalej rozwijać projekt tranzycja.pl!
 
-[Wesprzyj nas](/wsparcie){.przycisk}
+[Wesprzyj nas](/wsparcie){.przycisk .mb-1}

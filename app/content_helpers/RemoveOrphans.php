@@ -1,59 +1,14 @@
 <?php
 
-namespace App;
+namespace App\ContentHelpers;
 
-use GuzzleHttp\Client;
-
-class ContentHelpers
+/**
+ * Remove orphans (short words hanging at the end of the line)
+ * by replacing spaces before them with the non-breaking ones
+ */
+class RemoveOrphans
 {
-    /**
-    * Replace tags like {%youtube video_id %} with html embeds
-    */
-    public static function embedVideos($content) {
-   
-       $noembed_replacements = [
-           'youtube' => 'https://www.youtube.com/watch?v=',
-           'vimeo' => 'https://vimeo.com/'
-       ];
-   
-       $callables = [];
-   
-       $http = new Client(['base_uri' => 'http://noembed.com']);
-   
-       foreach ($noembed_replacements as $service => $prefix) {
-   
-           $callables["/{%$service +(.*?) *%}/"] = function (&$matches) use ($prefix, $http) {
-   
-               /* make http request to noembed.com and recieve html video embed  */
-               $resp = json_decode($http->get('/embed?url=' . urlencode($prefix . $matches[1]))
-                   ->getBody()
-                   ->getContents()
-               );
-   
-               /*
-                * wrap the embed with a div and set the bottom padding
-                * it's the css hack to maintain proper aspect ratio of the embed no matter the width
-                */
-               if (intval($resp->width ?? 0) && intval($resp->height ?? 0)) {
-                   $ratio = $resp->height / $resp->width * 100;
-                   return ('<div class="ratio-iframe" style="padding-bottom: ' . $ratio . '%">') . ($resp->html ?? '') . '</div>';
-               }
-   
-               return $resp->html ?? '';
-           };
-       }
-       
-       return preg_replace_callback_array(
-           $callables,
-           $content
-       );
-    }
-
-    /**
-     * Remove orphans (short words hanging at the end of the line)
-     * by replacing spaces before them with the non-breaking ones
-     */
-    public static function removeOrphans($content) {
+    public static function process($content) {
 
         $single_letters = 'aiouwz';
         $terms = ['al.','albo','ale','ależ','b.','bez','bm.','bp','br.','by','bym','byś','bł.','cyt.','cz.','czy','czyt.','dn.','do','doc.','dr','ds.','dyr.','dz.','fot.','gdy','gdyby','gdybym','gdybyś','gdyż','godz.','im.','inż.','jw.','kol.','komu','ks.','która','którego','której','któremu','który','których','którym','którzy','lecz','lic.','m.in.','max','mgr','min','moich','moje','mojego','mojej','mojemu','mych','mój','na','nad','nie','niech','np.','nr','nr.','nrach','nrami','nrem','nrom','nrowi','nru','nry','nrze','nrze','nrów','nt.','nw.','od','oraz','os.','p.','pl.','pn.','po','pod','pot.','prof.','przed','przez','pt.','pw.','pw.','tak','tamtej','tamto','tej','tel.','tj.','to','twoich','twoje','twojego','twojej','twych','twój','tylko','ul.','we','wg','woj.','więc','za','ze','śp.','św.','że','żeby','żebyś','—'];

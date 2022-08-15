@@ -7,18 +7,14 @@ Jenssegers\Date\Date::setLocale('pl_PL');
 
 $yaml_config = Yaml::parse(file_get_contents(__DIR__ . '/source/_ogolne/konfiguracja.yml'));
 
-
 return $yaml_config + [
     'baseUrl' => 'https://tranzycja.pl',
     'collections' => [
 
-        'strony' => [
-            'extends' => '__source.layouts.page'
-        ],
+        'strony',
 
         'publikacje' => [
             'sort' => '-opublikowano',
-            'extends' => '__source.layouts.artl',
             'TOC' => [
                 'label' => 'Spis treści'
             ],
@@ -27,7 +23,6 @@ return $yaml_config + [
 
         'publications' => [
             'sort' => '-opublikowano',
-            'extends' => '__source.layouts.aeng',
             'TOC' => [
                 'label' => 'Contents'
             ]
@@ -35,7 +30,6 @@ return $yaml_config + [
 
         'krok_po_kroku' => [
             'sort' => 'kolejnosc',
-            'extends' => '__source.layouts.step',
             'TOC' => [
                 'label' => 'Tranzycja krok po kroku',
                 'allPages' => true
@@ -44,13 +38,11 @@ return $yaml_config + [
         ],
 
         'aktualnosci' => [
-            'sort' => '-opublikowano',
-            'extends' => '__source.layouts.post'
+            'sort' => '-opublikowano'
         ],
 
         'wsparcie' => [
             'sort' => 'kolejnosc',
-            'extends' => '__source.layouts.sprt',
             'TOC' => [
                 'label' => 'Wsparcie projektu tranzycja.pl',
                 'allPages' => true
