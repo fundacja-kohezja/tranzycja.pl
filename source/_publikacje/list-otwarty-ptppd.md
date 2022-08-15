@@ -49,6 +49,7 @@ Z poważaniem
 * Zespół tranzycja.pl
 * Fundacja Trans-Fuzja
 * Rada Języka Neutralnego
+* Stowarzyszenie My, Rodzice
 * Stowarzyszenie Grupa Stonewall
 * Stowarzyszenie Kampania Przeciw Homofobii
 * Stowarzyszenia na rzecz osób LGBT Tolerado
@@ -84,19 +85,20 @@ Z poważaniem
 * dr Armen Mekhakyan - psycholog, psychoterpeuta, współautor audycji Dobra terapia
 * dr Andrzej Śliwerski, Instytut Psychologii Uniwersytetu Łódzkiego, psychoterapeuta
 * dr Alicja Fidowicz, Uniwersytet Jagielloński
-* lek. Karolina Stachowiak - lekarka 
-* lek. Paula Ziółkowska - lekarka, rezydentka chorób wewnętrznych
+* lek. Paula Ziółkowska - rezydentka chorób wewnętrznych
 * lek. Ewa Bujacz - psychiatrka dzieci i młodzieży, psychoterapeutka dzieci i młodzieży w trakcie szkolenia
-* lek. Urszula Domysławska - lekarka rezydentka psychiatrii dzieci i młodzieży
+* lek. Urszula Domysławska - rezydentka psychiatrii dzieci i młodzieży
 * lek. Julia Pankiewicz - rezydentka psychiatrii
 * lek. Ania Tereszko - rezydentka psychiatrii, psycholożka
-* lek. Maja Czepiel - lekarka, rezydentka psychiatrii
-* lek. Katarzyna Marzęda
+* lek. Maja Czepiel - rezydentka psychiatrii
 * lek. Monika Szymczakowska - psychiatra
 * lek. Olga Sikorska - psychiatra
 * lek. Patrycja Rybak - rezydentka psychiatrii
 * lek. Agata Chylińska - rezydentka psychiatrii
-* lek. Leszek Asman - lekarz specjalista psychiatra
+* lek. Leszek Asman - specjalista psychiatra
+* lek. Miłosz Kotarba - specjalista psychiatra
+* lek. Katarzyna Marzęda
+* lek. Karolina Stachowiak
 * mgr Agnieszka Tousty-Ingielewicz - psycholożka, psychoterapeutka, przewodnicząca PTTPB
 * mgr Dorota Baran - psycholog, seksuolog kliniczny, psychoterapeuta, skarbnik PTTPB 
 * mgr Miłosz Dziedziak - psycholog, seksuolog, psychoterapeuta 
@@ -137,22 +139,26 @@ Z poważaniem
 * mgr Lena Skalska - psycholog
 * mgr Malgorzata Pyka - Biegła sadowa z zakresu psychologii
 * mgr Aleksandra Błaszkiewicz-Okrągły - psycholog, psychoterapeutka, seksuolog
+* mgr Kamil Elkader - psycholog, psychoterapeuta
 * mgr Jacek Jarmuła - pracownik psychiatrycznej opieki zdrowotnej
 * mgr Olga Woźna - psycholożka, seksuolożka, psychoterapeutka w procesie szkolenia
 * mgr Mateusz Gawiński - psycholog, psychoonkolog, psychoterapeuta poznawczo-behawioralny w trakcie certyfikacji
+* mgr Magdalena Smaś-Myszczyszyn - psychoterapeutka, seksuolożka, specjalistka psychoterapii uzależnień, syperwizorka
 * mgr Joanna Frejus - psycholożka, psychoterapeutka, prezeska Fundacji Czułość
 * mgr Anna Jurek - psycholog, psychoseksuolog, psychoterapeuta
-* mgr Barbara Puchalska - specjalista ochrony zdrowia 
+* mgr Barbara Puchalska - specjalista ochrony zdrowia
 * mgr Monika Kowalska-Wojtysiak - psycholog, coach kryzysowy
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
 * Bezpieczne Miejsce, Centrum Terapii DBT - Maria Bagińska, Martyna Stefańska, Ada Gomoradzka, Zuzanna Kalinowska, Antoni Głaz, Joanna Wiatr-Abramowska i Ewa Grzybowska
 * Polskie Stowarzyszenie Studentów i Absolwentów Psychologii
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 * Stowarzyszenie Społeczności LGBT+ UAM
+* Queerowy Ruch Akademicki PW (QRA PW)
 
 ### Osoby publiczne 
 * Anna Grodzka - współzałożycielka Fundacji Trans-Fuzja, posłanka na Sejm RP
 * Lalka Podobińska - współzałożycielka Fundacji Trans-Fuzja
+* Marek Urbaniak - prawnik i działacz społeczny
 * prof. Joanna Senyszyn -posłanka na Sejm RP
 * Marcin Dzierżanowski - dziennikarz, współzałożyciel Fundacji Wiara I Tęcza
 * Zuzanna Piechowicz - dziennikarka, współautorka audycji Dobra terapia 
@@ -170,6 +176,7 @@ Z poważaniem
 * Edyta Baker - aktywistka
 * Janina Bąk - aktywistka
 * Jakub Sajkowski - poeta, tłumacz
+* Adrian Jasiński - aktywista LGBT+ Activist Sanok i działacz Demokratów Ziemi Sanockiej
 * Bartosz Treder - radny Dzielnicy Suchanino w Gdańsku, aktywista na rzecz osób LGBT+, działacz miejski
 * Mateusz Panek - Nowa Lewica
 * Piotr Bucki - edukator, autor
@@ -178,11 +185,15 @@ Z poważaniem
 Organizacje oraz osoby publiczne chcące dołączyć do listy sygnatariuszy zapraszamy do skontaktowania się z nami przez e-mail [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl).
 :::
 
+## Aktualizacje
+
 :::info
 
 W treści listu zostało poprawione odniesienie do książki *Gender Dysphoria A Therapeutic Model for Working with Children, Adolescents and Young Adults* ze s. 56 na s. 57. Za błąd serdecznie przepraszamy.
 
 :::
+
+W następstwie naszego listu otwartego, oświadczenia wydały także [Polskie Towarzystwo Psychoterapii Psychodynamicznej](https://ptppd.pl/aktualnosci/oswiadczenie-polskiego-towarzystwa-psychoterapii-psychodynamicznej-dotyczace-ix-konferencji-ptppd--p.html) oraz [Polskie Towarzystwo Seksuologiczne](https://pts-seksuologia.pl/sites/strona/126/oswiadczenie-zarzadu-glownego-polskiego-towarzystwa-seksuologicznego-w-sprawie-wystapienia-dra-marcusa-evansa-i-dr-susan-evans-na-konferencji-w-polsce).
 
 [^1]: Florence Ashley, [A critical commentary on ‘rapid-onset gender dysphoria’](https://www.florenceashley.com/uploads/1/2/4/4/124439164/ashley_a_critical_commentary_on_rapid-onset_gender_dysphoria.pdf), *The Sociological Review*, 2020 r.
 [^2]: Greta R. Bauer, Margaret L. Lawson, Daniel L. Metzger, [Do Clinical Data from Transgender Adolescents Support the Phenomenon of “Rapid Onset Gender Dysphoria”?](Do Clinical Data from Transgender Adolescents Support the Phenomenon of “Rapid Onset Gender Dysphoria”?), *The Journal of Pediatrics*, 2022 r.

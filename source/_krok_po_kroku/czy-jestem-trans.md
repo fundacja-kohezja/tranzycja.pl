@@ -8,11 +8,11 @@ zaktualizowano: '2021-09-12 12:00:00'
 ---
 # Jak poznać, że jestem trans?
 
-Dla pewnej części osób trans, transpłciowość jest czymś oczywistym, odczuwanym w jaskrawy sposób od najmłodszych lat życia. Dla wielu innych dojście do swojej transpłciowości jest jednak procesem zajmującym znacznie więcej czasu. Informacje na temat transpłciowości nie są łatwo dostępne, bycie trans jest związane z pewną stygmatyzacją, a odczuwana zewsząd presja społeczna może jeszcze bardziej pogłębiać zamęt w swoim odczuciu płciowości.
-
 :::info
 W tym artykule znajdziesz szereg porad dotyczących lepszego zrozumienia swojej tożsamości jak i praktycznych sposobów eksplorowania swojej płci.
 :::
+
+Dla pewnej części osób trans, transpłciowość jest czymś oczywistym, odczuwanym w jaskrawy sposób od najmłodszych lat życia. Dla wielu innych dojście do swojej transpłciowości jest jednak procesem zajmującym znacznie więcej czasu. Informacje na temat transpłciowości nie są łatwo dostępne, bycie trans jest związane z pewną stygmatyzacją, a odczuwana zewsząd presja społeczna może jeszcze bardziej pogłębiać zamęt w swoim odczuciu płciowości.
 
 
 ![Ilustracja: czy jestem trans?](https://tranzycja.pl/media/img/czy-jestem-trans.png)
