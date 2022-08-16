@@ -1,4 +1,5 @@
 ---
+kolejnosc: 85
 tags: krok po kroku, tranzycja medyczna, operacje
 meta:
     Autorzy: Zosia
