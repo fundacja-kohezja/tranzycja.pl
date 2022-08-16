@@ -1,7 +1,7 @@
 ---
-kolejnosc: 1  
+kolejnosc: 2  
 ---
-# Wpłaty na konto
+# Wsparcie finansowe
 
 Aby wesprzeć nas finansowo, możesz dokonać wpłaty na następujące dane:
 
