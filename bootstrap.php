@@ -30,6 +30,17 @@ $container->bind(MarkdownParser::class, CustomMdParser::class);
 $container->bind(MarkdownHandler::class, CustomMdHandler::class);
 
 
+/* 
+ * Initial binding of page data, needed by our custom markdown parser.
+ * 
+ * It usually receives page data from the custom handler, but it needs
+ * some initial value in case parser gets called first time before the
+ * handler does.
+ * 
+ */
+$container->bind('page', fn() => null);
+
+
 /*
  * Automatically set template names for collections so they don't need
  * to be specified in the config file.
