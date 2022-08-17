@@ -43,14 +43,14 @@ window.addEventListener('scroll', _.throttle(function(){
             if (el.parentElement.classList.contains('foldable')) {
                 el.parentElement.classList.add('visible')
             }
-            var nextEl = el.parentElement.nextSibling;
+            var nextEl = el.parentElement.nextElementSibling;
             while (nextEl) {
                 if (nextEl.classList.contains('foldable')) {
                     nextEl.classList.add('visible')
                 } else {
                     break
                 }
-                nextEl = nextEl.nextSibling;
+                nextEl = nextEl.nextElementSibling;
             }
             var prevEl = el.parentElement;
             while (prevEl) {
@@ -59,7 +59,7 @@ window.addEventListener('scroll', _.throttle(function(){
                 } else {
                     break
                 }
-                prevEl = prevEl.previousSibling;
+                prevEl = prevEl.previousElementSibling;
             }
         }
     }
