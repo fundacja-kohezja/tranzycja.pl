@@ -155,6 +155,7 @@ Z poważaniem
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 * Stowarzyszenie Społeczności LGBT+ UAM
 * Queerowy Ruch Akademicki PW (QRA PW)
+* Studenckie Koło Naukowe Psychoterapii „Dialog” przy Wydziale Psychologii Uniwersytetu Warszawskiego
 
 ### Osoby publiczne 
 * Anna Grodzka - współzałożycielka Fundacji Trans-Fuzja, posłanka na Sejm RP
