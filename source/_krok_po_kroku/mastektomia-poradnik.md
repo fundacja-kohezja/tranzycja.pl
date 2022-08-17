@@ -1,5 +1,4 @@
 ---
-kolejnosc: 85
 tags: krok po kroku, tranzycja medyczna, operacje
 meta:
     Autorzy: Zosia
@@ -294,20 +293,25 @@ W Polsce jest bardzo niewiele klinik zajmujących się mastektomią skierowaną 
 Poniżej znajdziecie tabelę porównująca kilka znanych klinik:
 
 
-| Nazwa kliniki              | Miasto | Czy wymagana jest zmiana danych? | Koszt     |  Czy wymagane jest rozpoczęcie HRT? | Czy klinika operuje poniżej 18 roku życia?| Wykonywane cięcia |
-| -------------------------- | ------ | ------------- | --------- | ------------------------------------------ | ----------------------------------------- | ----------------- |
-| UniEstethica (Dr Libondi) | Kraków | Nie  | 14.8 tys. | Tak| Nie| Keyhole, Peri, Lollipop/Extended Peri, DI|
-| Solumed (Dr Dydymski)| Poznań | Nie  | 12,6 - 16 tys. (niższa cena za metody bezbliznowe)| Nie | Tak | Keyhole, Peri, Lollipop, T-anchor |
-| Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław | Nie |	11 tys.|Nie| Tak |	Okołootoczkowe, DI |
-|Gyneka (Szpital św. Róży, Dr Szepieniec)|	Kraków|	Nie|	12 - 16 tys.|	Nie |Tak	|Okołootoczkowe, T-anchor|
-|LuxMed (Dr Lembas)|	Warszawa|	Nie|	24 tys.|	Nie | Tak	|DI|
-|Klinika Timeless (Dr Jaworowski)|	Warszawa|	Nie|	17 - 21 tys.|	Nie | Nie|	Okołootoczkowe, DI|
-|Esculap (Dr Solarz lub Dr Kielan)|	Bielsko- Biała|	Nie|	7.5 tys. + max 500 za duży rozmiar|	Nie | Tak|	Fishmouth, DI|
-|Klinika Artura Zawisza|	Kraków|	Nie|	15 - 18 tys.|	?|?	|Okołootoczkowe, T-anchor, Lollipop|
-|NOA Clinic	|Wrocław|	Nie|	14,5 tys.|	Tak | Nie|	Okołootoczkowe|
-|Centrum Medyczne Bieńkowski|	Bydgoszcz|	Nie|	15 tys.|	Nie | Tak |Okołootoczkowe, DI|
-|Centrum Medyczne BIENIEK	|Wrocław	|Nie|	15 tys.|	Nie | Tak|	Okołootoczkowe, DI|
-|Wilmed	|Warszawa|	Nie|	8 tys.|	?|?	|Okołootoczkowe (peri/keyhole)|
+| Nazwa kliniki              | Miasto | Koszt     | Wymagania: HRT / Ukończone 18 lat |  Wykonywane cięcia |
+| -------------------------- | ------  | --------- | ------------------------------------------ | ----------------- |
+| UniEstethica (Dr Libondi) | Kraków | 14.8 tys. | Tak / Tak| Keyhole, Peri, Lollipop/Extended Peri, DI|
+| Solumed (Dr Dydymski)| Poznań | 12,6 - 16 tys. (niższa cena za metody bezbliznowe)| Nie / Nie | Keyhole, Peri, Lollipop, T-anchor |
+| Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław |	11 tys.|Nie / Nie |	Okołootoczkowe, DI |
+|Gyneka (Szpital św. Róży, Dr Szepieniec)|	Kraków|	12 - 16 tys.|	Nie / Tak	|Okołootoczkowe, T-anchor|
+|LuxMed (Dr Lembas)|	Warszawa|	24 tys.|	Nie / Tak*	|DI|
+|Klinika Timeless (Dr Jaworowski)|	Warszawa|	17 - 21 tys.|	Nie / Nie|	Okołootoczkowe, DI|
+|Esculap (Dr Solarz lub Dr Kielan)|	Bielsko- Biała|	7.5 tys. + max 500 za duży rozmiar|	Nie / Nie |	Fishmouth, DI|
+|Klinika Artura Zawisza|	Kraków|	15 - 18 tys.|	? / ?	|Okołootoczkowe, T-anchor, Lollipop|
+|NOA Clinic	|Wrocław|	14,5 tys.|	Tak / Tak |	Okołootoczkowe|
+|Centrum Medyczne Bieńkowski|	Bydgoszcz|	15 tys.|	Tak / Nie |Okołootoczkowe, DI|
+|Centrum Medyczne BIENIEK	|Wrocław|	15 tys.|	Nie / Nie|	Okołootoczkowe, DI|
+|Wilmed	|Warszawa|	8 tys.|	? / ?	|Okołootoczkowe (peri/keyhole)|
+
+###### * Dr Lembas poinformował że może operować na osobach poniżej 18 roku życia które mają już wniesioną sprawę do sądu odnośnie ustalenia płci
+
+
+---
 
 **Ceny operacji ostatni raz były uaktualniane w lipcu 2022 r. Z czasem ceny operacji mogą się zmieniać z racji na inflację.**
 
