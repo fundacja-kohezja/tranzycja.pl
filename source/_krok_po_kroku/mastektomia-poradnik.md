@@ -296,9 +296,9 @@ Poniżej znajdziecie tabelę porównująca kilka znanych klinik:
 
 | Nazwa kliniki              | Miasto | Koszt     | Wymagania: HRT / Ukończone 18 lat |  Wykonywane cięcia |
 | -------------------------- | ------  | --------- | ------------------------------------------ | ----------------- |
-| UniEstethica (Dr Libondi) | Kraków | 14.8 tys. | Tak / Tak| Keyhole, Peri, Lollipop/Extended Peri, DI|
-| Solumed (Dr Dydymski)| Poznań | 12,6 - 16 tys. (niższa cena za metody bezbliznowe)| Nie / Nie | Keyhole, Peri, Lollipop, T-anchor |
-| Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław |	11 tys.|Nie / Nie |	Okołootoczkowe, DI |
+|UniEstethica (Dr Libondi) | Kraków | 14.8 tys. | Tak / Tak| Keyhole, Peri, Lollipop/Extended Peri, DI|
+|Solumed (Dr Dydymski)| Poznań | 12,6 - 18,6 tys. (niższa cena za metody bezbliznowe)| Nie / Nie | Keyhole, Peri, Lollipop, T-anchor |
+|Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław |	11 tys.|Nie / Nie |	Okołootoczkowe, DI |
 |Gyneka (Szpital św. Róży, Dr Szepieniec)|	Kraków|	12 - 16 tys.|	Nie / Tak	|Okołootoczkowe, T-anchor|
 |LuxMed (Dr Lembas)|	Warszawa|	24 tys.|	Nie / Tak*	|DI|
 |Klinika Timeless (Dr Jaworowski)|	Warszawa|	17 - 21 tys.|	Nie / Nie|	Okołootoczkowe, DI|
