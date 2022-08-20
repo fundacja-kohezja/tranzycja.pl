@@ -34,9 +34,13 @@
                 el = document.getElementById('stylesheet_link')
                 el.href = el.dataset.manualmodesheeturl
             }
-            if (localStorage.theme == 'dark') {
-                document.documentElement.classList.add('dark')
-            }
+            requestAnimationFrame(() => {
+                if (localStorage.theme == 'dark') {
+                    document.documentElement.classList.add('dark');
+                    document.body.classList.add('dark');
+                }
+            })
+     
         </script>
     </head>
 
@@ -50,10 +54,12 @@
         </div>
         
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+        <script src="{{ mix('js/search/index.js', 'assets/build') }}"></script>
         @stack('scripts')
-
         <footer class="bg-gray-100 dark:bg-gray-900 text-center text-sm mt-12 p-4" role="contentinfo">
             @include('_ogolne.stopka')
         </footer>
+        <!--TAGS: {{ $page->tags }}-->
+        <!--LANG: {{ $page->lang }}-->
     </body>
 </html>
