@@ -3,7 +3,7 @@ opublikowano: '2021-08-22 17:30:18'
 zaktualizowano: '2021-08-25 12:00:00'
 tags: publikacje, badania
 meta:
-  Autorzy: Nina, Dag
+  Autorzy: Nina Kuta, Dag Fajt
 ---
 # Czy tranzycja medyczna pomaga osobom transpłciowym? 
 
