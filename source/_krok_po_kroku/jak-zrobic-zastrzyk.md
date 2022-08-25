@@ -2,9 +2,9 @@
 kolejnosc: 80
 tags: krok po kroku, tranzycja medyczna, terapia hormonalna
 meta: 
-    Autorzy: Nina, Kasia, Tash
+    Autorzy: Nina Kuta, lek. Katarzyna Marzęda, Tash Lisiecki
     Grafika: maxluman
-    Zdjęcia: Tash
+    Zdjęcia: Tash Lisiecki
 zaktualizowano: '2022-01-26 12:00:00'
 ---
 # Jak zrobić sobie zastrzyk? Poradnik do iniekcji podskórnych i domięśniowych.
