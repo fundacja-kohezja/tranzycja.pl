@@ -2,8 +2,8 @@
 kolejnosc: 20
 tags: krok po kroku, definicje
 meta: 
-    Autorzy: Nina, Dag
-    Korekta: Kasia
+    Autorzy: Nina Kuta, Dag Fajt
+    Korekta: lek. Katarzyna Marzęda
 zaktualizowano: '2021-09-12 12:00:00'
 ---
 # Jak poznać, że jestem trans?
