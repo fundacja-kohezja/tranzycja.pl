@@ -2,8 +2,8 @@
 kolejnosc: 65
 tags: 'krok po kroku, terapia hormonalna, tranzycja medyczna'
 meta:
-    Autorzy: Nina
-    Korekta: Kasia
+    Autorzy: Nina Kuta
+    Korekta: lek. Katarzyna Marzęda
 zaktualizowano: '2022-08-07 17:44:50'
 ---
 # Długoterminowe monitorowanie terapii hormonalnej
