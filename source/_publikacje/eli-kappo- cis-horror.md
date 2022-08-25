@@ -3,8 +3,9 @@ opublikowano: '2021-10-09 23:08:50'
 zaktualizowano: '2021-10-10 12:00:00'
 tags: publikacje, tłumaczenia
 meta: 
-  Autorzy: Dag
-  Korekta: Nina
+  Autorzy: Eli Kappo
+  Tłumaczenie: Dag Fajt
+  Korekta: Nina Kuta
 ---
 # Eli Kappo: rzecz wyjęta z cis horroru
 
