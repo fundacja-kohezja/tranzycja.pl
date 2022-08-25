@@ -3,8 +3,8 @@ opublikowano: '2022-04-30 19:00:00'
 zaktualizowano: '2022-05-31 12:00:00'
 tags: publikacje
 meta: 
-  Autorzy: Nina, Dag
-  Korekta: Kasia
+  Autorzy: Nina Kuta, Dag Fajt
+  Korekta: lek. Katarzyna Marzęda
 ---
 # Spektrum autyzmu a transpłciowość
 
