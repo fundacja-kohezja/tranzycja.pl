@@ -3,7 +3,7 @@ opublikowano: '2021-10-16 19:09:13'
 zaktualizowano: '2021-10-19 12:00:00'
 tags:
 meta: 
-    Autorzy: Dag
+    Autorzy: Eli Kappo, Dag Fajt
     Korekta: Nina
 lang: ENG
 ---
