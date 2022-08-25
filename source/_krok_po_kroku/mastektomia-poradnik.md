@@ -2,8 +2,8 @@
 kolejnosc: 85
 tags: krok po kroku, tranzycja medyczna, operacje
 meta:
-    Autorzy: Zosia
-    Korekta: Kasia, Nina, Dag
+    Autorzy: Sofia Durys
+    Korekta: lek. Katarzyna Marzęda, Nina Kuta, Dag Fajt
 ---
 
 # Jak zrobić topkę? Poradnik do mastektomii
