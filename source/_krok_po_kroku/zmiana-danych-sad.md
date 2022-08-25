@@ -2,8 +2,8 @@
 kolejnosc: 91
 tags: krok po kroku, tranzycja prawna
 meta: 
-    Autorzy: Nina, Marek Urbaniak
-    Korekta: Kasia, Dag
+    Autorzy: Nina Kuta, Marek Urbaniak
+    Korekta: lek. Katarzyna Marzęda, Dag Fajt
 zaktualizowano: '2022-03-31 12:00:00'
 ---
 # Jak zmienić oznaczenie płci w dokumentach? Poradnik do sądu
