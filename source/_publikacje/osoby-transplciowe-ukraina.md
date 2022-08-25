@@ -3,8 +3,8 @@ opublikowano: '2022-05-22 15:00:00'
 zaktualizowano: '2022-05-31 15:00:00'
 tags: publikacje, migranci
 meta:
-  Autorzy: Dag
-  Korekta: Nina
+  Autorzy: Dag Fajt
+  Korekta: Nina Kuta
 ---
 # Poradnik dla osób transpłciowych z Ukrainy
 
