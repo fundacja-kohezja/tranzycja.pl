@@ -2,8 +2,8 @@
 kolejnosc: 60
 tags: krok po kroku, terapia hormonalna, tranzycja medyczna
 meta: 
-    Autorzy: Nina
-    Korekta: Dag, Tash, Kasia
+    Autorzy: Nina Kuta
+    Korekta: Dag Fajt, Tash Lisiecki, lek. Katarzyna Marzęda
 zaktualizowano: '2022-05-29 12:00:00'
 ---
 # Feminizująca terapia hormonalna
