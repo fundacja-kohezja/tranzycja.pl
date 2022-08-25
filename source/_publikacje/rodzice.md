@@ -3,7 +3,7 @@ opublikowano: '2021-02-01 20:51:12'
 zaktualizowano: '2021-11-29 12:00:00'
 tags: publikacje, tranzycja społeczna
 meta:
-  Autorzy: Tash
+  Autorzy: Tash Lisiecki
 ---
 # Transpłciowość w rodzinie
 
