@@ -2,8 +2,8 @@
 kolejnosc: 1
 tags: krok po kroku, tranzycja medyczna, definicje
 meta: 
-    Autorzy: Nina
-    Korekta: Tash, Dag, Kasia
+    Autorzy: Nina Kuta
+    Korekta: Tash Lisiecki, Dag Fajt, lek. Katarzyna Marzęda
 zaktualizowano: '2022-03-29 12:00:00'
 ---
 # Mapa tranzycji
