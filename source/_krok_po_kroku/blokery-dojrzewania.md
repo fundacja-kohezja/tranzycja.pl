@@ -2,8 +2,8 @@
 kolejnosc: 70
 tags: krok po kroku, tranzycja medyczna, terapia hormonalna
 meta: 
-    Autorzy: Nina
-    Korekta: Dag, Kasia
+    Autorzy: Nina Kuta
+    Korekta: Dag Fajt, lek. Katarzyna Marzęda
 zaktualizowano: '2022-05-25 12:00:00'
 ---
 # Blokery dojrzewania 
