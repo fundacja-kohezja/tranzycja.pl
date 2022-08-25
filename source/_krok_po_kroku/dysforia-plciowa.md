@@ -2,8 +2,8 @@
 kolejnosc: 30
 tags: krok po kroku, definicje
 meta: 
-    Autorzy: Nina, Dag
-    Korekta: Kasia
+    Autorzy: Nina Kuta, Dag Fajt
+    Korekta: lek. Katarzyna Marzęda
 zaktualizowano: '2022-03-12 12:00:00'
 ---
 # Dysforia płciowa
