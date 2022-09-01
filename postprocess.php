@@ -24,17 +24,14 @@ use TightenCo\Jigsaw\Parsers\FrontMatterParser;
  *
  */
 
-enum Fields: string
-{
-    case PUBLISHED = 'opublikowano';
-    case UPDATED = 'zaktualizowano';
-}
+const PUBLISHED = 'opublikowano';
+const UPDATED = 'zaktualizowano';
 
 $folders = [
-    '_krok_po_kroku' => [Fields::UPDATED],
-    '_aktualnosci' => [Fields::PUBLISHED],
-    '_publikacje' => [Fields::PUBLISHED, Fields::UPDATED],
-    '_publications' => [Fields::PUBLISHED, Fields::UPDATED]
+    '_krok_po_kroku' => [UPDATED],
+    '_aktualnosci' => [PUBLISHED],
+    '_publikacje' => [PUBLISHED, UPDATED],
+    '_publications' => [PUBLISHED, UPDATED]
 ];
 
 $c = new Container();
@@ -52,17 +49,16 @@ foreach ($folders as $folder => $fields) {
             $rest = $parser->getContent($file_contents);
 
             foreach ($fields as $field) {
-                $field_name = $field->value;
                 switch ($field) {
-                    case Fields::PUBLISHED:
-                        if (!isset($yaml[$field_name]) || !$yaml[$field_name]) {
-                            $yaml[$field_name] = (string)Date::now();
+                    case PUBLISHED:
+                        if (!isset($yaml[$field]) || !$yaml[$field]) {
+                            $yaml[$field] = (string)Date::now();
                             $changed = true;
                         }
                         break;
 
-                    case Fields::UPDATED:
-                        $yaml[$field_name] = (string)Date::now();
+                    case UPDATED:
+                        $yaml[$field] = (string)Date::now();
                         $changed = true;
                         break;
                 }
