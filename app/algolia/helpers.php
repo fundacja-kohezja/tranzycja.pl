@@ -2,11 +2,10 @@
 
 function get_comments_from_document($body)
 {
-    $i = iterator_to_array($body->childNodes);
-    end($i);
-    $comment_lang = prev($i);
-    prev($i);
-    $comment_tags = prev($i);
+    $nodes = iterator_to_array($body->childNodes);
+    $comment_lang = $nodes[count($nodes) - 2];
+    $comment_tags = $nodes[count($nodes) - 4];
+
     return array(
         'lang' => $comment_lang->nodeValue,
         'tags' => $comment_tags->nodeValue
@@ -121,11 +120,28 @@ function extended_exclude_fn($el, $type)
     return basic_exclude_fn($el) || (strpos($type, 'prev') !== false && strpos($el->tagName, 'details') !== false);
 }
 
+function md_to_html_path($filename)
+{
+    if (strpos($filename, '_ogolne/') !== false) {
+        return __DIR__ . '/../../build_local/index.html';
+    }
+    $html_path = explode("source/", $filename)[1];
+    if ($html_path[0] === '_') {
+        $html_path = substr($html_path, 1);
+    }
+
+    $html_path = str_replace('_', '-', $html_path);
+    $html_path = str_replace('.md', '', $html_path);
+    $html_path .= '/index.html';
+
+    return __DIR__ . '/../../build_local/' . $html_path;
+}
+
 function file_path_to_url($filename)
 {
     $url = str_replace('build_local/', '', strstr($filename, 'build_local/'));
     $url = str_replace('index.html', '', $url);
-    return $url;
+    return strlen($url) > 0 ? $url : '/';
 }
 
 function create_agolia_article_object($path, $section, $filename, $tags)
