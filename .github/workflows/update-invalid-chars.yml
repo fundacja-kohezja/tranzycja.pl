@@ -16,7 +16,7 @@ jobs:
        run: |
           sudo apt-get install rename -y &&
           find source/**/*.md -type f -execdir rename 's/_/-/g' {} \; 
-          find source/**/*.md -type f -execdir sh -c "echo {} | iconv -f UTF-8 -t ASCII//TRANSLIT" \;
+          find source/**/*.md -type f -execdir bash -c 'mv "$1" "$(iconv -f UTF8 -t ASCII//TRANSLIT <<< $1)"' -- {} \;
           find source/**/*.md -type f -execdir rename 's/ /-/g' {} \;
           find source/**/*.md -type f -execdir rename 's/--/-/g' {} \;
           find source/**/*.md -type f -execdir rename 'y/A-Z/a-z/' {} \;
