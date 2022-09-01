@@ -1,10 +1,10 @@
 ---
 opublikowano: '2022-07-24 10:51:00'
-zaktualizowano: '2022-07-24 10:51:00'
-tags: publikacje, media, terapia konwersyjna
-meta: 
-  Autorzy: Dag, Nina
-  Korekta: Tash, Kasia
+zaktualizowano: '2022-09-01 19:43:01'
+tags: 'publikacje, media, terapia konwersyjna'
+meta:
+    Autorzy: 'Dag, Nina'
+    Korekta: 'Tash, Kasia'
 ---
 # List otwarty do władz Polskiego Towarzystwa Psychoterapii Psychodynamicznej 
 
