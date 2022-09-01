@@ -11,17 +11,17 @@ use TightenCo\Jigsaw\Parsers\FrontMatterParser;
 
 /**
  * This file is meant to be called by GitHub Actions.
- * 
+ *
  * Its purpose is to automatically fill missing dates in articles
  * so authors don't need to do it manually each time.
- * 
+ *
  * folders to process are specified in $folders in the following manner:
  * [
  *     folder_name => [field1, field2...],
  *     ...
  * ]
  * each of the specified fields will be filled with current date if missing or empty.
- * 
+ *
  */
 
 enum Fields: string
@@ -37,37 +37,34 @@ $folders = [
     '_publications' => [Fields::PUBLISHED, Fields::UPDATED]
 ];
 
-$c = new Container;
+$c = new Container();
 $parser = $c[FrontMatterParser::class];
 
-$fs = new Filesystem;
+$fs = new Filesystem();
 array_shift($argv);
-var_dump($argv);
 foreach ($folders as $folder => $fields) {
-
     $files = $fs->files(__DIR__ . '/source/' . $folder);
 
     foreach ($files as $file) {
-        if(count($argv) <= 0 || in_array(strstr($file->getPathname(), 'source/'), $argv)) {
+        if (count($argv) <= 0 || in_array(strstr($file->getPathname(), 'source/'), $argv)) {
             $file_contents = $fs->get($file);
             $yaml = $parser->getFrontMatter($file_contents);
             $rest = $parser->getContent($file_contents);
-    
+
             foreach ($fields as $field) {
                 $field_name = $field->value;
-                switch($field) {
-                    case Fields::PUBLISHED: {
+                switch ($field) {
+                    case Fields::PUBLISHED:
                         if (!isset($yaml[$field_name]) || !$yaml[$field_name]) {
                             $yaml[$field_name] = (string)Date::now();
                             $changed = true;
                         }
                         break;
-                    }
-                    case Fields::UPDATED: {
+
+                    case Fields::UPDATED:
                         $yaml[$field_name] = (string)Date::now();
                         $changed = true;
                         break;
-                    }
                 }
             }
             if ($changed) {
