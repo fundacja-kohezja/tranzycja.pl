@@ -4,11 +4,9 @@ name: UzupelnianieDat
 
 # Controls when the action will run. 
 on:
-  push:
-    paths: 
-      - source/_publikacje/*
-      - source/_aktualnosci/*
-      - source/_publications/*
+ pull_request:
+    branches:
+      - main
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
