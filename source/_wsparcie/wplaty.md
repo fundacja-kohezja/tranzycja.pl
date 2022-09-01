@@ -1,20 +1,24 @@
 ---
-kolejnosc: 1  
+kolejnosc: 2  
 ---
-# Wpłaty na konto
+# Wsparcie finansowe
 
-Aby wesprzeć nas finansowo, możesz dokonać wpłaty na następujące dane:
+Możesz nas wesprzeć na następujące sposoby:
 
-## PLN
+## Zrzutka
+
+<div style="position: relative; width: 100%; height: 400px; overflow: hidden;"><iframe style="position: absolute; top:0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://zrzutka.pl/xa4dbg/widget/23" frameborder="0" scrolling="no"></iframe></div>
+
+## Przelew bezpośredni - PLN
 Fundacja Kohezja  
 Bank BNP Paribas  
 IBAN: PL25 1600 1462 1747 7124 9000 0003  
 SWIFT: PPABPLPKXXX  
-Tytuł: darowizna na cele statutowe  
+Tytuł: Darowizna na projekt tranzycja.pl 
 
-## EURO
+## Przelew bezpośredni - EURO
 Fundacja Kohezja  
 Bank BNP Paribas  
 SWIFT: PPABPLPKXXX  
 PL14 1600 1462 1747 7124 9000 0007  
-Description: donation for tranzycja.pl  
+Description: Donation for tranzycja.pl
