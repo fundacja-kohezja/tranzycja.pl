@@ -24,40 +24,56 @@ use TightenCo\Jigsaw\Parsers\FrontMatterParser;
  * 
  */
 
+enum Fields: string
+{
+    case PUBLISHED = 'opublikowano';
+    case UPDATED = 'zaktualizowano';
+}
+
 $folders = [
-    '_krok_po_kroku' => ['zaktualizowano'],
-    '_aktualnosci' => ['opublikowano'],
-    '_publikacje' => ['opublikowano', 'zaktualizowano'],
-    '_publications' => ['opublikowano', 'zaktualizowano']
+    '_krok_po_kroku' => [Fields::UPDATED],
+    '_aktualnosci' => [Fields::PUBLISHED],
+    '_publikacje' => [Fields::PUBLISHED, Fields::UPDATED],
+    '_publications' => [Fields::PUBLISHED, Fields::UPDATED]
 ];
 
 $c = new Container;
 $parser = $c[FrontMatterParser::class];
 
 $fs = new Filesystem;
-
+array_shift($argv);
+var_dump($argv);
 foreach ($folders as $folder => $fields) {
 
     $files = $fs->files(__DIR__ . '/source/' . $folder);
 
     foreach ($files as $file) {
-
-        $file_contents = $fs->get($file);
-        $yaml = $parser->getFrontMatter($file_contents);
-        $rest = $parser->getContent($file_contents);
-        $changed = false;
-
-        foreach ($fields as $field) {
-            
-            if (!isset($yaml[$field]) || !$yaml[$field]) {
-                $yaml[$field] = (string)Date::now();
-                $changed = true;
-            }
-        }
+        if(count($argv) <= 0 || in_array(strstr($file->getPathname(), 'source/'), $argv)) {
+            $file_contents = $fs->get($file);
+            $yaml = $parser->getFrontMatter($file_contents);
+            $rest = $parser->getContent($file_contents);
     
-        if ($changed) {
-            $new_content = '---' . PHP_EOL . Yaml::dump($yaml) . '---' . PHP_EOL . $rest;
-            $fs->putWithDirectories($file, $new_content);
+            foreach ($fields as $field) {
+                $field_name = $field->value;
+                switch($field) {
+                    case Fields::PUBLISHED: {
+                        if (!isset($yaml[$field_name]) || !$yaml[$field_name]) {
+                            $yaml[$field_name] = (string)Date::now();
+                            $changed = true;
+                        }
+                        break;
+                    }
+                    case Fields::UPDATED: {
+                        $yaml[$field_name] = (string)Date::now();
+                        $changed = true;
+                        break;
+                    }
+                }
+            }
+            if ($changed) {
+                $new_content = '---' . PHP_EOL . Yaml::dump($yaml) . '---' . PHP_EOL . $rest;
+                $fs->putWithDirectories($file, $new_content);
+            }
         }
     }
 }
