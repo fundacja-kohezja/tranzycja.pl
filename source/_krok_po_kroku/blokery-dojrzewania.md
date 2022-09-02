@@ -42,8 +42,6 @@ Blokery z założenia przepisuje się dorastającej młodzieży w celu opóźnie
 
 Część lekarzy jest zdania, że podawanie blokerów w kolejnych fazach skali Tannera nie ma zastosowania. Jednakże spora część specjalistów podaje blokery, ponieważ powstrzymują one kolejne fazy dojrzewania, choć nie cofną tych, które nastąpiły przed ich wprowadzeniem. Sytuacja ta może mieć miejsce np. gdy dziecko trafiło pod obserwację lekarza dość późno i nie ma jeszcze pełnej diagnozy, przez co nie można podjąć decyzji o podawaniu hormonów.
 
-KEO JEST SUPER
-
 Po osiągnięciu 14. roku życia, jeśli dany nastolatek w dalszym ciągu będzie tego chciał, może rozpocząć terapię hormonalną umożliwiającą feminizację/maskulinizację ciała. Jest to typowa forma leczenia dysforii płciowej w przypadku dorosłych osób trans, stosowana rutynowo na całym świecie. Wraz z osiągnięciem 16. roku życia pojawia się również możliwość przeprowadzenia niektórych operacji, takich jak mastektomia u trans mężczyzn. Operacje rekonstrukcji genitaliów są możliwe dopiero po osiągnięciu dorosłości.
 
 ## Czemu blokery są potrzebne?
