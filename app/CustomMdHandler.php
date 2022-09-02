@@ -2,117 +2,23 @@
 
 namespace App;
 
-use Illuminate\Support\Str;
+use Illuminate\Container\Container;
 use TightenCo\Jigsaw\{
-    File\OutputFile,
     Handlers\MarkdownHandler,
     PageData
 };
 
-class CustomMdHandler extends MarkdownHandler {
-
-    protected static $collectionsForTOC;
-
-    /** 
-     * Table of Contents is hidden inside <details> element
-     * (and collapsed on mobile by default).
-     * 
-     * Below are labels to put in the <summary> of the <details>
-     * (always visible, pressable to expand TOC).
-     * 
-     */
-    protected const TOC_LABELS = [
-        'krok_po_kroku' => 'Tranzycja krok po kroku',
-        'publikacje'    => 'Spis treści',
-        'publications'  => 'Contents',
-        'wsparcie'      => 'Wsparcie projektu tranzycja.pl'
-    ];
-
+class CustomMdHandler extends MarkdownHandler
+{
+    
     public function handleCollectionItem($file, PageData $pageData)
     {
-        /* generate output files to have the base for modifications */
-        $outputFiles = parent::handleCollectionItem($file, $pageData);
+        $this->putPageDataInContainer($pageData);
 
-        return $outputFiles->map(function($outputFile) use ($pageData) {
-            $collection = $pageData->page->_meta->collection;
+        return parent::handleCollectionItem($file, $pageData);
+    }    
 
-            switch ($collection) {
-
-                case 'krok_po_kroku':
-                case 'wsparcie':
-                    /**
-                     * In this case TOC contains all pages of the collection
-                     * so we need to get them, but only once, not every time an item
-                     * is processed, hence the static property
-                     */
-                    if (!isset(static::$collectionsForTOC[$collection])){
-                        static::$collectionsForTOC[$collection] = $this->getAllCollectionItems($collection, $pageData);
-                    }
-
-                    /**
-                     * Split all pages of the collection into two chunks:
-                     * those which are before the current page
-                     * and those which are after the current page
-                     */
-                    $chunked = collect(static::$collectionsForTOC[$collection])
-
-                        /* split at the path of the current page */
-                        ->chunkWhile(fn($value, $key) => $key !== $pageData->page->_meta->path->first())
-                        ->toArray();
-                    
-                    if (!isset($chunked[1])) {
-                        /**
-                         * if array has not been split (has only 1 chunk), that means the current page
-                         * is the first one from the collection so we need to move the chunk
-                         * to the position of the "after" chunk and the "before" chunk must be empty
-                         */
-                        array_unshift($chunked, []);
-                    };
-                    [$chunk1, $chunk2] = $chunked;
-
-                    /* remove the current page from the "after" chunk */
-                    array_shift($chunk2);
-
-                    $new_content = $this->insertTOC(
-                        $outputFile->contents(),
-                        self::TOC_LABELS[$collection],
-                        true,
-                        $chunk1,
-                        $chunk2
-                    );
-
-                    break;
-
-                case 'publikacje':
-                case 'publications':
-                    $new_content = $this->insertTOC($outputFile->contents(), self::TOC_LABELS[$collection]);
-                    break;
-
-                default:
-                    return $outputFile; // no modifications
-            }
-            
-            /*
-             * make new output file with modified content
-             */
-            return new OutputFile(
-                $outputFile->inputFile(),
-                $outputFile->path(),
-                $outputFile->name(),
-                $outputFile->extension(),
-                $new_content,
-                $outputFile->data()
-            );
-        });
-    }
-
-    protected function insertTOC(
-        string $contents,
-        string $label,
-        bool $beforeTitle = false,
-        array $pagesBefore = [],
-        array $pagesAfter = []
-    )
+    public function handle($file, $pageData)
     {
 
         $processed_headings = [];
@@ -183,14 +89,8 @@ class CustomMdHandler extends MarkdownHandler {
 
     }
 
-    protected static function getAllCollectionItems(string $collectionName, PageData $pageData)
+    protected function putPageDataInContainer($pageData)
     {
-        $collection = [];
-
-        foreach($pageData->{$collectionName} as $item) {
-            $collection[$item->_meta->path->first()] = $item->title();
-        }
-
-        return $collection;
+        Container::getInstance()->bind('page', fn() => $pageData->page);
     }
 }

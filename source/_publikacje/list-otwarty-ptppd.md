@@ -150,10 +150,12 @@ Z poważaniem
 * mgr Monika Kowalska-Wojtysiak - psycholog, coach kryzysowy
 * Dominik Haak i zespół Centrum Terapii HAAK w Poznaniu
 * Bezpieczne Miejsce, Centrum Terapii DBT - Maria Bagińska, Martyna Stefańska, Ada Gomoradzka, Zuzanna Kalinowska, Antoni Głaz, Joanna Wiatr-Abramowska i Ewa Grzybowska
+* Wyraziście - Centrum wsparcia, rozwoju i komunikacji
 * Polskie Stowarzyszenie Studentów i Absolwentów Psychologii
 * Tęczowy Port UG - organizacja studencka przy Uniwersytecie Gdańskim
 * Stowarzyszenie Społeczności LGBT+ UAM
 * Queerowy Ruch Akademicki PW (QRA PW)
+* Studenckie Koło Naukowe Psychoterapii „Dialog” przy Wydziale Psychologii Uniwersytetu Warszawskiego
 
 ### Osoby publiczne 
 * Anna Grodzka - współzałożycielka Fundacji Trans-Fuzja, posłanka na Sejm RP
