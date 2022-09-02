@@ -6,7 +6,10 @@
         "guzzlehttp/guzzle": "^7.2",
         "jenssegers/date": "^4.0",
         "ramsey/uuid": "^4.1",
-        "kaoken/markdown-it-php": "^13.0"
+        "kaoken/markdown-it-php": "^13.0",
+        "symfony/dom-crawler": "^5.4",
+        "algolia/algoliasearch-client-php": "^3.3",
+        "symfony/css-selector": "^5.4"
     },
     "autoload": {
         "psr-4": {

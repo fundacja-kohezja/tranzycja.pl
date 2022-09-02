@@ -136,8 +136,8 @@ details {
         }
     }
 }
+
 mark {
-    background-color: #f2c2ce;
     padding-top: 0.25em;
     padding-bottom: 0.25em;
     padding-right: 0.25em;
@@ -149,7 +149,9 @@ mark {
         @apply .text-white;
         @apply .bg-purple-700;
     }
+    background-color: #f2c2ce;
 }
+
 .faq-section, .news-entry {
     h1 { @apply .text-3xl }
     h2 {
@@ -228,7 +230,6 @@ mark {
             float: right;
             width: 70%;
         }
-        > h1,
         > h2,
         > h3,
         > h4,
@@ -516,4 +517,68 @@ mark {
 br + .spacer {
     font-size: 1.5em;
     vertical-align: bottom;
+}
+
+.search-form {
+    @apply .px-8;
+    &:focus-within {
+        --aa-primary-color-rgb: 217, 119, 155 !important;
+        @include dark {
+            --aa-primary-color-rgb: 55, 159, 162 !important;
+        }
+    }
+}
+
+search-mark {
+    @apply .text-black;
+    @apply .font-semibold;
+    background-color: #f2c2ce !important;
+    @include dark {
+        @apply .text-white;
+        @apply .bg-purple-700 #{!important};
+    }
+}
+
+search-line {
+    background-color: #c2e1f2 !important;
+    @include dark {
+        background-color: #47555c !important;
+    }
+}
+
+.search-tag {
+    @apply bg-pink-600 #{!important};
+    @include dark {
+        @apply bg-blue-700 #{!important};
+    }
+    @apply mr-2 #{!important};
+    @apply p-2 #{!important};
+    @apply inline #{!important};
+    border-radius: 3px;
+}
+
+[data-autocomplete-source-id=tagsPlugin] .aa-Item {
+    @apply bg-pink-600 #{!important};
+    @include dark {
+        @apply bg-blue-700 #{!important};
+    }
+    @apply text-white;
+
+    svg {
+        @apply text-white;
+    }
+}
+
+:not(.aa-DetachedContainer) > .aa-Panel .aa-Source[data-autocomplete-source-id="articles_tags"] {
+    .aa-Item {
+        display: inline;
+    }
+
+    .aa-Item[aria-selected=true] {
+        background: none !important;
+    }
+
+    .aa-List {
+        @apply my-2 #{!important};
+    }
 }

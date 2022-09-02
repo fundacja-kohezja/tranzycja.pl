@@ -1,67 +1,63 @@
-import _ from 'lodash'
+import _ from 'lodash';
 
-var lastId = ''
+let lastId = '';
 
-var toc = document.querySelector('.toc')
-var tocItems = toc.querySelectorAll("a")
-var scrollItems = []
+const toc = document.querySelector('.toc');
+const tocItems = toc.querySelectorAll('a');
+const scrollItems = [];
 
-tocItems.forEach(function(item){
-    var href = item.href
-    if (href.length) scrollItems.push(document.getElementById(href.split('#').pop()))
-})
+tocItems.forEach((item) => {
+    const { href } = item;
+    if (href.length) scrollItems.push(document.getElementById(href.split('#').pop()));
+});
 
-window.addEventListener('scroll', _.throttle(function(){
-    
-    var cur = scrollItems.reduce(function(prev, item){
+window.addEventListener('scroll', _.throttle(() => {
+    const cur = scrollItems.reduce((prev, item) => {
         if (item && item.getBoundingClientRect().top < window.innerHeight * 0.25) {
             return item;
-        } else {
-            return prev;
         }
+        return prev;
     });
-    
-    var id = cur ? cur.id : ''
-    
+
+    const id = cur ? cur.id : '';
+
     if (lastId !== id) {
         if (lastId) {
-            var el = document.querySelector('a[href="#' + lastId + '"]');
+            var el = document.querySelector(`a[href="#${lastId}"]`);
             if (el) {
-                el.parentElement.classList.remove('current')
+                el.parentElement.classList.remove('current');
             }
         }
-        lastId = id
-        var el = document.querySelector('a[href="#' + id + '"]');
+        lastId = id;
+        var el = document.querySelector(`a[href="#${id}"]`);
         if (el) {
-            el.parentElement.classList.add('current')
+            el.parentElement.classList.add('current');
 
-            document.querySelectorAll('.foldable.visible').forEach(function(el){
-                el.classList.remove('visible')
-            })
-
+            document.querySelectorAll('.foldable.visible').forEach((el) => {
+                el.classList.remove('visible');
+            });
 
             if (el.parentElement.classList.contains('foldable')) {
-                el.parentElement.classList.add('visible')
+                el.parentElement.classList.add('visible');
             }
             var nextEl = el.parentElement.nextElementSibling;
             while (nextEl) {
                 if (nextEl.classList.contains('foldable')) {
-                    nextEl.classList.add('visible')
+                    nextEl.classList.add('visible');
                 } else {
-                    break
+                    break;
                 }
                 nextEl = nextEl.nextElementSibling;
             }
-            var prevEl = el.parentElement;
+            let prevEl = el.parentElement;
             while (prevEl) {
                 if (prevEl.classList.contains('foldable')) {
-                    prevEl.classList.add('visible')
+                    prevEl.classList.add('visible');
                 } else {
-                    break
+                    break;
                 }
                 prevEl = prevEl.previousElementSibling;
             }
         }
     }
-}, 300))
-
+}, 300));
