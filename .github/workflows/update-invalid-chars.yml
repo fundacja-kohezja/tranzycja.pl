@@ -22,7 +22,7 @@ jobs:
           find source/**/*.md -type f -execdir rename 'y/A-Z/a-z/' {} \;
      - name: Sprawdzanie niepoprawialnych znaków
        shell: bash
-       run: for file in $( ls ./source/**/*.md ); do if ! [[ "$( awk -F/ '{ print $NF}' <<< $file )" =~ ^[a-z0-9-].+\.md$ ]]; then echo $file; exit 1; fi; done;
+       run: for file in $( ls ./source/**/*.md ); do if ! [[ "$( awk -F/ '{ print $NF}' <<< $file )" =~ ^[a-z0-9-]+\.+md$ ]]; then echo $file; exit 1; fi; done;
      - name: Commit & push
        uses: stefanzweifel/git-auto-commit-action@v4
        with:
