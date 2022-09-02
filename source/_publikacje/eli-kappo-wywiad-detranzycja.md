@@ -8,6 +8,7 @@ meta:
 ---
 # Detranzycja: nie wybrałabym żadnej innej drogi
 
+keo 
 :::info
 
 English version of this text can be found [here](https://tranzycja.pl/publications/eli-kappo-interview-detransition/).
