@@ -38,6 +38,22 @@
                 document.documentElement.classList.add('dark')
             }
         </script>
+
+        <!-- Matomo -->
+        <script>
+            var _paq = window._paq = window._paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+                var u="https://matomo.kohezja.org/";
+                _paq.push(['setTrackerUrl', u+'matomo.php']);
+                _paq.push(['setSiteId', '4']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+            })();
+        </script>
+        <!-- End Matomo Code -->
     </head>
 
     <body style="visibility:hidden" tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
