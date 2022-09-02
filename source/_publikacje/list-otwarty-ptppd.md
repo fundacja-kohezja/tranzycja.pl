@@ -13,7 +13,7 @@ Poniżej zamieszczamy list otwarty do Polskiego Towarzystwa Psychoterapii Psycho
 ## Treść listu
 
 Szanowni Państwo,
-
+keo test
 Z oburzeniem przyjmujemy informację o zaproszeniu Marcusa i Susan Evansów na IX konferencję Polskiego Towarzystwa Psychoterapii Psychodynamicznej mającą odbyć się w dniach 11-12 września 2022 roku. 
 
 Marcus i Susan Evansowie w tworzonych przez siebie artykułach, książkach, wywiadach i publikacjach wielokrotnie wypowiadają się o osobach trans w sposób deprecjonujący, patologizujący i podważający ich tożsamość płciową. Proponowane przez nich interwencje psychoterapeutyczne sprowadzają się do prób wpływania na transpłciowe dziecko lub nastolatka, by porzuciło swoją tożsamość płciową – innymi słowy, są formą terapii konwersyjnej. 
