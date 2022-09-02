@@ -34,6 +34,7 @@ Diagnoza i opinia psychologiczna umożliwiają dalsze kroki. Można się z nimi 
 ## Jak to wygląda w praktyce?
 
 KEO TYLKO COŚ SPRAWDZA AAAAAAAAAAAAA
+KEO JEST SUPER
 Powyżej opisany model jest często stosowany i kierując się zawartymi w nim wytycznymi dojdziesz w końcu do swoich celów. Jednakże nie jest to jedyna ścieżka diagnostyki - przestrzeganie zaleceń PTSu nie jest w żaden sposób regulowane. Oznacza to, że poszczególni lekarze będą stosować się do nich w różny sposób: część będzie przestrzegać ich co do przecinka, część zupełnie je zignoruje i z lepszym lub gorszym efektem będzie proces układać po swojemu. Ma to swoje pozytywne jak i negatywne skutki: z jednej strony model oparty o zalecenia PTSu może być stosunkowo kosztowny i długotrwały, więc lekarze nie stosujący się do niego mogą być ostoją dla osób trans niebędących w stanie przez niego przejść. Z drugiej, może to prowadzić do wielu patologii i błędów medycznych. 
 
 Do często spotykanych wariacji procesu diagnostycznego należą poniższe scenariusze:
