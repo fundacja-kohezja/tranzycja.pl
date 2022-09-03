@@ -19,6 +19,11 @@ const searchConfig = {
         input: 'search-input',
         panel: 'z-10',
     },
+    translations: {
+        clearButtonTitle: 'Wyczyść',
+        detachedCancelButtonText: 'Zamknij',
+        submitButtonTitle: 'Wyszukaj',
+    },
     initialState: {
         activeItemId: 1,
     },
