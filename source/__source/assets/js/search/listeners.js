@@ -4,6 +4,18 @@ const { useCachedArticles } = require('./cachedSource');
 
 const registerListeners = () => {
     setIsDetachedMode(!!document.querySelector('.aa-DetachedSearchButton'));
+
+    document.addEventListener('click', (ev) => {
+        const autocomplete = document.querySelector('#autocomplete-search-container-menu:not(.hidden)');
+        if (
+            !ev.target.closest('#autocomplete-search-container-menu .aa-Form')
+            && !ev.target.closest('#toggle-search')
+            && !ev.target.closest('.aa-Panel')
+            && autocomplete) {
+            autocomplete?.classList?.add('hidden');
+        }
+    });
+
     document.getElementById('toggle-search').addEventListener('click', () => {
         const mainSearchContainer = document.getElementById('autocomplete-search-container');
         if (!getIsDetachedMode()) {
@@ -15,27 +27,12 @@ const registerListeners = () => {
             }
         } else {
             document.querySelector('.aa-DetachedSearchButton').click();
-            setTimeout(() => {
-                const cancelButton = document.querySelector('.aa-DetachedCancelButton');
-                cancelButton.textContent = 'Zamknij';
-            }, 100);
         }
     });
 
-    document.querySelector('#autocomplete-search-container-menu .aa-Input')?.addEventListener('blur', () => {
-        document.getElementById('autocomplete-search-container-menu')?.classList?.add('hidden');
-    });
-
-    if (document.getElementById('autocomplete-search-container') && getIsDetachedMode()) {
-        document.querySelector('.aa-DetachedSearchButton').addEventListener('click', () => {
-            setTimeout(() => {
-                const cancelButton = document.querySelector('.aa-DetachedCancelButton');
-                cancelButton.textContent = 'Zamknij';
-            }, 100);
-        });
-    }
-
-    document.getElementById('autocomplete-search-container')?.addEventListener('click', (e) => {
+    document.querySelectorAll(
+        '#autocomplete-search-container, #autocomplete-search-container-menu',
+    ).forEach((el) => el?.addEventListener('click', (e) => {
         if (e.target) {
             const tagEl = e.target.closest('.search-tag');
             if (tagEl && tagEl.className.includes('search-tag')) {
@@ -49,7 +46,7 @@ const registerListeners = () => {
                 });
             }
         }
-    });
+    }));
 
     window.addEventListener('unhandledrejection', (e) => {
         setSearchInternalError(true);
