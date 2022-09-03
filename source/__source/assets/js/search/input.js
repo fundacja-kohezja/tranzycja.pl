@@ -24,9 +24,6 @@ const searchConfig = {
         detachedCancelButtonText: 'Zamknij',
         submitButtonTitle: 'Wyszukaj',
     },
-    initialState: {
-        activeItemId: 1,
-    },
     plugins: [tagsPlugin],
     getSources({ query, state }) {
         const oldUsingCached = getIsUsingCachedData();
