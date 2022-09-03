@@ -12,6 +12,7 @@ class InsertMeta
 
     public static function process($content, $data)
     {
+        $showAuthor = $data->showAuthorInMetabox ?? false;
         $meta = $data->meta ?? [];
         if ($data->opublikowano ?? false) {
             $opublikowano = Date::create($data->opublikowano)->format('j M Y');
@@ -25,6 +26,10 @@ class InsertMeta
         }
         if ($meta) {
             $viewFactory = Container::getInstance()[Factory::class];
+            if (!$showAuthor) {
+                unset($meta['Autorzy']);
+                unset($meta['Korekta']);
+            }
             $metaBox = $viewFactory->make(self::TEMPLATE_PATH, compact('meta'));
             return preg_replace('/<\/h1>/iu', "</h1>\n$metaBox", $content, 1);
         }
