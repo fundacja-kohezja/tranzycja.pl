@@ -8,19 +8,27 @@ use Symfony\Component\DomCrawler\Crawler;
 use Algolia\AlgoliaSearch\SearchClient;
 use Algolia\AlgoliaSearch\Exceptions\BadRequestException;
 
-
-$client = SearchClient::create('C8U4P0CC81', 'ADMIN_API_KEY');
+$client = SearchClient::create('C8U4P0CC81', getenv('ADMIN_API_KEY'));
 $articles_index = $client->initIndex('articles');
 $tags_index = $client->initIndex('tags');
-
-$articles_index->clearObjects();
-$tags_index->clearObjects();
 
 $blacklist_pathes = [
     'strony', 'aktualnosci',
 ];
+
+array_shift($argv);
+$use_files_from_args = count($argv) > 0;
+
+if (!$use_files_from_args) {
+    $articles_index->clearObjects();
+    $tags_index->clearObjects();
+}
+
 $first_glob = glob(__DIR__ . '/../../build_local/*/**/index.html');
 $second_glob = glob(__DIR__ . '/../../build_local/index.html');
+$files_to_index = !$use_files_from_args ? array_merge($first_glob, $second_glob) : array_map(function ($md_path) {
+    return md_to_html_path($md_path);
+}, $argv);
 $all_used_tags = [];
 
 $exclude_fn = function ($el) {
@@ -31,7 +39,7 @@ $extended_exclude_fn = function ($el, $type) {
     return extended_exclude_fn($el, $type);
 };
 
-foreach (array_merge($first_glob, $second_glob) as $filename) {
+foreach ($files_to_index as $filename) {
     $splitted_path = explode('/', $filename);
     $blacklisted = false;
     foreach ($splitted_path as $path_part) {
@@ -49,6 +57,13 @@ foreach (array_merge($first_glob, $second_glob) as $filename) {
             $comments = get_comments_from_document($body);
             $tags = extract_attr_from_comment($comments['tags'], 'TAGS');
             $lang = extract_attr_from_comment($comments['lang'], 'LANG');
+            if ($use_files_from_args) {
+                $redirect_url = file_path_to_url($filename);
+                $articles_index->deleteBy([
+                    'filters' => "redirect:'$redirect_url'"
+                ]);
+            }
+
             if (count($lang) > 0) {
                 continue;
             }

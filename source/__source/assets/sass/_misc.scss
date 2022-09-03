@@ -271,7 +271,7 @@ mark {
     }
 }
 .long-article {
-    h1 {
+    h1 ~ .metabox {
         @apply .border-b-2;
         border-color: rgba(242, 194, 206, 0.5);
         @include dark {
@@ -514,6 +514,11 @@ mark {
     }
 }
 
+br + .spacer {
+    font-size: 1.5em;
+    vertical-align: bottom;
+}
+
 .search-form {
     @apply .px-8;
     &:focus-within {
@@ -523,6 +528,7 @@ mark {
         }
     }
 }
+
 search-mark {
     @apply .text-black;
     @apply .font-semibold;

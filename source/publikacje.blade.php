@@ -1,7 +1,7 @@
 ---
 pagination:
     collection: publikacje
-    perPage: 6
+    perPage: 10
 ---
 @extends('__source.layouts.master')
 
@@ -14,9 +14,11 @@ pagination:
             </svg>
             <span class="align-middle">Publikacje</span>
         </h1>
-        <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
-            {{ $page->opisSekcjiPublikacje }}
-        </p>
+        @if($page->opisSekcjiPublikacje)
+            <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
+                {{ $page->opisSekcjiPublikacje }}
+            </p>
+        @endif
     </div>
     <ul class="list-none pl-0 py-2">
         @foreach($pagination->items as $publikacja)
@@ -33,7 +35,7 @@ pagination:
                             <span class="align-middle">{{ Jenssegers\Date\Date::create($publikacja->opublikowano)->format('j M Y') }}</span>
                         </div>
                         <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">
-                            {!! $publikacja->longerExcerpt() !!}
+                            {!! $publikacja->excerpt(80) !!}
                         </p>
                     </article>
                 </a>

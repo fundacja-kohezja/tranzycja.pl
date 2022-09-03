@@ -15,9 +15,11 @@ pagination:
             </svg>
             <span class="align-middle">Aktualności</span>
         </h1>
-        <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
-            {{ $page->opisSekcjiAktualnosci }}
-        </p>
+        @if($page->opisSekcjiAktualnosci)
+            <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
+                {{ $page->opisSekcjiAktualnosci }}
+            </p>
+        @endif
     </div>
     <ul class="list-none pl-0 py-2">
         @foreach($pagination->items as $entry)
@@ -29,7 +31,7 @@ pagination:
                         </svg>
                         <span class="align-middle">{{ Jenssegers\Date\Date::create($entry->opublikowano)->format('j M Y') }}</span>
                     </header>
-                    {!! $entry->longerExcerpt() !!}
+                    {!! $entry->beginning(1600) !!}
                     <a href="{{ $entry->getPath() }}">Czytaj całość →</a>
                 </article>
             </li>

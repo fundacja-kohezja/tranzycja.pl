@@ -1,6 +1,6 @@
 <?php
 
-use App\Listeners\{GenerateSitemap, RedirectsFile, GenerateSearchCaches};
+use App\Listeners\{GenerateSitemap, RedirectsFile, TemplateNames, GenerateSearchCaches};
 use App\{CustomMdParser, CustomMdHandler};
 use Mni\FrontYAML\Markdown\MarkdownParser;
 use TightenCo\Jigsaw\Handlers\MarkdownHandler;
@@ -19,17 +19,33 @@ $container->bind(MarkdownParser::class, CustomMdParser::class);
 
 
 /*
- * Replace the jigsaw's handler of markdown files with our custom handler
- * to do the further content processing which depends on metadata.
+ * Replace the jigsaw's default markdown handler with our custom handler
+ * which puts current page data in the container so it can be retrievied
+ * by our custom parser.
  * 
- * For now that is just generating Table of Contents (we do it only for
- * some of the collections, and slightly differently for each one, so it
- * is needed to check in metadata which collection the page we are
- * processing belongs to).
+ * This allows content processing to be manipulated per collection
+ * in config file or per page in frontmatter.
  * 
  */
 $container->bind(MarkdownHandler::class, CustomMdHandler::class);
 
+
+/* 
+ * Initial binding of page data, needed by our custom markdown parser.
+ * 
+ * It usually receives page data from the custom handler, but it needs
+ * some initial value in case parser gets called first time before the
+ * handler does.
+ * 
+ */
+$container->bind('page', fn() => null);
+
+
+/*
+ * Automatically set template names for collections so they don't need
+ * to be specified in the config file.
+ */
+$events->beforeBuild(TemplateNames::class);
 
 /*
  * Generate sitemap.xml for search engines
@@ -37,8 +53,8 @@ $container->bind(MarkdownHandler::class, CustomMdHandler::class);
 $events->afterBuild(GenerateSitemap::class);
 
 /*
- * Copy redirects info from the file with human readable name
- * to the file readable by netlify
+ * Copy redirects info from the file with human readable name to the file
+ * readable by netlify and add dynamically generated items.
  */
 $events->afterBuild(RedirectsFile::class);
 

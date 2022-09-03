@@ -8,6 +8,7 @@ zaktualizowano: '2021-11-14 12:00:00'
 # Dodatkowe materiały do pobrania
 
 W tym dziale znajdziesz publikacje i ulotki przygotowane przez inne grupy i organizacje, z którymi warto się zapoznać.
+<!--more-->
 
 ## Ogólne
 

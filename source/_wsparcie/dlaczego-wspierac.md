@@ -1,5 +1,5 @@
 ---
-kolejnosc: 2  
+kolejnosc: 1  
 ---
 
 # Dlaczego nas wspierać?

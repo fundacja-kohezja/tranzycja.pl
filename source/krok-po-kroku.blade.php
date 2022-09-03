@@ -6,9 +6,11 @@
         <h1 class="text-indigo-600 dark:text-purple-300 mb-0">
             <span class="align-middle">Tranzycja krok po kroku</span>
         </h1>
-        <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
-            {{ $page->opisSekcjiKrokPoKroku }}
-        </p>
+        @if($page->opisSekcjiKrokPoKroku)
+            <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
+                {{ $page->opisSekcjiKrokPoKroku }}
+            </p>
+        @endif
     </div>
     <ul class="list-none pl-0 py-2">
         @foreach($krok_po_kroku as $poradnik)
@@ -19,7 +21,7 @@
                             {!! $poradnik->title() !!}
                         </h2>
                         <p class="mb-0 text-gray-700 font-normal text-sm dark:text-gray-300">
-                            {!! $poradnik->excerpt() !!}
+                            {!! $poradnik->excerpt(60) !!}
                         </p>
                     </article>
                 </a>
