@@ -1,11 +1,11 @@
 ---
 kolejnosc: 85
-tags: 'krok po kroku, tranzycja medyczna, operacje'
+tags: krok po kroku, tranzycja medyczna, operacje
 meta:
     Autorzy: Zosia
-    Korekta: 'Kasia, Nina, Dag'
-zaktualizowano: '2022-09-02 15:43:49'
+    Korekta: Kasia, Nina, Dag
 ---
+
 # Jak zrobić topkę? Poradnik do mastektomii
 
 ## Czym jest mastektomia?
