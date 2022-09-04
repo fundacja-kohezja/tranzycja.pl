@@ -18,14 +18,16 @@ return $yaml_config + [
             'TOC' => [
                 'label' => 'Spis treści'
             ],
-            'footerBox' => 'stopka_artykulu'
+            'footerBox' => 'stopka_artykulu',
+            'showDetailsInMetabox' => true
         ],
 
         'publications' => [
             'sort' => '-opublikowano',
             'TOC' => [
                 'label' => 'Contents'
-            ]
+            ],
+            'showDetailsInMetabox' => true
         ],
 
         'krok_po_kroku' => [
