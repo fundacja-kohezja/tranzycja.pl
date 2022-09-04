@@ -5,6 +5,7 @@ namespace App;
 use App\ContentHelpers\{EmbedVideos, InsertFooter, InsertMeta, InsertTOC, RemoveOrphans};
 use App\Markdown\{Alert, Attributes, Footnote, Spoiler};
 use Illuminate\Container\Container;
+use Illuminate\Support\Str;
 use Kaoken\MarkdownIt\MarkdownIt;
 use Kaoken\MarkdownIt\Plugins\{MarkdownItMark as Mark, MarkdownItEmoji as Emoji, MarkdownItSup as Superscript};
 use Mni\FrontYAML\Markdown\MarkdownParser;
@@ -27,6 +28,7 @@ class CustomMdParser implements MarkdownParser
 
         $this->process(EmbedVideos::class)
              ->renderMarkdown()
+             ->addIdToDetails()
              ->process(InsertMeta::class)
              ->process(InsertTOC::class)
              ->process(InsertFooter::class)
@@ -80,6 +82,20 @@ class CustomMdParser implements MarkdownParser
     protected function process($class)
     {
         $this->content = $class::process($this->content, $this->pageData);
+        return $this;
+    }
+
+    /**
+     * Add id attr to <details>
+     */
+    protected function addIdToDetails()
+    {
+        $this->content = preg_replace_callback('|<details>.*?<summary>(.*?)<\/summary>(.*?)<\/details>|xs', function (&$matches) {
+                $slug = Str::slug($matches[1]);
+                return "<details id=\"$slug\">\n<summary>$matches[1]</summary>\n\n$matches[2]</details>";
+            },
+            $this->content 
+        );
         return $this;
     }
 
