@@ -4,11 +4,9 @@ name: UzupelnianieDat
 
 # Controls when the action will run. 
 on:
-  push:
-    paths: 
-      - source/_publikacje/*
-      - source/_aktualnosci/*
-      - source/_publications/*
+ pull_request:
+    branches:
+      - main
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -21,6 +19,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       
       - uses: php-actions/composer@v6
         with:
@@ -29,7 +29,7 @@ jobs:
       - uses: nanasess/setup-php@master
         with:
           php-version: '7.4'
-      - run: php postprocess.php
+      - run: php postprocess.php $( git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' )
           
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:

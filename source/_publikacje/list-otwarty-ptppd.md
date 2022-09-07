@@ -1,15 +1,16 @@
 ---
 opublikowano: '2022-07-24 10:51:00'
-zaktualizowano: '2022-07-24 10:51:00'
-tags: publikacje, media, terapia konwersyjna
-meta: 
-  Autorzy: Dag, Nina
-  Korekta: Tash, Kasia
+zaktualizowano: '2022-09-01 19:43:01'
+tags: 'publikacje, media, terapia konwersyjna'
+meta:
+    Autorzy: 'Dag, Nina'
+    Korekta: 'Tash, Kasia'
 ---
 # List otwarty do władz Polskiego Towarzystwa Psychoterapii Psychodynamicznej 
 
 Poniżej zamieszczamy list otwarty do Polskiego Towarzystwa Psychoterapii Psychodynamicznej wyrażający nasz sprzeciw wobec zaproszenia przez nich Marcusa i Susan Evansów na IX Konferencję PTPPd, psychologów propagujących terapię konwersyjną osób transpłciowych.
 
+testowa zmiana
 ## Treść listu
 
 Szanowni Państwo,
