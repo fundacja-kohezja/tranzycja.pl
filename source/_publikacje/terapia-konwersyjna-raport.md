@@ -1,12 +1,13 @@
 ---
-tags: publikacje, terapia konwersyjna
-meta: 
-  Autorzy: Nina Kuta, Dag Fajt
-  Konsultacja merytoryczna: dr Quinnehtukqut McLamore
-  Redakcja: dr Julia Zając
-  Korekta: lek. Katarzyna Marzęda, mgr. Sofia Durys
+tags: 'publikacje, terapia konwersyjna'
+meta:
+    Autorzy: 'Nina Kuta, Dag Fajt'
+    'Konsultacja merytoryczna': 'dr Quinnehtukqut McLamore'
+    Redakcja: 'dr Julia Zając'
+    Korekta: 'lek. Katarzyna Marzęda, mgr. Sofia Durys'
+opublikowano: '2022-09-09 14:48:49'
+zaktualizowano: '2022-09-09 14:48:49'
 ---
-
 # Terapia konwersyjna: Analiza i omówienie zjawiska na przykładzie publikacji Marcusa i Susan Evansów. 
 
 
