@@ -81,6 +81,8 @@ Pracujesz w mediach i chcesz z nami porozmawiać o naszym projekcie, tranzycji i
 📧 Adres email: [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl)  
 📞 Telefon: tel. [+48 732 066 641](tel:+48732066641)
 
+---
+
 :::warning
 
 ## Chcesz skorzystać z materiałów z naszej strony?
