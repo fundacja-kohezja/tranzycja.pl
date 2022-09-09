@@ -1,17 +1,15 @@
 # Kontakt
 
-:::success
-
-Ten projekt może się rozwijać tylko dzięki osobom ze społeczności, które chcą się dzielić swoimi doświadczeniami. Masz jakieś uwagi, pomysły, teksty którymi chcesz się podzielić? Śmiało!
-
-Chcesz z nami rozwijać projekt tranzycja.pl? Dołącz do [naszej grupy na FB](https://www.facebook.com/groups/889108318556729)!
-
-:::
-
 Masz pytania lub pomysły którymi chcesz się podzielić? A może chcesz nas wesprzeć bądź zaproponować jakąś współpracę?
 
 📧 Adres email: [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl)  
 🌐 Facebook: [facebook.com/tranzycjapl](https://www.facebook.com/tranzycjapl/)  
+
+## Dołącz do naszej społeczności
+
+<script type="text/javascript" src="https://webform.statslive.info/ow/eyJpdiI6IkdnU2pPVWNwUmdPWFpTWURabENMaE1oMEpSMnBcL1B4Tkl1XC9GV21TMjBrTT0iLCJ2YWx1ZSI6InRzXC9XTXZhaUlXM3Q0SVpMdXRRWlBITlNFNmVFbDZLVXJuRHBaUFlibjE0PSIsIm1hYyI6ImVmYzRjOGIwNmVmNjcwODI4NWIzNDVkMmNiYTZlNGU2ZGIzMTVjMTFmNGU5ZWM1ODg2YzNjZTJmN2FhMjE0ZjcifQ=="></script>
+
+Ten projekt może się rozwijać tylko dzięki osobom ze społeczności, które chcą się dzielić swoimi doświadczeniami. Masz jakieś uwagi, pomysły, teksty którymi chcesz się podzielić i wspólnie z nami rozwijać ten projekt? Dołącz do [naszej grupy na FB](https://www.facebook.com/groups/889108318556729)!
 
 ## Skontaktuj się z nami bezpiecznie
 
@@ -82,6 +80,8 @@ Pracujesz w mediach i chcesz z nami porozmawiać o naszym projekcie, tranzycji i
 
 📧 Adres email: [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl)  
 📞 Telefon: tel. [+48 732 066 641](tel:+48732066641)
+
+---
 
 :::warning
 
