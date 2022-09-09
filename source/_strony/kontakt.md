@@ -1,5 +1,9 @@
 # Kontakt
 
+## Dołącz do naszej społeczności
+
+<script type="text/javascript" src="https://webform.statslive.info/ow/eyJpdiI6IkdnU2pPVWNwUmdPWFpTWURabENMaE1oMEpSMnBcL1B4Tkl1XC9GV21TMjBrTT0iLCJ2YWx1ZSI6InRzXC9XTXZhaUlXM3Q0SVpMdXRRWlBITlNFNmVFbDZLVXJuRHBaUFlibjE0PSIsIm1hYyI6ImVmYzRjOGIwNmVmNjcwODI4NWIzNDVkMmNiYTZlNGU2ZGIzMTVjMTFmNGU5ZWM1ODg2YzNjZTJmN2FhMjE0ZjcifQ=="></script>
+
 :::success
 
 Ten projekt może się rozwijać tylko dzięki osobom ze społeczności, które chcą się dzielić swoimi doświadczeniami. Masz jakieś uwagi, pomysły, teksty którymi chcesz się podzielić? Śmiało!
