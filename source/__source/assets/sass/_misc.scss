@@ -619,7 +619,12 @@ hide {
     }
 }
 
+.react-quiz-container .questionWrapper .btn {
+    border-width: 2px;
+    border-color: transparent;
+}
 .react-quiz-container .questionWrapper .btn.correct {
+    outline: none;
     @apply .bg-green-400;
     @include dark {
         @apply .bg-green-700;
@@ -627,9 +632,19 @@ hide {
 }
 
 .react-quiz-container .questionWrapper .btn.incorrect {
+    outline: none;
     @apply .bg-red-400;
     @include dark {
         @apply .bg-red-700;
+    }
+}
+
+.react-quiz-container .questionWrapper .btn.selected {
+    outline: none;
+    @apply .border-gray-850;
+    @apply .border-2;
+    @include dark {
+        border-color: #fff;
     }
 }
 
@@ -671,7 +686,7 @@ hide {
 }
 
 .react-quiz-container {
-    min-height: 300px;
+    min-height: 400px;
 }
 
 .react-quiz-container .card-body {

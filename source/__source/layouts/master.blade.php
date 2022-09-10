@@ -19,7 +19,7 @@
         <meta name="twitter:image" content="{{ $page->baseUrl }}/assets/img/social-share.png">
         <meta name="twitter:card" content="summary_large_image">
 
-        <title>{{ $page->nazwaWitryny }}{{ $page->title() ? ' | ' . $page->title() : ' – ' . $page->opisWitryny }}</title>
+        <title>{{ $page->nazwaWitryny }}{{ ($force_title ?? false) ? (' | ' . $force_title) : ($page->title() ? ' | ' . $page->title() : ' – ' . $page->opisWitryny) }}</title>
 
         <link rel="home" href="{{ $page->baseUrl ?: '/' }}">
         <link rel="icon" href="/favicon.ico?v=2">
