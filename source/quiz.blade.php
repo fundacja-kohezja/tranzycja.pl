@@ -24,18 +24,12 @@
         <h2 class="text-indigo-600 dark:text-purple-300">
             Chcesz dowiedzieć się więcej Evansach i terapii konwersyjnej? <a href="/publikacje/terapia-konwersyjna-raport">Przeczytaj nasz raport!</a>
         </h2>
-        <div class="social-images flex justify-center mt-4">
-            <a class="mr-5 border-none" href="https://www.facebook.com/tranzycjapl" target="blank">
-                <img src="/assets/img/facebook-logo.png" alt="Facebook" class="w-auto">
-            </a>
-            <a class="mr-5 border-none" href="https://www.instagram.com/tranzycja.pl/" target="blank">
-                <img src="/assets/img/instagram-logo.png" alt="Instragram" class="w-auto">
-            </a>
-            <a class="border-none" href="https://zrzutka.pl/xa4dbg" target="blank">
-                <img src="/assets/img/support-logo.png" alt="Zrzutka" class="w-auto">
-            </a>
-
-        </div>
+        <hr>
+        <aside class="alert text-center">
+            <h2>To co robimy jest dla Ciebie ważne?</h2>
+            <p>Ten projekt istnieje dzięki zaangażowaniu takich osób jak Ty. Nawet drobne wsparcie od&nbsp;każdej osoby, która&nbsp;korzysta z&nbsp;naszej pracy, daje nam możliwość dalszego rozwoju i&nbsp;wspierania naszej społeczności.</p>
+            <p><a href="/wsparcie" class="przycisk mb-1">Wesprzyj nas!</a></p>
+        </aside>
     </div>
 </main>
 @endsection
