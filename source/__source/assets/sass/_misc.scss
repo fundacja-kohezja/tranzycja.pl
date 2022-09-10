@@ -660,6 +660,10 @@ hide {
     .answerBtn, .nextQuestionBtn {
         width: 75% !important;
     }
+
+    .react-quiz-container .card-body h2 {
+        font-size: 1.4rem;
+    }
 }
 
 .react-quiz-container {
