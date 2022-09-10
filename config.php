@@ -19,7 +19,7 @@ return $yaml_config + [
                 'label' => 'Spis treści'
             ],
             'footerBox' => 'stopka_artykulu',
-            'showAuthorInMetabox' => true
+            'showDetailsInMetabox' => true
         ],
 
         'publications' => [
@@ -27,7 +27,7 @@ return $yaml_config + [
             'TOC' => [
                 'label' => 'Contents'
             ],
-            'showAuthorInMetabox' => true
+            'showDetailsInMetabox' => true
         ],
 
         'krok_po_kroku' => [
