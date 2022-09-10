@@ -582,3 +582,83 @@ search-line {
         @apply my-2 #{!important};
     }
 }
+
+hide {
+    @apply .bg-gray-700;
+        @include dark {
+        @apply .bg-gray-850;
+    }
+}
+
+.answersWrapper button, .nextQuestionBtn {
+    color: #fff;
+    @include dark {
+        @apply .text-gray-200;
+    }
+}
+
+.answersWrapper button:nth-child(odd) {
+    @apply .bg-pink-400;
+    @include dark {
+        @apply .bg-pink-700;
+    }
+}
+
+.answersWrapper button:nth-child(even) {
+    @apply .bg-blue-400;
+    @include dark {
+        @apply .bg-blue-700;
+    }
+}
+
+.nextQuestionBtn {
+    padding-inline: 20px;
+    @apply .bg-purple-400;
+    @include dark {
+        @apply .bg-purple-700;
+    }
+}
+
+.react-quiz-container .questionWrapper .btn.correct {
+    @apply .bg-green-400;
+    @include dark {
+        @apply .bg-green-700;
+    }
+}
+
+.react-quiz-container .questionWrapper .btn.incorrect {
+    @apply .bg-red-400;
+    @include dark {
+        @apply .bg-red-700;
+    }
+}
+
+.questions { 
+    grid-column-gap: 4em !important;
+}
+
+@media (max-width: 1023px) {
+    .questions { 
+        grid-template-columns: none !important;
+    }
+
+    .questionWrapper {
+        width: 100% !important;
+        display: block !important;
+    }
+}
+
+.react-quiz-container {
+    min-height: 300px;
+}
+
+.react-quiz-container .card-body {
+    @apply .flex;
+    @apply .justify-center;
+    @apply .items-center;
+    height: 100%;
+}
+
+.social-images img {
+    height: 64px;
+}
