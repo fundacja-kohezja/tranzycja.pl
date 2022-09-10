@@ -72,7 +72,15 @@
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
         <script src="{{ mix('js/search/index.js', 'assets/build') }}"></script>
         @stack('scripts')
-        <footer class="bg-gray-100 dark:bg-gray-900 text-center text-sm mt-12 p-4" role="contentinfo">
+        <footer class="bg-gray-100 dark:bg-gray-900 text-center text-sm mt-12 p-4 relative" role="contentinfo">
+            <div class="xl:absolute block top-8 left-8 footer-socials">
+            <a href="https://www.facebook.com/tranzycjapl" class="border-b-0 mr-5" target="blank">
+                <img src="/assets/img/facebook-logo.png" alt="Facebook" class="h-12 inline">
+            </a>
+            <a href="https://www.instagram.com/tranzycja.pl/" class="border-b-0" target="blank">
+                <img src="/assets/img/instagram-logo.png" alt="Instagram" class="h-12 inline">
+            </a>    
+        </div>
             @include('_ogolne.stopka')
         </footer>
         <!--TAGS: {{$page->tags}}-->
