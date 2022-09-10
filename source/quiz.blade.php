@@ -1,4 +1,4 @@
-@extends('__source.layouts.master')
+@extends('__source.layouts.master', ['force_title' => 'Stop terapii konwersyjnej'])
 
 @section('body')
 <main class="container max-w-6xl mx-auto px-6 py-10 md:py-12">
