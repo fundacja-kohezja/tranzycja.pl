@@ -197,7 +197,7 @@ W treści listu zostało poprawione odniesienie do książki *Gender Dysphoria A
 
 :::info
 
-Chcesz dowiedzieć się więcej na temat zjawiska terapii konwersyjnej i działalności Marcusa i Susan Evansów? [Przeczytaj nasz raport!](/publikacje/terapia-konwersyjna-raport/).
+Chcesz dowiedzieć się więcej na temat zjawiska terapii konwersyjnej i działalności Marcusa i Susan Evansów? [Przeczytaj nasz raport!](/publikacje/terapia-konwersyjna-raport/)
 
 :::
 
