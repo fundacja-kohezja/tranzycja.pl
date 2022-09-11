@@ -12,7 +12,7 @@ zaktualizowano: '2022-09-09 14:48:49'
 
 :::info
 
-Jeśli szukasz listu publicznego do władz Polskiego Towarzystwa Psychoterapii Psychodynamicznej  ws. zaproszenia Marcusa i Susan na konferencję, znajdziesz go [tutaj](/publikacje/list-otwarty-ptppd/).
+Jeśli szukasz listu publicznego do władz Polskiego Towarzystwa Psychoterapii Psychodynamicznej  ws. udziału Marcusa i Susan Evansów w ich konferencji, znajdziesz go [tutaj](/publikacje/list-otwarty-ptppd/).
 
 :::
 
