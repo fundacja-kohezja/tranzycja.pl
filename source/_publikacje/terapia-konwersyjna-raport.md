@@ -8,7 +8,13 @@ meta:
 opublikowano: '2022-09-09 14:48:49'
 zaktualizowano: '2022-09-09 14:48:49'
 ---
-# Terapia konwersyjna: Analiza i omówienie zjawiska na przykładzie publikacji Marcusa i Susan Evansów. 
+# Terapia konwersyjna: Analiza i omówienie zjawiska na przykładzie publikacji Marcusa i Susan Evansów.
+
+:::info
+
+Jeśli szukasz listu publicznego do władz Polskiego Towarzystwa Psychoterapii Psychodynamicznej  ws. zaproszenia Marcusa i Susan na konferencję, znajdziesz go [tutaj](/publikacje/list-otwarty-ptppd/).
+
+:::
 
 Współczesne „terapie konwersyjne” mają wiele oblicz. Ich najbardziej popularne w wyobraźni masowej wersje – czyli tortury, egzorcyzmy czy porwania – nie są metodami najczęściej spotykanymi w rzeczywistości. Uważamy, że nadzwyczaj ważne w obliczu szerszego zagrożenia stosowaniem „terapii konwersyjnych” w Polsce jest zaznajomienie z tą tematyką osób zainteresowanych, w tym, mamy nadzieję, nie tylko osób transpłciowych, lecz także dziennikarzy, badaczy czy influencerów. To konieczne, by wiedzieć przed czym się chronić i jak popularyzować rzetelną wiedzę.
 
