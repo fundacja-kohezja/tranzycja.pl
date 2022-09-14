@@ -54,15 +54,15 @@ class InsertTOC
         $content = preg_replace_callback(
             '|<h([^>]+)>(.*)</h([^>]+)>|iU',
             function (&$matches) use (&$headings) {
+                $slug = Str::slug(html_entity_decode($matches[2]));
                 if (in_array($matches[1][0], range(1, self::MAX_HEADING_LEVEL))) {
                     $headings[] = [
                         'level' => $matches[1][0],
                         'text' => $matches[2],
-                        'slug' => $slug = Str::slug(html_entity_decode($matches[2]))
+                        'slug' => $slug,
                     ];
-                    return "<h$matches[1] id=\"$slug\">$matches[2]</h$matches[3]>";
                 }
-                return $matches[0];
+                return "<h$matches[1] id=\"$slug\">$matches[2]</h$matches[3]>";
             },
             $content
         );

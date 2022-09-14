@@ -3,4 +3,5 @@ vendor
 node_modules
 package-lock.json
 source/assets/build/mix-manifest.json
+source/__source/assets/sass/_tailwind-variables.scss
 build*

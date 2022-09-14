@@ -6,20 +6,15 @@ module.exports = {
       'source/**/*.html',
       'source/**/*.md',
       'source/**/*.js',
+      'source/**/*.scss',
       'source/**/*.php',
-      'source/**/*.vue',
+      'source/**/*.vue'
     ],
     options: {
       whitelist: [
         /language/,
         /hljs/,
-        /algolia/,
-        'py-1',
-        'lg:py-0',
-        'mt-4',
-        'lg:my-4',
-        'mt-0',
-        'sm:text-xs'
+        /algolia/
       ],
     },
   },
@@ -30,7 +25,8 @@ module.exports = {
           ...colors.gray,
           '100': '#F6F8F9',
           '350': '#D6DEE8',
-          '850': '#242C3A'
+          '850': '#212A3A',
+          '950': '#0d121c'
         },
         indigo: {
           ...colors.indigo,

@@ -1,7 +1,7 @@
 ---
 permalink: index.html
 ---
-@extends('__source.layouts.master', ['container_class' => 'overflow-hidden'])
+@extends('__source.layouts.master', ['container_class' => 'overflow-hidden no-slide'])
 
 @section('body')
 <div id="autocomplete-search-container" class="max-w-6xl mx-auto px-6 py-0 md:py-4"></div>
@@ -171,22 +171,6 @@ permalink: index.html
         </div>
         <div class="clear-both"></div>
     </section>
-    {{-- <section class="clear-both pt-24">
-        <h1 class="inline mr-4 text-indigo-600 dark:text-purple-300 text-3xl sm:text-4xl uppercase tracking-wider">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 h-8 sm:h-10 align-middle -mt-8 -mb-8">
-                <path d="M6.41,12.35.77,9,3.43,7.63l5.68,3Zm2.91-1-2.9,1.81L4.36,11.94v2.68l5,3.19Zm-.18-8L6.41,1.69.71,5.11,3.44,6.82Zm9.79,1.71-5.7-3.42L10.5,3.4l5.7,3.42Zm-3.22,7-2.07,1.1-3.33-1.85v6.53l5.4-3.24Zm.49-4.43-5.64,3,3.09,1.72,5.64-3Z" />
-            </svg>
-            Dodatkowe materiały
-        </h1>
-        <p class="inline-block">
-            <a href="/materialy" class="border-b-0 font-heading font-bold tracking-wider">
-                Zobacz materiały
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 inline-block align-middle mb-1 mr-1">
-                    <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
-                </svg>
-            </a>
-        </p>
-    </section> --}}
 </main>
 @endsection
 
