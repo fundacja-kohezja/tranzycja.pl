@@ -123,7 +123,7 @@ class CustomMdParser implements MarkdownParser
     }
 
     /**
-     * Get the page data (given by our custom handler) from the container
+     * Get the page data (received from our custom handler) from the container
      */
     protected function fillPageData()
     {

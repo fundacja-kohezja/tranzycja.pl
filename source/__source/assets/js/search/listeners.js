@@ -4,35 +4,28 @@ const { useCachedArticles } = require('./cachedSource');
 
 const registerListeners = () => {
     setIsDetachedMode(!!document.querySelector('.aa-DetachedSearchButton'));
-
-    document.addEventListener('click', (ev) => {
-        const autocomplete = document.querySelector('#autocomplete-search-container-menu:not(.hidden)');
-        if (
-            !ev.target.closest('#autocomplete-search-container-menu .aa-Form')
-            && !ev.target.closest('#toggle-search')
-            && !ev.target.closest('.aa-Panel')
-            && autocomplete) {
-            autocomplete?.classList?.add('hidden');
-        }
-    });
-
-    document.getElementById('toggle-search').addEventListener('click', () => {
+    document.querySelectorAll('.toggle-search').forEach(el => el.addEventListener('click', () => {
         const mainSearchContainer = document.getElementById('autocomplete-search-container');
         if (!getIsDetachedMode()) {
             if (mainSearchContainer) {
                 document.getElementsByClassName('aa-Input')[0].focus();
             } else {
-                document.getElementById('autocomplete-search-container-menu')?.classList?.toggle('hidden');
+                document.getElementById('autocomplete-search-container-menu').classList.toggle('hidden');
+                const cls = document.querySelector('.slide:not(.no-slide)').classList;
+                if (cls.contains('slide-down') || cls.contains('slide-up')) {
+                    cls.toggle('slide-up')
+                }
+                cls.toggle('slide-down')
                 document.getElementsByClassName('aa-Input')[0].focus();
             }
         } else {
             document.querySelector('.aa-DetachedSearchButton').click();
         }
-    });
+    }));
 
     document.querySelectorAll(
         '#autocomplete-search-container, #autocomplete-search-container-menu',
-    ).forEach((el) => el?.addEventListener('click', (e) => {
+    ).forEach((el) => el.addEventListener('click', (e) => {
         if (e.target) {
             const tagEl = e.target.closest('.search-tag');
             if (tagEl && tagEl.className.includes('search-tag')) {
@@ -47,12 +40,14 @@ const registerListeners = () => {
             }
         }
     }));
-
+    
     window.addEventListener('unhandledrejection', (e) => {
         setSearchInternalError(true);
         // eslint-disable-next-line no-console
         console.error(e);
     });
+
+    window.matchMedia('(max-width: 680px)').addEventListener('change', () => setIsDetachedMode(!document.querySelector('.aa-DetachedSearchButton')))
 };
 
 module.exports = registerListeners;

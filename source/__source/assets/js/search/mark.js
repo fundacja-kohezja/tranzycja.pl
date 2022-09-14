@@ -25,7 +25,7 @@ const markPhraseInSection = (q, section) => {
                 el.setAttribute('open', true);
             }
 
-            if (!isChild && shouldStop(el) && el?.getAttribute('id') && el?.tagName !== 'SUP') {
+            if (!isChild && shouldStop(el) && el.id && el.tagName !== 'SUP') {
                 return false;
             }
 

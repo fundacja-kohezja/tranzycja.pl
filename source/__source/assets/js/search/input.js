@@ -8,10 +8,8 @@ const getCachedArticlesSearchSource = require('./sources/cachedArticles');
 const { setRefreshMethod, getIsUsingCachedData, setIsUsingCachedData } = require('./states');
 const { useCachedArticles } = require('./cachedSource');
 
-require('@algolia/autocomplete-theme-classic');
-
 const searchConfig = {
-    placeholder: 'Co Cię interesuje?',
+    placeholder: window.SearchLabels.placeholder,
     openOnFocus: true,
     classNames: {
         submitButton: 'hidden',
@@ -45,6 +43,18 @@ const searchConfig = {
             getArticlesSearchSource(query, state),
         ];
     },
+    onStateChange: (state) => {
+        if (document.getElementById('autocomplete-search-container')) {
+            if (!state.prevState.isOpen && state.state.isOpen) {
+                document.body.classList.remove('search-close')
+                document.body.classList.add('search-open')
+            }
+            if (state.prevState.isOpen && !state.state.isOpen) {
+                document.body.classList.add('search-close')
+                document.body.classList.remove('search-open')
+            }
+        }
+    }
 };
 
 const injectInput = () => {
