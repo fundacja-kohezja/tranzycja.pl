@@ -47,7 +47,10 @@ const registerListeners = () => {
         console.error(e);
     });
 
-    window.matchMedia('(max-width: 680px)').addEventListener('change', () => setIsDetachedMode(!document.querySelector('.aa-DetachedSearchButton')))
+    window.matchMedia('(max-width: 680px)').addEventListener('change', () => {
+        setIsDetachedMode(!document.querySelector('.aa-DetachedSearchButton'))
+        document.querySelector('.aa-DetachedCancelButton')?.click()
+    })
 };
 
 module.exports = registerListeners;
