@@ -21,7 +21,7 @@ permalink: index.html
     </section>
     <section class="mb-24">
         <div>
-            <h1 class="inline-block mr-4 text-indigo-600 dark:text-purple-300 mb-0 text-3xl sm:text-4xl uppercase tracking-wider">
+            <h1 class="inline-block mr-4 text-indigo-600 dark:text-purple-300 mb-0 text-3xl sm:text-4xl tracking-wider">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 h-9 sm:h-10 align-middle -mt-8 -mb-8">
                     <path d="M.06,4.71,0,0,4.62.66,4.4,2.18,2.81,2l2,2.83a5.53,5.53,0,0,1,7.41,4.41h.87V7.78h1.54V9.19h2.1l-1.47-1,.9-1.25L20,9.64,16.72,13l-1.09-1.08,1.12-1.14h-2.1v1.41H13.11V10.74h-.87A5.55,5.55,0,0,1,6.77,15.5,5.77,5.77,0,0,1,4.49,15l-.8,1.31,1.21.74-.8,1.3-1.21-.74L1.43,20,.12,19.2l1.45-2.38-1.2-.74.8-1.31,1.2.74.82-1.32A5.53,5.53,0,0,1,2.55,6.4a5.46,5.46,0,0,1,.93-.87L1.58,2.87V4.68ZM3.77,10a3,3,0,1,0,3-3A3,3,0,0,0,3.77,10Z" />
                 </svg>
@@ -56,12 +56,8 @@ permalink: index.html
     </section>
     <section class="mb-24">
         <div>
-            <h1 class="inline-block mr-4 text-indigo-600 dark:text-purple-300 mb-0 text-3xl sm:text-4xl uppercase tracking-wider">
-{{--            -- Ikona żarówki do poradników --
+            <h1 class="inline-block mr-4 text-indigo-600 dark:text-purple-300 mb-0 text-3xl sm:text-4xl tracking-wider">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 h-9 sm:h-10 align-middle -mt-8 -mb-8">
-                    <path d="M15.46,5.14,14.05,3.75l1.93-2,1.41,1.4ZM11,.09H9V2.86h2ZM3.66,7.68H.91v2H3.66Zm15.43,0H16.34v2h2.75ZM6,3.75,4,1.79,2.61,3.19,4.54,5.14Zm6.71,12.72h0A2.53,2.53,0,0,1,10.13,19H9.87a2.53,2.53,0,0,1-2.53-2.53h5.32ZM10,3.89A5.24,5.24,0,0,0,4.62,9,5.34,5.34,0,0,0,6.41,12.9a3.11,3.11,0,0,1,1.2,2.39v.55h4.78v-.55a3.11,3.11,0,0,1,1.2-2.39A5.34,5.34,0,0,0,15.38,9,5.24,5.24,0,0,0,10,3.89Zm2,7a5.85,5.85,0,0,0-1.75,2.37H9.77A5.85,5.85,0,0,0,8,10.92,2.8,2.8,0,0,1,7.17,9,2.7,2.7,0,0,1,10,6.44,2.7,2.7,0,0,1,12.83,9,2.8,2.8,0,0,1,12,10.92Z" />
-                </svg>
- --}}           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 h-9 sm:h-10 align-middle -mt-8 -mb-8">
                     <path d="M14.62,2.74A5.64,5.64,0,0,0,10,5.14a5.61,5.61,0,0,0-8.57-.75V17.52A5.64,5.64,0,0,1,10,18.3a5.64,5.64,0,0,1,8.57-.78V4.39A5.61,5.61,0,0,0,14.62,2.74ZM4.44,13v-7A2.32,2.32,0,0,1,5,5.59,3.9,3.9,0,0,1,9,6.76v6.93a8.68,8.68,0,0,0-3.61-.79C5.07,12.9,4.75,12.92,4.44,13Zm11.14,0c-.31,0-.63,0-1,0a8.62,8.62,0,0,0-3.62.8V6.78a3.89,3.89,0,0,1,4-1.19,2.32,2.32,0,0,1,.6.34Z" />
                 </svg>
                 <span class="align-middle">Publikacje</span>
@@ -102,7 +98,7 @@ permalink: index.html
     </section>
     <section class="mb-24">
         <div>
-            <h1 class="inline mr-4 text-indigo-600 dark:text-purple-300 text-3xl sm:text-4xl uppercase tracking-wider">
+            <h1 class="inline mr-4 text-indigo-600 dark:text-purple-300 text-3xl sm:text-4xl tracking-wider">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 h-9 sm:h-10 align-middle -mt-8 -mb-6">
                     <path fill-rule="evenodd" d="M2 5a2 2 0 012-2h8a2 2 0 012 2v10a2 2 0 002 2H4a2 2 0 01-2-2V5zm3 1h6v4H5V6zm6 6H5v2h6v-2z" clip-rule="evenodd" />
                     <path d="M15 7h1a2 2 0 012 2v5.5a1.5 1.5 0 01-3 0V7z" />
@@ -132,41 +128,23 @@ permalink: index.html
         </div>
     </section>
     <section>
-        <div class="faq-section">
-            <h1 id="faq" class="inline mr-4 text-indigo-600 dark:text-purple-300 text-3xl sm:text-4xl uppercase tracking-wider mb-8 w-full">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 h-8 sm:h-10 align-middle -mt-8 -mb-6">
-                    <path d="M10,1.81A8.19,8.19,0,1,1,1.81,10,8.21,8.21,0,0,1,10,1.81m1.2,9.24A3.32,3.32,0,1,0,7.26,6.11l-.65,1,2,1.29.65-1A1,1,0,0,1,10,7a1,1,0,0,1,0,2H8.86V12.1H11.2Zm0,2.25H8.86v2.33H11.2Z" />
-                </svg>
-                @php
-                    ob_start();
-                @endphp
-                @include('_ogolne.faq')
-                @php
-                    $faq = ob_get_clean();
-                    $faq = preg_replace_callback( '|<h1>(.*?)</h1>|iU', function($matches) {
-                        echo $matches[1];
-                        return '';
-                    }, $faq);
-
-                    $faq = preg_replace_callback(
-                        '|<h([^>]+)>(.*)<\/h([^>]+)>|iU',
-                        function (&$matches) {
-                            if (in_array($matches[1][0], ['1', '2', '3', '4', '5', '6'])) {
-                                $slug = Illuminate\Support\Str::slug(html_entity_decode($matches[2]));
-                                return "<h{$matches[1]} id=\"{$slug}\">{$matches[2]}</h{$matches[3]}>";
-                            }
-                            return $matches[0];
-                        },
-                        $faq
-                    );
-                    
-
-                    $faq = preg_replace_callback('|<details>.*?<summary>(.*?)<\/summary>(.*?)<\/details>|xs', function (&$matches) {
-                        $slug = Illuminate\Support\Str::slug($matches[1]);
-                        return "<details id=\"{$slug}\">\n<summary>{$matches[1]}</summary>\n\n{$matches[2]}</details>";
-                    }, $faq);
-                @endphp
-            </h1>
+        <h1 id="faq" class="inline mr-4 text-indigo-600 dark:text-purple-300 text-3xl sm:text-4xl tracking-wider">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline mr-2 h-8 sm:h-10 align-middle -mt-8 -mb-6">
+                <path d="M10,1.81A8.19,8.19,0,1,1,1.81,10,8.21,8.21,0,0,1,10,1.81m1.2,9.24A3.32,3.32,0,1,0,7.26,6.11l-.65,1,2,1.29.65-1A1,1,0,0,1,10,7a1,1,0,0,1,0,2H8.86V12.1H11.2Zm0,2.25H8.86v2.33H11.2Z" />
+            </svg>
+            @php
+                ob_start();
+            @endphp
+            @include('_ogolne.faq')
+            @php
+                $faq = ob_get_clean();
+                $faq = preg_replace_callback( '|<h1[^>]*>(.*?)</h1>|iU', function($matches) {
+                    echo $matches[1];
+                    return '';
+                }, $faq);
+            @endphp
+        </h1>
+        <div class="faq-section mt-8">
             {!! $faq !!}
         </div>
         <div class="clear-both"></div>

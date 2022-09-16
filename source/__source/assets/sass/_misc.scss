@@ -226,7 +226,7 @@ mark {
     }
     
     @media (min-width: 1024px) {
-        > * {
+        > :not(h1) {
             float: right;
             width: 70%;
         }
