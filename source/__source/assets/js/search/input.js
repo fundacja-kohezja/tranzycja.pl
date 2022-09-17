@@ -1,3 +1,4 @@
+const { placeholder } = require('../../../../_ogolne/etykiety_wyszukiwania.yml').default;
 const { autocomplete } = require('@algolia/autocomplete-js');
 
 const tagsPlugin = require('./tags');
@@ -9,7 +10,7 @@ const { setRefreshMethod, getIsUsingCachedData, setIsUsingCachedData } = require
 const { useCachedArticles } = require('./cachedSource');
 
 const searchConfig = {
-    placeholder: window.SearchLabels.placeholder,
+    placeholder,
     openOnFocus: true,
     classNames: {
         submitButton: 'hidden',

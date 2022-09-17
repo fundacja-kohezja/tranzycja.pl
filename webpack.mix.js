@@ -14,6 +14,16 @@ mix.sass('source/__source/assets/sass/main.scss', 'css/main.css')
             require('tailwindcss')('./tailwind.config.js')
         ],
     })
+    .webpackConfig({
+        module: {
+            rules: [
+                {
+                  test: /\.ya?ml$/,
+                  use: 'yaml-loader'
+                }
+              ]
+        }
+    })
     .sass('source/__source/assets/sass/manual_mode.scss', 'css/manual_mode.css', {processCssUrls: false}, [
         require('tailwindcss')('./tailwindForManualMode.config.js')
     ])

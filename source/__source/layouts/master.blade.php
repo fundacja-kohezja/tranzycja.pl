@@ -72,16 +72,7 @@
         <div class="w-full slide flex-auto {{ $container_class ?? '' }} pt-8">
             @yield('body')
         </div>
-        
-        <script>
-            window.SearchLabels = {
-                placeholder: '{{ $page->searchLabels->placeholder }}',
-                noResults: '{{ $page->searchLabels->brakWynikow }}',
-                beginningHint: '{{ $page->searchLabels->poczatkowaWskazowka }}',
-                beginningHintWithTag: '{{ $page->searchLabels->dalszaWkazowka }}',
-                internalErrorInfo: '{{ $page->searchLabels->komunikatBledu }}'
-            }
-        </script>
+
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
         <script src="{{ mix('js/search/index.js', 'assets/build') }}"></script>
         @stack('scripts')

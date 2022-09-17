@@ -6,7 +6,6 @@ use Symfony\Component\Yaml\Yaml;
 Jenssegers\Date\Date::setLocale('pl_PL');
 
 $yaml_config = Yaml::parse(file_get_contents(__DIR__ . '/source/_ogolne/konfiguracja.yml'));
-$yaml_search_labels = Yaml::parse(file_get_contents(__DIR__ . '/source/_ogolne/etykiety_wyszukiwania.yml'));
 
 return $yaml_config + [
     'baseUrl' => 'https://tranzycja.pl',
@@ -62,7 +61,5 @@ return $yaml_config + [
             '/wsparcie' => '*Wesprzyj nas!'
         ],
         'isActive' => fn($page, $path) => Str::startsWith($page->getPath(), $path)
-    ],
-
-    'searchLabels' => $yaml_search_labels
+    ]
 ];

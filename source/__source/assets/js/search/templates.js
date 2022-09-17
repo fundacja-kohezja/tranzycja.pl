@@ -1,3 +1,4 @@
+const labels = require('../../../../_ogolne/etykiety_wyszukiwania.yml').default;
 const { SEARCH_MARK_ELEMENT_NAME } = require('./consts');
 
 const createArticleTagElement = (label, minusSvgIcon) => (
@@ -53,13 +54,13 @@ const SimpleSearchArticleResult = ({ title, lead }, html) => (
 );
 
 const NoResults = (html) => (
-    html`<i>${window.SearchLabels.noResults}</i>`
+    html`<i>${labels.brakWynikow}</i>`
 );
 
 const BeginningHint = (html) => (
     html`
     <p class="m-0 mb-3">
-        <i>${window.SearchLabels.beginningHint}</i>
+        <i>${labels.poczatkowaWskazowka}</i>
     </p>
     `
 );
@@ -67,7 +68,7 @@ const BeginningHint = (html) => (
 const BeginningHintWithTag = (html) => (
     html`
     <p class="m-0 mb-3">
-        <i>${window.SearchLabels.beginningHintWithTag}</i>
+        <i>${labels.dalszaWkazowka}</i>
     </p>
     `
 );
@@ -88,7 +89,7 @@ const SimpleArticleTag = ({ label }, html) => (
 
 const InternalErrorInfo = (html) => (
     html`
-    <p class="m-0 text-red-600 font-bold mb-3">${window.SearchLabels.internalErrorInfo}</p>`
+    <p class="m-0 text-red-600 font-bold mb-3">${labels.komunikatBledu}</p>`
 );
 
 const ArticleTag = ({ label }, minusSvgIcon, html) => (
