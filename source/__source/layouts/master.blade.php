@@ -28,6 +28,14 @@
         @stack('meta')
 
         <link id="stylesheet_link" rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}" data-mainsheeturl="{{ mix('css/main.css', 'assets/build') }}" data-manualmodesheeturl="{{ mix('css/manual_mode.css', 'assets/build') }}">
+        
+        {{-- css variables for algolia --}}
+        <style>
+            :root {
+                --aa-detached-media-query: (max-width: 680px);
+                --aa-detached-modal-media-query: (min-width: 681px);
+            }
+        </style>
 
         <script>
             if (localStorage.theme == 'dark' || localStorage.theme == 'light') {

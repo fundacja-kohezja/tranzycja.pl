@@ -62,8 +62,6 @@ $aa-scrollbar-width: 13px;
     --aa-description-highlight-background-color-rgb: 245, 223, 77;
     --aa-description-highlight-background-color-alpha: 0.5;
     /* Detached mode */
-    --aa-detached-media-query: (max-width: #{$aa-detached-modal-max-width});
-    --aa-detached-modal-media-query: (min-width: #{$aa-detached-modal-max-width + 1px});
     --aa-overlay-color-rgb: 115, 114, 129;
     --aa-overlay-color-alpha: 0.4;
     /* Scrollbar */
