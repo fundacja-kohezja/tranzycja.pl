@@ -38,7 +38,7 @@ const tagsPlugin = createTagsPlugin({
 
         requestAnimationFrame(() => {
             if (getIsDetachedMode()) {
-                document.body.classList.remove('search-open')
+                document.body.classList.remove('search-open');
                 return;
             }
             const container = document.querySelector('.aa-InputWrapperPrefix');
