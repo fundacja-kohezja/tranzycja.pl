@@ -3,7 +3,6 @@
 namespace App\ContentHelpers;
 
 use Illuminate\Container\Container;
-use Illuminate\Support\Str;
 use Illuminate\View\Factory;
 
 /**
@@ -16,11 +15,9 @@ class InsertTOC
 
     protected static $collectionsForTOC;
 
-    public static function process($content, $data)
+    public static function process($content, $data, $headings)
     {
         if ($data->TOC ?? false) {
-            [$headings, $content] = self::extractHeadings($content);
-
             $label = $data->TOC->label ?? '';
             $hasAllPages = $data->TOC->allPages ?? false;
 
@@ -34,40 +31,14 @@ class InsertTOC
             }
 
             $viewFactory = Container::getInstance()[Factory::class];
-            $toc = $viewFactory->make(self::TEMPLATE_PATH, compact('headings', 'label', 'pagesBefore', 'pagesAfter'));
+            $maxLevel = self::MAX_HEADING_LEVEL;
+            $toc = $viewFactory->make(self::TEMPLATE_PATH, compact('headings', 'label', 'pagesBefore', 'pagesAfter', 'maxLevel'));
 
             return $hasAllPages
                 ? ($toc . $content)
                 : preg_replace('/<\/h1>/iu', "</h1>\n$toc", $content, 1);
         }
         return $content;
-    }
-
-    /**
-     * Add id attribute to headings in the content and return all
-     * these headings as an array to put in TOC
-     */
-    protected static function extractHeadings($content)
-    {
-        $headings = [];
-
-        $content = preg_replace_callback(
-            '|<h([^>]+)>(.*)</h([^>]+)>|iU',
-            function (&$matches) use (&$headings) {
-                $slug = Str::slug(html_entity_decode($matches[2]));
-                if (in_array($matches[1][0], range(1, self::MAX_HEADING_LEVEL))) {
-                    $headings[] = [
-                        'level' => $matches[1][0],
-                        'text' => $matches[2],
-                        'slug' => $slug,
-                    ];
-                }
-                return "<h$matches[1] id=\"$slug\">$matches[2]</h$matches[3]>";
-            },
-            $content
-        );
-
-        return [$headings, $content];
     }
 
     /**

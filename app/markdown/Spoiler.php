@@ -2,6 +2,7 @@
 
 namespace App\Markdown;
 
+use Illuminate\Support\Str;
 use Kaoken\MarkdownIt\MarkdownIt;
 
 class Spoiler extends Alert
@@ -23,7 +24,21 @@ class Spoiler extends Alert
         if ($tokens[$idx]->nesting === 1) {
             $title = explode(' ', trim($tokens[$idx]->info), 2)[1] ?? null;
 
-            return '<details>' . ($title ? '<summary>' . $this->md->renderInline($title) . '</summary>' : '') . $slf->renderToken($tokens, $idx, $options, $env, $slf);
+            if ($title) {
+                $text = $this->md->renderInline($title);
+
+                $slug = $base_slug = Str::slug($text);
+                for ($i = 2; isset($env->anchors[$slug]); $i++) { // prevent duplicate ids
+                    $slug = "$base_slug-$i";
+                }
+                $env->anchors[$slug] = true;
+
+                $html = "<details id=\"$slug\"><summary>$text</summary>";
+            } else {
+                $html = '<details>';
+            }
+
+            return $html . $slf->renderToken($tokens, $idx, $options, $env, $slf);
         }
         if ($tokens[$idx]->nesting === -1) {
             return $slf->renderToken($tokens, $idx, $options, $env, $slf) . '</details>';

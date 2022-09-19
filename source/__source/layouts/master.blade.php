@@ -28,19 +28,23 @@
         @stack('meta')
 
         <link id="stylesheet_link" rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}" data-mainsheeturl="{{ mix('css/main.css', 'assets/build') }}" data-manualmodesheeturl="{{ mix('css/manual_mode.css', 'assets/build') }}">
+        
+        {{-- css variables for algolia --}}
+        <style>
+            :root {
+                --aa-detached-media-query: (max-width: 680px);
+                --aa-detached-modal-media-query: (min-width: 681px);
+            }
+        </style>
 
         <script>
             if (localStorage.theme == 'dark' || localStorage.theme == 'light') {
                 el = document.getElementById('stylesheet_link')
                 el.href = el.dataset.manualmodesheeturl
             }
-            requestAnimationFrame(() => {
-                if (localStorage.theme == 'dark') {
-                    document.documentElement.classList.add('dark'); 
-                    document.body.classList.add('dark');
-                }
-            })
-     
+            if (localStorage.theme == 'dark') {
+                document.documentElement.classList.add('dark')
+            }
         </script>
 
         <!-- Matomo -->
@@ -65,17 +69,17 @@
             @include('__source.partials.menu', $page->mainNav)
         </header>
 
-        <div class="w-full flex-auto {{ $container_class ?? '' }} pt-8">
+        <div class="w-full slide flex-auto {{ $container_class ?? '' }} pt-8">
             @yield('body')
         </div>
-        
+
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
         <script src="{{ mix('js/search/index.js', 'assets/build') }}"></script>
         @stack('scripts')
         <footer class="bg-gray-100 dark:bg-gray-900 text-center text-sm mt-12 p-4" role="contentinfo">
             @include('_ogolne.stopka')
         </footer>
-        <!--TAGS: {{$page->tags}}-->
-        <!--LANG: {{$page->lang}}-->
+        <!--TAGS: {{ $page->tags }}-->
+        <!--LANG: {{ $page->lang }}-->
     </body>
 </html>

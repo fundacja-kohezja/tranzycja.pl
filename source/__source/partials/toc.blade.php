@@ -27,7 +27,7 @@
                                             {!! $h['text'] !!}
                                         </a>
                                     </li>
-                                @else
+                                @elseif($h['level'] <= $maxLevel)
                                     <li{!! $h['level'] > 2 ? ' class="foldable" ' : '' !!}>
                                         <a
                                             onclick="if(window.matchMedia('(max-width: 1023px)').matches)this.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.open = false"
@@ -64,7 +64,7 @@
                                     {!! $h['text'] !!}
                                 </a>
                             </li>
-                        @else
+                        @elseif($h['level'] <= $maxLevel)
                             <li{!! $h['level'] > 2 ? ' class="foldable" ' : '' !!}>
                                 <a
                                     onclick="if(window.matchMedia('(max-width: 1023px)').matches)this.parentElement.parentElement.parentElement.parentElement.open = false"

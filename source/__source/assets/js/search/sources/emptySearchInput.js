@@ -18,8 +18,8 @@ const getEmptySearchInputSource = (query, state) => ({
     templates: {
         header: ({ html }) => {
             const Header = !state.context.tagsPlugin.tags.length
-                ? html`${BeginningHint(html)}${getIsDetachedMode() && html`<hr class="my-2"/>`}`
-                : html`${BeginningHintWithTag(html)}${getIsDetachedMode() && html`<hr class="my-2"/>`}`;
+                ? html`${BeginningHint(html)}`
+                : html`${BeginningHintWithTag(html)}`;
             return html`${getSearchInternalError() && InternalErrorInfo(html)}${Header}`;
         },
         item: ({ item, html }) => (

@@ -40,7 +40,7 @@ window.addEventListener('scroll', _.throttle(() => {
             if (el.parentElement.classList.contains('foldable')) {
                 el.parentElement.classList.add('visible');
             }
-            var nextEl = el.parentElement.nextElementSibling;
+            let nextEl = el.parentElement.nextElementSibling;
             while (nextEl) {
                 if (nextEl.classList.contains('foldable')) {
                     nextEl.classList.add('visible');

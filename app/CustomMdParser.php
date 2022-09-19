@@ -13,7 +13,7 @@ use Mni\FrontYAML\Markdown\MarkdownParser;
 class CustomMdParser implements MarkdownParser
 {
 
-    protected $content, $pageData;
+    protected $content, $pageData, $headings;
     
     /**
      * Process our markdown file to turn it into the final html content
@@ -25,10 +25,10 @@ class CustomMdParser implements MarkdownParser
     {
         $this->content = $markdown;
         $this->fillPageData();
+        $this->headings = [];
 
         $this->process(EmbedVideos::class)
              ->renderMarkdown()
-             ->addIdToDetails()
              ->process(InsertMeta::class)
              ->process(InsertTOC::class)
              ->process(InsertFooter::class)
@@ -70,6 +70,7 @@ class CustomMdParser implements MarkdownParser
         ]);
 
         $this->fixEmails($parser);
+        $this->processHeadings($parser);
 
         $this->content = $parser->render($this->content);
         
@@ -81,21 +82,38 @@ class CustomMdParser implements MarkdownParser
      */
     protected function process($class)
     {
-        $this->content = $class::process($this->content, $this->pageData);
+        $this->content = $class::process(
+            $this->content,
+            $this->pageData,
+            $this->headings
+        );
         return $this;
     }
 
     /**
-     * Add id attr to <details>
+     * Add id attrs to headings and use them to populate $headings array
+     * which may be used later to generate TOC
      */
-    protected function addIdToDetails()
+    protected function processHeadings($parser)
     {
-        $this->content = preg_replace_callback('|<details>.*?<summary>(.*?)<\/summary>(.*?)<\/details>|xs', function (&$matches) {
-                $slug = Str::slug($matches[1]);
-                return "<details id=\"$slug\">\n<summary>$matches[1]</summary>\n\n$matches[2]</details>";
-            },
-            $this->content 
-        );
+        $parser->renderer->rules->heading_open = function($tokens, $idx, $options, $env, $slf) {
+            $level = $tokens[$idx]->tag[1];
+
+            $text = collect($tokens[$idx + 1]->children)
+                    ->filter(fn($t) => in_array($t->type, ['text', 'code_inline']))
+                    ->implode('content');
+
+            $slug = $base_slug = Str::slug($text);
+            for ($i = 2; isset($env->anchors[$slug]); $i++) { // prevent duplicate ids
+                $slug = "$base_slug-$i";
+            }
+            $env->anchors[$slug] = true;
+
+            $this->headings[] = compact('level', 'text', 'slug');
+            $tokens[$idx]->attrSet('id', $slug);
+            
+            return $slf->renderToken($tokens, $idx, $options, $env, $slf);
+        };
         return $this;
     }
 
@@ -123,7 +141,7 @@ class CustomMdParser implements MarkdownParser
     }
 
     /**
-     * Get the page data (given by our custom handler) from the container
+     * Get the page data (received from our custom handler) from the container
      */
     protected function fillPageData()
     {
@@ -131,7 +149,7 @@ class CustomMdParser implements MarkdownParser
         $this->pageData = $c['page'];
 
         /*
-         * we flush the binding immediately to prevent infinite recursion when
+         * flush the binding immediately to prevent infinite recursion when
          * getting content of other pages than the current one (e.g. to extract
          * titles for TOC)
          */

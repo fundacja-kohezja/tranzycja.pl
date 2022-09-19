@@ -61,9 +61,5 @@ return $yaml_config + [
             '/wsparcie' => '*Wesprzyj nas!'
         ],
         'isActive' => fn($page, $path) => Str::startsWith($page->getPath(), $path)
-    ],
-
-    // Algolia DocSearch credentials
-    'docsearchApiKey' => '',
-    'docsearchIndexName' => ''
+    ]
 ];
