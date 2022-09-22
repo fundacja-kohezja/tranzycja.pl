@@ -1,9 +1,10 @@
 ---
 tags: publikacje
 meta:
-  Autorzy: Katarzyna Marzęda
+    Autorzy: 'Katarzyna Marzęda'
+opublikowano: '2022-09-22 05:06:53'
+zaktualizowano: '2022-09-22 05:06:53'
 ---
-
 # Tekst nie do podarcia
 Pierwszy raz usłyszałam o transpłciowości, kiedy jedna z wyżej postawionych osób na mojej uczelni, przeczytała nam, pierwszoroczniakom, list dotyczący nowego wymogu Unii Europejskiej odnośnie wprowadzenia neutralnych płciowo toalet. Pomysł sam w sobie został wyśmiany, a kartka zawierająca list prawie rytualnie przy nas porwana. Gdy dziś patrzę na to wydarzenie z perspektywy czasu, wiem, że towarzyszący mu szok, gniew i zwyczajny lęk będą punktem zwrotnym w mojej karierze. Że ten właśnie moment zdefiniuje mnie później jako człowieka i przyszłego lekarza. 
 **Wtedy nie wiedziałam jeszcze, że będzie to pierwszy i jedyny moment w czasie moich studiów, podczas którego temat transpłciwości będzie w jakikolwiek sposób poruszony.** 
