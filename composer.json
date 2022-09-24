@@ -16,7 +16,8 @@
             "App\\": "app/",
             "App\\ContentHelpers\\": "app/content_helpers/",
             "App\\Listeners\\": "app/listeners/",
-            "App\\Markdown\\": "app/markdown/"
+            "App\\Markdown\\": "app/markdown/",
+            "App\\Traits\\": "app/traits/"
         }
     }
 }

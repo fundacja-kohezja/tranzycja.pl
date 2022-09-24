@@ -1,23 +1,5 @@
 <?php
 
-function get_comments_from_document($body)
-{
-    $nodes = iterator_to_array($body->childNodes);
-    $comment_lang = $nodes[count($nodes) - 2];
-    $comment_tags = $nodes[count($nodes) - 4];
-
-    return array(
-        'lang' => $comment_lang->nodeValue,
-        'tags' => $comment_tags->nodeValue
-    );
-}
-
-function extract_attr_from_comment($str, $field)
-{
-    $attr = str_replace(', ', ',', $str);
-    $attr = str_replace("$field: ", '', $attr);
-    return array_filter(explode(',', $attr));
-}
 
 function read_dom_depth(&$el, $fn, $exclude_fn)
 {

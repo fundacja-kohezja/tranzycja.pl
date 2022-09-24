@@ -143,6 +143,17 @@ return [
              */
             ->replaceLast('</', '...</')
             ->replaceLast('....</', '...</');
+    },
+
+
+    /**
+     * Get the tags from metadata and return them as array
+     */
+    'getTags' => function($page) {
+        return collect(explode(',', $page->tags))
+                ->map(fn($tag) => trim($tag))
+                ->filter()
+                ->toArray();
     }
 
 ];

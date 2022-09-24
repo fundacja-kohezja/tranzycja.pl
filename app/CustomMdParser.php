@@ -2,16 +2,15 @@
 
 namespace App;
 
-use App\ContentHelpers\{EmbedVideos, InsertFooter, InsertMeta, InsertTOC, RemoveOrphans};
-use App\Markdown\{Alert, Attributes, Footnote, Spoiler};
+use App\ContentHelpers\{EmbedVideos, InsertFooter, InsertMeta, InsertTOC, RemoveOrphans, WrapTables};
+use App\Traits\InitializesMarkdownIt;
 use Illuminate\Container\Container;
 use Illuminate\Support\Str;
-use Kaoken\MarkdownIt\MarkdownIt;
-use Kaoken\MarkdownIt\Plugins\{MarkdownItMark as Mark, MarkdownItEmoji as Emoji, MarkdownItSup as Superscript};
 use Mni\FrontYAML\Markdown\MarkdownParser;
 
 class CustomMdParser implements MarkdownParser
 {
+    use InitializesMarkdownIt;
 
     protected $content, $pageData, $headings;
     
@@ -32,7 +31,7 @@ class CustomMdParser implements MarkdownParser
              ->process(InsertMeta::class)
              ->process(InsertTOC::class)
              ->process(InsertFooter::class)
-             ->wrapTables()
+             ->process(WrapTables::class)
              ->process(RemoveOrphans::class);
 
         return $this->content;
@@ -43,31 +42,7 @@ class CustomMdParser implements MarkdownParser
      */
     protected function renderMarkdown()
     {
-        $parser = (new MarkdownIt([
-
-            /* preserve raw html (like embedded videos) in markdown when parsing */
-            'html' => true,
-
-            /* automatically convert plain urls to links */
-            'linkify' => true,
-
-        ]))
-            ->plugin(new Alert, 'success')      // :::success
-            ->plugin(new Alert, 'info')         // :::info
-            ->plugin(new Alert, 'warning')      // :::warning
-            ->plugin(new Alert, 'danger')       // :::danger
-            ->plugin(new Spoiler, 'spoiler')    // :::spoiler
-            ->plugin(new Footnote)              // [^1]
-            ->plugin(new Attributes)            // {.class}
-            ->plugin(new Mark)                  // ==highlight==
-            ->plugin(new Emoji)                 // :emoji:
-            ->plugin(new Superscript)           // ^sup^
-        ;
-
-        $parser->linkify->set([
-            /* autoconvert only full urls (with http) */
-            'fuzzyLink'  => false
-        ]);
+        $parser = $this->initMarkdownIt();
 
         $this->fixEmails($parser);
         $this->processHeadings($parser);
@@ -114,16 +89,6 @@ class CustomMdParser implements MarkdownParser
             
             return $slf->renderToken($tokens, $idx, $options, $env, $slf);
         };
-        return $this;
-    }
-
-    /**
-     * Wrap tables with a div so they can be scrollable horizontally
-     * if too wide to fit
-     */
-    protected function wrapTables()
-    {
-        $this->content = preg_replace('/<table>.*<\/table>/suU', '<div class="table_container">$0</div>', $this->content);
         return $this;
     }
 

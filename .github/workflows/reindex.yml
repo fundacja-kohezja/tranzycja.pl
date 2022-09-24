@@ -35,5 +35,4 @@ jobs:
       - run: |
          npm install &&
          npm run production &&
-         vendor/bin/jigsaw build &&
          ADMIN_API_KEY=${{secrets.ALGOLIA_ADMIN_API_KEY}} php app/algolia/reindex.php $( git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' )         

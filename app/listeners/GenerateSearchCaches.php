@@ -15,10 +15,7 @@ class GenerateSearchCaches
 
             foreach ($collection as $page) {
 
-                $tags = collect(explode(',', $page->tags))
-                    ->map(fn($tag) => trim($tag))
-                    ->filter()
-                    ->toArray();
+                $tags = $page->getTags();
 
                 if (!$tags) continue;
 
