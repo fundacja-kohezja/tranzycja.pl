@@ -1,8 +1,8 @@
 <?php
 
 require_once(__DIR__ . '/../../vendor/tightenco/jigsaw/jigsaw-core.php');
+require_once(__DIR__ . '/helpers.php');
 
-use Symfony\Component\DomCrawler\Crawler;
 use Algolia\AlgoliaSearch\SearchClient;
 use Algolia\AlgoliaSearch\Exceptions\BadRequestException;
 use App\SectionSplitMdParser;
@@ -59,6 +59,7 @@ $use_files_from_args = count($argv) > 0;
     $tags_index->clearObjects();
 } */
 
+$records = [];
 $all_used_tags = [];
 
 foreach ($collections as $name => $pages) {
@@ -66,114 +67,55 @@ foreach ($collections as $name => $pages) {
 
     foreach ($pages as $page) {
         $tags = $page->getTags();
-        $lang = $page->lang;
-        $content = $page->getContent();
+        $lang = $page->lang; // coś z tym langiem chyba trzeba zrobić
+        $sections = $page->getContent();
+        $meta = $page->_meta;
+        $path = "$meta->collection/$meta->filename";
 
-        if ($use_files_from_args) {
+        /* if ($use_files_from_args) {
             $redirect_url = file_path_to_url($filename);
             $articles_index->deleteBy([
                 'filters' => "redirect:'$redirect_url'"
             ]);
+        }
+ */
+        foreach ($sections as $index => $section) {
+            if (isset($section->level)) {
+                $records[] = [
+                    'path' => build_title_path(
+                        $section->title,
+                        $section->level,
+                        $sections->take($index) // get only previous sections to look for parents
+                    ),
+                    'content' => $section->content,
+                    'section' => $section->slug,
+                    'redirect' => $path,
+                    'tags' => $tags,
+                    'objectID' => md5($path . $section->slug)
+                ];
+            } else {
+
+            }
+            
         }
 
         $all_used_tags = array_merge($tags, $all_used_tags);
     }
 };
 
-$header = $crawler->filter('h1[id]')->getNode(0);
-$last_parent_id = $header->attributes['id']->textContent;
-$collected_data = array();
-$collected_data[$last_parent_id] = create_agolia_article_object(
-    $header->textContent,
-    $last_parent_id,
-    $filename,
-    $tags
-);
-$parsed_lines = [];
-
-read_dom_depth(
-    $header,
-    function (
-        $el,
-        $is_child
-    ) use (
-        $last_parent_id,
-        &$collected_data,
-        $filename,
-        $tags,
-        &$parsed_lines,
-        $extended_exclude_fn
-    ) {
-        $attributes = $el->attributes;
-        $id =  $attributes && $attributes->getNamedItem('id') ?
-            $attributes->getNamedItem('id')->textContent : null;
-        $last_parent_with_id = find_last_parent_with_id($el, $extended_exclude_fn);
-        $last_parent_id = $last_parent_with_id->attributes['id']->textContent ?? $last_parent_id;
-
-        $unique_id = $el->getLineNo() . md5($el->textContent);
-        $parsed = in_array($unique_id, $parsed_lines);
-        if ($parsed || any_parent_have_element_name($el, 'summary')) {
-            return true;
-        }
-
-        if (!array_key_exists($last_parent_id, $collected_data)) {
-            $collected_data[$last_parent_id] = create_agolia_article_object(
-                build_title_path($el, $extended_exclude_fn),
-                $last_parent_id,
-                $filename,
-                $tags
-            );
-        }
-
-        if (any_parent_have_element_name($el, 'details')) {
-            $tag = $el->tagName ?? null;
-            if (strpos($tag, 'summary') !== false) {
-                $parsed_lines[] = $unique_id;
-                return true;
-            }
-        }
-
-        if ($id !== null) {
-            $last_collected_data = $collected_data[$last_parent_id] ?? [];
-            if ($last_collected_data && $last_collected_data['content']) {
-                $last_collected_data['content'] = preg_replace(
-                    '/\s+/',
-                    ' ',
-                    $last_collected_data['content']
-                );
-            }
-        }
-        $parent_node = $el->parentNode ?? null;
-        $parent_node_attributes = $parent_node->attributes ?? null;
-        $parent_node_id = $parent_node_attributes && $parent_node_attributes->getNamedItem('id')  ?
-            $parent_node_attributes->getNamedItem('id')->textContent : null;
-
-        if ($id === null && $is_child && strlen(trim($el->textContent)) > 0 && $parent_node_id === null) {
-            $collected_data[$last_parent_id]['content'] .= $el->textContent;
-            $parsed_lines[] = $unique_id;
-        }
-        return true;
-    },
-    $exclude_fn
-);
-
-$non_empty_data = array_filter(array_values($collected_data), function ($obj) {
-    return strlen($obj['content']) !== 0;
-});
-
 try {
-    $articles_index->saveObjects($non_empty_data, [
+    $articles_index->saveObjects($records, [
         'autoGenerateObjectIDIfNotExist' => true
     ]);
 } catch (BadRequestException $e) {
     var_dump($collected_data);
 }
 
-$tags_objects = array();
+$tags_objects = [];
 foreach (array_unique($all_used_tags) as $tag) {
-    $tags_objects[] = array(
+    $tags_objects[] = [
         'name' => $tag
-    );
+    ];
 }
 
 $tags_index->saveObjects($tags_objects, [

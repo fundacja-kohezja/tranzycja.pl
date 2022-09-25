@@ -5,7 +5,6 @@ namespace App;
 use App\ContentHelpers\{EmbedVideos, InsertFooter, InsertMeta, InsertTOC, RemoveOrphans, WrapTables};
 use App\Traits\InitializesMarkdownIt;
 use Illuminate\Container\Container;
-use Illuminate\Support\Str;
 use Mni\FrontYAML\Markdown\MarkdownParser;
 
 class CustomMdParser implements MarkdownParser
@@ -78,11 +77,7 @@ class CustomMdParser implements MarkdownParser
                     ->filter(fn($t) => in_array($t->type, ['text', 'code_inline']))
                     ->implode('content');
 
-            $slug = $base_slug = Str::slug($text);
-            for ($i = 2; isset($env->anchors[$slug]); $i++) { // prevent duplicate ids
-                $slug = "$base_slug-$i";
-            }
-            $env->anchors[$slug] = true;
+            $slug = uniqueSlug($text, $env->anchors);
 
             $this->headings[] = compact('level', 'text', 'slug');
             $tokens[$idx]->attrSet('id', $slug);

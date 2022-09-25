@@ -2,7 +2,6 @@
 
 namespace App\Markdown;
 
-use Illuminate\Support\Str;
 use Kaoken\MarkdownIt\MarkdownIt;
 
 class Spoiler extends Alert
@@ -26,13 +25,7 @@ class Spoiler extends Alert
 
             if ($title) {
                 $text = $this->md->renderInline($title);
-
-                $slug = $base_slug = Str::slug($text);
-                for ($i = 2; isset($env->anchors[$slug]); $i++) { // prevent duplicate ids
-                    $slug = "$base_slug-$i";
-                }
-                $env->anchors[$slug] = true;
-
+                $slug = uniqueSlug(html_entity_decode(strip_tags($text)), $env->anchors);
                 $html = "<details id=\"$slug\"><summary>$text</summary>";
             } else {
                 $html = '<details>';
