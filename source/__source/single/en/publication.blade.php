@@ -1,0 +1,1 @@
+@extends('__source.single.publikacje', ['lang' => 'en'])

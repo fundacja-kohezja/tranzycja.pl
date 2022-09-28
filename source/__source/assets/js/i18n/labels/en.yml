@@ -1,0 +1,33 @@
+theme:
+  auto: Automatic
+  dark: Dark
+  light: Light
+  label: Theme
+navMenu:
+  open: Open main menu
+  logoTitle: Homepage
+metaBox:
+  authors: Authors
+  correction: Correction
+  published: Published
+  updated: Last change
+  redaction: Redaction
+  consultation: Consultation
+  graphic: Graphic
+pages:
+  news: News
+  stepByStep: Transition step by step
+  support: Support
+  publications: Publications
+  404:
+    title: Page not found
+    paragraph: The page with the given address does not exist. Please visit the home page - you will surely find something interesting there!
+    home: Homepage
+search: 
+  show: Show search
+  search: Search
+  placeholder: What are you looking for?
+  noResults: No texts matching your criteria were found. Try changing the tags or the search phrase.
+  firstHint: To start a search enter a minimum of three characters or select a tag, below are the 5 most common tags.
+  secondHint: You can narrow your search without a phrase by selecting more tags.
+  internalError: It looks like we have an internal problem. Search phrases will not work, but you can still use tags. We apologize for the problem.

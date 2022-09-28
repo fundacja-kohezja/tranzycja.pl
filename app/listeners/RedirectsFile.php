@@ -13,6 +13,9 @@ class RedirectsFile
         $itemSlug = array_keys($jigsaw->getCollection('wsparcie')->all())[0];
         $content .= "\n/wsparcie /wsparcie/$itemSlug\n";
 
+        $itemSlugEn = array_keys($jigsaw->getCollection('support')->all())[0];
+        $content .= "\n/support /support/$itemSlugEn\n";
+
         $jigsaw->getFilesystem()->putWithDirectories($jigsaw->getDestinationPath().'/_redirects', $content);
     }
 }

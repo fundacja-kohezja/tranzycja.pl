@@ -1,0 +1,1 @@
+@extends('__source.single.strony', ['lang' => 'en'])

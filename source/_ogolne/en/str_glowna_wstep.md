@@ -1,0 +1,5 @@
+# Welcome to the website of the **tranzycja.pl** project!
+
+Our project is the largest publicly available knowledge base on transgenderism and the transition process in Poland. In the absence of any legal regulation on transgenderism, as well as the lack of reliable education among the medical community, the primary source of knowledge for trans people is the Internet. We were founded in March 2021, in response to the lack of active projects providing scientifically grounded transgender content, presented in a way that does not replicate media narratives of suffering or illness, but is rooted in the idea of celebrating our identities and trans liberation.
+
+The project is implemented with the support of [![Stowarzyszenia Grupa Stonewall](/media/img/logo/STOn_logo_transparent-pink.svg){.h-8 .inline}](https://grupa-stonewall.pl){.border-b-0} and [Fundation Kohezja](https://kohezja.org), but it could not exist if it were not for people like you - supporting us with your time, experience, or financially. If the materials we prepare are helpful to you, please help us so that we can continue to grow and create more content - [support us!](/en/support)

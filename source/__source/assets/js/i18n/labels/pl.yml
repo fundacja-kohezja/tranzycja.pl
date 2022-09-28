@@ -1,0 +1,33 @@
+theme:
+  auto: Automatyczny
+  dark: Ciemny
+  light: Jasny
+  label: Motyw
+navMenu:
+  open: Otwórz menu
+  logoTitle: Strona główna
+metaBox:
+  authors: Autorzy
+  correction: Korekta
+  published: Opublikowano
+  updated: Ostatnia zmiana
+  redaction: Redakcja
+  consultation: Konsultacja merytoryczna
+  graphic: Grafika
+pages:
+  news: Aktualności
+  stepByStep: Tranzycja krok po kroku
+  support: Wsparcie
+  publications: Publikacje
+  404:
+    title: Nie znaleziono strony
+    paragraph: Strona o podanym adresie nie istnieje. Zapraszamy na stronę główną - z pewnością znajdziesz tam coś ciekawego!
+    home: Strona główna
+search: 
+  show: Pokaż wyszukiwarkę
+  search: Szukaj
+  placeholder: Co Cię interesuje?
+  noResults: Nie znaleziono tekstów spełniających kryteria. Spróbuj zmienić tagi bądź szukaną frazę.
+  firstHint: Aby rozpocząć wyszukiwanie wprowadź minimum trzy znaki lub wybierz tag, poniżej znajduje się 5 najczęstszych tagów.
+  secondHint: Możesz zawężyć wyszukiwanie bez frazy wybierając więcej tagów.
+  internalError: Wygląda na to że mamy wewnętrzny problem. Wyszukiwanie fraz nie będzie działać, ale nadal możesz używać tagów. Przepraszamy za problem.

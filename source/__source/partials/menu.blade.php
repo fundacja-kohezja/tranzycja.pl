@@ -4,7 +4,7 @@
       <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
         {{-- Mobile menu button --}}
         <button onclick="navMenu.toggle()" class="inline-flex items-center justify-center -ml-2 sm:ml-0 p-2 rounded-md text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-expanded="false">
-          <span class="sr-only">Open main menu</span>
+          <span data-i18n-attrs="text" data-i18n-text="navMenu.open" class="sr-only"></span>
           <svg id="js-nav-menu-show" class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
           </svg>
@@ -15,7 +15,7 @@
       </div>
       <div class="flex-1 flex items-center justify-center lg:items-stretch lg:justify-start">
         <div class="flex-shrink-0 flex items-center">
-            <a href="/" title="Strona główna {{ $page->nazwaWitryny }}" class="inline-flex items-center w-auto max-w-halfvw group border-0 lg:pr-4">
+            <a href="{{ $homeUrl }}" data-i18n-attrs="title" data-i18n-title="navMenu.logoTitle" class="inline-flex items-center w-auto max-w-halfvw group border-0 lg:pr-4">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="200" viewBox="50 0 712 158">
                 <g>
                   <path class="logo-dark" d="M206.551,64.384H191.25v40.5h-14.625v-40.5H161.25v-12.75h45.301V64.384z"/>
@@ -70,26 +70,30 @@
             @foreach ($items as $path => $label)
               @include('__source.partials.nav-item', ['additionalClass' => 'text-sm'])
             @endforeach
+            @if ($searchEnabled)
             <button type="button" class="toggle-search inline-flex justify-center text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0">
-                <span class="sr-only">Pokaż wyszukiwarkę</span>
+                <span data-i18n-attrs="text" data-i18n-text="search.show" class="sr-only"></span>
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                 </svg>
             </button>
+            @endif
           </div>
         </div>
       </div>
     
       <div class="absolute inset-y-0 right-0 flex items-center flex-1 justify-end text-right">
+          @if ($searchEnabled)
           <button type="button" class="toggle-search lg:hidden inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0">
-              <span class="sr-only">Szukaj</span>
+              <span data-i18n-attrs="text" data-i18n-text="search.search" class="sr-only"></span>
               <svg xmlns="http://www.w3.org/2000/svg" class="h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
               </svg>
           </button>
+          @endif
           <div class="relative text-left hover-trigger -mr-2 sm:mr-0 hidden lg:inline-block">
             <button type="button" class="inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0" id="options-menu" aria-haspopup="true">
-              <span class="sr-only">Motyw</span>
+              <span data-i18n-attrs="text" data-i18n-text="theme.label" class="sr-only"></span>
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="h-5 mr-1" stroke="currentColor">
                 <path stroke-width="2" stroke-linecap="square" d="M2.53,7.17l1,.43M15.17,2.79l.42-1M2.53,14.83l1-.43M7.94,1.76l.43,1" />
                 <path stroke-width="2" d="M19.51,20.52a6.3,6.3,0,0,1,0-8.89,6.19,6.19,0,0,1,1.73-1.22,6.28,6.28,0,1,0,0,11.33A6.19,6.19,0,0,1,19.51,20.52Zm-11.28-6A5,5,0,0,1,15.3,7.46" />
@@ -110,8 +114,7 @@
         @include('__source.partials.nav-item', ['additionalClass' => 'block text-base'])
       @endforeach
       <div class="relative hover-trigger">
-        <button class="w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 flex tracking-wider items-center px-3 py-2 rounded-md text-base border-0">
-          Motyw
+        <button data-i18n-attrs="text" data-i18n-text="theme.label" class="w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 flex tracking-wider items-center px-3 py-2 rounded-md text-base border-0">
           <svg class="ml-1 h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
             <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
           </svg>

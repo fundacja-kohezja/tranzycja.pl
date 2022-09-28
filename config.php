@@ -10,23 +10,22 @@ $yaml_config = Yaml::parse(file_get_contents(__DIR__ . '/source/_ogolne/konfigur
 return $yaml_config + [
     'baseUrl' => 'https://tranzycja.pl',
     'collections' => [
-
         'strony',
-
+        
+        'wsparcie' => [
+            'sort' => 'kolejnosc',
+            'TOC' => [
+                'label' => 'Wsparcie tranzycja.pl',
+                'allPages' => true
+            ]
+        ],
+        
         'publikacje' => [
             'sort' => '-opublikowano',
             'TOC' => [
                 'label' => 'Spis treści'
             ],
             'footerBox' => 'stopka_artykulu',
-            'showDetailsInMetabox' => true
-        ],
-
-        'publications' => [
-            'sort' => '-opublikowano',
-            'TOC' => [
-                'label' => 'Contents'
-            ],
             'showDetailsInMetabox' => true
         ],
 
@@ -43,22 +42,49 @@ return $yaml_config + [
             'sort' => '-opublikowano'
         ],
 
-        'wsparcie' => [
+        //English version of website:
+        'sites' => [
+            'extends' => '__source.single.en.pages',
+            'path' => 'en/sites'
+        ],
+
+        'publications' => [
+            'sort' => '-opublikowano',
+            'TOC' => [
+                'label' => 'Contents'
+            ],
+            'showDetailsInMetabox' => true,
+            'extends' => '__source.single.en.publication',
+            'path' => 'en/publications',
+        ],
+
+        'support' => [
             'sort' => 'kolejnosc',
             'TOC' => [
-                'label' => 'Wsparcie projektu tranzycja.pl',
+                'label' => 'Support tranzycja.pl',
                 'allPages' => true
-            ]
+            ],
+            'extends' => '__source.single.en.support',
+            'path' => 'en/support',
         ],
     ],
 
     'mainNav' => [
-        'items' => [
-            '/krok-po-kroku' => 'Krok po kroku',
-            '/publikacje' => 'Publikacje',
-            '/aktualnosci' => 'Aktualności',
-            '/#faq' => 'FAQ',
-            '/wsparcie' => '*Wesprzyj nas!'
+        'en' => [
+            'items' => [
+                '/en#about-us' => 'About us',
+                '/en/publications' => 'Publications',
+                '/en/support' => '*Support us!'
+            ],
+        ], 
+        'pl' => [
+            'items' => [
+                '/krok-po-kroku' => 'Krok po kroku',
+                '/publikacje' => 'Publikacje',
+                '/aktualnosci' => 'Aktualności',
+                '/#faq' => 'FAQ',
+                '/wsparcie' => '*Wesprzyj nas!'
+            ],
         ],
         'isActive' => fn($page, $path) => Str::startsWith($page->getPath(), $path)
     ]

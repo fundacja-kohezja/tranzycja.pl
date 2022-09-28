@@ -1,0 +1,1 @@
+Project implemented with the support of [![Association Grupa Stonewall](/media/img/logo/STOn_logo_transparent-pink.svg){.h-8 .inline}](https://grupa-stonewall.pl){.border-b-0} and [Fundation Kohezja](http://kohezja.org) | We make our own content available under license [CC BY-SA 3.0 PL](/en/support/license) | [Contact](/en/sites/contact) | [Polish](/)
