@@ -1,11 +1,11 @@
 <?php
 
 require_once(__DIR__ . '/../../vendor/tightenco/jigsaw/jigsaw-core.php');
-require_once(__DIR__ . '/helpers.php');
 
 use Algolia\AlgoliaSearch\SearchClient;
 use Algolia\AlgoliaSearch\Exceptions\BadRequestException;
-use App\SectionSplitMdParser;
+use App\{SearchRecordsBuilder, SectionSplitMdParser};
+use Illuminate\Support\Str;
 use Mni\FrontYAML\Markdown\MarkdownParser;
 use Symfony\Component\Console\Output\OutputInterface;
 use TightenCo\Jigsaw\Jigsaw;
@@ -31,14 +31,15 @@ $container->buildPath = [
 $container->consoleOutput->setup(OutputInterface::VERBOSITY_QUIET);
 
 /**
- * Use markdown parser which returns content divided into sections
- * ready to be sent to algolia as index records
+ * Instead of html-generating markdown parser use the one which returns
+ * content divided into sections of plain text with proper metadata
+ * to build search records from
  */
 $container->bind(MarkdownParser::class, SectionSplitMdParser::class);
 
 /**
- * Add method which allows to build the site without writing output files
- * (as this is unnecessary when preparing indices for algolia)
+ * Add method allowing to build the site without writing output files
+ * (as they are unnecessary when preparing records for algolia)
  */
 Jigsaw::macro('initCollections', function () {
     $this->siteData = $this->dataLoader->loadSiteData($this->app->config);
@@ -54,62 +55,49 @@ $collections = $jigsaw->initCollections() // <-- macro defined above
 array_shift($argv);
 $use_files_from_args = count($argv) > 0;
 
-/* if (!$use_files_from_args) { pamiętać, by odkomentować
+if (!$use_files_from_args) {
     $articles_index->clearObjects();
     $tags_index->clearObjects();
-} */
+}
 
-$records = [];
 $all_used_tags = [];
 
 foreach ($collections as $name => $pages) {
     if (in_array($name, DONT_INDEX_COLLECTIONS)) continue;
 
     foreach ($pages as $page) {
-        $tags = $page->getTags();
-        $lang = $page->lang; // coś z tym langiem chyba trzeba zrobić
-        $sections = $page->getContent();
-        $meta = $page->_meta;
-        $path = "$meta->collection/$meta->filename";
+        if ($page->lang) {
+            // for now we don't index non-polish pages
+            continue;
+        }
 
-        /* if ($use_files_from_args) {
-            $redirect_url = file_path_to_url($filename);
+        $tags = $page->getTags();
+
+        $collection = Str::slug($page->getCollection());
+        $filename = $page->getFilename();
+        $redirect = "$collection/$filename/";
+
+        $objectID = fn($section) => md5($redirect . $section->slug);
+
+        if ($use_files_from_args) {
             $articles_index->deleteBy([
-                'filters' => "redirect:'$redirect_url'"
+                'filters' => "redirect:'$redirect'"
             ]);
         }
- */
-        foreach ($sections as $index => $section) {
-            if (isset($section->level)) {
-                $records[] = [
-                    'path' => build_title_path(
-                        $section->title,
-                        $section->level,
-                        $sections->take($index) // get only previous sections to look for parents
-                    ),
-                    'content' => $section->content,
-                    'section' => $section->slug,
-                    'redirect' => $path,
-                    'tags' => $tags,
-                    'objectID' => md5($path . $section->slug)
-                ];
-            } else {
+        // TODO: obługa ścieżek plików z komendy, indeksowanie FAQ
+        $records = SearchRecordsBuilder::build($page, compact('redirect', 'tags', 'objectID'));
 
-            }
-            
+        try {
+            $articles_index->saveObjects($records, [
+                'autoGenerateObjectIDIfNotExist' => true
+            ]);
+        } catch (BadRequestException $e) {
+            var_dump($collected_data);
         }
 
         $all_used_tags = array_merge($tags, $all_used_tags);
     }
 };
-
-try {
-    $articles_index->saveObjects($records, [
-        'autoGenerateObjectIDIfNotExist' => true
-    ]);
-} catch (BadRequestException $e) {
-    var_dump($collected_data);
-}
 
 $tags_objects = [];
 foreach (array_unique($all_used_tags) as $tag) {

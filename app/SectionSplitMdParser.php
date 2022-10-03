@@ -3,6 +3,7 @@
 namespace App;
 
 use App\Traits\InitializesMarkdownIt;
+use Illuminate\Support\Str;
 use Mni\FrontYAML\Markdown\MarkdownParser;
 use stdClass;
 
@@ -13,7 +14,7 @@ class SectionSplitMdParser implements MarkdownParser
     protected $content, $parser, $tokens, $sections, $slugs;
     
     /**
-     * Process our markdown file to turn it into the collection of content sections split by headings
+     * Process our markdown file to turn it into the collection of content sections split by headings and containers
      * 
      * @param  string $markdown
      * @return  Illuminate\Support\Collection
@@ -44,24 +45,24 @@ class SectionSplitMdParser implements MarkdownParser
     }
 
     /**
-     * Make separate chunk for each section by splitting token list before every heading or spoiler opening and closing
+     * Make separate chunk for each section by splitting token list before every heading or container opening and closing
      */
     protected function splitTokens()
     {
         $this->tokens = $this->tokens
-            ->chunkWhile(fn($t) => !in_array($t->type, [
+            ->chunkWhile(fn($t) => !Str::is([
                 'heading_open',
-                'container_spoiler_open',
-                'container_spoiler_close',
+                'container_*_open',
+                'container_*_close',
                 'footnote_block_open'
-            ]));
+            ], $t->type));
 
         return $this;
     }
 
     /**
      * Render each section separately to turn it from markdown to plain text
-     * with titles, levels and slugs extracted from headings
+     * and add section metadata if applicable
      */
     protected function renderSections()
     {
@@ -72,35 +73,31 @@ class SectionSplitMdParser implements MarkdownParser
             /* reindexing from 0 is necessary because split chunks have preserved keys */
             $sectionTokens = $sectionTokens->values();
 
-            switch ($sectionTokens[0]->type) {
-                case 'heading_open':
-                    $this->headingSection($sectionTokens);
-                    break;
+            /* execute proper method based on the type of the first token */
+            foreach([
+                'heading_open'           => 'afterHeading',
+                'container_spoiler_open' => 'insideSpoiler',
+                'container_*_open'       => 'insideContainer',
+                'container_*_close'      => 'afterContainer',
+                'footnote_block_open'    => 'footnoteSection',
+                '*'                      => 'plainSection'
+            ] as $pattern                => $methodCallback) {
 
-                case 'container_spoiler_open':
-                    $this->spoilerSection($sectionTokens);
-                    break;
+                if (Str::is($pattern, $sectionTokens[0]->type)) {
 
-                case 'container_spoiler_close':
-                    $this->sectionAfterSpoiler($sectionTokens);
+                    [$this, $methodCallback]($sectionTokens);
                     break;
-
-                case 'footnote_block_open':
-                    $this->footnoteSection($sectionTokens);
-                    break;
-
-                default:
-                    /* failsafe if page doesn't begin with heading even though it should */
-                    $this->sections[] = (object)[
-                        'content' => $this->renderPlainText($sectionTokens)
-                    ];
+                }
             }
         }
 
         return $this;
     }
 
-    protected function headingSection($tokens)
+    /**
+     * Handle sections beginning with heading
+     */
+    protected function afterHeading($tokens)
     {
         $title = collect($tokens[1]->children)
             ->filter(fn($t) => in_array($t->type, ['text', 'code_inline']))
@@ -118,17 +115,22 @@ class SectionSplitMdParser implements MarkdownParser
         $this->sections[] = (object)compact('title', 'slug', 'level', 'content');
     }
 
-    protected function spoilerSection($tokens)
+    /**
+     * Handle inside of a spoiler
+     */
+    protected function insideSpoiler($tokens)
     {
         $section = [
+            'level' => 'open',
             'content' => $this->renderPlainText($tokens->skip(1))
         ];
 
         $text = explode(' ', trim($tokens[0]->info), 2)[1] ?? null;
 
         if ($text) {
-            $title = $this->parser->renderInline($text);
-            $slug = uniqueSlug(html_entity_decode(strip_tags($title)), $this->slugs);
+            $renderedText = $this->parser->renderInline($text);
+            $title = html_entity_decode(strip_tags($renderedText));
+            $slug = uniqueSlug($title, $this->slugs);
 
             $section += compact('title', 'slug');
         }
@@ -136,15 +138,40 @@ class SectionSplitMdParser implements MarkdownParser
         $this->sections[] = (object)$section;
     }
 
-    protected function sectionAfterSpoiler($tokens)
+    /**
+     * Handle inside of an alert (info, warning etc.)
+     * 
+     * Alerts usually don't need separation from the rest of the content
+     * but sometimes they may have headings inside thus creating new sections
+     * and those sections should be containted within the alert
+     * so that's why we need alerts separated.
+     */
+    protected function insideContainer($tokens)
     {
-        $content = $this->renderPlainText($tokens->skip(1));
-
-        if (trim($content)) {
-            $this->sections[] = (object)compact('content');
-        }
+        $this->sections[] = (object)[
+            'level' => 'open',
+            'content' => $this->renderPlainText($tokens->skip(1))
+        ];
     }
 
+    /**
+     * Handle content that comes after spoiler or alert, before next heading
+     */
+    protected function afterContainer($tokens)
+    {
+        $this->sections[] = (object)[
+            'level' => 'close',
+            'content' => $this->renderPlainText($tokens->skip(1))
+        ];
+    }
+
+    /**
+     * Handle footnote section
+     * 
+     * Even though it doesn't have heading as part of the content
+     * is should be teated as level 2 heading section.
+     * First item always has 'fn1' id – hence the slug.
+     */
     protected function footnoteSection($tokens)
     {
         $this->sections[] = (object)[
@@ -155,6 +182,22 @@ class SectionSplitMdParser implements MarkdownParser
         ];
     }
 
+    /**
+     * Failsafe if there is a page that doesn't begin with heading
+     * even though it should
+     */
+    protected function plainSection($tokens)
+    {
+        $this->sections[] = (object)[
+            'level' => 1,
+            'content' => $this->renderPlainText($tokens)
+        ];
+    }
+
+    /**
+     * Use markdown parser to render tokens to html
+     * and then convert the result to plain text
+     */
     protected function renderPlainText($tokens)
     {
         $preparedTokens = $tokens
