@@ -3,7 +3,7 @@ opublikowano: '2021-03-29 15:49:00'
 zaktualizowano: '2021-03-29 15:49:00'
 tags: publikacje, modele opieki
 meta:
-  Autorzy: Tash (wstęp), PTS
+  Autorzy: Tash Lisiecki (wstęp), PTS
 ---
 # Zalecenia PTS dotyczące opieki nad zdrowiem dorosłych osób transpłciowych
 

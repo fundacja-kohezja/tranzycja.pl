@@ -3,8 +3,8 @@ opublikowano: '2021-04-03 14:30:00'
 zaktualizowano: '2021-04-03 14:30:00'
 tags: publikacje, historia
 meta:
-  Autorzy: anonimowo
-  Korekta: Tash
+  Autorzy: anonim
+  Korekta: Tash Lisiecki
   Grafika: Sobachenko
 ---
 # Tranzycja w latach 80./90. XX wieku

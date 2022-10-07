@@ -3,8 +3,7 @@ opublikowano: '2022-05-22 15:00:00'
 zaktualizowano: '2022-05-31 12:00:00'
 tags:
 meta: 
-    Autorzy: Dag
-    Korekta: Nina
+    Autorzy: Dag Fajt
 lang: UKR
 ---
 # Довідник для трансгендерних людей з України

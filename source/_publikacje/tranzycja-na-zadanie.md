@@ -3,8 +3,8 @@ opublikowano: '2022-06-24 07:30:36'
 zaktualizowano: '2022-06-24 07:30:36'
 tags: publikacje, modele opieki
 meta:
-  Autorzy: Nina, Dag
-  Korekta: Tash, Kasia
+  Autorzy: Nina Kuta, Dag Fajt
+  Korekta: Tash Lisiecki, lek. Katarzyna Marzęda
 ---
 # Tranzycja na żądanie, czyli model świadomej zgody.
 

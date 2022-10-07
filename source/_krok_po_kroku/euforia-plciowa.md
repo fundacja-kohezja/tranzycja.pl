@@ -2,8 +2,8 @@
 kolejnosc: 40
 tags: krok po kroku, definicje
 meta: 
-    Autorzy: Nina
-    Korekta: Dag, Kasia
+    Autorzy: Nina Kuta
+    Korekta: Dag Fajt, lek. Katarzyna Marzęda
 zaktualizowano: '2021-10-16 12:00:00'
 ---
 # Euforia płciowa

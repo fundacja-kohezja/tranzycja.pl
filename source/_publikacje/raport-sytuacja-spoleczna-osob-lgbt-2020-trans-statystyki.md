@@ -3,8 +3,8 @@ opublikowano: '2021-12-31 14:44:17'
 zaktualizowano: '2021-12-31 14:44:17'
 tags: publikacje, badania
 meta:
-  Autorzy: Nina
-  Korekta: Dag
+  Autorzy: Nina Kuta
+  Korekta: Dag Fajt
 ---
 # Co raport „Sytuacja społeczna osób LGBTA w Polsce 2019-2020" mówi o osobach trans?
 

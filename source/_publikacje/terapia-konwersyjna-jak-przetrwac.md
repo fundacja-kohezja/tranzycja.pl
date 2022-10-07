@@ -3,8 +3,9 @@ opublikowano: '2021-12-23 23:14:42'
 zaktualizowano: '2021-12-24 12:00:00'
 tags: publikacje, terapia konwersyjna
 meta:
-  Autorzy: Dag
-  Korekta: Nina
+  Autorzy: Eric Tannehill, Kayley Whalen
+  Tłumaczenie: Dag Fajt
+  Korekta: Nina Kuta
 ---
 # Jak przetrwać terapię konwersyjną?
 

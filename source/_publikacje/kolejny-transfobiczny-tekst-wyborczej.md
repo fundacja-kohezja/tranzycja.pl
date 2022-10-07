@@ -3,7 +3,7 @@ opublikowano: '2021-08-02 12:51:40'
 zaktualizowano: '2021-08-04 12:51:40'
 tags: publikacje, media
 meta: 
-  Autorzy: Dag, Nina
+  Autorzy: Dag Fajt, Nina Kuta
 ---
 # Ku zaskoczeniu nikogo, Gazeta Wyborcza ponownie opublikowała transfobiczny tekst
 

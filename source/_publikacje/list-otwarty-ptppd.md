@@ -3,8 +3,8 @@ opublikowano: '2022-07-24 10:51:00'
 zaktualizowano: '2022-07-24 10:51:00'
 tags: publikacje, media, terapia konwersyjna
 meta: 
-  Autorzy: Dag, Nina
-  Korekta: Tash, Kasia
+  Autorzy: Dag Fajt, Nina Kuta
+  Korekta: Tash Lisiecki, lek. Katarzyna Marzęda
 ---
 # List otwarty do władz Polskiego Towarzystwa Psychoterapii Psychodynamicznej 
 
