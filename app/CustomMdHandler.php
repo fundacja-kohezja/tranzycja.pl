@@ -10,18 +10,17 @@ use TightenCo\Jigsaw\{
 
 class CustomMdHandler extends MarkdownHandler
 {
-    
     public function handleCollectionItem($file, PageData $pageData)
     {
         $this->putPageDataInContainer($pageData);
 
         return parent::handleCollectionItem($file, $pageData);
-    }    
+    }
 
     public function handle($file, $pageData)
     {
         $this->putPageDataInContainer($pageData);
-        
+
         return parent::handle($file, $pageData);
     }
 

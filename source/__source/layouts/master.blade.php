@@ -19,7 +19,7 @@
         <meta name="twitter:image" content="{{ $page->baseUrl }}/assets/img/social-share.png">
         <meta name="twitter:card" content="summary_large_image">
 
-        <title>{{ $page->nazwaWitryny }}{{ $page->title() ? ' | ' . $page->title() : ' – ' . $page->opisWitryny }}</title>
+        <title>{{ $page->nazwaWitryny }}{{ ($force_title ?? false) ? (' | ' . $force_title) : ($page->title() ? ' | ' . $page->title() : ' – ' . $page->opisWitryny) }}</title>
 
         <link rel="home" href="{{ $page->baseUrl ?: '/' }}">
         <link rel="icon" href="/favicon.ico?v=2">
@@ -28,6 +28,14 @@
         @stack('meta')
 
         <link id="stylesheet_link" rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}" data-mainsheeturl="{{ mix('css/main.css', 'assets/build') }}" data-manualmodesheeturl="{{ mix('css/manual_mode.css', 'assets/build') }}">
+        
+        {{-- css variables for algolia --}}
+        <style>
+            :root {
+                --aa-detached-media-query: (max-width: 680px);
+                --aa-detached-modal-media-query: (min-width: 681px);
+            }
+        </style>
 
         <script>
             if (localStorage.theme == 'dark' || localStorage.theme == 'light') {
@@ -38,6 +46,22 @@
                 document.documentElement.classList.add('dark')
             }
         </script>
+
+        <!-- Matomo -->
+        <script>
+            var _paq = window._paq = window._paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+                var u="https://matomo.kohezja.org/";
+                _paq.push(['setTrackerUrl', u+'matomo.php']);
+                _paq.push(['setSiteId', '4']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+            })();
+        </script>
+        <!-- End Matomo Code -->
     </head>
 
     <body style="visibility:hidden" tabindex="0" class="flex flex-col justify-between min-h-screen bg-gray-200 dark:bg-gray-900 text-gray-800 dark:text-gray-400 leading-normal font-sans">
@@ -45,15 +69,17 @@
             @include('__source.partials.menu', $page->mainNav)
         </header>
 
-        <div class="w-full flex-auto {{ $container_class ?? '' }} pt-8">
+        <div class="w-full slide flex-auto {{ $container_class ?? '' }} pt-8">
             @yield('body')
         </div>
-        
-        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
-        @stack('scripts')
 
+        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+        <script src="{{ mix('js/search/index.js', 'assets/build') }}"></script>
+        @stack('scripts')
         <footer class="bg-gray-100 dark:bg-gray-900 text-center text-sm mt-12 p-4" role="contentinfo">
             @include('_ogolne.stopka')
         </footer>
+        <!--TAGS: {{ $page->tags }}-->
+        <!--LANG: {{ $page->lang }}-->
     </body>
 </html>

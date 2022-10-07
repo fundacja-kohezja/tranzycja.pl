@@ -18,14 +18,16 @@ return $yaml_config + [
             'TOC' => [
                 'label' => 'Spis treści'
             ],
-            'footerBox' => 'stopka_artykulu'
+            'footerBox' => 'stopka_artykulu',
+            'showDetailsInMetabox' => true
         ],
 
         'publications' => [
             'sort' => '-opublikowano',
             'TOC' => [
                 'label' => 'Contents'
-            ]
+            ],
+            'showDetailsInMetabox' => true
         ],
 
         'krok_po_kroku' => [
@@ -59,9 +61,5 @@ return $yaml_config + [
             '/wsparcie' => '*Wesprzyj nas!'
         ],
         'isActive' => fn($page, $path) => Str::startsWith($page->getPath(), $path)
-    ],
-
-    // Algolia DocSearch credentials
-    'docsearchApiKey' => '',
-    'docsearchIndexName' => ''
+    ]
 ];

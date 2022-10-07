@@ -1,9 +1,9 @@
 <nav class="container flex flex-1 flex-col max-w-6xl mx-auto px-4 lg:px-6">
-  <div class="max-w-7xl flex flex-1 items-center">
+  <div class="max-w-7xl flex flex-1 items-center relative">
     <div class="relative flex items-center flex-1 justify-between h-16 lg:h-24">
       <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
         {{-- Mobile menu button --}}
-        <button onclick="navMenu.toggle()" class="inline-flex items-center justify-center -ml-2 sm:ml-0 p-2 rounded-md text-gray-600 dark:text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-expanded="false">
+        <button onclick="navMenu.toggle()" class="inline-flex items-center justify-center -ml-2 sm:ml-0 p-2 rounded-md text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-expanded="false">
           <span class="sr-only">Open main menu</span>
           <svg id="js-nav-menu-show" class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
@@ -68,31 +68,27 @@
         <div class="hidden lg:block lg:ml-6">
           <div class="items-center h-full flex space-x-4 font-heading font-semibold tracking-wider">
             @foreach ($items as $path => $label)
-              <a href="{{ $path }}"
-                class="
-                  px-3 py-2 rounded-md text-sm border-0
-
-                  {{ ($label && $label[0] === '*')
-                    ? 'bg-white hover:bg-gray-200 dark:bg-gray-850 dark:hover:bg-gray-900 font-extrabold'
-                    :          'hover:bg-white                     dark:hover:bg-gray-850'
-                  }}
-
-                  {{ $isActive($page, $path)
-                    ? 'text-indigo-600 hover:text-indigo-600 dark:text-purple-400 dark:hover:text-purple-400 font-extrabold'
-                    : 'text-gray-700   hover:text-blue-400   dark:text-gray-300   dark:hover:text-indigo-300'
-                  }}
-                "
-              >
-                  {{ ltrim($label, '*') }}
-              </a>
+              @include('__source.partials.nav-item', ['additionalClass' => 'text-sm'])
             @endforeach
+            <button type="button" class="toggle-search inline-flex justify-center text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0">
+                <span class="sr-only">Pokaż wyszukiwarkę</span>
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+            </button>
           </div>
         </div>
       </div>
     
       <div class="absolute inset-y-0 right-0 flex items-center flex-1 justify-end text-right">
-          <div class="relative inline-block text-left hover-trigger -mr-2 sm:mr-0">
-            <button type="button" class="inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-purple-800 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0" id="options-menu" aria-haspopup="true">
+          <button type="button" class="toggle-search lg:hidden inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0">
+              <span class="sr-only">Szukaj</span>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+          </button>
+          <div class="relative text-left hover-trigger -mr-2 sm:mr-0 hidden lg:inline-block">
+            <button type="button" class="inline-flex justify-center w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 px-2 sm:px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0" id="options-menu" aria-haspopup="true">
               <span class="sr-only">Motyw</span>
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="h-5 mr-1" stroke="currentColor">
                 <path stroke-width="2" stroke-linecap="square" d="M2.53,7.17l1,.43M15.17,2.79l.42-1M2.53,14.83l1-.43M7.94,1.76l.43,1" />
@@ -102,59 +98,26 @@
                 <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
               </svg>
             </button>
-            <div class="hidden hover-target origin-top-right absolute right-0 w-56 rounded-lg shadow-lg bg-gray-100 dark:bg-gray-800 ring-1 ring-black ring-opacity-5">
-              <div class="p-2 flex flex-col" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
-                <input class="w-0 h-0 invisible" name="theme" id="theme_auto" type="radio" onchange="el = document.getElementById('stylesheet_link'); el.href = el.dataset.mainsheeturl; document.documentElement.classList.remove('dark'); localStorage.removeItem('theme')">
-                <label for="theme_auto" class="cursor-pointer radio-label text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0 flex" role="menuitem">
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="h-5 mr-2" stroke="currentColor">
-                    <path stroke-width="2" stroke-linecap="square" d="M20.07,3.93l-.79.79M23,11H21.89M13,1V2.11" />
-                    <path stroke-width="2" d="M5.67,13A9.44,9.44,0,0,1,5,9.5a9.6,9.6,0,0,1,.71-3.61,9,9,0,1,0,12.4,12.4A9.6,9.6,0,0,1,14.5,19a10,10,0,0,1-1.35-.09" />
-                    <path stroke-width="2" stroke-linejoin="bevel" d="M12.14,5.17a5.5,5.5,0,0,1,6.71,6.62M8.08,16.38l3.5-8.76,3.5,8.76M9.34,14h4.48" />
-                  </svg>
-                  Automatycznie
-                </label>
-                <input class="w-0 h-0 invisible" name="theme" id="theme_light" type="radio" onchange="el = document.getElementById('stylesheet_link'); el.href = el.dataset.manualmodesheeturl; document.documentElement.classList.remove('dark'); localStorage.theme = 'light'">
-                <label for="theme_light" class="cursor-pointer radio-label text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0 flex" role="menuitem">
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="h-5 mr-2" stroke="currentColor">
-                    <path stroke-linecap="square" stroke-width="2" d="M5.72,18.28l-.79.79M19.07,4.93l-.79.79m-12.56,0-.79-.79M19.07,19.07l-.79-.79M3.11,12H2m20,0H20.89M12,20.89V22M12,2V3.11M12,7a5,5,0,1,0,5,5A5,5,0,0,0,12,7Z" />
-                  </svg>
-                  Jasny
-                </label>
-                <input class="w-0 h-0 invisible" name="theme" id="theme_dark" type="radio" onchange="el = document.getElementById('stylesheet_link'); el.href = el.dataset.manualmodesheeturl; document.documentElement.classList.add('dark'); localStorage.theme = 'dark'">
-                <label for="theme_dark" class="cursor-pointer radio-label text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-indigo-800 dark:hover:text-indigo-300 px-3 py-2 rounded-md text-sm font-heading font-semibold tracking-wider border-0 flex" role="menuitem">
-                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" class="h-5 mr-2" stroke="currentColor">
-                    <path stroke-width="2" d="M17.5,15.5a9,9,0,0,1-9-9,8.89,8.89,0,0,1,.52-3A9,9,0,1,0,20.48,15,8.89,8.89,0,0,1,17.5,15.5Z" />
-                  </svg>
-                  Ciemny
-                </label>
-              </div>
-            </div>
+            @include('__source.partials.theme-select', ['positionClass' => 'right-0', 'suffix' => '1'])
           </div>
       </div>
     </div>
   </div>
-
+  <div id="autocomplete-search-container-menu" class="hidden w-full mb-8"></div>
   <div id="js-nav-menu" class="block hidden lg:hidden">
-    <div class="px-2 pt-2 pb-3 space-y-1 font-heading font-semibold tracking-wider">
+    <div class="pt-2 pb-3 space-y-1 font-heading font-semibold tracking-wider">
       @foreach ($items as $path => $label)
-        <a href="{{ $path }}"
-          class="
-            block px-3 py-2 rounded-md text-base border-0
-
-            {{ ($label && $label[0] === '*')
-              ? 'bg-white hover:bg-gray-200 dark:bg-gray-850 dark:hover:bg-gray-900 font-extrabold'
-              :          'hover:bg-white                     dark:hover:bg-gray-850'
-            }}
-
-            {{ $isActive($page, $path)
-              ? 'text-indigo-600 hover:text-indigo-600 dark:text-purple-400 dark:hover:text-purple-400 font-extrabold'
-              : 'text-gray-700   hover:text-blue-400   dark:text-gray-300   dark:hover:text-indigo-300'
-            }}
-          "
-        >
-            {{ ltrim($label, '*') }}
-        </a>
+        @include('__source.partials.nav-item', ['additionalClass' => 'block text-base'])
       @endforeach
+      <div class="relative hover-trigger">
+        <button class="w-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-850 hover:text-blue-500 dark:hover:text-indigo-300 flex tracking-wider items-center px-3 py-2 rounded-md text-base border-0">
+          Motyw
+          <svg class="ml-1 h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+          </svg>
+        </button>
+        @include('__source.partials.theme-select', ['positionClass' => 'left-0', 'suffix' => '2'])
+      </div>
     </div>
   </div>
 </nav>

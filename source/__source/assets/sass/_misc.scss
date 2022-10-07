@@ -136,8 +136,8 @@ details {
         }
     }
 }
+
 mark {
-    background-color: #f2c2ce;
     padding-top: 0.25em;
     padding-bottom: 0.25em;
     padding-right: 0.25em;
@@ -149,7 +149,9 @@ mark {
         @apply .text-white;
         @apply .bg-purple-700;
     }
+    background-color: #f2c2ce;
 }
+
 .faq-section, .news-entry {
     h1 { @apply .text-3xl }
     h2 {
@@ -224,11 +226,10 @@ mark {
     }
     
     @media (min-width: 1024px) {
-        > * {
+        > :not(h1) {
             float: right;
             width: 70%;
         }
-        > h1,
         > h2,
         > h3,
         > h4,
@@ -516,4 +517,121 @@ mark {
 br + .spacer {
     font-size: 1.5em;
     vertical-align: bottom;
+}
+
+hide {
+    @apply .bg-gray-700;
+        @include dark {
+        @apply .bg-gray-850;
+    }
+}
+
+.answersWrapper button, .nextQuestionBtn {
+    color: #fff;
+    @include dark {
+        @apply .text-gray-200;
+    }
+}
+
+.answersWrapper button:nth-child(odd) {
+    @apply .bg-pink-400;
+    @include dark {
+        @apply .bg-pink-700;
+    }
+}
+
+.answersWrapper button:nth-child(even) {
+    @apply .bg-blue-400;
+    @include dark {
+        @apply .bg-blue-700;
+    }
+}
+
+.nextQuestionBtn {
+    padding-inline: 20px;
+    @apply .bg-purple-400;
+    @include dark {
+        @apply .bg-purple-700;
+    }
+}
+
+.react-quiz-container .questionWrapper .btn {
+    border-width: 2px;
+    border-color: transparent;
+}
+.react-quiz-container .questionWrapper .btn.correct {
+    outline: none;
+    @apply .bg-green-400;
+    @include dark {
+        @apply .bg-green-700;
+    }
+}
+
+.react-quiz-container .questionWrapper .btn.incorrect {
+    outline: none;
+    @apply .bg-red-400;
+    @include dark {
+        @apply .bg-red-700;
+    }
+}
+
+.react-quiz-container .questionWrapper .btn.selected {
+    outline: none;
+    @apply .border-gray-850;
+    @apply .border-2;
+    @include dark {
+        border-color: #fff;
+    }
+}
+
+.questions { 
+    grid-column-gap: 4em !important;
+}
+
+@media (max-width: 1023px) {
+    .questions { 
+        grid-template-columns: none !important;
+    }
+
+    .questionWrapper {
+        width: 100% !important;
+        display: block !important;
+        padding: 0 !important;
+        padding-block: 15px !important;
+    }
+
+    .react-quiz-container {
+        padding: 0 !important;
+    }
+
+    .answersWrapper {
+        flex-direction: column !important;
+    }
+
+    .answerBtn, .nextQuestionBtn {
+        width: 75% !important;
+    }
+
+    .nextQuestionBtn {
+        margin-bottom: 20px !important;
+    }
+
+    .react-quiz-container .card-body h2 {
+        font-size: 1.4rem;
+    }
+}
+
+.react-quiz-container {
+    min-height: 400px;
+}
+
+.react-quiz-container .card-body {
+    @apply .flex;
+    @apply .justify-center;
+    @apply .items-center;
+    height: 100%;
+}
+
+.social-images img {
+    height: 64px;
 }
