@@ -52,8 +52,22 @@ $jigsaw = $container->make(Jigsaw::class);
 $collections = $jigsaw->initCollections() // <-- macro defined above
                       ->getCollections();
 
+
 array_shift($argv);
 $use_files_from_args = count($argv) > 0;
+
+function isPageInArgs($collection, $filename, $args) {
+    foreach ($args as $path) {
+        if (
+            $filename === pathinfo($path, PATHINFO_FILENAME) &&
+            "_$collection" === pathinfo(pathinfo($path, PATHINFO_DIRNAME), PATHINFO_BASENAME)
+        ) {
+            return true;
+        }
+    }
+    return false;
+}
+
 
 if (!$use_files_from_args) {
     $articles_index->clearObjects();
@@ -62,29 +76,34 @@ if (!$use_files_from_args) {
 
 $all_used_tags = [];
 
-foreach ($collections as $name => $pages) {
-    if (in_array($name, DONT_INDEX_COLLECTIONS)) continue;
+foreach ($collections as $collection => $pages) {
+    if (in_array($collection, DONT_INDEX_COLLECTIONS)) continue;
+
+    $collection = Str::slug($collection); // collection name is slugified in URLs
 
     foreach ($pages as $page) {
+        $filename = $page->getFilename();
+        $redirect = "$collection/$filename/";
+
+        if ($use_files_from_args) {
+            if (!isPageInArgs($collection, $filename, $argv)) {
+                continue;
+            }
+
+            $articles_index->deleteBy([
+                'filters' => "redirect:'$redirect'"
+            ]);
+        }
+
         if ($page->lang) {
             // for now we don't index non-polish pages
             continue;
         }
 
         $tags = $page->getTags();
-
-        $collection = Str::slug($page->getCollection());
-        $filename = $page->getFilename();
-        $redirect = "$collection/$filename/";
-
         $objectID = fn($section) => md5($redirect . $section->slug);
 
-        if ($use_files_from_args) {
-            $articles_index->deleteBy([
-                'filters' => "redirect:'$redirect'"
-            ]);
-        }
-        // TODO: obługa ścieżek plików z komendy, indeksowanie FAQ
+        // TODO: indeksowanie FAQ
         $records = SearchRecordsBuilder::build($page, compact('redirect', 'tags', 'objectID'));
 
         try {
