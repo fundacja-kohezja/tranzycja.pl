@@ -4,7 +4,6 @@ namespace App;
 
 use Closure;
 use Illuminate\Support\{Collection, Str};
-use TightenCo\Jigsaw\PageVariable;
 
 /**
  * Helper class for building algolia records from properly sectioned content
@@ -18,16 +17,16 @@ class SearchRecordsBuilder
     protected Collection $records;
     protected array $addToEach;
 
-    protected function __construct($page, $addToEachSection)
+    protected function __construct($sections, $addToEachSection)
     {
-        $this->sections = $page->getContent();
+        $this->sections = $sections;
         $this->records = collect();
         $this->addToEach = $addToEachSection;
     }
 
-    public static function build(PageVariable $page, $addToEachSection = [])
+    public static function build(Collection $sectionedContent, $addToEachSection = [])
     {
-        $builder = new static($page, $addToEachSection);
+        $builder = new static($sectionedContent, $addToEachSection);
         $builder->buildRecords();
         
         return $builder->records

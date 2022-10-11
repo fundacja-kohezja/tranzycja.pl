@@ -9,7 +9,8 @@ use Illuminate\Support\Str;
 use Mni\FrontYAML\Markdown\MarkdownParser;
 use Symfony\Component\Console\Output\OutputInterface;
 use TightenCo\Jigsaw\Jigsaw;
-
+use TightenCo\Jigsaw\PageVariable;
+use TightenCo\Jigsaw\Parsers\FrontMatterParser;
 
 $client = SearchClient::create('C8U4P0CC81', getenv('ADMIN_API_KEY'));
 $articles_index = $client->initIndex('articles');
@@ -49,8 +50,26 @@ Jigsaw::macro('initCollections', function () {
 });
 
 $jigsaw = $container->make(Jigsaw::class);
-$collections = $jigsaw->initCollections() // <-- macro defined above
-                      ->getCollections();
+$jigsaw->initCollections();
+
+/**
+ * FAQ needs to be built separately as it doesn't belong to any collection
+ */
+$faqPage = new PageVariable($jigsaw->getSiteData()->page);
+
+$parser = $container[FrontMatterParser::class];
+$parser->parse(file_get_contents(__DIR__ . '/../../source/_ogolne/faq.md'));
+
+$faqPage->addVariables($parser->frontMatter + ['redirect' => '/']);
+$faqPage->_meta = collect([
+    'content' => $container[MarkdownParser::class]->parse($parser->content),
+    'filename' => 'faq'
+]);
+
+
+$collections = $jigsaw
+    ->getCollections()
+    ->merge(['ogolne' => [$faqPage]]);
 
 
 array_shift($argv);
@@ -74,6 +93,7 @@ if (!$use_files_from_args) {
     $tags_index->clearObjects();
 }
 
+
 $all_used_tags = [];
 
 foreach ($collections as $collection => $pages) {
@@ -83,7 +103,7 @@ foreach ($collections as $collection => $pages) {
 
     foreach ($pages as $page) {
         $filename = $page->getFilename();
-        $redirect = "$collection/$filename/";
+        $redirect = $page->redirect ?? "$collection/$filename/";
 
         if ($use_files_from_args) {
             if (!isPageInArgs($collection, $filename, $argv)) {
@@ -103,8 +123,10 @@ foreach ($collections as $collection => $pages) {
         $tags = $page->getTags();
         $objectID = fn($section) => md5($redirect . $section->slug);
 
-        // TODO: indeksowanie FAQ
-        $records = SearchRecordsBuilder::build($page, compact('redirect', 'tags', 'objectID'));
+        $records = SearchRecordsBuilder::build(
+            $page->getContent(),
+            compact('redirect', 'tags', 'objectID')
+        );
 
         try {
             $articles_index->saveObjects($records, [
