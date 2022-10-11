@@ -81,7 +81,7 @@ class SearchRecordsBuilder
                     $recordToContinue['flag'] = 'remove';
 
                     /*
-                     * append the content from currect section and push the record back to the collection
+                     * append the content from current section and push the record back to the collection
                      * so it lands at the end
                      */
                     $continuedRecord['content'] .= $section->content;
