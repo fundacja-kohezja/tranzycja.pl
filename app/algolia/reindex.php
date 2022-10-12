@@ -71,6 +71,7 @@ $collections = $jigsaw
     ->getCollections()
     ->merge(['ogolne' => [$faqPage]]);
 
+    dump($argv);
 
 array_shift($argv);
 $use_files_from_args = count($argv) > 0;
@@ -91,8 +92,6 @@ function isPageInArgs($collection, $filename, $args) {
 if (!$use_files_from_args) {
     $articles_index->clearObjects();
     $tags_index->clearObjects();
-} else {
-    dump($argv);
 }
 
 
@@ -131,7 +130,6 @@ foreach ($collections as $collection => $pages) {
         );
 
         try {
-            dump($records);
             $articles_index->saveObjects($records, [
                 'autoGenerateObjectIDIfNotExist' => true
             ]);
