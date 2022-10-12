@@ -84,6 +84,6 @@ W swojej publikacji możesz przekazać społeczności nadzieję, nowe spojrzenie
 
 :::spoiler 3. Materiał posiada raczej charakter informacyjny, a nie artystyczny.
 
-Raczej nie publikujemy opowiadań, wierszy, czy recenzji. Nie jesteśmy portalem kulturowym ani plotkarskim. Nie zajmujemy się też komentowaniem bierzących wydarzeń, chyba, że mają one szczególnie duże znaczenie dla społeczności.
+Raczej nie publikujemy opowiadań, wierszy, czy recenzji. Nie jesteśmy portalem kulturowym ani plotkarskim. Nie zajmujemy się też komentowaniem bieżących wydarzeń, chyba, że mają one szczególnie duże znaczenie dla społeczności.
 
 :::
