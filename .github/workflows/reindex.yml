@@ -28,11 +28,8 @@ jobs:
         with:
           php_version: '7.4'
 
-      - uses: actions/setup-node@v3
       - uses: nanasess/setup-php@master
         with:
           php-version: '7.4'
       - run: |
-         npm install &&
-         npm run production &&
-         ADMIN_API_KEY=${{secrets.ALGOLIA_ADMIN_API_KEY}} php app/algolia/reindex.php $( git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' )         
+          ADMIN_API_KEY=${{secrets.ALGOLIA_ADMIN_API_KEY}} php app/algolia/reindex.php $( git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status | grep -i '^M' | awk -F ' ' '{print $2}' | grep -i '.md' | grep -i 'source/' )         
