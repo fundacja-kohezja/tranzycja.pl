@@ -13,8 +13,8 @@ use TightenCo\Jigsaw\PageVariable;
 use TightenCo\Jigsaw\Parsers\FrontMatterParser;
 
 $client = SearchClient::create('C8U4P0CC81', getenv('ADMIN_API_KEY'));
-$articles_index = $client->initIndex('articles');
-$tags_index = $client->initIndex('tags');
+$articles_index = $client->initIndex('articles_dev');
+$tags_index = $client->initIndex('tags_dev');
 
 
 const DONT_INDEX_COLLECTIONS = [
