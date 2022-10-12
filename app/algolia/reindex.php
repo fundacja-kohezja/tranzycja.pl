@@ -91,6 +91,8 @@ function isPageInArgs($collection, $filename, $args) {
 if (!$use_files_from_args) {
     $articles_index->clearObjects();
     $tags_index->clearObjects();
+} else {
+    dump($argv);
 }
 
 
@@ -129,6 +131,7 @@ foreach ($collections as $collection => $pages) {
         );
 
         try {
+            dump($records);
             $articles_index->saveObjects($records, [
                 'autoGenerateObjectIDIfNotExist' => true
             ]);
