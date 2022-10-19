@@ -34,8 +34,6 @@ Sprawdź nasze artykuły o [feminizującej](/krok-po-kroku/feminizujaca-terapia-
 
 Najczęściej do przepisania hormonów będziesz potrzebować: 
 - opinii psychologicznej od psychologa-seksuologa
-- diagnozy od lekarza-seksuologa lub psychiatry
-- endokrynologa, który dobierze dawki w oparciu o badania krwi.
 
 Wielu lekarzy stawia jednak odrobinę inne wymogi. Szczegółowe informacje uzyskasz [w naszym artykule na ten temat](/krok-po-kroku/tranzycja-medyczna/). Diagnoza będzie potrzebna do zmiany oznaczenia płci oraz jest wymogiem przy wielu zabiegach chirurgicznych.
 
