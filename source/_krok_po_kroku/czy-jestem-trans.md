@@ -23,8 +23,6 @@ Zadanie sobie po raz pierwszy pytania „czy jestem osobą transpłciową?” w 
 
 Zacznijmy od najprostszych faktów: zarówno seksualność, jak i płeć istnieje na szerokim spektrum. Odczuwanie płci przez każdego jest na swój sposób unikalne. Dlatego warto szukać podobieństw, ale nie należy oczekiwać, że Twoja sytuacja będzie przekładała się 1:1 na sytuację innych osób transpłciowych — Wasze doświadczenia mogą być szalenie odmienne i nie oznacza to, że któreś z Was nie jest „prawdziwym transem”. 
 
-Należy pamiętać, że ostatecznie tylko Ty możesz odpowiedzieć na pytanie jakiej jesteś płci. Nie zależy ona ani nie jest jakkolwiek unieważniona przez opinię Twoich rodziców, nauczycieli czy ekspedientek w sklepie. 
-
 Pragniemy przedstawić kilka eksperymentów myślowych, które mogą pomóc w refleksji nad Twoją tożsamością, a także zrozumieniu szerszych konsekwencji dotyczących pełnionej przez Ciebie roli społecznej. Pytania te dla porównania warto też zadać swoim cispłciowym znajomym czy rodzinie i zastanowić się nad tym co łączy i dzieli poszczególne odpowiedzi. 
 
 1. Czy jeżeli udałoby Ci się przenieść w czasie do odległej przyszłości, gdzie każda osoba niezależnie od jej fizycznych cech, byłaby traktowana tak samo w każdej sferze życia, to czy nadal chciałxś dokonać jakichkolwiek zmian?
