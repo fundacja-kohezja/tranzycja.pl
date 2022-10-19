@@ -19,7 +19,6 @@ Jedną z najpopularniejszych metod przyjmowania terapii hormonalnej są zastrzyk
 * strzykawka o pojemności najczęściej 2 ml;
 * gaziki jałowe;
 * płyn do dezynfekcji skóry (Skinsept, Kodan);
-* lek;
 * opcjonalnie rękawiczki jednorazowe.
  
 ### Igły
