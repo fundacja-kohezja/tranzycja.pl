@@ -13,7 +13,7 @@ W tym artykule pragniemy zwrócić uwagę na pracę Niezależnego Eksperta ONZ d
 Niezależny Ekspert ONZ stanowi jedną z instytucji powołanych w celu ochrony praw człowieka na całym świecie. Powstanie stanowiska wiąże się ze stopniowym odchodzeniem ONZ od doktryny „no power to act" („brak mandatu do działania"), której implementacja wyrażała się w działaniach mających na celu pasywne promowanie praw człowieka zamiast aktywnej ich obrony. Obecnie działa 79 niezależnych ekspertów w ramach kwestii dot. 12 krajów i 44 tematów szczególnej uwagi. Ich uprawnienia zawierają się w tworzeniu raportów, działaniach w porozumieniu z poszczególnymi krajami w zakresie implementacji zaleceń od strony technicznej, wizytacje regionów zagrożonych łamaniem praw człowieka oraz odpowiadanie na i procedowanie skarg indywidualnych. Raport nie stanowi źródła prawa międzynarodowego, ale może stanowić bazę do późniejszego wydania rezolucji, która stanowi formalne źródło prawa międzynarodowego. Na raport ONZ nadal można powołać się w sądzie w ramach materiału dowodowego. 
 
 
-
+sddssds
 ## Prawa Inkluzywności
 ### Wprowadzenie
 Płeć definiowana w raporcie stanowi konstrukt społeczno-kulturowy przypisujący pewne role, zachowania, formy ekspresji i czynności do płci przypisanej przez urodzeniu. Płeć biologiczna (ang. *sex*) i płeć kulturowa/tożsamość płciowa (ang. *gender*) zgodnie z tą definicją nie wykluczają się wzajemnie, lecz są osobnymi pojęciami służącymi do opisu różnych aspektów życia ludzkiego. 
