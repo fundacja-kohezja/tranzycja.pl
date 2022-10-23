@@ -10,6 +10,7 @@ zaktualizowano: '2021-10-16 12:00:00'
 
 Przypatrując się popularnemu przedstawieniu transpłciowości w mediach, nawet tych przychylnych i tolerancyjnych, trudno nie odnieść wrażenia, że musi to być temat pochmurny i tragiczny, idealny dla fabuły egzystencjalnego dramatu psychologicznego. Seksuolodzy opowiadają o transpłciowości przez pryzmat medycznej kategorii dysforii płciowej i związanych z nią odsetków zaburzeń depresyjnych i lękowych; dziennikarze opisują trudy dyskryminacji i odrzucenia, a kasowe hollywoodzkie filmy prześcigają się w męczeniu swoich transpłciowych bohaterów do tego stopnia, że na ich cześć powstało nawet określenie „trauma porn”. 
 
+AAA 
 I choć nie ma wątpliwości, że napotykamy w naszych życiach na wiele problemów, to tego rodzaju jednostronne przedstawienie, w którym osoba trans to przede wszystkim Ktoś, Kto Cierpi, wymazuje wiele pozytywnych i budujących doświadczeń, które stanowią równie ważną część transpłciowości. Żeby zapewnić przeciwwagę dla medycznego, negatywnego określenia dysforii płciowej, w społeczności osób trans ukuto i rozpopularyzowano termin **euforii płciowej** (ang. gender euphoria).
 
 ![Obrazek "Euforia płciowa i szczęscie bycia trans"](https://tranzycja.pl/media/img/euforia-plciowa.png )
