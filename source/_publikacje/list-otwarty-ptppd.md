@@ -12,7 +12,7 @@ Poniżej zamieszczamy list otwarty do Polskiego Towarzystwa Psychoterapii Psycho
 
 ## Treść listu
 
-Szanowni Państwo,
+Szanowni Państwo,gggg
 
 Z oburzeniem przyjmujemy informację o zaproszeniu Marcusa i Susan Evansów na IX konferencję Polskiego Towarzystwa Psychoterapii Psychodynamicznej mającą odbyć się w dniach 10-11 września 2022 roku. 
 
