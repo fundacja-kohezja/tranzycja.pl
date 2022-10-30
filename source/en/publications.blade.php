@@ -14,9 +14,9 @@ pagination:
             </svg>
             <span class="align-middle">Publications</span>
         </h1>
-        @if($page->opisSekcjiPublikacje)
+        @if($page->opisSekcjiPublikacje->en)
             <p class="text-lg text-medium font-semibold font-heading tracking-wider text-gray-600 dark:text-gray-400">
-                {{ $page->opisSekcjiPublikacje }}
+                {{ $page->opisSekcjiPublikacje->en }}
             </p>
         @endif
     </div>

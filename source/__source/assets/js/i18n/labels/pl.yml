@@ -3,6 +3,10 @@ theme:
   dark: Ciemny
   light: Jasny
   label: Motyw
+language:
+  polish: Polski
+  english: Angielski
+  label: Język
 navMenu:
   open: Otwórz menu
   logoTitle: Strona główna

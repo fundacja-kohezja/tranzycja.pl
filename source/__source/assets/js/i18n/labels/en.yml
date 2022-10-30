@@ -3,6 +3,10 @@ theme:
   dark: Dark
   light: Light
   label: Theme
+language:
+  polish: Polish
+  english: English
+  label: Language
 navMenu:
   open: Open main menu
   logoTitle: Homepage
