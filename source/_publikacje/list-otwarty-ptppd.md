@@ -8,7 +8,7 @@ meta:
 ---
 # List otwarty do władz Polskiego Towarzystwa Psychoterapii Psychodynamicznej 
 
-Poniżej zamieszczamy list otwarty do Polskiego Towarzystwa Psychoterapii Psychodynamicznej wyrażający nasz sprzeciw wobec zaproszenia przez nich Marcusa i Susan Evansów na IX Konferencję PTPPd, psychologów propagujących terapię konwersyjną osób transpłciowych.
+Poniżej zamieszczamy list otwarty do Polskiego Towarzystwa Psychoterapii Psychodynamicznej wyrażający nasz sprzeciw wobec zaproszenia przez nich Marcusa i Susan Evansów na IX Konferencję PTPPd.
 
 ## Treść listu
 
