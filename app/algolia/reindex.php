@@ -1,5 +1,7 @@
 <?php
 
+var_dump($argv);
+
 require_once(__DIR__ . '/../../vendor/tightenco/jigsaw/jigsaw-core.php');
 
 use Algolia\AlgoliaSearch\SearchClient;
@@ -70,8 +72,6 @@ $faqPage->_meta = collect([
 $collections = $jigsaw
     ->getCollections()
     ->merge(['ogolne' => [$faqPage]]);
-
-    dump($argv);
 
 array_shift($argv);
 $use_files_from_args = count($argv) > 0;
