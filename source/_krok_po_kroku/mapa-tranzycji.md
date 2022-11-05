@@ -16,7 +16,7 @@ Pod określeniem **transpłciowości** rozumiemy wszystkie formy określania swo
 
 Pod określeniem **tranzycji** rozumiemy wszystkie formy zmiany swojego funkcjonowania społecznego i/lub korekty cech płciowych swojego ciała w stronę płci, z którą się utożsamiamy.
 
-Następne kroki będą zależeć od tego, czego potrzebujesz!
+Następne kroki będą zależeć od tego, czego potrzebujesz! Witam!
 
 :::info
 Choć artykuły na stronie muszą wyświetlać się w określonej kolejności, to Ty nie musisz jej w żaden sposób przestrzegać. **Najwyższym autorytetem w obszarze Twojej tranzycji jesteś Ty sam_**, poszczególne kroki tranzycji powinny być podejmowane przede wszystkim w oparciu o Twoje potrzeby.
