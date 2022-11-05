@@ -30,15 +30,6 @@ Fundacja Trans-Fuzja 2019, [Źródło](http://transfuzja.org/pl/artykuly/publika
 
 :::
 
-:::spoiler O rety! Cishety!
-
-Odpowiedzi na pytania, na które nie masz już siły odpowiadać.
-Koło Naukowe MyGender, 2020
-
-[![O rety! Cishety!](/media/docs/faq/O%20rety!%20Cishety!.jpg)](/media/docs/faq/O%20rety!%20Cishety!.pdf)
-
-:::
-
 ## Zdrowie
 
 :::spoiler Standardy opieki zdrowotnej dla osób transseksualnych, transpłciowych i różnorodnych płciowo
