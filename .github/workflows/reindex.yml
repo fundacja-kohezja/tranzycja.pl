@@ -32,4 +32,4 @@ jobs:
         with:
           php-version: '7.4'
       - run: |
-          git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status
+          echo $( git diff origin/${{ github.event.pull_request.base.ref }}..origin/${{ github.event.pull_request.head.ref }} --name-status )
