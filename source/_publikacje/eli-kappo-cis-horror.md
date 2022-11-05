@@ -17,6 +17,8 @@ Poniższy tekst stanowi tłumaczene eseju z bloga Eli Kappo zatytułowanego *TDO
 
 :::
 
+Zmiana
+
 Problem z przechodzeniem tranzycji w ramach medycznego mainstreamu, zarówno tego przeszłego jak i obecnie istniejącego, stanowi fakt, że jej celem jest uczynienie osoby cispłciową, tudzież tak zbliżoną do cis standardu, jak tylko to możliwe. Nie zrozumcie mnie źle, to nie tak że zaprzeczam temu, że dla wielu trans osób pomoc, którą uzyskali od państwa i ochrony zdrowia, to źródło osobistej radości. Jestem wdzięczna za to, co sama uzyskałam od państwa i za spełnianie potrzeb innych. Jednakże pozostaję krytyczna wobec szerszego celu tych działań: chęci uczynienia nas niewidzialnymi dla naszego dobra. Istnienie czegoś takiego jak Dzień Widzialności Osób Transpłciowych (jak dowiedziałam się wymyślonego niedawno, bo w 2009 roku — jedynie dwa lata przed moim coming outem) wydaje się być w świetle tego bezczelne i odważne. 
 
 Skoro już poruszamy temat zuchwałości: każdy kto obserwuje mnie online, wie że na socialach całkiem się odsłaniam. Po części przyczyną jest to, że przez lata przechodzenia tranzycji w ramach systemu i jego praw, jakoś pomiędzy wizytami u ginekologa, diagnostyką psychologiczną i powtarzającymi się pytaniami na apkach do randkowania udało mi się utracić poczucie wstydu. Częściowo wynika to z tego, że moje obnażone ciało w swoim obecnym stanie, wywołuje w biednych istotach, które dzielą ze mną plażę czy saunę, coś, co lubię określać mianem *„Cis Horroru”*. Dopóki takie reakcje się nie skończą, będę postrzegać szokowanie cisów moją nagością w kategorii moralnego obowiązku.
