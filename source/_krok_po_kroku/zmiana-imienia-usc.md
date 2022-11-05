@@ -7,7 +7,7 @@ zaktualizowano: '2021-03-14 12:00:00'
 ---
 # Zmiana imienia w USC
 
-Niektóre osoby decydują się na zmianę imienia z pominięciem sądu, poprzez złożenie wniosku do Urzędu Stanu Cywilnego. Powody mogą być różne - przedłużające tranzycję komplikacje w procesie diagnozy, niechęć do pozywania rodziców i korekty płci metrykalnej, czy też brak realnej alternatywy dla posiadanego oznaczenia metryki w przypadku np. osób niebinarnych.
+Niektóre osoby decydują się na zmianę imienia z pominięciem sądu, poprzez złożenie wniosku do Urzędu Stanu Cywilnego. Powody mogą być różne - przedłużające tranzycję komplikacje w procesie diagnozy.
 
 :::warning
 Zachowaj ostrożność, ponieważ **odrzuconego wniosku nie możesz złożyć ponownie** bez znaczączej zmiany okoliczności.
