@@ -6,7 +6,7 @@ meta:
     Korekta: lek. Katarzyna Marzęda
 zaktualizowano: '2022-03-12 12:00:00'
 ---
-# Dysforia płciowa
+# Dysforia płcifdsowa
 
 Dysforia płciowa oznacza uczucie dyskomfortu wynikające z rozdźwięku pomiędzy różnymi aspektami naszej płci (cechami płciowymi naszego ciała, tym jak wyglądamy, tym jak odbierają nas inni). Dysforię płciową często dzieli się na dwie kategorie w zależności od tego, co jest jej przyczyną: dysforię fizyczną i dysforię społeczną.
 
