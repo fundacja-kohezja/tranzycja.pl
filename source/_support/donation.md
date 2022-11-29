@@ -5,18 +5,21 @@ kolejnosc: 1
 
 You can support us in the following ways:
 
-## Zrzutka
+
+## Zrzutka.pl crowdfund
 
 <div style="position: relative; width: 100%; height: 400px; overflow: hidden;"><iframe style="position: absolute; top:0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://zrzutka.pl/xa4dbg/widget/23" frameborder="0" scrolling="no"></iframe></div>
 
-## Money transfer - PLN
+Avaliable (HERE)[https://zrzutka.pl/xa4dbg].
+
+### Donation by bank transfer - PLN
 Fundacja Kohezja  
 Bank BNP Paribas  
 IBAN: PL25 1600 1462 1747 7124 9000 0003  
 SWIFT: PPABPLPKXXX  
-Tytuł: Darowizna na projekt tranzycja.pl 
+Description: Donation for tranzycja.pl
 
-## Money transfer - EURO
+### Donation by bank transfer - EURO
 Fundacja Kohezja  
 Bank BNP Paribas  
 SWIFT: PPABPLPKXXX  
