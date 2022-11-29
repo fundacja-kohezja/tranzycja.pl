@@ -2,7 +2,7 @@
 kolejnosc: 2  
 ---
 
-# Why support us? 
+# Why support us
 
 ## Why do we need support?
 
