@@ -1,10 +1,9 @@
 ---
 kolejnosc: 1  
 ---
-# Financial support
+# Donate
 
-You can support us in the following ways:
-
+You can support us financially in the following ways:
 
 ## Zrzutka.pl crowdfund
 
@@ -12,14 +11,14 @@ You can support us in the following ways:
 
 Avaliable (HERE)[https://zrzutka.pl/xa4dbg].
 
-### Donation by bank transfer - PLN
+## Donation by bank transfer - PLN
 Fundacja Kohezja  
 Bank BNP Paribas  
 IBAN: PL25 1600 1462 1747 7124 9000 0003  
 SWIFT: PPABPLPKXXX  
 Description: Donation for tranzycja.pl
 
-### Donation by bank transfer - EURO
+## Donation by bank transfer - EURO
 Fundacja Kohezja  
 Bank BNP Paribas  
 SWIFT: PPABPLPKXXX  
