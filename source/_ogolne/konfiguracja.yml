@@ -1,6 +1,12 @@
 nazwaWitryny: Tranzycja.pl
-opisWitryny: Repozytorium wiedzy o transpłciowości i tranzycji
+opisWitryny:
+  pl:
+    Repozytorium wiedzy o transpłciowości i tranzycji
+  en:
+    Repository of knowledge on transgender and transitions
 
-opisSekcjiKrokPoKroku: Jak przejść przez proces tranzycji – krok po kroku
-opisSekcjiPublikacje: Publikacje autorskie związane z tematem tranzycji i transpłciowości
+opisSekcjiKrokPoKroku: Jak przejść przez proces tranzycji - krok po kroku
+opisSekcjiPublikacje:
+  pl: Publikacje autorskie związane z tematem tranzycji i transpłciowości
+  en: Author publications related to the topic of transgender
 opisSekcjiAktualnosci: 

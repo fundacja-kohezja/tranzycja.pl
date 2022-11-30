@@ -1,0 +1,1 @@
+@extends('__source.single.krok_po_kroku', ['lang' => 'en'])

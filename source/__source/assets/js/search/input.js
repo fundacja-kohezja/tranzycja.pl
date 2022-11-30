@@ -1,5 +1,5 @@
 const { autocomplete } = require('@algolia/autocomplete-js');
-const { placeholder } = require('../../../../_ogolne/etykiety_wyszukiwania.yml').default;
+const translate = require('../i18n');
 
 const tagsPlugin = require('./tags');
 const getArticlesSearchSource = require('./sources/articles');
@@ -10,7 +10,7 @@ const { setRefreshMethod, getIsUsingCachedData, setIsUsingCachedData } = require
 const { useCachedArticles } = require('./cachedSource');
 
 const searchConfig = {
-    placeholder,
+    placeholder: translate('search.placeholder'),
     openOnFocus: true,
     classNames: {
         submitButton: 'hidden',

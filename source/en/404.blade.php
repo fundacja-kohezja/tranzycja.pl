@@ -1,7 +1,7 @@
 ---
-permalink: 404.html
+permalink: en/404.html
 ---
-@extends('__source.layouts.master')
+@extends('__source.layouts.master_en')
 
 @section('body')
 <div class="flex flex-col items-center mt-16 max-w-6xl text-gray-700 dark:text-gray-300 mx-auto overflow-hidden text-center">
@@ -13,7 +13,7 @@ permalink: 404.html
 
     <p data-i18n-attrs="text" data-i18n-text="pages.404.paragraph" class="text-lg px-4 sm:px-8 mb-0"></p>
     <p class="text-lg px-4 sm:px-8">
-        <a data-i18n-attrs="text" data-i18n-text="pages.404.home" href="/" class="przycisk"></a>
+        <a data-i18n-attrs="text" data-i18n-text="pages.404.home" href="/en" class="przycisk"></a>
     </p>
 </div>
 @endsection
