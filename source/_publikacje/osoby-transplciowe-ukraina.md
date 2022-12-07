@@ -9,7 +9,7 @@ meta:
 # Poradnik dla osób transpłciowych z Ukrainy
 
 :::info
-[EN: English version of the text](https://tranzycja.pl/publications/transgender-people-ukraine/) | [UKR: текст українською мовою](https://tranzycja.pl/publications/transhenderni-lyudy-ukrayiny/)
+[EN: English version of the text](https://tranzycja.pl/en/publications/transgender-people-ukraine/) | [UKR: текст українською мовою](https://tranzycja.pl/en/publications/transhenderni-lyudy-ukrayiny/)
 :::
 
 Ten poradnik przeznaczony jest dla transpłciowych osób z Ukrainy. Znajdziesz w nim informacje jak bezpiecznie opuścić Ukrainę i gdzie znaleźć schronienie w Polsce (jeśli to wlaśnie tutaj się znajdujesz). W przyszłości mamy nadzieję poszerzyć ten poradnik o informacje dotyczące innych krajów docelowych.
