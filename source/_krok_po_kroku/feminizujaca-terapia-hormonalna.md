@@ -4,7 +4,7 @@ tags: krok po kroku, terapia hormonalna, tranzycja medyczna
 meta: 
     Autorzy: Nina Kuta
     Korekta: Dag Fajt, Tash Lisiecki, lek. Katarzyna Marzęda
-zaktualizowano: '2022-05-29 12:00:00'
+zaktualizowano: '2022-12-10 15:00:00'
 ---
 # Feminizująca terapia hormonalna
 
@@ -139,7 +139,7 @@ Jeśli w którymś momencie będziesz chciała przejść z selfmedu na terapię 
 
 ## Dawkowanie i monitorowanie terapii hormonalnej
 
-Celem feminizującej terapii hormonalnej jest sprowadzenie poziomów estradiolu oraz testosteronu we krwi do poziomów typowych dla cis kobiet. Za docelowe wartości uznaje się obniżenie testosteronu poniżej 50 ng/dL (1.7 nmol/L) oraz utrzymanie estradiolu w zakresie 100-200 pg/dl (367–734 pmol/L). **Dalsze zwiększanie poziomu estradiolu nie ma przełożenia na stopień feminizacji cech płciowych ciała.[^2]** 
+Celem feminizującej terapii hormonalnej jest sprowadzenie poziomów estradiolu oraz testosteronu we krwi do poziomów typowych dla cis kobiet. Za docelowe wartości uznaje się obniżenie testosteronu poniżej 50 ng/dL (1.7 nmol/L) oraz utrzymanie estradiolu w zakresie 100-200 pg/mL (367–734 pmol/L). **Dalsze zwiększanie poziomu estradiolu nie ma przełożenia na stopień feminizacji cech płciowych ciała.[^2]** 
 
 U cis kobiet poziom estradiolu we krwi ulega znacznym wahaniom w trakcie cyklu, na różnych jego etapach może zarówno spaść poniżej tych poziomów jak i znacząco wzrosnąć. Feminizująca terapia hormonalna nie symuluje cyklu menstruacyjnego i w związku z tym celuje w uśredniony, stały poziom hormonów. W przypadku testosteronu zupełne stłumienie go do niewykrywalnych poziomów wbrew pozorom nie pomoże w feminizacji, może mieć natomiast przykre efekty uboczne, w tym utratę libido. Dlatego niektóre wytyczne zalecają utrzymanie go na poziomie wyższym niż 5 ng/dl (0,17 nmol/l). 
 
