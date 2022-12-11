@@ -1,3 +1,6 @@
+---
+opublikowano: '2022-12-11 12:59:39'
+---
 # Czy transpłciowa tożsamość u nastolatków to przemijająca moda? Jak pokazują najnowsze badania – nic bardziej mylnego!
 Badacze Uniwersytetu Amsterdamskiego, prowadzeni przez Catherinę van der Loos, użyli danych amsterdamskiego Centrum Dysforii Płciowej z lat 2000-2022 o diagnozach transpłciowości i wypisywanych receptach. **Sprawdzili, ile osób, u których rozpoczęto terapię w wieku nastoletnim, kontynuowało leczenie w dorosłości** [^1].
 
