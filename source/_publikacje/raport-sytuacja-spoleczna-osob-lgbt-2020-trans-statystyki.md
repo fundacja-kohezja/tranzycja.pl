@@ -8,7 +8,7 @@ meta:
 ---
 # Co raport „Sytuacja społeczna osób LGBTA w Polsce 2019-2020" mówi o osobach trans?
 
-:::info [EN: English version of the text](https://tranzycja.pl/en/publications/report-social-situation-lgbta-community-2020-trans-statistics.md) :::
+:::info [EN: English version of the text](https://tranzycja.pl/en/publications/report-social-situation-lgbta-community-2020-trans-statistics) :::
 
 Opublikowany niedawno raport stworzony wspólnymi siłami Kampanii Przeciwko Homofobii oraz Stowarzyszenia Lambda Warszawa to prawdziwe kompendium wiedzy liczące ponad 300 stron statystyk, wykresów i odsetek. Wiele osób może mieć trudności z przedarciem się przez tak długi raport, postaraliśmy się więc w skrócie zaprezentować Wam wybór informacji z raportu dotyczący konkretnie społeczności osób transpłciowych.
 
