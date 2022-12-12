@@ -1,11 +1,12 @@
 ---
-tags: krok po kroku, tranzycja medyczna, terapia hormonalna
-meta: 
-    Authors: Nina Kuta
-    Redaction: lek. Katarzyna Marzęda, Dag Fajt, Tash Lisiecki
-    Translation: Adam Marczak
+tags: 'krok po kroku, tranzycja medyczna, terapia hormonalna'
+meta:
+    Authors: 'Nina Kuta'
+    Redaction: 'lek. Katarzyna Marzęda, Dag Fajt, Tash Lisiecki'
+    Translation: 'Adam Marczak'
+opublikowano: '2022-12-12 19:21:46'
+zaktualizowano: '2022-12-12 19:21:46'
 ---
-
 # How to start medical transition?
 
 Many of the actions that may be included within the process of transition can be handled independently. However, getting access to medical interventions requires going through a process of assessment. In this text, you'll be able to find basic information that will make it easier for you to start that process and will allow you to understand the rather confusing situation of trans people within the Polish healthcare system.
