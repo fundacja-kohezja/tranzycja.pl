@@ -25,7 +25,7 @@ return $yaml_config + [
             'TOC' => [
                 'label' => 'Spis treści'
             ],
-            'footerBox' => 'stopka_artykulu',
+            'footerBox' => 'stopka-artykulu',
             'showDetailsInMetabox' => true
         ],
 
@@ -35,7 +35,7 @@ return $yaml_config + [
                 'label' => 'Tranzycja krok po kroku',
                 'allPages' => true
             ],
-            'footerBox' => 'stopka_artykulu'
+            'footerBox' => 'stopka-artykulu'
         ],
 
         'aktualnosci' => [
