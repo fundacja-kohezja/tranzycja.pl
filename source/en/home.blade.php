@@ -27,7 +27,7 @@ permalink: en/index.html
                 </svg>
                 <span>About us</span>
             </h1>
-            @include('_ogolne.en.o_nas')
+            @include('_ogolne.en.o-nas')
         </div>
     </section>
     <section class="mb-24">
