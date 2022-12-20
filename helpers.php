@@ -37,7 +37,7 @@ return [
      * beginnings of the new paragraph).
      * 
      */
-    'excerpt' => function($page, int $words) {
+    'excerpt' => function($page, int $words, bool $plainText = false) {
 
         $content = $page->getContent();
         
@@ -51,20 +51,27 @@ return [
         if ($found) {
             if (mb_strlen(strip_tags($match[2])) > $words * 2.5) {
                 /* 
-                * We want the excerpt to end nicely at the end of a sentence
-                * so we get only the fist paragraph...
-                */
+                 * We want the excerpt to end nicely at the end of a sentence
+                 * so we get only the fist paragraph...
+                 */
                 $content = $match[2];
             } else {
                 /*
-                * ...unless the first paragraph is very short.
-                * In that case we get the text up to the <!--more--> tag if present,
-                * otherwise we get the whole text so it can be later limited
-                * to specified amount of words.
-                */
+                 * ...unless the first paragraph is very short.
+                 * In that case we get the text up to the <!--more--> tag if present,
+                 * otherwise we get the whole text so it can be later limited
+                 * to specified amount of words.
+                 */
                 preg_match_all($regex, explode('<!--more-->', $content)[0], $matches);
-                $content = implode('<br>', $matches[2]);
+                $content = implode( $plainText ? ' ' : '<br>', $matches[2]);
             }
+        }
+
+        if ($plainText) {
+            return Str::of(html_entity_decode($content))
+                ->replace('</li><li>', ', ')
+                ->stripTags()
+                ->words($words);
         }
 
         return Str::of($content)
@@ -136,6 +143,17 @@ return [
              */
             ->replaceLast('</', '...</')
             ->replaceLast('....</', '...</');
+    },
+
+
+    /**
+     * Get the tags from metadata and return them as array
+     */
+    'getTags' => function($page) {
+        return collect(explode(',', $page->tags))
+                ->map(fn($tag) => trim($tag))
+                ->filter()
+                ->toArray();
     }
 
 ];

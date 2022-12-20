@@ -2,6 +2,7 @@
 
 use App\Listeners\{GenerateSitemap, RedirectsFile, TemplateNames, GenerateSearchCaches};
 use App\{CustomMdParser, CustomMdHandler};
+use Illuminate\Support\Str;
 use Mni\FrontYAML\Markdown\MarkdownParser;
 use TightenCo\Jigsaw\Handlers\MarkdownHandler;
 
@@ -63,3 +64,16 @@ $events->afterBuild(RedirectsFile::class);
  * Generate JSON caches used by search input
  */
 $events->afterBuild(GenerateSearchCaches::class);
+
+
+/*
+ * Global helper function for generating unique slugs
+ */
+function uniqueSlug($text, &$allSlugs) {
+    $slug = $base_slug = Str::slug($text);
+    for ($i = 2; isset($allSlugs[$slug]); $i++) { // prevent duplicate ids
+        $slug = "$base_slug-$i";
+    }
+    $allSlugs[$slug] = true;
+    return $slug;
+}

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Based od Original MarkdownItFootnote class (the only change is slighly altered footnote markup)
+ * Based on Original MarkdownItFootnote class (the only change is slighly altered footnote markup)
  * 
  */
 /**
