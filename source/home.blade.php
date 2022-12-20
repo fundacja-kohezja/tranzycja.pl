@@ -8,7 +8,7 @@ permalink: index.html
 <main class="container max-w-6xl mx-auto px-6 py-10 md:py-12">
     <section class="flex flex-col-reverse mb-10 lg:flex-row lg:mb-24">
         <div class="introdution">
-            @include('_ogolne.str_glowna_wstep')
+            @include('_ogolne.str-glowna-wstep')
         </div>
         <div class="-mb-20 lg:-mt-10 lg:mb-0 lg:-mr-32 xl:-mr-48 lg:-ml-8 ml-5 flex items-end justify-end flex-shrink-0 gradient-overlay">
             <picture>
