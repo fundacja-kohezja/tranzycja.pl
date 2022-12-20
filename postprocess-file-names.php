@@ -14,11 +14,12 @@ $iterator = new RecursiveIteratorIterator($source_directory);
 $regex = new RegexIterator($iterator, '/^.+\.md$/i');
 
 foreach($regex as $file_info) {
-    $path_info = pathinfo($file_info->getPathname());
+    $path = $file_info->getPathname();
+    $path_info = pathinfo($path);
     $filename = $path_info['filename'];
     $slug_name = Str::slug($filename);
+
     if(strcmp($slug_name, $filename) !== 0)  {
-        print($path);
         $dirname = $path_info['dirname'];
         $ext = $path_info['extension'];
         rename($path, "$dirname/$slug_name.$ext");
