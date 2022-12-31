@@ -18,7 +18,7 @@ Potrzebujesz wsparcia innych rodziców osób trans? Napisz na kontakt@tranzycja.
 ## Poradniki dla rodziców
 
 * Poradnia Synergia: [Poradnik dla rodziców](https://poradnia-synergia.pl/transplciowosc-u-dzieci-i-mlodziezy-poradnik-dla-rodzicow/)
-* Fundacja Trans-Fuzja: [Broszura dla rodziców](http://transfuzja.org/media/rozne/broszura_dla_rodzicow.pdf)
+* Fundacja Trans-Fuzja: [Broszura dla rodziców](https://www.transfuzja.org/publikacje/ale-po-co-ty-sobie-to-robisz)
 
 ## Materiały wideo
 
