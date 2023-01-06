@@ -12,7 +12,7 @@ pozEmailForm.addEventListener('submit', async (ev) => {
         return;
     }
 
-    const checkBoxes = Array.from(pozEmailForm.querySelectorAll('input[type="checkbox"]')).map(({
+    const checkBoxes = Array.from(pozEmailForm.querySelectorAll('input[type="checkbox"]:not(#privacy)')).map(({
         checked,
     }) => checked);
     if (!checkBoxes.includes(true)) {
