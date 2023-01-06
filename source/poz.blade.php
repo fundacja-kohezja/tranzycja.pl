@@ -69,7 +69,7 @@
                         <label class="block md:hidden font-medium text-sm leading-5">
                             Jak oceniasz przygotowanie przychodni do przyjęcia osoby transpłciowej?<span class="text-red-600">*</span>
                         </label>
-                        <div class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 text-gray-400 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out">
+                        <div id='rating-container' class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 text-gray-400 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out">
                             <div class="rotate-rating inline-block">
                                 <input type="radio" id="rating-1" name="ratingSurvey" value="5" /><label for="rating-1"></label>
                                 <input type="radio" id="rating-2" name="ratingSurvey" value="4" /><label for="rating-2"></label>

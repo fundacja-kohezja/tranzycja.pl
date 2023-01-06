@@ -30,7 +30,7 @@ pozEmailForm.addEventListener('submit', async (ev) => {
             if (xhr.readyState === XMLHttpRequest.DONE) {
                 if (xhr.status === 200 && xhr.responseText === 'ok') {
                     responseElement.innerText = 'E-mail wysłany';
-                    responseElement.classList.add(['text-green-700', 'dark:text-green-300']);
+                    responseElement.classList.add('text-green-700', 'dark:text-green-300');
                 } else if (xhr.status === 422) {
                     responseElement.innerText = 'Nie udało się wysłać wiadomości, prosimy upewnić się, że adres e-mail jest poprawny';
                 } else {
