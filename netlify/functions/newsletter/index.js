@@ -29,17 +29,9 @@ const httpsPost = ({ body, ...options }) => new Promise((resolve, reject) => {
 });
 
 exports.handler = async (event) => {
-    const headers = {
-        'Access-Control-Allow-Origin': '*',
-        'Access-Control-Allow-Credentials': 'true',
-        'Access-Control-Allow-Methods': 'GET,HEAD,OPTIONS,POST,PUT',
-        'Access-Control-Allow-Headers': 'access-control-allow-origin, Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers',
-    };
-
     if (event.httpMethod === 'OPTIONS') {
         return {
             statusCode: 200,
-            headers,
         };
     }
 
@@ -79,12 +71,10 @@ exports.handler = async (event) => {
 
         return {
             statusCode: 200,
-            headers,
         };
     }
 
     return {
         statusCode: 422,
-        headers,
     };
 };

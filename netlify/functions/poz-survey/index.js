@@ -14,17 +14,9 @@ exports.handler = async (event) => {
         scheme: FAUNADB_SCHEME,
     });
 
-    const headers = {
-        'Access-Control-Allow-Origin': '*',
-        'Access-Control-Allow-Credentials': 'true',
-        'Access-Control-Allow-Methods': 'GET,HEAD,OPTIONS,POST,PUT',
-        'Access-Control-Allow-Headers': 'access-control-allow-origin, Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers',
-    };
-
     if (event.httpMethod === 'OPTIONS') {
         return {
             statusCode: 200,
-            headers,
         };
     }
 
@@ -66,14 +58,12 @@ exports.handler = async (event) => {
             return {
                 statusCode: 200,
                 body: 'ok',
-                headers,
             };
         } catch (e) {
             if (e.name === 'BadRequest') {
                 return {
                     statusCode: 422,
                     body: 'email-taken',
-                    headers,
                 };
             }
             throw Error(e);
@@ -81,6 +71,5 @@ exports.handler = async (event) => {
     }
     return {
         statusCode: 422,
-        headers,
     };
 };

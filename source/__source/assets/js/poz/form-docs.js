@@ -25,7 +25,6 @@ pozEmailForm.addEventListener('submit', async (ev) => {
         const xhr = new XMLHttpRequest();
         xhr.open('POST', '/.netlify/functions/poz-email', true);
         xhr.setRequestHeader('Content-Type', 'application/json');
-        xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
 
         xhr.onreadystatechange = () => { // Call a function when the state changes.
             if (xhr.readyState === XMLHttpRequest.DONE) {

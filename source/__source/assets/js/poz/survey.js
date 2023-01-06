@@ -25,7 +25,6 @@ pozSurvey.addEventListener('submit', async (ev) => {
         const xhr = new XMLHttpRequest();
         xhr.open('POST', '/.netlify/functions/poz-survey', true);
         xhr.setRequestHeader('Content-Type', 'application/json');
-        xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
 
         xhr.onreadystatechange = () => { // Call a function when the state changes.
             if (xhr.readyState === XMLHttpRequest.DONE) {
@@ -42,11 +41,17 @@ pozSurvey.addEventListener('submit', async (ev) => {
                     responseElement.innerText = `Ups, wystąpił nieznany błąd (${xhr.status}), przepraszamy`;
                 }
                 responseElement.classList.remove('hidden');
-                inputs.forEach((input) => xhr.status !== 200 && input.removeAttribute('disabled', false));
+                inputs.forEach((input) => {
+                    if (xhr.status !== 200) {
+                        input.removeAttribute('disabled', false);
+                        pozSurvey.querySelector('#rating-container').classList.remove('disabled-container');
+                    }
+                });
             }
         };
         xhr.send(JSON.stringify(formData));
         inputs.forEach((input) => input.setAttribute('disabled', true));
+        pozSurvey.querySelector('#rating-container').classList.add('disabled-container');
     }
 
     if (formData.newsletter) {
