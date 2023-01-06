@@ -1,10 +1,16 @@
-import saveEmailToNewsletter from './newsletter';
+import saveEmailToNewsletter from '../newsletter';
 
 const pozEmailForm = document.getElementById('emails-poz-form');
 pozEmailForm.addEventListener('submit', async (ev) => {
     ev.preventDefault();
     const responseElement = document.getElementById('response-message');
     const formData = Object.fromEntries(new FormData(pozEmailForm));
+
+    if (!pozEmailForm.querySelector('#privacy').checked) {
+        responseElement.innerText = 'Zgoda na przetwarzanie danych osobych jest niezbędna';
+        responseElement.classList.remove('hidden');
+        return;
+    }
 
     const checkBoxes = Array.from(pozEmailForm.querySelectorAll('input[type="checkbox"]')).map(({
         checked,
@@ -17,7 +23,7 @@ pozEmailForm.addEventListener('submit', async (ev) => {
 
     if (formData.delivery || formData.templateBook || formData.templateTraining) {
         const xhr = new XMLHttpRequest();
-        xhr.open('POST', 'http://localhost:9999/.netlify/functions/poz-email', true);
+        xhr.open('POST', '/.netlify/functions/poz-email', true);
         xhr.setRequestHeader('Content-Type', 'application/json');
         xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
 
@@ -25,8 +31,7 @@ pozEmailForm.addEventListener('submit', async (ev) => {
             if (xhr.readyState === XMLHttpRequest.DONE) {
                 if (xhr.status === 200 && xhr.responseText === 'ok') {
                     responseElement.innerText = 'E-mail wysłany';
-                    responseElement.classList.remove('text-red-300');
-                    responseElement.classList.add('text-green-300');
+                    responseElement.classList.add(['text-green-700', 'dark:text-green-300']);
                 } else if (xhr.status === 422) {
                     responseElement.innerText = 'Nie udało się wysłać wiadomości, prosimy upewnić się, że adres e-mail jest poprawny';
                 } else {

@@ -132,6 +132,7 @@ exports.handler = async (event) => {
         templateBook,
         templateTraining,
         delivery,
+        privacy,
     } = JSON.parse(event.body) || {};
 
     const validateEmail = await validate({
@@ -144,8 +145,9 @@ exports.handler = async (event) => {
         validateSMTP: false,
     });
 
-    if (firstName && validateEmail.valid && (templateBook || templateTraining || delivery)) {
-        // create reusable transporter object using the default SMTP transport
+    if (firstName && validateEmail.valid
+        && (templateBook || templateTraining || delivery) && privacy
+    ) {
         const transporter = nodemailer.createTransport({
             host: 'mail.infomaniak.com',
             port: 465,

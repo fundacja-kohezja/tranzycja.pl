@@ -36,31 +36,31 @@
         </h2>
         <div class="alert text-justify w-full md:w-4/6 m-auto p-8">
             <p class="text-center"><b>Byłxś w przeszkolonej przez nas przychodni i chcesz podzielić się opinią? Wypełnij ankietę!</b></p>
-            <form id='survey'>
+            <form id='poz-survey'>
                 <div class="relative">
-                    <p id="response-message-survey" class="hidden text-red-300 font-bold m-3 ml-0 block font-medium text-sm leading-5 pointer-events-none transition duration-150 ease-in-out">Komunikat</p>
+                    <p id="response-message-survey" class="hidden text-red-600 dark:text-red-300 font-bold m-3 ml-0 block text-sm leading-5 mb-4">Komunikat</p>
                 </div>
                 <div class="relative">
-                    <input type="text" name="firstName-survey" id="firstName-survey" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Imię" required>
-                    <label for="firstName-survey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
+                    <input type="text" name="firstNameSurvey" id="firstNameSurvey" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Imię" required>
+                    <label for="firstNameSurvey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
                         Imię
                     </label>
                 </div>
                 <div class="relative mt-4">
-                    <input type="email" name="email-survey" id="email-survey" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Adres e-mail" required>
-                    <label for="email-survey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
+                    <input type="email" name="emailSurvey" id="emailSurvey" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Adres e-mail" required>
+                    <label for="emailSurvey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
                         Adres e-mail
                     </label>
                 </div>
                 <div class="relative mt-4">
-                    <select class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" id="place-survey" name="place-survey" id="place-survey">
+                    <select class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" id="placeSurvey" name="placeSurvey" id="placeSurvey" rewind>
                         <option value="1">NZOZ Przychodnia Medycyny Rodzinnej (Błogosławionego Wincentego Kadłubka 10-11, 71-450 Szczecin)</option>
                         <option value="2">NZOZ Przychodnia Medycyny Rodzinnej (Fryderyka Chopina 22, 71-450 Szczecin)</option>
                         <option value="3">Przychodnia Szczecińska (Fryderyka Chopina 22, 71-450 Szczecin)</option>
-                        <option value="4">Przykliniczna Przychodnia Specjalistyczna (Jaczewskiego 8, 20-954 Lublin<)< /option>
+                        <option value="4">Przykliniczna Przychodnia Specjalistyczna (Jaczewskiego 8, 20-954 Lublin<)</option>
                         <option value="5">Przychodnia Koralowa (Koralowa 29, 20-538 Lublin)</option>
                     </select>
-                    <label for="place-survey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
+                    <label for="placeSurvey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
                         Przychodnia
                     </label>
                 </div>
@@ -71,11 +71,11 @@
                         </label>
                         <div class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 text-gray-400 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out">
                             <div class="rotate-rating inline-block">
-                                <input type="radio" id="rating-1" name="rating" value="5" /><label for="rating-1"></label>
-                                <input type="radio" id="rating-2" name="rating" value="4" /><label for="rating-2"></label>
-                                <input type="radio" id="rating-3" name="rating" value="3" /><label for="rating-3"></label>
-                                <input type="radio" id="rating-4" name="rating" value="2" /><label for="rating-4"></label>
-                                <input type="radio" id="rating-5" name="rating" value="1" /><label for="rating-5"></label>
+                                <input type="radio" id="rating-1" name="ratingSurvey" value="5" /><label for="rating-1"></label>
+                                <input type="radio" id="rating-2" name="ratingSurvey" value="4" /><label for="rating-2"></label>
+                                <input type="radio" id="rating-3" name="ratingSurvey" value="3" /><label for="rating-3"></label>
+                                <input type="radio" id="rating-4" name="ratingSurvey" value="2" /><label for="rating-4"></label>
+                                <input type="radio" id="rating-5" name="ratingSurvey" value="1" /><label for="rating-5"></label>
                             </div>
                         </div>
                         <label class="hidden md:block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
@@ -84,14 +84,14 @@
                     </div>
                 </div>
                 <div class="relative mt-4">
-                    <textarea style="min-height: 60px" name="comment-survey" id="comment-survey" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Komentarz"></textarea>
-                    <label for="comment-survey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
+                    <textarea style="min-height: 60px" name="commentSurvey" id="commentSurvey" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Komentarz"></textarea>
+                    <label for="commentSurvey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
                         Komentarz
                     </label>
                 </div>
                 <div class="relative mt-3">
-                    <input name="privacy-survey" id="privacy-survey" type="checkbox" class="hidden custom-checkbox-input" required>
-                    <label for="privacy-survey" class="inline-flex items-center cursor-pointer font-medium text-base">
+                    <input name="privacySurvey" id="privacySurvey" type="checkbox" class="hidden custom-checkbox-input">
+                    <label for="privacySurvey" class="inline-flex items-center cursor-pointer font-medium text-base">
                         <span class="relative w-5 h-5 border-2 border-gray-600 dark:border-gray-300 shadow-inner mr-2 flex-shrink-0">
                             <span class="absolute inset-0 h-full w-full flex items-center justify-center">
                                 <svg class="h-4 w-4 fill-current dark:text-white" viewBox="0 0 24 24">
@@ -99,7 +99,7 @@
                                 </svg>
                             </span>
                         </span>
-                        <span>Wyrażam zgodę na przetwarzanie moich danych osobowych podanych w powyższym formularzu w celu zebrania statystyk nt. przeprowadzonego projektu przez Fundacja Kohezja NIP: 7812036316</span>
+                        <span class="font-bold">Wyrażam zgodę na przetwarzanie moich danych osobowych podanych w powyższym formularzu w celu zebrania statystyk nt. przeprowadzonego projektu przez Fundacja Kohezja NIP: 7812036316 *</span>
                     </label>
                 </div>
                 <div class="relative mt-2">
@@ -117,7 +117,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna augue, fringilla ut leo nec, tempus vehicula risus. Sed in sem ligula. Nunc quis enim eu quam dignissim pretium. Fusce fermentum augue nec pretium semper. Donec a ex nulla. Integer bibendum volutpat dolor, in egestas velit venenatis eu. Proin pellentesque tempor neque, a commodo erat feugiat eget.</p>
             <form id='emails-poz-form'>
                 <div class="relative">
-                    <p id="response-message" class="hidden text-red-300 font-bold m-3 ml-0 block font-medium text-sm leading-5 pointer-events-none transition duration-150 ease-in-out">Komunikat</p>
+                    <p id="response-message" class="hidden text-red-600 dark:text-red-300 font-bold block text-sm leading-5">Komunikat</p>
                 </div>
                 <div class="relative">
                     <input type="text" name="firstName" id="firstName" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Imię" required>
@@ -184,7 +184,7 @@
                     </label>
                 </div>
                 <div class="relative mt-3">
-                    <input name="privacy" id="privacy" type="checkbox" class="hidden custom-checkbox-input" required>
+                    <input name="privacy" id="privacy" type="checkbox" class="hidden custom-checkbox-input">
                     <label for="privacy" class="inline-flex items-center cursor-pointer font-medium text-base">
                         <span class="relative w-5 h-5 border-2 border-gray-600 dark:border-gray-300 shadow-inner mr-2 flex-shrink-0">
                             <span class="absolute inset-0 h-full w-full flex items-center justify-center">
@@ -193,7 +193,7 @@
                                 </svg>
                             </span>
                         </span>
-                        <span>Wyrażam zgodę na przetwarzanie moich danych osobowych podanych w powyższym formularzu w celu otrzymania materiałów wypracowanym w ramach przeprowadzonego projektu przez Fundacja Kohezja NIP: 7812036316</span>
+                        <span class="font-bold">Wyrażam zgodę na przetwarzanie moich danych osobowych podanych w powyższym formularzu w celu otrzymania materiałów wypracowanym w ramach przeprowadzonego projektu przez Fundacja Kohezja NIP: 7812036316 *</span>
                     </label>
                 </div>
                 <div class="relative mt-2">
@@ -281,5 +281,6 @@
 @endsection
 
 @push('scripts')
-<script defer="defer" src="{{ mix('js/poz.js', 'assets/build') }}"></script>
+<script defer="defer" src="{{ mix('js/poz/form-docs.js', 'assets/build') }}"></script>
+<script defer="defer" src="{{ mix('js/poz/survey.js', 'assets/build') }}"></script>
 @endpush
