@@ -153,13 +153,13 @@ exports.handler = async (event) => {
             port: 465,
             secure: true,
             auth: {
-                user: process.env.EMAIL_USER,
-                pass: process.env.EMAIL_USER_PASS,
+                user: process.env.INFOMANIAK_EMAIL_USER,
+                pass: process.env.INFOMANIAK_EMAIL_USER_PASS,
             },
         });
 
         await transporter.sendMail({
-            from: 'admin@kohezja.org',
+            from: process.env.INFOMANIAK_EMAIL_USER,
             to,
             subject: 'POZ Włącznik',
             html: getMainMailTemplate([

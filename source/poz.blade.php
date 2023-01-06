@@ -43,13 +43,13 @@
                 <div class="relative">
                     <input type="text" name="firstNameSurvey" id="firstNameSurvey" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Imię" required>
                     <label for="firstNameSurvey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
-                        Imię
+                        Imię<span class="text-red-600">*</span>
                     </label>
                 </div>
                 <div class="relative mt-4">
                     <input type="email" name="emailSurvey" id="emailSurvey" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Adres e-mail" required>
                     <label for="emailSurvey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
-                        Adres e-mail
+                        Adres e-mail<span class="text-red-600">*</span>
                     </label>
                 </div>
                 <div class="relative mt-4">
@@ -61,13 +61,13 @@
                         <option value="5">Przychodnia Koralowa (Koralowa 29, 20-538 Lublin)</option>
                     </select>
                     <label for="placeSurvey" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
-                        Przychodnia
+                        Przychodnia<span class="text-red-600">*</span>
                     </label>
                 </div>
                 <div class="relative mt-4">
                     <div class="radio-stars w-full">
                         <label class="block md:hidden font-medium text-sm leading-5">
-                            Jak oceniasz przygotowanie przychodni do przyjęcia osoby transpłciowej?
+                            Jak oceniasz przygotowanie przychodni do przyjęcia osoby transpłciowej?<span class="text-red-600">*</span>
                         </label>
                         <div class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 text-gray-400 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out">
                             <div class="rotate-rating inline-block">
@@ -79,7 +79,7 @@
                             </div>
                         </div>
                         <label class="hidden md:block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
-                            Jak oceniasz przygotowanie przychodni do przyjęcia osoby transpłciowej?
+                            Jak oceniasz przygotowanie przychodni do przyjęcia osoby transpłciowej?<span class="text-red-600">*</span>
                         </label>
                     </div>
                 </div>
@@ -99,7 +99,7 @@
                                 </svg>
                             </span>
                         </span>
-                        <span class="font-bold">Wyrażam zgodę na przetwarzanie moich danych osobowych podanych w powyższym formularzu w celu zebrania statystyk nt. przeprowadzonego projektu przez Fundacja Kohezja NIP: 7812036316 *</span>
+                        <span>Wyrażam zgodę na przetwarzanie moich danych osobowych podanych w powyższym formularzu w celu zebrania statystyk nt. przeprowadzonego projektu przez Fundacja Kohezja NIP: 7812036316<span class="text-red-600">*</span></span>
                     </label>
                 </div>
                 <div class="relative mt-2">
@@ -122,13 +122,13 @@
                 <div class="relative">
                     <input type="text" name="firstName" id="firstName" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Imię" required>
                     <label for="firstName" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
-                        Imię
+                        Imię<span class="text-red-600">*</span>
                     </label>
                 </div>
                 <div class="relative mt-4">
                     <input type="email" name="email" id="email" class="bg-gray-300 dark:bg-gray-900 form-input input-with-floating-label block w-full leading-5 rounded-md py-2 px-3 rounded-md focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out" placeholder="Adres e-mail" required>
                     <label for="email" class="block font-medium text-sm leading-5 absolute top-0 left-0 pl-3 pt-2 pointer-events-none transition duration-150 ease-in-out">
-                        Adres e-mail
+                        Adres e-mail<span class="text-red-600">*</span>
                     </label>
                 </div>
                 <div class="relative mt-5">
@@ -193,7 +193,7 @@
                                 </svg>
                             </span>
                         </span>
-                        <span class="font-bold">Wyrażam zgodę na przetwarzanie moich danych osobowych podanych w powyższym formularzu w celu otrzymania materiałów wypracowanym w ramach przeprowadzonego projektu przez Fundacja Kohezja NIP: 7812036316 *</span>
+                        <span>Wyrażam zgodę na przetwarzanie moich danych osobowych podanych w powyższym formularzu w celu otrzymania materiałów wypracowanym w ramach przeprowadzonego projektu przez Fundacja Kohezja NIP: 7812036316<span class="text-red-600">*</span></span>
                     </label>
                 </div>
                 <div class="relative mt-2">

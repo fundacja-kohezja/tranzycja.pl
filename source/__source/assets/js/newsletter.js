@@ -1,10 +1,10 @@
 const saveEmailToNewsletter = async (email) => new Promise((resolve, reject) => {
     const xhr = new XMLHttpRequest();
-    xhr.open('POST', 'http://localhost:9999/.netlify/functions/newsletter', true);
+    xhr.open('POST', '/.netlify/functions/newsletter', true);
     xhr.setRequestHeader('Content-Type', 'application/json');
     xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
 
-    xhr.onreadystatechange = () => { 
+    xhr.onreadystatechange = () => {
         if (xhr.readyState === XMLHttpRequest.DONE) {
             if (xhr.status === 200) { resolve(xhr); } else { reject(xhr); }
         }

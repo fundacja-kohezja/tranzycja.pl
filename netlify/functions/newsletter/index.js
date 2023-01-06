@@ -1,8 +1,6 @@
 const https = require('https');
 const { validate } = require('deep-email-validator');
 
-const CONTACT_LIST_ID = 154590;
-
 const httpsPost = ({ body, ...options }) => new Promise((resolve, reject) => {
     const req = https.request(
         {
@@ -69,7 +67,7 @@ exports.handler = async (event) => {
         await httpsPost({
             host: 'newsletter.infomaniak.com',
             port: 443,
-            path: `/api/v1/public/mailinglist/${CONTACT_LIST_ID}/importcontact`,
+            path: `/api/v1/public/mailinglist/${process.env.INFOMANIAK_NEWSLETTER_CONTACT_LIST_ID}/importcontact`,
             headers: {
                 'Content-Type': 'application/json',
                 'Content-Length': body.length,

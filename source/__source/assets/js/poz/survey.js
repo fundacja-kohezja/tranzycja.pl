@@ -23,7 +23,7 @@ pozSurvey.addEventListener('submit', async (ev) => {
 
     if (formData.privacySurvey) {
         const xhr = new XMLHttpRequest();
-        xhr.open('POST', 'http://localhost:9999/.netlify/functions/poz-survey', true);
+        xhr.open('POST', '/.netlify/functions/poz-survey', true);
         xhr.setRequestHeader('Content-Type', 'application/json');
         xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
 

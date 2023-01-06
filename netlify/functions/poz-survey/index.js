@@ -2,15 +2,16 @@ const { validate } = require('deep-email-validator');
 const faunadb = require('faunadb');
 
 const q = faunadb.query;
-
-const { FAUNADB_SECRET } = process.env;
+const {
+    FAUNADB_SECRET, FAUNADB_DOMAIN, FAUNADB_PORT, FAUNADB_SCHEME,
+} = process.env;
 
 exports.handler = async (event) => {
     const client = new faunadb.Client({
         secret: FAUNADB_SECRET,
-        domain: 'db.fauna.com',
-        port: 443,
-        scheme: 'https',
+        domain: FAUNADB_DOMAIN,
+        port: FAUNADB_PORT,
+        scheme: FAUNADB_SCHEME,
     });
 
     const headers = {
