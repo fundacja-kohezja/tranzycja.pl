@@ -5,9 +5,8 @@ kolejnosc: 1
 
 You can support us financially in the following ways:
 
-## PayPal
+## Crowdfunding platforms:
 
-You can support us via PayPal:
 <div id="donate-button-container">
 <div id="donate-button"></div>
 <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
@@ -24,11 +23,7 @@ title:'PayPal - The safer, easier way to pay online!',
 </script>
 </div>
 
-## Zrzutka.pl crowdfund
-
-<div style="position: relative; width: 100%; height: 400px; overflow: hidden;"><iframe style="position: absolute; top:0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://zrzutka.pl/xa4dbg/widget/23" frameborder="0" scrolling="no"></iframe></div>
-
-Avaliable (HERE)[https://zrzutka.pl/xa4dbg].
+<div style="position: relative; width: 100%; height: 80px; overflow: hidden;"><iframe style="position: absolute; top:0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://zrzutka.pl/xa4dbg/widget/24" frameborder="0" scrolling="no"></iframe></div>
 
 ## Donation by bank transfer - PLN
 Fundacja Kohezja  
