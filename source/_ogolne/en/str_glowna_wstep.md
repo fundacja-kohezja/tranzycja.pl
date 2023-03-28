@@ -4,4 +4,4 @@ Our project is Poland's largest publicly available knowledge base on transgender
 
 This project is carried out by passionate activists with a support of [![Stowarzyszenia Grupa Stonewall](/media/img/logo/STOn_logo_transparent-pink.svg){.h-8 .inline}](https://grupa-stonewall.pl/en/){.border-b-0} and [Fundacja Kohezja](https://kohezja.org), but it could not exist without people like you. **If you believe transgender people should have access to knowledge, and you appreciate our work, please consider supporting us so we can continue creating educational content for our community.**
 
-[Support us!](/en/support){.przycisk .mb-1}
+[Support us!](/en/support){.przycisk .mb-1} {.text-center}
