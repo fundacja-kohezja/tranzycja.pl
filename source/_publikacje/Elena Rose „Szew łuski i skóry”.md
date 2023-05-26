@@ -1,3 +1,7 @@
+---
+opublikowano: '2023-05-26 10:51:34'
+zaktualizowano: '2023-05-26 10:51:34'
+---
 # Elena Rose: „Szew łuski i skóry”
 
 Nie jestem kobietą uwięzioną w ciele mężczyzny. To nie ciało mężczyzny; jest moje, jest mną, i w tym równaniu żadnych mężczyzn nie ma. I nie jestem w nim uwięziona. Mogłam opuścić to ciało na milion sto sposobów, a ja się go chwytam, pazurami i zębami, wbrew niekończącemu się szeregowi ludzi, którzy chcieliby mojej eksmisji, czasem dowodzących swych racji, aż nie zacznę krwawić. 
