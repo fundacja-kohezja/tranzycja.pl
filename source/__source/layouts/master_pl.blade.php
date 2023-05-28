@@ -83,6 +83,7 @@
         <script src="{{ mix('js/search/index.js', 'assets/build') }}"></script>
         @stack('scripts')
         <footer class="bg-gray-100 dark:bg-gray-900 text-center text-sm mt-12 p-4" role="contentinfo">
+            @include('_ogolne.stopka_logo_duze')
             @include('_ogolne.stopka')
         </footer>
         <!--TAGS: {{ $page->tags }}-->

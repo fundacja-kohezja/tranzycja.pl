@@ -1,0 +1,1 @@
+Project implemented with the support of: [![Association Grupa Stonewall](/media/img/logo/STOn_logo_transparent-pink.svg){.h-12 .inline}](https://grupa-stonewall.pl){.border-b-0} | [Fundation Kohezja](http://kohezja.org) | [![Instytut Spraw Społecznych](/media/img/logo/i-s-s.png){.h-12 .inline}](https://www.facebook.com/InstytutSprawSpolecznych){.border-b-0}
