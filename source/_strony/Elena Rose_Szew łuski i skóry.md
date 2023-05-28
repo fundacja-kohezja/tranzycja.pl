@@ -1,3 +1,11 @@
+---
+tags: tłumaczenie, trans studies
+meta: 
+    Autorzy: Elena Rose
+    Tłumaczenie: Dag Fajt
+    Korekta tłumaczenia: Nina Kuta, Julia Zając
+---
+
 # Elena Rose: „Szew łuski i skóry”
 
 Nie jestem kobietą uwięzioną w ciele mężczyzny. To nie ciało mężczyzny; jest moje, jest mną, i w tym równaniu żadnych mężczyzn nie ma. I nie jestem w nim uwięziona. Mogłam opuścić to ciało na milion sto sposobów, a ja się go chwytam, pazurami i zębami, wbrew niekończącemu się szeregowi ludzi, którzy chcieliby mojej eksmisji, czasem dowodzących swych racji, aż nie zacznę krwawić. 
