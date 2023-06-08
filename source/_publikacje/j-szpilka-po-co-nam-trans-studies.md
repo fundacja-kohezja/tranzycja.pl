@@ -1,3 +1,7 @@
+---
+opublikowano: '2023-06-08 12:51:48'
+zaktualizowano: '2023-06-08 12:51:48'
+---
 # Po co nam trans studies?
 
 
