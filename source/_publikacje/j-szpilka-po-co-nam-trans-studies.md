@@ -1,7 +1,11 @@
 ---
 opublikowano: '2023-06-08 12:51:48'
 zaktualizowano: '2023-06-08 12:51:48'
+tags: trans studies
+meta: 
+  Autorzy: J. Szpilka
 ---
+
 # Po co nam trans studies?
 
 
