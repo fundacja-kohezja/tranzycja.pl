@@ -1,5 +1,4 @@
 ---
-kolejnosc: 60
 tags: 'publikacje, trans studies'
 meta:
     Autorzy: 'Susan Stryker'
@@ -108,58 +107,58 @@ Szybko przytłoczyła mnie siła powszechnych przekonań wynikających ze znatur
 
 *Wkraczam do krainy snów. Jestem pod wodą. Płynę w górę. Jest ciemno. Widzę nad sobą migoczące światło. Z rozdętymi płucami przebijam się przez taflę wody. Chcę zachłysnąć się powietrzem, ale znajduję tylko więcej wody. Moje płuca są jej pełne. Jestem nią jednocześnie otoczona i wypełniona. Dlaczego jeszcze nie umarłam, skoro nie ma różnicy pomiędzy mną a tym, w czym jestem zanurzona? Nad sobą widzę jeszcze jedną taflę wody i płynę gorączkowo w jej kierunku. Widzę migoczące światło. Jeszcze raz przebijam się przez taflę wody. I jeszcze raz, i kolejny, i jeszcze… Woda mnie unicestwia. Nie mogę istnieć, a jednak – cóż za porażająca niemożliwość – istnieję. Zrobiłabym wszystko, żeby tu nie być.*
 
-*Zawsze już będę płynąć.*
-*Zawsze już będę umierać.*
-*Nauczę się oddychać wodą.*
-*Stanę się wodą.*
+*Zawsze już będę płynąć.*  
+*Zawsze już będę umierać.*  
+*Nauczę się oddychać wodą.*  
+*Stanę się wodą.*  
 *Jeśli nie mogę zmienić swojej sytuacji, zmienię samą siebie.*
 
-W tym akcie magicznej przemiany
+W tym akcie magicznej przemiany  
 rozpoznaję siebie na nowo.
 
-Jestem ruchem bez podstaw i granic.
-Jestem gwałtownym przepływem.
+Jestem ruchem bez podstaw i granic.  
+Jestem gwałtownym przepływem.  
 Jestem jednością z ciemnością i wilgocią.
 
 I jestem wściekła.
 
-Oto nareszcie chaos, który starałam się utrzymać na dystans.
+Oto nareszcie chaos, który starałam się utrzymać na dystans.  
 Oto nareszcie moja siła.
 
-Nie jestem wodą –
-jestem falą,
-a gniew
+Nie jestem wodą –  
+jestem falą,  
+a gniew  
 jest siłą, która mnie napędza.
 
-Gniew
-oddaje mi moje własne ciało
+Gniew  
+oddaje mi moje własne ciało  
 jako swoje własne, płynne medium.
 
-Gniew
-przebija dziurę w wodzie,
-wokół której się skupiam,
+Gniew  
+przebija dziurę w wodzie,  
+wokół której się skupiam,  
 pozwalając jej płynąć przeze mnie.
 
-Gniew
-stwarza moją pierwotną formę.
-Odchyla do tyłu moją głowę,
-ściąga moje wargi, odsłaniając zęby,
-otwiera moje gardło,
-wyrywa mnie do dzikiego wycia: i żaden dźwięk nie rozwadnia
+Gniew  
+stwarza moją pierwotną formę.  
+Odchyla do tyłu moją głowę,  
+ściąga moje wargi, odsłaniając zęby,  
+otwiera moje gardło,  
+wyrywa mnie do dzikiego wycia: i żaden dźwięk nie rozwadnia  
 czystości mojego gniewu.
 
-Żaden dźwięk
-nie istnieje,
-w tym miejscu bez języka
+Żaden dźwięk  
+nie istnieje,  
+w tym miejscu bez języka  
 mój gniew jest cichym krzykiem.
 
-Gniew
-rzuca mnie z powrotem
-w nudną codzienność,
-w to przemienione ciało,
+Gniew  
+rzuca mnie z powrotem  
+w nudną codzienność,  
+w to przemienione ciało,  
 które łączy mnie z mocą mojej Istoty.
 
-Gdy urodziłam mój gniew,
+Gdy urodziłam mój gniew,  
 mój gniew mnie odrodził.
 
 ## **Teoria**
