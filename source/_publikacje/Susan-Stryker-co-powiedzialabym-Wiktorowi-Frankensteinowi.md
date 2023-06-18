@@ -1,11 +1,12 @@
 ---
 kolejnosc: 60
-tags: publikacje, trans studies
-meta: 
-    Autorzy: Susan Stryker
-    Tłumaczenie: Julia Zając
+tags: 'publikacje, trans studies'
+meta:
+    Autorzy: 'Susan Stryker'
+    Tłumaczenie: 'Julia Zając'
+opublikowano: '2023-06-18 15:55:25'
+zaktualizowano: '2023-06-18 15:55:25'
 ---
-
 Susan Stryker
 
 Przeł. Julia Zając
