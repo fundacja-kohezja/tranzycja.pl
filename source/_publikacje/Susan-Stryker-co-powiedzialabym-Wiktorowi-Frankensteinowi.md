@@ -1,3 +1,7 @@
+---
+opublikowano: '2023-06-18 15:19:18'
+zaktualizowano: '2023-06-18 15:19:18'
+---
 Susan Stryker
 
 Przeł. Julia Zając
