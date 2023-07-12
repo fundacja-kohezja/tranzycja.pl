@@ -1,11 +1,11 @@
 ---
-tags: 'krok po kroku, tranzycja medyczna, terapia hormonalna'
+tags: 'krok po kroku, tranzycja medyczna, terapia hormonalna, step by step, medical transition, hormone therapy'
 meta:
     Authors: 'Nina Kuta'
     Redaction: 'lek. Katarzyna Marzęda, Dag Fajt, Tash Lisiecki'
     Translation: 'Adam Marczak'
 opublikowano: '2022-12-12 19:21:46'
-zaktualizowano: '2022-07-11 12:50:00'
+zaktualizowano: '2022-07-12 08:20:00'
 ---
 # How to start medical transition in Poland?
 
