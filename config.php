@@ -83,7 +83,7 @@ return $yaml_config + [
                 '/publikacje' => 'Publikacje',
                 '/aktualnosci' => 'Aktualności',
                 '/#faq' => 'FAQ',
-                '/mapa' => 'Mapa',
+                '/mapa' => '*Mapa',
                 '/wsparcie' => '*Wesprzyj nas!'
             ],
         ],
