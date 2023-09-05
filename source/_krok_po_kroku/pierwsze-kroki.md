@@ -6,7 +6,7 @@ meta:
     Korekta: Tash Lisiecki, Dag Fajt, lek. Katarzyna Marzęda
 zaktualizowano: '2022-03-29 12:00:00'
 ---
-# Mapa tranzycji
+# Pierwsze kroki
 
 W dziale "Krok po kroku" możesz zapoznać się z informacjami na temat transpłciowości, które pozwolą Ci sprawnie nawigować swoją własną tranzycję. 
 
