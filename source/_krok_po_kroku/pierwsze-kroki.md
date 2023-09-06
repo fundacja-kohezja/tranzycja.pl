@@ -39,6 +39,8 @@ Najczęściej do przepisania hormonów będziesz potrzebować:
 
 Wielu lekarzy stawia jednak odrobinę inne wymogi. Szczegółowe informacje uzyskasz [w naszym artykule na ten temat](/krok-po-kroku/tranzycja-medyczna/). Diagnoza będzie potrzebna do zmiany oznaczenia płci oraz jest wymogiem przy wielu zabiegach chirurgicznych.
 
+Jeśli szukasz transprzyjaznych specjalistów, to możesz ich znaleźć poprzez naszą [mapę](https://tranzycja.pl/krok-po-kroku/mapa-tranzycji/).
+
 #### Chcesz zmienić imię? 
 
 Możesz to zrobić bez żadnej diagnozy, czy terapii hormonalnej. Jedynym ograniczeniem jest to, że wybrane imię nie może wskazywać na płeć inną niż ta w dowodzie (np. nie można zmienić imienia na „Zenon" mając w dowodzie literkę K, można zmienić je na inne imię kobiece lub na imię neutralne, np. „Alex"). Szczegółowo przeczytasz o tym [w naszym poradniku](/krok-po-kroku/zmiana-imienia-usc/).
