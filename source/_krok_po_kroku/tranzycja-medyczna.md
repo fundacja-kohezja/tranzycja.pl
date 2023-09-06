@@ -55,7 +55,7 @@ Dwie największe grupy wsparcia dla osób trans w Polsce to:
 :::
 
 :::danger
-**Nie każdy psycholog-seksuolog czy lekarz-seksuolog będzie chętny do prowadzenia procesu diagnostycznego osobom transpłciowym**, a nawet jeśli ma to w swojej ofercie, to jeszcze nie znaczy, że posiada odpowiednie kompetencje. W z związku z tym szukanie specjalistów przez portale typu znanylekarz.pl może nie przynieść pozytywnych rezultatów. Przed umówieniem się na wizytę wskazane jest napisanie maila do lekarza/psychologa z pytaniem czy przyjmuje osoby trans i/lub sprawdzenie opinii o nim na grupach wsparcia. 
+**Nie każdy psycholog-seksuolog czy lekarz-seksuolog będzie chętny do prowadzenia procesu diagnostycznego osobom transpłciowym**, a nawet jeśli ma to w swojej ofercie, to jeszcze nie znaczy, że posiada odpowiednie kompetencje. W z związku z tym szukanie specjalistów przez portale typu znanylekarz.pl może nie przynieść pozytywnych rezultatów. Przed umówieniem się na wizytę wskazane jest napisanie maila do lekarza/psychologa z pytaniem czy przyjmuje osoby trans i/lub sprawdzenie opinii o nim na grupach wsparcia. Transprzyjaznych specjalistów można znaleźć również poprzez naszą [mapę](https://tranzycja.pl/krok-po-kroku/mapa-tranzycji/), chociaż zalecamy korzystać z niej w połączeniu z informacjami z grup i serwerów osób trans.
 
 Jeśli mieszkasz w małym/średnim mieście lub na wsi, to w zdecydowanej większości przypadków wizyty u lekarzy będą wiązały się z podróżą do któregoś z wielkich miast.
 :::
