@@ -81,8 +81,8 @@ return $yaml_config + [
             'items' => [
                 '/krok-po-kroku' => 'Krok po kroku',
                 '/publikacje' => 'Publikacje',
-                '/aktualnosci' => 'Aktualności',
                 '/#faq' => 'FAQ',
+                '/mapa' => '*Mapa',
                 '/wsparcie' => '*Wesprzyj nas!'
             ],
         ],

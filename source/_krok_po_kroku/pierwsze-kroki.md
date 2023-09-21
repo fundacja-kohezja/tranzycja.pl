@@ -6,7 +6,7 @@ meta:
     Korekta: Tash Lisiecki, Dag Fajt, lek. Katarzyna Marzęda
 zaktualizowano: '2022-03-29 12:00:00'
 ---
-# Mapa tranzycji
+# Pierwsze kroki
 
 W dziale "Krok po kroku" możesz zapoznać się z informacjami na temat transpłciowości, które pozwolą Ci sprawnie nawigować swoją własną tranzycję. 
 
@@ -38,6 +38,8 @@ Najczęściej do przepisania hormonów będziesz potrzebować:
 - endokrynologa, który dobierze dawki w oparciu o badania krwi.
 
 Wielu lekarzy stawia jednak odrobinę inne wymogi. Szczegółowe informacje uzyskasz [w naszym artykule na ten temat](/krok-po-kroku/tranzycja-medyczna/). Diagnoza będzie potrzebna do zmiany oznaczenia płci oraz jest wymogiem przy wielu zabiegach chirurgicznych.
+
+Jeśli szukasz transprzyjaznych specjalistów, to możesz ich znaleźć poprzez naszą [mapę](https://mapa.tranzycja.pl/).
 
 #### Chcesz zmienić imię? 
 

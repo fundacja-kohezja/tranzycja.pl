@@ -10,7 +10,7 @@ meta:
 
 :::info
 
-English version of this text can be found [here](https://tranzycja.pl/publications/eli-kappo-interview-detransition/).
+English version of this text can be found [here](https://tranzycja.pl/en/publications/eli-kappo-interview-detransition/).
 
 :::
 

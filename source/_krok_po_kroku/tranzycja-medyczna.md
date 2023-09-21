@@ -8,6 +8,8 @@ zaktualizowano: '2022-04-01 12:00:00'
 ---
 # Jak rozpocząć tranzycję medyczną? Proces diagnostyczny
 
+:::info [EN: English version of the text](https://tranzycja.pl/en/publications/how-to-start-medical-transition-in-Poland):::
+
 Wiele z działań mogących wchodzić w zakres tranzycji można podjąć samodzielnie (część z nich omawialiśmy w [poprzednich](https://tranzycja.pl/krok-po-kroku/czy-jestem-trans/) [artykułach](https://tranzycja.pl/krok-po-kroku/dysforia-plciowa/)). Uzyskanie dostępu do interwencji medycznych wymaga jednak przejścia przez proces diagnostyczny. W tym tekście znajdziesz podstawowe informacje, które ułatwią Ci jego rozpoczęcie i pozwolą zorientować się w dosyć zagmatwanej sytuacji, w jakiej znajdują się osoby trans w obrębie polskiej służby zdrowia.
 
 :::info
@@ -53,7 +55,7 @@ Dwie największe grupy wsparcia dla osób trans w Polsce to:
 :::
 
 :::danger
-**Nie każdy psycholog-seksuolog czy lekarz-seksuolog będzie chętny do prowadzenia procesu diagnostycznego osobom transpłciowym**, a nawet jeśli ma to w swojej ofercie, to jeszcze nie znaczy, że posiada odpowiednie kompetencje. W z związku z tym szukanie specjalistów przez portale typu znanylekarz.pl może nie przynieść pozytywnych rezultatów. Przed umówieniem się na wizytę wskazane jest napisanie maila do lekarza/psychologa z pytaniem czy przyjmuje osoby trans i/lub sprawdzenie opinii o nim na grupach wsparcia. 
+**Nie każdy psycholog-seksuolog czy lekarz-seksuolog będzie chętny do prowadzenia procesu diagnostycznego osobom transpłciowym**, a nawet jeśli ma to w swojej ofercie, to jeszcze nie znaczy, że posiada odpowiednie kompetencje. W z związku z tym szukanie specjalistów przez portale typu znanylekarz.pl może nie przynieść pozytywnych rezultatów. Przed umówieniem się na wizytę wskazane jest napisanie maila do lekarza/psychologa z pytaniem czy przyjmuje osoby trans i/lub sprawdzenie opinii o nim na grupach wsparcia. Transprzyjaznych specjalistów można znaleźć również poprzez naszą [mapę](https://mapa.tranzycja.pl/), chociaż zalecamy korzystać z niej w połączeniu z informacjami z grup i serwerów osób trans.
 
 Jeśli mieszkasz w małym/średnim mieście lub na wsi, to w zdecydowanej większości przypadków wizyty u lekarzy będą wiązały się z podróżą do któregoś z wielkich miast.
 :::

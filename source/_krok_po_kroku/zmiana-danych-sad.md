@@ -38,8 +38,8 @@ Z tego względu przy procesie o ustalenie płci niebywale pomocna może być pro
 :::info
 - [Fundacja Trans-Fuzja](https://www.transfuzja.org/pomoc), adres mailowy prawnik@transfuzja.org 
 - [prawnicy.lgbt](http://prawnicy.lgbt/), adres mailowy kontakt@prawnicy.lgbt 
-- [Miłość nie Wyklucza](https://mnw.org.pl/prawo), zgłoszenia przez stronę
-- [Kampania Przeciwko Homofobii](https://kph.org.pl/pomoc/pomoc-prawna/), adres mailowy prawo@kph.org.pl
+- [Miłość Nie Wyklucza](https://mnw.org.pl/prawo), zgłoszenia przez stronę
+- [Lambda Warszawa](https://lambdawarszawa.org/pomoc/?starttabid=4), adres mailowy prawo@lambdawarszawa.org
 - [Federacja Znak Równości](https://znakirownosci.org.pl/kontakt/), adres mailowy pomoc.prawna@znakirownosci.org.pl
 :::
 
