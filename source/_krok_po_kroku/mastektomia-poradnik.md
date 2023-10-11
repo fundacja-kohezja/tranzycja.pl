@@ -6,66 +6,8 @@ meta:
     Korekta: 'lek. Katarzyna Marzęda, Nina Kuta, Dag Fajt'
 zaktualizowano: '2022-08-25 17:02:59'
 ---
-# Jak zrobić topkę? Poradnik do mastektomii
 
-## Czym jest mastektomia?
-
-Mastektomia, potocznie nazywana jedynką, topką czy *top surgery*, to chirurgiczny zabieg mający na celu usunięcie gruczołu piersiowego. Wiele osób transmęskich dąży do uzyskania płaskiej klatki piersiowej — jedyną długotrwałą metodą uzyskania takiego efektu jest operacja.
-
-::: spoiler Słowniczek
-* **Sutek —** gruczoł mlekowy
-* **Brodawka sutkowa —** wypukłość na środku kompleksu brodawka otoczka
-* **Kompleks brodawka-otoczka —**  potocznie nazywana sutkiem, okrągłe, pigmentowane pole na środku piersi
-* **Bruzda podpiersiowa —** dolna granicą piersi, miejsce styku piersi i klatki piersiowej
-* **Ptoza piersi —** inaczej opadanie piersi
-:::
-
-Zabieg mastektomii ma na celu usunięcie gruczołu tak, aby zdefeminizować klatkę piersiową. Typowo „męskie" sutki mają rozmiar między 1 cm a nawet 4 cm, ze średnią około 2.8 cm[^1] — informacja ta jest potrzebna dla pacjentów tak, by mogli oni dobrać wielkość sutków odpowiednio do swoich preferencji.
-
-Operacja ta nie jest zarezerwowana jedynie dla osób transmęskich — mastektomię przechodzą np. cis mężczyźni z ginekomastią, cis kobiety w celu profilatyki raka piersi oraz każda osoba, której zależy na typowo męskim profilu klatki piersiowej.
-
-## Metody oraz cięcia
-
-Aby uzyskać pożądany wygląd klatki piersiowej, operacja plastyczna musi zostać wykonana odpowiednią metodą. Wybór sposobu warunkuje rozmiar piersi (wymiary gruczołu i ilość tkanki tłuszczowej), ptoza (inaczej opadanie piersi), doświadczenie chirurga oraz oczekiwania pacjenta. Każda z tych kwestii powinna być brana pod uwagę razem z obecnym stanem zdrowia pacjenta oraz występującymi obciążeniami zdrowotnymi. Rozmiar i strukturę piersi można zbadać wykonując USG — da ono konkretną informację o budowie piersi, rozmiarze gruczołu i obecności tkanki tłuszczowej. 
-
-Ptozę piersi można ocenić samemu — stojąc profilem, należy zbadać kąt nachylenia między piersią a bruzdą podpiersiową lub dystansu pionowego między bruzdą podpiersiową a kompleksem brodawka-otoczka. 
-
-:::spoiler Jak ocenić ptozę?
-
-
-![Skala stopniowania ptozy](https://tranzycja.pl/media/img/ocena-ptozy.png) 
-
-Powyższe zdjęcie pokazuje skalę stopniowania ptozy piersi.[^2] 
-
-**Klasa I** charakteryzuje się brakiem ptozy, małym rozmiarem gruczołu i naddatku skóry.  
-**Klasa IIa** to nieco większy gruczoł i lekki naddatek skóry — kompleks brodawka otoczka nadal znajduje się ponad bruzdą podpiersiową.  
-**Klasa IIb** to naddatek skóry, większy rozmiar piersi i obecność ptozy I stopnia — kompleks brodawka otoczka znajduje się na tej samej wysokości co bruzda podpiersiowa lub najwyżej 1cm pod nią.  
-**Klasa III** to znaczny naddatek skóry, duży rozmiar piersi i znaczna ptoza — tutaj brodawka znajduje się znacznie poniżej bruzdy podpiersiowej. 
-
-Oceniając klasę ptozy można zakwalifikować pacjenta do konkretnej metody operacji.
-
-:::
-
-Ptoza piersi jest w głównej mierze odpowiedzialna za naddatek skóry na klatce piersiowej. Jeżeli pacjent chce uzyskać jak najbardziej płaską klatkę piersiową to musi pamiętać, że każda metoda ma własne możliwości ewentualnego usuwania wspomnianego naddatku. 
-
-Metody bezbliznowe mogą być zastosowane jedynie u osób z ptozą klasy IIa lub mniejszej, rzadko IIb. Gdy kąt między dolną częścią piersi a klatką piersiową jest mniejszy niż 90 stopni, opadanie piersi jest określane jako znaczące — mastektomia będzie musiała być przeprowadzona metodą pozostawiającą blizny.
-
-### Metody „bezbliznowe"
-
-Te metody charakteryzują się ograniczeniem blizny w obszarze brodawki sutkowej — po zagojeniu jest ona niemalże niewidoczna. Sposoby te są dostępne jedynie dla osób o klasie ptozy mniejszej niż III (klasa I, klasa IIa i IIb). Istnieją dwie, najpopularniejsze metody w tej podgrupie: metoda okołootoczkowa (*periareolar*) oraz metoda półkolista (*keyhole*).
-
-#### Keyhole, metoda półkolista
-
-Metoda pozostawiająca bliznę na połowie otoczki brodawki sutkowej, idealna dla osób z niewielką ilością tkanki tłuszczowej oraz małym gruczołem. Nacięcie można wykonać na dowolnej części brodawki sutkowej (np. w celu uniesienia sutka wykonuje się nacięcie na górnej granicy brodawki, usuwając dodatkowo półksiężyc skóry). Często przy tym rodzaju cięcia skóra w ogóle nie jest usuwana — nacina się jedynie brodawkę, przez „dziurkę od klucza" (ang. keyhole) usuwa się gruczoł i zszywa się rozcięcie. 
-
-Ze względu na brak usuwania skóry, metoda ta zalecana jest pacjentom z brakiem jej naddatku, bez widocznej ptozy (klasa I, rzadko klasa IIa). Sutek będzie nieznacznie przemieszczony lub pozostanie na pierwotnym miejscu — w tej metodzie kompleks brodawka-otoczka pozostanie takiego samego rozmiaru jak przed operacją. Po usunięciu gruczołu brodawka kurczy się nieznacznie, jednak dla osób o sporych brodawkach, poleca się dodatkowe nacięcie zmniejszające finalnie jej rozmiar. 
-
-Metoda ma wiele plusów, czucie w sutkach prawie zawsze jest zachowane, a szansa na ich obumarcie jest znikoma. Minusami są wymienione wcześniej brak możliwości zmiany położenia sutka (lub znikoma zmiana), a także brak możliwości zmiany jego rozmiaru.
-
-:::spoiler Ilustracja metody *Keyhole*
-
-![Ilustracja metody keyhole](https://tranzycja.pl/media/img/keyhole1.png)
-[Subcutaneous Mastectomy In Female‐To‐Male Transsexuals: A Retrospective Cohort‐Analysis Of 202 Patients](https://doi.org/10.1111/j.1743-6109.2012.02939.x), Cregten‐Escobar, Patricia i in., The Journal Of Sexual Medicine, vol 9, n. 12, 2012, s. 3148-3153. Elsevier BV. 
+1ole](https://tranzycja.pl/media/img/keyhole1.png)[Subcutaneous Mastectomy In Female‐To‐Male Transsexuals: A Retrospective Cohort‐Analysis Of 202 Patients](https://doi.org/10.1111/j.1743-6109.2012.02939.x), Cregten‐Escobar, Patricia i in., The Journal Of Sexual Medicine, vol 9, n. 12, 2012, s. 3148-3153. Elsevier BV. 
 
 ![Ilustracja metody keyhole](https://tranzycja.pl/media/img/keyhole2.jpg)
 [Transsexual Mastectomy: Selection Of Appropriate Technique According To Breast Characteristics](https://doi.org/10.4274/balkanmedj.2016.0093), Top, Hüsamettin,  Serkan Balta, Balkan Medical Journal, vol 34, n. 2, 2017, s. 147-155, AVES Publishing Co. 
@@ -182,9 +124,9 @@ Metoda pozostawiająca takie same blizny jak zabieg DI. Różnica polega na brak
 :::
 
 
-#### Osoby otyłe — wariacje cięć
+#### Osoby grube — wariacje cięć
 
-Osoby otyłe lub z dużymi piersiami powinny być traktowane szczególnie — operacja ma być przeprowadzona w taki sposób, aby wynik był satysfakcjonujący dla pacjenta. Przez to metody używane na pacjentach o mniejszej wadze nie powinny być używane jako uniwersalne. Szczególnym utrudnieniem jest ilość skóry przy pachach. Wielu lekarzy potrafi obwiniać pacjenta o zły wynik z powodu nadwagi, jednak umiejętny chirurg poprowadzi cięcie w taki sposób, aby uniknąć np. psich uszu. Warto rozważyć i omówić zakończenie szwu — bardziej zakrzywiona linia, w kształcie „kija do hokeja", jest proponowana jako rozwiązanie mające na celu uniknięcie odstawania skóry przy pachach. Każdy pacjent jest inny i lekarz powinien brać to pod uwagę. 
+Osoby grube lub z dużymi piersiami powinny być traktowane szczególnie — operacja ma być przeprowadzona w taki sposób, aby wynik był satysfakcjonujący dla pacjenta. Przez to metody używane na pacjentach o mniejszej wadze nie powinny być używane jako uniwersalne. Szczególnym utrudnieniem jest ilość skóry przy pachach. Wielu lekarzy potrafi obwiniać pacjenta o zły wynik z powodu nadwagi, jednak umiejętny chirurg poprowadzi cięcie w taki sposób, aby uniknąć np. psich uszu. Warto rozważyć i omówić zakończenie szwu — bardziej zakrzywiona linia, w kształcie „kija do hokeja", jest proponowana jako rozwiązanie mające na celu uniknięcie odstawania skóry przy pachach. Każdy pacjent jest inny i lekarz powinien brać to pod uwagę. 
 
 :::spoiler Podwójne cięcie — wariacja typu „kij do hokeja"
 ![Ilustracja metody kij do hokeja](https://tranzycja.pl/media/img/hockeystick.jpg)
@@ -355,7 +297,9 @@ Poza wspomnianymi kliniki często wymagają badań sodu, potasu, EKG, RTG klatki
 
 ### Czy odstawienie hormonów przed zabiegiem jest konieczne?
 
-Jedną z istotniejszych spraw przed operacją, jest kwestia odstawiania testosteronu. Z doświadczeń klinicznych wiadomo, że testosteron wpływa na gęstość i krzepliwość krwi, a także może spowolnić gojenie ran.[^13] Jednakże w badaniach mierzących wpływ poziomów testosteronu konkretnie na zabiegi chirurgiczne, w tym mastektomię, nie stwierdzono, by wpływał negatywnie na powstawanie krwiaków.[^7] Wcześniejsze badania wskazjące na niekorzystny wpływ testosteronu na operacje nie zostały zreplikowane, co podważa zasadność odstawiania hormonów przed zabiegami chirurgicznymi.[^8] 
+Jedną z istotniejszych spraw przed operacją, jest kwestia odstawiania testosteronu. Z doświadczeń klinicznych wiadomo, że testosteron wpływa na gęstość i krzepliwość krwi, a także może spowolnić gojenie ran[^13]. Jednakże w badaniach mierzących wpływ poziomów testosteronu konkretnie na zabiegi chirurgiczne, w tym mastektomię, nie stwierdzono, by wpływał negatywnie na powstawanie krwiaków[^7]. Wcześniejsze badania wskazjące na niekorzystny wpływ testosteronu na operacje nie zostały zreplikowane, co podważa zasadność odstawiania hormonów przed zabiegami chirurgicznymi[^8].
+
+Niedawne badanie z 2023 r. pokazało związek wysokich poziomów testosteronu z powstawaniem blizn przerostowych (hipertroficznych), wystających ponad powierzchnię skóry. U osób, którym zależy na danym wyglądzie blizn, wskazane może być odstawienie lub zredukowanie dawki testosteronu na czasj gojenia[^81].
 
 Odstawianie testosteronu może wiązać się z wieloma nieprzyjemnymi objawami, takimi jak wahania nastroju, uderzenia gorąca, bóle mięśni, powrót menstruacji, czy pogorszenie się cery.
 
@@ -459,7 +403,7 @@ Poprawki nie powinny być powodem do zmartwień — to normalne, że przy tak du
 Udanie się do chirurga z prośbą o poprawki dla niektórych osób może być stresujące lub krępujące. Warto tu pamiętać, że **poprawki są częścią pracy chirurga**, którą sowicie opłacamy z własnej kieszeni. Masz pełne prawo domagać się poprawek, jeśli efekt nie jest dla Ciebie satysfakcjonujący.
 :::
 
-## Zbiory Wyników i zdjęć
+## Zbiory wyników i zdjęć
 
 Sporo osób chce zobaczyć wyniki operacyjne kliniki, u której rozważa zabieg. W skali globalnej warto odwiedzać strony:
 * transbucket.com — największy zbiór zdjęć na całym świecie (obecnie strona zamknięta, ze względów bezpieczeństwa)
@@ -552,6 +496,7 @@ W praktyce testosteron może więc pomóc jedynie osobom o znikomym naddatku sk�
 [^6]: [Breast Lift With And Without Implant](https://doi.org/10.1097/gox.0000000000003057), Ramanadham, Smita R. Anna Rose Johnson, *Plastic And Reconstructive Surgery - Global Open*, vol 8, n. 10, 2020, s. e3057.
 [^7]: [Female-To-Male Transgender Chest Contouring](https://doi.org/10.1097/sap.0000000000001896), Cohen, Wess A. i in., *Annals Of Plastic Surgery*, vol 83, no. 5, 2019, pp. 589-593. 
 [^8]: [Gender Confirmation Surgery For The Endocrinologist](https://doi.org/10.1016/j.ecl.2019.02.002) Narayan, Sasha K. i in., *Endocrinology And Metabolism Clinics Of North America*, vol 48, n. 2, 2019, s. 403-420.
+[^81]: Mroueh, V. i in. (2023), [D22. effects of exogenous testosterone on scarring in gender-affirming chest surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10125534/), Plastic and Reconstructive Surgery - Global Open, 11(4S), pp. 72–73.
 [^9]: [Female-To-Male Transgender Chest Reconstruction: A Large Consecutive, Single-Surgeon Experience](https://doi.org/10.1016/j.bjps.2011.11.053) Berry, M.G. i in., *Journal Of Plastic, Reconstructive & Aesthetic Surgery*, vol 65, n. 6, 2012, pp. 711-719.
 [^10]: [Long Term Effects Of Manual Lymphatic Drainage And Active Exercises On Physical Morbidities, Lymphoscintigraphy Parameters And Lymphedema Formation In Patients Operated Due To Breast Cancer: A Clinical Trial](https://doi.org/10.1371/journal.pone.0189176) Oliveira, Mariana Maia Freire de i in., *PLOS ONE*, vol 13, n. 1, 2018, s. e0189176. 
 [^11]: [Incidence Of Complications In Chest Wall Masculinization For The Obese Female-To-Male Transgender Population: A Case Series](https://doi.org/10.52547/wjps.10.2.14), Perez-Alvarez, Idanis M. i in., *World Journal of Plastic Surgery*, vol 10, n. 2, 2021, s. 14-24.
