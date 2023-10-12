@@ -124,9 +124,9 @@ Metoda pozostawiająca takie same blizny jak zabieg DI. Różnica polega na brak
 :::
 
 
-#### Osoby grube — wariacje cięć
+#### Osoby otyłe — wariacje cięć
 
-Osoby grube lub z dużymi piersiami powinny być traktowane szczególnie — operacja ma być przeprowadzona w taki sposób, aby wynik był satysfakcjonujący dla pacjenta. Przez to metody używane na pacjentach o mniejszej wadze nie powinny być używane jako uniwersalne. Szczególnym utrudnieniem jest ilość skóry przy pachach. Wielu lekarzy potrafi obwiniać pacjenta o zły wynik z powodu nadwagi, jednak umiejętny chirurg poprowadzi cięcie w taki sposób, aby uniknąć np. psich uszu. Warto rozważyć i omówić zakończenie szwu — bardziej zakrzywiona linia, w kształcie „kija do hokeja", jest proponowana jako rozwiązanie mające na celu uniknięcie odstawania skóry przy pachach. Każdy pacjent jest inny i lekarz powinien brać to pod uwagę. 
+Osoby otyłe lub z dużymi piersiami powinny być traktowane szczególnie — operacja ma być przeprowadzona w taki sposób, aby wynik był satysfakcjonujący dla pacjenta. Przez to metody używane na pacjentach o mniejszej wadze nie powinny być używane jako uniwersalne. Szczególnym utrudnieniem jest ilość skóry przy pachach. Wielu lekarzy potrafi obwiniać pacjenta o zły wynik z powodu nadwagi, jednak umiejętny chirurg poprowadzi cięcie w taki sposób, aby uniknąć np. psich uszu. Warto rozważyć i omówić zakończenie szwu — bardziej zakrzywiona linia, w kształcie „kija do hokeja", jest proponowana jako rozwiązanie mające na celu uniknięcie odstawania skóry przy pachach. Każdy pacjent jest inny i lekarz powinien brać to pod uwagę. 
 
 :::spoiler Podwójne cięcie — wariacja typu „kij do hokeja"
 ![Ilustracja metody kij do hokeja](https://tranzycja.pl/media/img/hockeystick.jpg)
