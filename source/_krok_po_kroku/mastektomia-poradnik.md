@@ -355,7 +355,9 @@ Poza wspomnianymi kliniki często wymagają badań sodu, potasu, EKG, RTG klatki
 
 ### Czy odstawienie hormonów przed zabiegiem jest konieczne?
 
-Jedną z istotniejszych spraw przed operacją, jest kwestia odstawiania testosteronu. Z doświadczeń klinicznych wiadomo, że testosteron wpływa na gęstość i krzepliwość krwi, a także może spowolnić gojenie ran.[^13] Jednakże w badaniach mierzących wpływ poziomów testosteronu konkretnie na zabiegi chirurgiczne, w tym mastektomię, nie stwierdzono, by wpływał negatywnie na powstawanie krwiaków.[^7] Wcześniejsze badania wskazjące na niekorzystny wpływ testosteronu na operacje nie zostały zreplikowane, co podważa zasadność odstawiania hormonów przed zabiegami chirurgicznymi.[^8] 
+Jedną z istotniejszych spraw przed operacją, jest kwestia odstawiania testosteronu. Z doświadczeń klinicznych wiadomo, że testosteron wpływa na gęstość i krzepliwość krwi, a także może spowolnić gojenie ran[^13]. Jednakże w badaniach mierzących wpływ poziomów testosteronu konkretnie na zabiegi chirurgiczne, w tym mastektomię, nie stwierdzono, by wpływał negatywnie na powstawanie krwiaków[^7]. Wcześniejsze badania wskazjące na niekorzystny wpływ testosteronu na operacje nie zostały zreplikowane, co podważa zasadność odstawiania hormonów przed zabiegami chirurgicznymi[^8]. 
+
+Niedawne badanie z 2023 r. pokazało związek wysokich poziomów testosteronu z powstawaniem blizn przerostowych (hipertroficznych), wystających ponad powierzchnię skóry. U osób, którym zależy na danym wyglądzie blizn, wskazane może być odstawienie lub zredukowanie dawki testosteronu na czasj gojenia[^81].
 
 Odstawianie testosteronu może wiązać się z wieloma nieprzyjemnymi objawami, takimi jak wahania nastroju, uderzenia gorąca, bóle mięśni, powrót menstruacji, czy pogorszenie się cery.
 
@@ -459,7 +461,7 @@ Poprawki nie powinny być powodem do zmartwień — to normalne, że przy tak du
 Udanie się do chirurga z prośbą o poprawki dla niektórych osób może być stresujące lub krępujące. Warto tu pamiętać, że **poprawki są częścią pracy chirurga**, którą sowicie opłacamy z własnej kieszeni. Masz pełne prawo domagać się poprawek, jeśli efekt nie jest dla Ciebie satysfakcjonujący.
 :::
 
-## Zbiory Wyników i zdjęć
+## Zbiory wyników i zdjęć
 
 Sporo osób chce zobaczyć wyniki operacyjne kliniki, u której rozważa zabieg. W skali globalnej warto odwiedzać strony:
 * transbucket.com — największy zbiór zdjęć na całym świecie (obecnie strona zamknięta, ze względów bezpieczeństwa)
@@ -552,6 +554,7 @@ W praktyce testosteron może więc pomóc jedynie osobom o znikomym naddatku sk�
 [^6]: [Breast Lift With And Without Implant](https://doi.org/10.1097/gox.0000000000003057), Ramanadham, Smita R. Anna Rose Johnson, *Plastic And Reconstructive Surgery - Global Open*, vol 8, n. 10, 2020, s. e3057.
 [^7]: [Female-To-Male Transgender Chest Contouring](https://doi.org/10.1097/sap.0000000000001896), Cohen, Wess A. i in., *Annals Of Plastic Surgery*, vol 83, no. 5, 2019, pp. 589-593. 
 [^8]: [Gender Confirmation Surgery For The Endocrinologist](https://doi.org/10.1016/j.ecl.2019.02.002) Narayan, Sasha K. i in., *Endocrinology And Metabolism Clinics Of North America*, vol 48, n. 2, 2019, s. 403-420.
+[^81]: Mroueh, V. i in. (2023), [D22. effects of exogenous testosterone on scarring in gender-affirming chest surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10125534/), Plastic and Reconstructive Surgery - Global Open, 11(4S), pp. 72–73.
 [^9]: [Female-To-Male Transgender Chest Reconstruction: A Large Consecutive, Single-Surgeon Experience](https://doi.org/10.1016/j.bjps.2011.11.053) Berry, M.G. i in., *Journal Of Plastic, Reconstructive & Aesthetic Surgery*, vol 65, n. 6, 2012, pp. 711-719.
 [^10]: [Long Term Effects Of Manual Lymphatic Drainage And Active Exercises On Physical Morbidities, Lymphoscintigraphy Parameters And Lymphedema Formation In Patients Operated Due To Breast Cancer: A Clinical Trial](https://doi.org/10.1371/journal.pone.0189176) Oliveira, Mariana Maia Freire de i in., *PLOS ONE*, vol 13, n. 1, 2018, s. e0189176. 
 [^11]: [Incidence Of Complications In Chest Wall Masculinization For The Obese Female-To-Male Transgender Population: A Case Series](https://doi.org/10.52547/wjps.10.2.14), Perez-Alvarez, Idanis M. i in., *World Journal of Plastic Surgery*, vol 10, n. 2, 2021, s. 14-24.
