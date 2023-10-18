@@ -3,7 +3,7 @@
 
 W tym dziale znajdziesz nasze autorskie publikacje do pobrania.
 
-# Eksplorować do krwi. Analiza metod „terapii konwersyjnych” transpłciowości
+## Eksplorować do krwi. Analiza metod „terapii konwersyjnych” transpłciowości
 
 Jest to pierwsza publikacja w Polsce omawiająca współczesne postaci “terapii konwersyjnych” osób transpłciowych, przeznaczona zarówno dla specjalistów zdrowia psychicznego jak i dziennikarzy oraz osób zainteresowanych tym palącym problemem. 
 
