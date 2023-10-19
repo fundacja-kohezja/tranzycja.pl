@@ -14,7 +14,6 @@ W drugiej części raportu osoby autorskie prezentują konkretne metody stosowan
 
 Raport przygotowany został przez Ninę Kutę oraz Daga Fajt z zespołu tranzycja.pl, aktywistów działających od lat na polu dostępu do tranzycji medycznej oraz walki z „terapiami konwersyjnymi”, we współpracy z psychologami z Polski i USA.
 
+[Pobierz!](/media/docs/autorskie/Eksplorować-do-krwi.pdf){.przycisk .mb-1}
 
 [![Okładna publikacji "Eksplorować do krwi..."](/media/img/okladka-eksplorować-do-krwi.png)](/media/docs/autorskie/Eksplorować-do-krwi.pdf)
-
-[Pobierz!](/media/docs/autorskie/Eksplorować-do-krwi.pdf){.przycisk .mb-1}
