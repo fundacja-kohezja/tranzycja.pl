@@ -1,4 +1,3 @@
-![obraz](https://github.com/fundacja-kohezja/tranzycja.pl/assets/90787263/4663974b-9b9d-41e1-a3c1-da2807e72dac)
 # Dodatkowe materiały do pobrania
 
 ## Eksplorować do krwi. Analiza metod „terapii konwersyjnych” transpłciowości
@@ -9,5 +8,5 @@ Raport omawia uznane definicje i prawne regulacje „terapii konwersyjnych” or
 
 W drugiej części raportu osoby autorskie prezentują konkretne metody stosowane przez „terapeutów konwersyjnych” w oparciu o analizę książki dwójki z nich – Marcusa i Susan Evansów, brytyjskich psychoanalityków wielokrotnie zapraszanych do Polski zarówno przez uznane organizacje psychologiczne i medyczne (jak Polskie Towarzystwo Psychoterapii Psychodynamicznej) jak i fundamentalistów chrześcijańskich.  
 
-Matronatu publikacji udzieliły Kampania Przeciw Homofobii, Miłość Nie Wyklucza, My Rodzice, Kultura Równości, Grupa Stonewall, Instytut Splot oraz Pracownia Badań nad Historią i Tożsamościami LGBT+.
+Matronatu publikacji udzieliły Kampania Przeciw Homofobii, Miłość Nie Wyklucza, My Rodzice, Kultura Równości, Grupa Stonewall, Instytut Splot oraz Pracownia Badań nad Historią i Tożsamościami LGBT+.  
 [Pobierz!](/media/docs/autorskie/Eksplorować-do-krwi.pdf){.przycisk .mb-1}
