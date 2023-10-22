@@ -1,4 +1,3 @@
-![obraz](https://github.com/fundacja-kohezja/tranzycja.pl/assets/90787263/4663974b-9b9d-41e1-a3c1-da2807e72dac)
 # Dodatkowe materiały do pobrania
 
 ## Eksplorować do krwi. Analiza metod „terapii konwersyjnych” transpłciowości
