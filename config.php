@@ -82,6 +82,7 @@ return $yaml_config + [
                 '/krok-po-kroku' => 'Krok po kroku',
                 '/publikacje' => 'Publikacje',
                 '/#faq' => 'FAQ',
+                '/strony/do-pobrania' => 'Do pobrania',
                 '/mapa' => '*Mapa',
                 '/wsparcie' => '*Wesprzyj nas!'
             ],
