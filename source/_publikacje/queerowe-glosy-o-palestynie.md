@@ -1,11 +1,12 @@
 ---
 tags: tłumaczenie
-meta: 
-  Autorzy: alQaws, Leslie Feinberg 
-  Tłumaczenie: Nina Kuta
-  Korekta: Dag Fajt, Julia Zając
+meta:
+    Autorzy: 'alQaws, Leslie Feinberg'
+    Tłumaczenie: 'Nina Kuta'
+    Korekta: 'Dag Fajt, Julia Zając'
+opublikowano: '2023-11-06 19:31:25'
+zaktualizowano: '2023-11-06 19:31:25'
 ---
-
 # Queerowe głosy o Palestynie: alQaws oraz Leslie Feinberg
 
 W chwili publikacji niniejszych tłumaczeń trwa ludobójstwo Palestyńczyków w Strefie Gazy. Nasz zespół przygotował dla Was tłumaczenia dwóch tekstów, z perspektywy żydowskiej oraz palestyńskiej, o istotności solidarności ruchu queerowego z antyimperalistycznym.
