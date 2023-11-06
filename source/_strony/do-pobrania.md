@@ -2,7 +2,7 @@
 
 ## Eksplorować do krwi. Analiza metod „terapii konwersyjnych” transpłciowości
 
-[![Okładka publikacji "Eksplorować do krwi"](media/img/okladka-eksplorować-do-krwi.png)](media/img/okladka-eksplorować-do-krwi.png)
+![Okładka publikacji "Eksplorować do krwi"](https://tranzycja.pl/source/media/img/okladka-eksplorować-do-krwi.png)
 
 Pierwsza publikacja w Polsce omawiająca współczesne postaci “terapii konwersyjnych” osób transpłciowych, przeznaczona zarówno dla specjalistów zdrowia psychicznego jak i dziennikarzy oraz osób zainteresowanych tym palącym problemem. 
  
@@ -16,7 +16,7 @@ Matronatu publikacji udzieliły Kampania Przeciw Homofobii, Miłość Nie Wykluc
 
 ## Trans/Praca. Poradnik dla pracowników
 
-[![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](media/img/okładka-transpraca-poradnik-dla-pracownikow.png)](media/img/okładka-transpraca-poradnik-dla-pracownikow.png)
+![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](https://tranzycja.pl/source/media/img/okładka-transpraca-poradnik-dla-pracownikow.png)
 
 Pierwszy w Polsce poradnik przeznaczona dla transpłciowych pracowników, przygotowujący do podjęcia pracy, objaśniający meandry prawa i pomagający w pracowym coming-oucie.
 
@@ -33,9 +33,9 @@ Publikacja wydana we współpracy z Grupą Stonewall.
 
 [Pobierz!](/media/docs/autorskie/transpraca-poradnik-dla-pracownikow.pdf){.przycisk .mb-1}
 
-## Trans/Praca. Poradnik dla przedsiębiorców
+## Trans/Praca. Poradnik dla pracodawców
 
-[![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](media/img/okładka-transpraca-poradnik-dla-pracodawcow.png)](media/img/okładka-transpraca-poradnik-dla-pracodawcow.png)
+![Okładka publikacji "Trans/Praca. Poradnik dla pracodawcow"](https://tranzycja.pl/source/media/img/okładka-transpraca-poradnik-dla-pracodawcow.png)
 
 Poradnik dla osób zatrudniających osoby transpłciowe, pomagający w stworzeniu inkluzywnego i przyjaznego miejsca pracy. 
 
@@ -53,7 +53,7 @@ Publikacja wydana we współpracy z Grupą Stonewall.
 
 ## Ulotka "Pierwsze kroki w tranzycji medycznej"
 
-[![Pierwsza strona ulotki "Pierwsze kroki w tranzycji medycznej"](media/img/okladka-pierwsze-kroki-ulotka.png)](media/img/okladka-pierwsze-kroki-ulotka.png)
+![Pierwsza strona ulotki "Pierwsze kroki w tranzycji medycznej"](https://tranzycja.pl/source/media/img/okladka-pierwsze-kroki-ulotka.png)
 
 Ulotka objaśniająca podstawowe informacje na temat diagnostyki niezgodności płciowej w Polsce oraz efektów terapii hormonalnych. Przeznaczona jako ściąga z najważniejszymi informacjami przekazywana np. w trakcie wizyt psychologicznych czy lekarskich. Zawiera planer tranzycji, w którym można rozpisać swoją własną ścieżkę, oraz zbiór organizacji pomocowych.
 
