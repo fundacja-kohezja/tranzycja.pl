@@ -188,7 +188,7 @@ System oparty na idei różnorodności spodziewa się, że do rozwiązania tego 
 ### Stygmatyzacja, którą nie można się podzielić 
 
 > Przejście przez traumatyczne wydarzenia niszczy więź pomiędzy jednostką a społecznością. Dla przetrwanek jasnym staje się, że ich poczucie siebie, własnej wartości, własnego człowieczeństwa, jest zależne od poczucia więzi z innymi. Solidarność wynikająca z bycia częścią grupy stanowi najlepszą linię obrony przed terrorem i beznadzieją, jest to najsilniejsze antidotum na wszelkie traumatyczne wydarzenia. Trauma izoluje; społeczność odbudowuje poczucie przynależności. Trauma zawstydza i stygmatyzuje; społeczność daje świadectwo i afirmuje. Trauma poniża ofiarę; społeczność ją wywyższa. Trauma pozbawia ofiary człowieczeństwa; społeczność to człowieczeństwo przywraca.   
-> – Judith Herman, *Trauma and Recovery* 
+> <div style='text-align: right;'> Judith Herman, *Trauma and Recovery*</div>
 
 Najgorsze w tym wszystkim jest to, że nie mam żadnych innych przetrwanek, z którymi mogłabym dzielić się nieszczęściem. Przychodzą mi na myśl historie osób, które przeszły przez podobne sytuacje, ale znaleźli się inni, którzy je obronili i pomogli w reintegracji. Z ich historiami paraduje się po feministycznych przestrzeniach, przesyca się nimi media społecznościowe. Gdy się na nie natykam, nie czuję się wcale bezpieczniej, wręcz przeciwnie – moje odczłowieczenie ulega jedynie wzmocnieniu: „Czemu ja nie byłam warta obrony w dokładnie takiej samej sytuacji? Najwyraźniej oni byli ludźmi, a ja nie”.  
 
@@ -222,8 +222,8 @@ Zmięte śmieciowe ziny, spisane na brudnym, porozdzieranym papierze, trzymając
 
 Lenistwo nie jest lenistwem, jest wieloma innymi rzeczami: unikaniem spotkania z własnym ciałem, unikaniem triggerów, unikaniem myślenia o przyszłości, bo dowiedziono ponad wszelką wątpliwość, że będzie zupełnie beznadziejna. Przecięcie węzła gordyjskiego to nie oznaka siły, lecz wyczerpania. 
 
-> Choć starałam się, by niniejsze refleksje były sformułowane w sposób, który część z was może uznać za zrozumiały, nie stanowi to jednak reprezentatywnego przedstawienia mojej choroby. Napisanie tych paru akapitów wymagało zażywania stałych dawek leków, paru rozgorączkowanych przerw, kilku pauz w niebycie oraz kompletnego zaniedbania wszystkich innych zobowiązań. Kiedy próbowałam pisać w mojej prawdziwej formie – w najrzeczywistszych momentach mojej choroby – wszystko, co się ze mnie ulewało, to niekończące się zapętlenia oraz niezliczone, na wpół bełkotliwe objawienia.  
-> – Alli Yates 
+> Choć starałam się, by niniejsze refleksje były sformułowane w sposób, który część z was może uznać za zrozumiały, nie stanowi to jednak reprezentatywnego przedstawienia mojej choroby. Napisanie tych paru akapitów wymagało zażywania stałych dawek leków, paru rozgorączkowanych przerw, kilku pauz w niebycie oraz kompletnego zaniedbania wszystkich innych zobowiązań. Kiedy próbowałam pisać w mojej prawdziwej formie – w najrzeczywistszych momentach mojej choroby – wszystko, co się ze mnie ulewało, to niekończące się zapętlenia oraz niezliczone, na wpół bełkotliwe objawienia.
+> <div style='text-align: right;'> Alli Yates</div>  
 
 Gdy pisałam mój śmieciozin, robiłam to na powydzieranych kartkach, bo nie miałam siły ani czasu, by je ze sobą spiąć. Włożyłam je w plastikowe torebki na suwak – w śmieciową oprawę. W swojej nowej formie były odporne na siły natury i mogły wyruszyć do różnych ciekawych miejsc. Ukryłam jedną z nich pod mostem w Oakland i zapostowałam koordynaty w internecie. Ktoś ją znalazł. 
 
@@ -233,12 +233,12 @@ Jeśli chciał_byś je przeczytać, wypadną ci z torebki tak jak moje myśli �
 ### Społeczność to pozbywalność 
 
 > Nie ma czegoś takiego jak społeczności aktywistów, jest tylko ich pragnienie czy tworzenie wygodnej fikcji. Społeczność to materialnie istniejąca sieć, która wiąże ludzi ze sobą, na dobre i na złe, w relacji współzależności. Jeśli co parę lat członkowie odchodzą, bo jakieś inne miejsce wygląda na fajniejsze, to nie jest to społeczność. Jeśli łatwiej jest kogoś wyrzucić niż odbyć z nim serię trudnych rozmów, to nie jest to społeczność. W społeczeństwach, w których istniały faktyczne wspólnoty, wygnanie było najwyższą możliwą formą ukarania kogoś, równoważną z karą śmierci. Utrata wspólnoty i wszystkich relacji, jakie się z nią wiązały, była na wielu poziomach dokładnie tym samym, co śmierć. Nie udawajmy idiotów, nie mamy żadnych społeczności.  
-> – *Roztrzaskany czajniczek*, anonim 
+> <div style='text-align: right;'> *Roztrzaskany czajniczek*, anonim</div> 
 
 Ludzie pragną być częścią społeczności tak bardzo, że stało się to jakimś językowym wirusem. Wszystko na tym świecie okazuje się mieć przyczepioną do siebie społeczność, bez żadnego związku z różnorodną i pokawałkowaną rzeczywistością, jaka się za tym kryje. Z jednej strony jest to przejaw myślenia życzeniowego w świecie pełnym niezwykle samotnych ludzi (każda transfemka nosi w duszy długą na kilometr wyrwę, w miejscu gdzie powinna być społeczność), z drugiej – nieuniknionej transformacji wszystkiego, co się da, w produkt mający przynosić zysk. Queerowość to rynek zbytu. Subkultury to rynek. Kochanx, pamiętajcie, żeby kupić moje feministyczne zatyczki analne. 
 
 > Marzenie o wyobrażonej społeczności, która pozwala całkowicie utożsamiać się z rolą, jaką się w niej odgrywa, w stopniu wykluczającym wszelką wewnętrzność czy wątpliwości; stałość i klarowność widoku z lotu ptaka czy kliszy w opozycji do efemeryczności realnych doświadczeń: życie widziane z zewnątrz.  
-> <div style='text-align: right;'>– Stephen Murphy</div>
+> <div style='text-align: right;'> Stephen Murphy</div>
 
 By podtrzymać iluzję, te wyidealizowane społeczności wymagają pozbywalności – przemoc i ostracyzm wobec czarnych/brązowych/transpłciowych/śmieciowych ciał pełnią rolę zaworu bezpieczeństwa dla nieuniknionego lęku i rozczarowania odczuwanego przez tych, którzy pragną „totalnego utożsamienia się”. 
 
@@ -262,7 +262,7 @@ albo przetworzenie własnej bezsilności w autoidentyfikację,
 bo to dodaje cnoty  
 skarga staje się formą subkulturowego kapitału   
 sposobem na moralne oczyszczenie  
-> – Jackie Wang, *tumblryzacja życia codziennego*
+> <div style='text-align: right;'> Jackie Wang, *tumblryzacja życia codziennego*</div>
 
 Mainstreamowy feminizm wtłacza ból w cykl skarg i kliknięć, sprawiając, że wszyscy wokół ledwo trzymają się z rozemocjonowania. Ciągły atak, ciągły pokaz siły, ciągła walka o czystość. 
 
@@ -310,4 +310,4 @@ Wyciągnęłam nóż. Siłowałam się z nim. Zadzwoniłam po przyjaciółkę, b
 Szłam wzdłuż plaży, po raz pierwszy w pełni zdając sobie sprawę, jak PTSD, ta okropna choroba, odebrała mi czucie, skorodowała wszystko, czego doświadczyłam od tamtego sierpnia. Wreszcie poczułam jasność powietrza w moich płucach, kolor piasku i fal. Było tak pięknie. Chciałam tylko poczuć z powrotem wszystkie te rzeczy, które zostały mi skradzione”. 
 
 
-*Esej został opublikowany na portalu The New Inquiry 11 maja 2015 r. Wersja oryginalna do przeczytania [tutaj](https://thenewinquiry.com/hot-allostatic-load/).*
+*Esej został opublikowany na portalu „The New Inquiry” 11 maja 2015 r. na licencji CC-BY-NC-ND 3.0. Wersja oryginalna do przeczytania [tutaj](https://thenewinquiry.com/hot-allostatic-load/). Dziękujemy autorce za zgodę na przetłumaczenie i publikację tekstu.*
