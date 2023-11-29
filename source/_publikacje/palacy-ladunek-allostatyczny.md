@@ -1,9 +1,12 @@
 ---
-tags: tłumaczenie, trans studies
-meta: 
-  Autorzy: Porpentine, 
-  tłum. Dag Fajt, Nina Kuta
-  Korekta: Julia Zając
+tags: 'tłumaczenie, trans studies'
+meta:
+    Autor: Porpentine
+    Tłumaczenie: 'Dag Fajt, Nina Kuta'
+    Autorzy: Porpentine, tłum. Dag Fajt, Nina Kuta
+    Korekta: 'Julia Zając'
+opublikowano: '2023-11-29 20:38:45'
+zaktualizowano: '2023-11-29 20:38:45'
 ---
 
 # Palący ładunek allostatyczny 
