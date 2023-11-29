@@ -237,9 +237,8 @@ Jeśli chciał_byś je przeczytać, wypadną ci z torebki tak jak moje myśli �
 
 Ludzie pragną być częścią społeczności tak bardzo, że stało się to jakimś językowym wirusem. Wszystko na tym świecie okazuje się mieć przyczepioną do siebie społeczność, bez żadnego związku z różnorodną i pokawałkowaną rzeczywistością, jaka się za tym kryje. Z jednej strony jest to przejaw myślenia życzeniowego w świecie pełnym niezwykle samotnych ludzi (każda transfemka nosi w duszy długą na kilometr wyrwę, w miejscu gdzie powinna być społeczność), z drugiej – nieuniknionej transformacji wszystkiego, co się da, w produkt mający przynosić zysk. Queerowość to rynek zbytu. Subkultury to rynek. Kochanx, pamiętajcie, żeby kupić moje feministyczne zatyczki analne. 
 
-> Marzenie o wyobrażonej społeczności, która pozwala całkowicie utożsamiać się z rolą, jaką się w niej odgrywa, w stopniu wykluczającym wszelką wewnętrzność czy wątpliwości; stałość i klarowność widoku z lotu ptaka czy kliszy w opozycji do efemeryczności realnych doświadczeń: życie widziane z zewnątrz. 
-
-– Stephen Murphy 
+> Marzenie o wyobrażonej społeczności, która pozwala całkowicie utożsamiać się z rolą, jaką się w niej odgrywa, w stopniu wykluczającym wszelką wewnętrzność czy wątpliwości; stałość i klarowność widoku z lotu ptaka czy kliszy w opozycji do efemeryczności realnych doświadczeń: życie widziane z zewnątrz.  
+> – Stephen Murphy 
 
 By podtrzymać iluzję, te wyidealizowane społeczności wymagają pozbywalności – przemoc i ostracyzm wobec czarnych/brązowych/transpłciowych/śmieciowych ciał pełnią rolę zaworu bezpieczeństwa dla nieuniknionego lęku i rozczarowania odczuwanego przez tych, którzy pragną „totalnego utożsamienia się”. 
 
@@ -257,7 +256,7 @@ By znaleźć w queerowości to, czego pragnęłam, musiałam odnaleźć tych, kt
 
 >to nie tak, że jest „coś złego" z polityką skarżenia się  
 ale zapoznaj się z przeciwwskazaniami, do których należą:  
-wytworzenie stosunku zależności z „wrogiem”; 
+wytworzenie stosunku zależności z „wrogiem”;  
 polityczna samoneutralizacja poprzez zmarnowanie subwersywnej energii w pozbawionych znaczenia kanałach  
 albo przetworzenie własnej bezsilności w autoidentyfikację,  
 bo to dodaje cnoty  
