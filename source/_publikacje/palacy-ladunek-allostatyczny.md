@@ -128,7 +128,7 @@ Osoby, które, nawet nieświadomie, angażują się w mobbing, muszą uparcie tr
 ### Mobbing jako polowania na czarownice 
 
 > Jedną z lekcji, jakie możemy wyciągnąć z powrotu polowań na czarownice, jest brak przynależności tej formy prześladowań do żadnej konkretnej epoki historycznej. Zaczęła ona żyć swoim własnym życiem – te same mechanizmy mogą być stosowane w różnych społeczeństwach, zawsze kiedy pojawia się grupa ludzi, których trzeba wyrzucić na margines społeczności i zdehumanizować. Oskarżenia o czary są ostatecznym mechanizmem alienacji i wykluczenia ze społeczeństwa, jako że zmieniają one oskarżone – wciąż głównie kobiety – w monstra oddane misji zniszczenia swoich społeczności, tym samym niezasługujące na żadne współczucie czy solidarność.  
-> – Silvia Federici 
+> <div style='text-align: right;'> Silvia Federici</div>  
 
 Termin „polowanie na czarownicę” rzuca się w dyskusjach bez namysłu, więc przyjrzymy się temu, co naprawdę oznacza. Polowania na czarownice w ujęciu Silvii Federici były, podobnie jak niewolnictwo, odpowiedzią na przesunięcia w obszarze akumulacji kapitału. Do odpalenia wiecznie samoniszczącej się maszynerii kapitalizmu konieczne jest pozyskanie przymusowej siły roboczej (kobiecej i niebiałej), co wymaga zastosowania ogromnych ilości przemocy. Celem jest dewaluacja naszej pracy tak bardzo, jak to tylko możliwe, i zniszczenie więzi w obrębie grup zmarginalizowanych. 
 
@@ -188,7 +188,7 @@ System oparty na idei różnorodności spodziewa się, że do rozwiązania tego 
 ### Stygmatyzacja, którą nie można się podzielić 
 
 > Przejście przez traumatyczne wydarzenia niszczy więź pomiędzy jednostką a społecznością. Dla przetrwanek jasnym staje się, że ich poczucie siebie, własnej wartości, własnego człowieczeństwa, jest zależne od poczucia więzi z innymi. Solidarność wynikająca z bycia częścią grupy stanowi najlepszą linię obrony przed terrorem i beznadzieją, jest to najsilniejsze antidotum na wszelkie traumatyczne wydarzenia. Trauma izoluje; społeczność odbudowuje poczucie przynależności. Trauma zawstydza i stygmatyzuje; społeczność daje świadectwo i afirmuje. Trauma poniża ofiarę; społeczność ją wywyższa. Trauma pozbawia ofiary człowieczeństwa; społeczność to człowieczeństwo przywraca.   
-> <div style='text-align: right;'> Judith Herman, *Trauma and Recovery*</div>
+> <div style='text-align: right;'> Judith Herman, Trauma and Recovery</div>
 
 Najgorsze w tym wszystkim jest to, że nie mam żadnych innych przetrwanek, z którymi mogłabym dzielić się nieszczęściem. Przychodzą mi na myśl historie osób, które przeszły przez podobne sytuacje, ale znaleźli się inni, którzy je obronili i pomogli w reintegracji. Z ich historiami paraduje się po feministycznych przestrzeniach, przesyca się nimi media społecznościowe. Gdy się na nie natykam, nie czuję się wcale bezpieczniej, wręcz przeciwnie – moje odczłowieczenie ulega jedynie wzmocnieniu: „Czemu ja nie byłam warta obrony w dokładnie takiej samej sytuacji? Najwyraźniej oni byli ludźmi, a ja nie”.  
 
@@ -233,7 +233,7 @@ Jeśli chciał_byś je przeczytać, wypadną ci z torebki tak jak moje myśli �
 ### Społeczność to pozbywalność 
 
 > Nie ma czegoś takiego jak społeczności aktywistów, jest tylko ich pragnienie czy tworzenie wygodnej fikcji. Społeczność to materialnie istniejąca sieć, która wiąże ludzi ze sobą, na dobre i na złe, w relacji współzależności. Jeśli co parę lat członkowie odchodzą, bo jakieś inne miejsce wygląda na fajniejsze, to nie jest to społeczność. Jeśli łatwiej jest kogoś wyrzucić niż odbyć z nim serię trudnych rozmów, to nie jest to społeczność. W społeczeństwach, w których istniały faktyczne wspólnoty, wygnanie było najwyższą możliwą formą ukarania kogoś, równoważną z karą śmierci. Utrata wspólnoty i wszystkich relacji, jakie się z nią wiązały, była na wielu poziomach dokładnie tym samym, co śmierć. Nie udawajmy idiotów, nie mamy żadnych społeczności.  
-> <div style='text-align: right;'> *Roztrzaskany czajniczek*, anonim</div> 
+> <div style='text-align: right;'> Roztrzaskany czajniczek, anonim</div> 
 
 Ludzie pragną być częścią społeczności tak bardzo, że stało się to jakimś językowym wirusem. Wszystko na tym świecie okazuje się mieć przyczepioną do siebie społeczność, bez żadnego związku z różnorodną i pokawałkowaną rzeczywistością, jaka się za tym kryje. Z jednej strony jest to przejaw myślenia życzeniowego w świecie pełnym niezwykle samotnych ludzi (każda transfemka nosi w duszy długą na kilometr wyrwę, w miejscu gdzie powinna być społeczność), z drugiej – nieuniknionej transformacji wszystkiego, co się da, w produkt mający przynosić zysk. Queerowość to rynek zbytu. Subkultury to rynek. Kochanx, pamiętajcie, żeby kupić moje feministyczne zatyczki analne. 
 
@@ -262,7 +262,7 @@ albo przetworzenie własnej bezsilności w autoidentyfikację,
 bo to dodaje cnoty  
 skarga staje się formą subkulturowego kapitału   
 sposobem na moralne oczyszczenie  
-> <div style='text-align: right;'> Jackie Wang, *tumblryzacja życia codziennego*</div>
+> <div style='text-align: right;'> Jackie Wang, tumblryzacja życia codziennego</div>
 
 Mainstreamowy feminizm wtłacza ból w cykl skarg i kliknięć, sprawiając, że wszyscy wokół ledwo trzymają się z rozemocjonowania. Ciągły atak, ciągły pokaz siły, ciągła walka o czystość. 
 
@@ -292,10 +292,8 @@ Ideologia to chory fetysz.
 - Nawet jeśli ofiara przemocy nie chce prowadzić publicznej walki (co często jest bardzo zrozumiałe, czasami jedynym rozwiązaniem jest zostawienie całej sprawy za sobą), pamiętaj, by zapewnić jej wsparcie prywatnie. To kluczowy okres, od którego zależy to, czy w ranie nie rozwinie się infekcja i czy efekty PTSD zostaną zminimalizowane. Złamaną nogę można wyleczyć do stopnia, w którym z powrotem będzie można na niej biegać, ale można też ją zaniedbać i kuleć przez resztę życia. Chwilę wcześniej ogrom ludzi powiedział tej osobie, że cała przemoc, której doświadcza, jest jej własną winą. Jej ciało, jako że jest częścią organizmu społecznego, daje jej właśnie sygnał, że czas umierać. To, czego potrzebuje, to społeczna reintegracja, wsparcie i przestrzeń na wyzdrowienie. 
 - Zachowaj podejrzliwość wobec tego, co ludzie mówią ci o innych osobach trans, szczególnie gdy brak w tym konkretów. W tym obiegu plotek, który wyklucza osoby trans ze społeczności, niekoniecznie chodzi nawet o tych dającym wiarę pogłoskom, ale o tych, którzy dla własnego bezpieczeństwa nie chcą się wychylać – brzydki zwyczaj płynący z typowej niechęci do podejmowania ryzyka. 
 - Zadaj sobie pytanie, czy dokładnie to samo miałoby miejsce, gdyby dana osoba była biała/cispłciowa/pełnosprawna. 
-- „Radykalna inkluzywność musi zauważać krzywdy czynione w imię Pańskie” – Yvette Flunder. 
-
+- „Radykalna inkluzywność musi zauważać krzywdy czynione w imię Pańskie” – Yvette Flunder.  
 Przestrzenie osób zmarginalizowanych nie będą w stanie stworzyć zdrowej społeczności, jeśli całość ich działań w tym kierunku zawiera się w negacji mainstreamu. Musimy zacząć zauważać krzywdy uczynione ludziom przez przestrzenie feministyczne i ich modele działania. 
-
 - Posiadanie wspólnego wroga nie jest tym samym, co kochanie się nawzajem.
 - Opuść przestrzenie, które stawiają jakiś ideał czy lokalnego lidera ponad ludzi. 
 
