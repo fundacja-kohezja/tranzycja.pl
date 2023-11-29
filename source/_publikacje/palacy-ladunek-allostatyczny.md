@@ -1,8 +1,7 @@
 ---
 tags: 'tłumaczenie, trans studies'
 meta:
-    Autor: Porpentine
-    Tłumaczenie: 'Dag Fajt, Nina Kuta'
+    Autorzy: Porpentine, tłum. Dag Fajt, Nina Kuta
     Korekta: 'Julia Zając'
 opublikowano: '2023-11-29 20:38:45'
 zaktualizowano: '2023-11-29 20:38:45'
@@ -125,7 +124,7 @@ W raporcie Komisji Edukacji i Zatrudnienia australijskiej Izby Reprezentantów m
 
 Osoby, które, nawet nieświadomie, angażują się w mobbing, muszą uparcie trzymać się narracji, która przedstawia ofiary jako potwory. Tylko dzięki niej mogą utrzymywać iluzję bycia dobrymi ludźmi – grupowa przemoc tworzy grupową odpowiedzialność. Ceną za bezpieczeństwo ich ego jest kariera, zdrowie, bliscy, a czasem nawet życie ofiary. 
 
-## Mobbing jako polowania na czarownice 
+### Mobbing jako polowania na czarownice 
 
 > Jedną z lekcji, jakie możemy wyciągnąć z powrotu polowań na czarownice, jest brak przynależności tej formy prześladowań do żadnej konkretnej epoki historycznej. Zaczęła ona żyć swoim własnym życiem – te same mechanizmy mogą być stosowane w różnych społeczeństwach, zawsze kiedy pojawia się grupa ludzi, których trzeba wyrzucić na margines społeczności i zdehumanizować. Oskarżenia o czary są ostatecznym mechanizmem alienacji i wykluczenia ze społeczeństwa, jako że zmieniają one oskarżone – wciąż głównie kobiety – w monstra oddane misji zniszczenia swoich społeczności, tym samym niezasługujące na żadne współczucie czy solidarność. 
 > – Silvia Federici 
@@ -187,7 +186,7 @@ System oparty na idei różnorodności spodziewa się, że do rozwiązania tego 
 ## Komunikacja 
 ### Stygmatyzacja, którą nie można się podzielić 
 
-> Przejście przez traumatyczne wydarzenia niszczy więź pomiędzy jednostką a społecznością. Dla przetrwanek jasnym staje się, że ich poczucie siebie, własnej wartości, własnego człowieczeństwa, jest zależne od poczucia więzi z innymi. Solidarność wynikająca z bycia częścią grupy stanowi najlepszą linię obrony przed terrorem i beznadzieją, jest to najsilniejsze antidotum na wszelkie traumatyczne wydarzenia. Trauma izoluje; społeczność odbudowuje poczucie przynależności. Trauma zawstydza i stygmatyzuje; społeczność daje świadectwo i afirmuje. Trauma poniża ofiarę; społeczność ją wywyższa. Trauma pozbawia ofiary człowieczeństwa; społeczność to człowieczeństwo przywraca. 
+> Przejście przez traumatyczne wydarzenia niszczy więź pomiędzy jednostką a społecznością. Dla przetrwanek jasnym staje się, że ich poczucie siebie, własnej wartości, własnego człowieczeństwa, jest zależne od poczucia więzi z innymi. Solidarność wynikająca z bycia częścią grupy stanowi najlepszą linię obrony przed terrorem i beznadzieją, jest to najsilniejsze antidotum na wszelkie traumatyczne wydarzenia. Trauma izoluje; społeczność odbudowuje poczucie przynależności. Trauma zawstydza i stygmatyzuje; społeczność daje świadectwo i afirmuje. Trauma poniża ofiarę; społeczność ją wywyższa. Trauma pozbawia ofiary człowieczeństwa; społeczność to człowieczeństwo przywraca.  
 > – Judith Herman, *Trauma and Recovery* 
 
 Najgorsze w tym wszystkim jest to, że nie mam żadnych innych przetrwanek, z którymi mogłabym dzielić się nieszczęściem. Przychodzą mi na myśl historie osób, które przeszły przez podobne sytuacje, ale znaleźli się inni, którzy je obronili i pomogli w reintegracji. Z ich historiami paraduje się po feministycznych przestrzeniach, przesyca się nimi media społecznościowe. Gdy się na nie natykam, nie czuję się wcale bezpieczniej, wręcz przeciwnie – moje odczłowieczenie ulega jedynie wzmocnieniu: „Czemu ja nie byłam warta obrony w dokładnie takiej samej sytuacji? Najwyraźniej oni byli ludźmi, a ja nie”.  
