@@ -1,11 +1,11 @@
 ---
-tags: 'tłumaczenie, trans studies'
-meta:
-    Autorzy: Porpentine, tłum. Dag Fajt, Nina Kuta
-    Korekta: 'Julia Zając'
-opublikowano: '2023-11-29 20:38:45'
-zaktualizowano: '2023-11-29 20:38:45'
+tags: tłumaczenie, trans studies
+meta: 
+  Autorzy: Porpentine, 
+  tłum. Dag Fajt, Nina Kuta
+  Korekta: Julia Zając
 ---
+
 # Palący ładunek allostatyczny 
 
 ## Cześć 
@@ -126,7 +126,7 @@ Osoby, które, nawet nieświadomie, angażują się w mobbing, muszą uparcie tr
 
 ### Mobbing jako polowania na czarownice 
 
-> Jedną z lekcji, jakie możemy wyciągnąć z powrotu polowań na czarownice, jest brak przynależności tej formy prześladowań do żadnej konkretnej epoki historycznej. Zaczęła ona żyć swoim własnym życiem – te same mechanizmy mogą być stosowane w różnych społeczeństwach, zawsze kiedy pojawia się grupa ludzi, których trzeba wyrzucić na margines społeczności i zdehumanizować. Oskarżenia o czary są ostatecznym mechanizmem alienacji i wykluczenia ze społeczeństwa, jako że zmieniają one oskarżone – wciąż głównie kobiety – w monstra oddane misji zniszczenia swoich społeczności, tym samym niezasługujące na żadne współczucie czy solidarność. 
+> Jedną z lekcji, jakie możemy wyciągnąć z powrotu polowań na czarownice, jest brak przynależności tej formy prześladowań do żadnej konkretnej epoki historycznej. Zaczęła ona żyć swoim własnym życiem – te same mechanizmy mogą być stosowane w różnych społeczeństwach, zawsze kiedy pojawia się grupa ludzi, których trzeba wyrzucić na margines społeczności i zdehumanizować. Oskarżenia o czary są ostatecznym mechanizmem alienacji i wykluczenia ze społeczeństwa, jako że zmieniają one oskarżone – wciąż głównie kobiety – w monstra oddane misji zniszczenia swoich społeczności, tym samym niezasługujące na żadne współczucie czy solidarność.  
 > – Silvia Federici 
 
 Termin „polowanie na czarownicę” rzuca się w dyskusjach bez namysłu, więc przyjrzymy się temu, co naprawdę oznacza. Polowania na czarownice w ujęciu Silvii Federici były, podobnie jak niewolnictwo, odpowiedzią na przesunięcia w obszarze akumulacji kapitału. Do odpalenia wiecznie samoniszczącej się maszynerii kapitalizmu konieczne jest pozyskanie przymusowej siły roboczej (kobiecej i niebiałej), co wymaga zastosowania ogromnych ilości przemocy. Celem jest dewaluacja naszej pracy tak bardzo, jak to tylko możliwe, i zniszczenie więzi w obrębie grup zmarginalizowanych. 
@@ -186,7 +186,7 @@ System oparty na idei różnorodności spodziewa się, że do rozwiązania tego 
 ## Komunikacja 
 ### Stygmatyzacja, którą nie można się podzielić 
 
-> Przejście przez traumatyczne wydarzenia niszczy więź pomiędzy jednostką a społecznością. Dla przetrwanek jasnym staje się, że ich poczucie siebie, własnej wartości, własnego człowieczeństwa, jest zależne od poczucia więzi z innymi. Solidarność wynikająca z bycia częścią grupy stanowi najlepszą linię obrony przed terrorem i beznadzieją, jest to najsilniejsze antidotum na wszelkie traumatyczne wydarzenia. Trauma izoluje; społeczność odbudowuje poczucie przynależności. Trauma zawstydza i stygmatyzuje; społeczność daje świadectwo i afirmuje. Trauma poniża ofiarę; społeczność ją wywyższa. Trauma pozbawia ofiary człowieczeństwa; społeczność to człowieczeństwo przywraca.  
+> Przejście przez traumatyczne wydarzenia niszczy więź pomiędzy jednostką a społecznością. Dla przetrwanek jasnym staje się, że ich poczucie siebie, własnej wartości, własnego człowieczeństwa, jest zależne od poczucia więzi z innymi. Solidarność wynikająca z bycia częścią grupy stanowi najlepszą linię obrony przed terrorem i beznadzieją, jest to najsilniejsze antidotum na wszelkie traumatyczne wydarzenia. Trauma izoluje; społeczność odbudowuje poczucie przynależności. Trauma zawstydza i stygmatyzuje; społeczność daje świadectwo i afirmuje. Trauma poniża ofiarę; społeczność ją wywyższa. Trauma pozbawia ofiary człowieczeństwa; społeczność to człowieczeństwo przywraca.   
 > – Judith Herman, *Trauma and Recovery* 
 
 Najgorsze w tym wszystkim jest to, że nie mam żadnych innych przetrwanek, z którymi mogłabym dzielić się nieszczęściem. Przychodzą mi na myśl historie osób, które przeszły przez podobne sytuacje, ale znaleźli się inni, którzy je obronili i pomogli w reintegracji. Z ich historiami paraduje się po feministycznych przestrzeniach, przesyca się nimi media społecznościowe. Gdy się na nie natykam, nie czuję się wcale bezpieczniej, wręcz przeciwnie – moje odczłowieczenie ulega jedynie wzmocnieniu: „Czemu ja nie byłam warta obrony w dokładnie takiej samej sytuacji? Najwyraźniej oni byli ludźmi, a ja nie”.  
@@ -221,7 +221,7 @@ Zmięte śmieciowe ziny, spisane na brudnym, porozdzieranym papierze, trzymając
 
 Lenistwo nie jest lenistwem, jest wieloma innymi rzeczami: unikaniem spotkania z własnym ciałem, unikaniem triggerów, unikaniem myślenia o przyszłości, bo dowiedziono ponad wszelką wątpliwość, że będzie zupełnie beznadziejna. Przecięcie węzła gordyjskiego to nie oznaka siły, lecz wyczerpania. 
 
-> Choć starałam się, by niniejsze refleksje były sformułowane w sposób, który część z was może uznać za zrozumiały, nie stanowi to jednak reprezentatywnego przedstawienia mojej choroby. Napisanie tych paru akapitów wymagało zażywania stałych dawek leków, paru rozgorączkowanych przerw, kilku pauz w niebycie oraz kompletnego zaniedbania wszystkich innych zobowiązań. Kiedy próbowałam pisać w mojej prawdziwej formie – w najrzeczywistszych momentach mojej choroby – wszystko, co się ze mnie ulewało, to niekończące się zapętlenia oraz niezliczone, na wpół bełkotliwe objawienia. 
+> Choć starałam się, by niniejsze refleksje były sformułowane w sposób, który część z was może uznać za zrozumiały, nie stanowi to jednak reprezentatywnego przedstawienia mojej choroby. Napisanie tych paru akapitów wymagało zażywania stałych dawek leków, paru rozgorączkowanych przerw, kilku pauz w niebycie oraz kompletnego zaniedbania wszystkich innych zobowiązań. Kiedy próbowałam pisać w mojej prawdziwej formie – w najrzeczywistszych momentach mojej choroby – wszystko, co się ze mnie ulewało, to niekończące się zapętlenia oraz niezliczone, na wpół bełkotliwe objawienia.  
 > – Alli Yates 
 
 Gdy pisałam mój śmieciozin, robiłam to na powydzieranych kartkach, bo nie miałam siły ani czasu, by je ze sobą spiąć. Włożyłam je w plastikowe torebki na suwak – w śmieciową oprawę. W swojej nowej formie były odporne na siły natury i mogły wyruszyć do różnych ciekawych miejsc. Ukryłam jedną z nich pod mostem w Oakland i zapostowałam koordynaty w internecie. Ktoś ją znalazł. 
@@ -231,7 +231,7 @@ Jeśli chciał_byś je przeczytać, wypadną ci z torebki tak jak moje myśli �
 ## Dynamika społeczna 
 ### Społeczność to pozbywalność 
 
-> Nie ma czegoś takiego jak społeczności aktywistów, jest tylko ich pragnienie czy tworzenie wygodnej fikcji. Społeczność to materialnie istniejąca sieć, która wiąże ludzi ze sobą, na dobre i na złe, w relacji współzależności. Jeśli co parę lat członkowie odchodzą, bo jakieś inne miejsce wygląda na fajniejsze, to nie jest to społeczność. Jeśli łatwiej jest kogoś wyrzucić niż odbyć z nim serię trudnych rozmów, to nie jest to społeczność. W społeczeństwach, w których istniały faktyczne wspólnoty, wygnanie było najwyższą możliwą formą ukarania kogoś, równoważną z karą śmierci. Utrata wspólnoty i wszystkich relacji, jakie się z nią wiązały, była na wielu poziomach dokładnie tym samym, co śmierć. Nie udawajmy idiotów, nie mamy żadnych społeczności. 
+> Nie ma czegoś takiego jak społeczności aktywistów, jest tylko ich pragnienie czy tworzenie wygodnej fikcji. Społeczność to materialnie istniejąca sieć, która wiąże ludzi ze sobą, na dobre i na złe, w relacji współzależności. Jeśli co parę lat członkowie odchodzą, bo jakieś inne miejsce wygląda na fajniejsze, to nie jest to społeczność. Jeśli łatwiej jest kogoś wyrzucić niż odbyć z nim serię trudnych rozmów, to nie jest to społeczność. W społeczeństwach, w których istniały faktyczne wspólnoty, wygnanie było najwyższą możliwą formą ukarania kogoś, równoważną z karą śmierci. Utrata wspólnoty i wszystkich relacji, jakie się z nią wiązały, była na wielu poziomach dokładnie tym samym, co śmierć. Nie udawajmy idiotów, nie mamy żadnych społeczności.  
 > – *Roztrzaskany czajniczek*, anonim 
 
 Ludzie pragną być częścią społeczności tak bardzo, że stało się to jakimś językowym wirusem. Wszystko na tym świecie okazuje się mieć przyczepioną do siebie społeczność, bez żadnego związku z różnorodną i pokawałkowaną rzeczywistością, jaka się za tym kryje. Z jednej strony jest to przejaw myślenia życzeniowego w świecie pełnym niezwykle samotnych ludzi (każda transfemka nosi w duszy długą na kilometr wyrwę, w miejscu gdzie powinna być społeczność), z drugiej – nieuniknionej transformacji wszystkiego, co się da, w produkt mający przynosić zysk. Queerowość to rynek zbytu. Subkultury to rynek. Kochanx, pamiętajcie, żeby kupić moje feministyczne zatyczki analne. 
@@ -262,8 +262,7 @@ albo przetworzenie własnej bezsilności w autoidentyfikację,
 bo to dodaje cnoty  
 skarga staje się formą subkulturowego kapitału   
 sposobem na moralne oczyszczenie  
-
-– Jackie Wang, *tumblryzacja życia codziennego*
+> – Jackie Wang, *tumblryzacja życia codziennego*
 
 Mainstreamowy feminizm wtłacza ból w cykl skarg i kliknięć, sprawiając, że wszyscy wokół ledwo trzymają się z rozemocjonowania. Ciągły atak, ciągły pokaz siły, ciągła walka o czystość. 
 
