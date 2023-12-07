@@ -278,7 +278,7 @@ Jeśli po urodzeniu dziecka para zdecyduje się na powrót do Polski, to mogą j
 |[Fertimdica](https://www.fertimedica.pl/)|Warszawa|
 |[Gyncentrum](https://gyncentrum.pl/)|Bielsko-Biała, Częstochowa, Katowice, Lublin, Kraków, Poznań|
 |[Invicta](https://www.klinikainvicta.pl)|Bydgoszcz, Gdańsk, Gdynia, Słupsk, Warszawa, Wrocław|
-|[Invimed](https://www.invimed.pl)|dynia, Katowice, Poznań, Warszawa, Wrocław|
+|[Invimed](https://www.invimed.pl)|Gdynia, Katowice, Poznań, Warszawa, Wrocław|
 |[Medistica](https://medistica.com.pl/)|Kraków|
 |[nOvum](https://www.novum.com.pl)|Warszawa|
 |[Parens](https://parens.pl/)|Kraków, Rzeszów|
@@ -286,7 +286,11 @@ Jeśli po urodzeniu dziecka para zdecyduje się na powrót do Polski, to mogą j
 
 **Powyższa lista nie jest wyczerpująca**, a obejmuje jedynie pewien wybór klinik leczenia niepłodności z największych miast Polski. 
 
-Jako tranzycja.pl wysłaliśmy zapytania do ponad 20 polskich klinik odnośnie ich doświadczeń z transpłciowymi osobami pacjenckimi w zakresie mrożenia gamet. Do tej pory odpowiedziały nam dwie – **klinika Artivmed w Krakowie oraz nOvum w Warszawie.** Obie kliniki zadeklarowały wieloletnie doświadczenie w przyjmowaniu osób transpłciowych oraz brak problemów prawnych w przypadku używania zamrożonych gamet po zmianie danych oraz w obrębie innych krajów europejskich. 
+Jako tranzycja.pl wysłaliśmy zapytania do ponad 20 polskich klinik odnośnie ich doświadczeń z transpłciowymi osobami pacjenckimi w zakresie mrożenia gamet. Do tej pory odpowiedziały nam dwie – **klinika Artivmed w Krakowie oraz nOvum w Warszawie.** Obie kliniki zadeklarowały wieloletnie doświadczenie w przyjmowaniu osób transpłciowych oraz brak problemów prawnych w przypadku używania zamrożonych gamet po zmianie danych oraz w obrębie innych krajów europejskich. Z informacji społecznościowych wiemy również o transinkluzywności wrocławskiego oddziału Invimed. 
+
+:::info 
+Jeśli posiadasz informacje na temat transprzyjaznych klinik płodności, daj nam znać na mail kontakt@tranzycja.pl! Chętnie uzupełnimy listę.
+:::
 
 ### Cennik 
 
