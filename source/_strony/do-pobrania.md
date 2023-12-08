@@ -15,7 +15,7 @@ Matronatu publikacji udzieliły Kampania Przeciw Homofobii, Miłość Nie Wykluc
 
 ## Trans/Praca. Poradnik dla pracowników
 
-![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](/media/img/okładka-transpraca-poradnik-dla-pracownikow.png){.md:float-left .md:mr-5 .md:max-w-xl}
+![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](/media/img/okladka-transpraca-poradnik-dla-pracownikow.png){.md:float-left .md:mr-5 .md:max-w-xl}
 
 Pierwszy w Polsce poradnik przeznaczona dla transpłciowych pracowników, przygotowujący do podjęcia pracy, objaśniający meandry prawa i pomagający w pracowym coming-oucie.
 
@@ -34,7 +34,7 @@ Publikacja wydana we współpracy z Grupą Stonewall.
 
 ## Trans/Praca. Poradnik dla pracodawców
 
-![Okładka publikacji "Trans/Praca. Poradnik dla pracodawcow"](/media/img/okładka-transpraca-poradnik-dla-pracodawcow.png){.md:float-left .md:mr-5 .md:max-w-xl}
+![Okładka publikacji "Trans/Praca. Poradnik dla pracodawcow"](/media/img/okladka-transpraca-poradnik-dla-pracodawcow.png){.md:float-left .md:mr-5 .md:max-w-xl}
 
 Poradnik dla osób zatrudniających osoby transpłciowe, pomagający w stworzeniu inkluzywnego i przyjaznego miejsca pracy. 
 
