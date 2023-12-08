@@ -1,4 +1,4 @@
-# Dodatkowe materiały do pobrania
+# Materiały do pobrania
 
 ## Eksplorować do krwi. Analiza metod „terapii konwersyjnych” transpłciowości
 
@@ -12,8 +12,8 @@ W drugiej części raportu osoby autorskie prezentują konkretne metody stosowan
 
 Matronatu publikacji udzieliły m.in. Kampania Przeciw Homofobii, Miłość Nie Wyklucza, Grupa Stonewall, Instytut Splot oraz Pracownia Badań nad Historią i Tożsamościami LGBT+.
 
-[Pobierz!](/media/docs/autorskie/Eksplorować-do-krwi.pdf){.przycisk .md:clear-both}
-  
+[Pobierz!](/media/docs/autorskie/eksplorować-do-krwi.pdf){.przycisk .md:clear-both}
+
 ## Trans/Praca. Poradnik dla pracowników
 
 ![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](/media/img/okladka-transpraca-poradnik-dla-pracownikow.png){.md:float-left .md:mr-5 .md:max-w-xl}
