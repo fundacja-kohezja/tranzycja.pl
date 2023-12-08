@@ -13,7 +13,7 @@ W drugiej części raportu osoby autorskie prezentują konkretne metody stosowan
 Matronatu publikacji udzieliły m.in. Kampania Przeciw Homofobii, Miłość Nie Wyklucza, Grupa Stonewall, Instytut Splot oraz Pracownia Badań nad Historią i Tożsamościami LGBT+.
 
 [Pobierz!](/media/docs/autorskie/Eksplorować-do-krwi.pdf){.przycisk .md:clear-both}
-
+  
 ## Trans/Praca. Poradnik dla pracowników
 
 ![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](/media/img/okladka-transpraca-poradnik-dla-pracownikow.png){.md:float-left .md:mr-5 .md:max-w-xl}
@@ -23,7 +23,7 @@ Pierwszy w Polsce poradnik poświęcony osobom transpłciowym na rynku pracy. Na
 W poradniku znajdziesz m.in.:{.mb-0}
 - porady dotyczące szukania pracy, pisania CV i rozmowy kwalifikacyjnej;{.list-inside}
 - podstawy prawa pracy z wyłożonymi jasno różnicami między umową o pracę a umową zlecenia, z omówieniem takich kwestii jak nadgodziny, zapłata czy czas pracy;{.list-inside}
-- krótkie przedstawienie, co może stanowić dyskryminację według prawa; poradnik nie zastąpi konsultacji z osobą prawniczą, ale daje podstawowe rozeznanie w tym obszarze;{.list-inside}
+- krótkie przedstawienie, co może stanowić dyskryminację według prawa;{.list-inside}
 - porady dotyczące tranzycji w miejscu pracy: jak to zrobić, jak przygotować coming out, czego się spodziewać w kwestii obszarów podzielonych ze względu na płeć (np. szatnie, łazienki);{.list-inside}
 - wskazówki, co robić, gdy twoje prawa są łamane, do kogo się udać i jak się organizować.{.list-inside}
 
