@@ -10,7 +10,7 @@ W raporcie omawiamy uznane definicje i prawne regulacje „terapii konwersyjnych
 
 W drugiej części raportu osoby autorskie prezentują konkretne metody stosowane przez „terapeutów konwersyjnych” w oparciu o analizę książki dwójki z nich – Marcusa i Susan Evansów, brytyjskich psychoanalityków. Evansowie byli  zapraszani do Polski zarówno przez uznane organizacje psychologiczne i medyczne jak i fundamentalistów chrześcijańskich.
 
-Matronatu publikacji udzieliły Kampania Przeciw Homofobii, Miłość Nie Wyklucza, My Rodzice, Kultura Równości, Grupa Stonewall, Instytut Splot oraz Pracownia Badań nad Historią i Tożsamościami LGBT+.
+Matronatu publikacji udzieliły m.in. Kampania Przeciw Homofobii, Miłość Nie Wyklucza, Grupa Stonewall, Instytut Splot oraz Pracownia Badań nad Historią i Tożsamościami LGBT+.
 
 [Pobierz!](/media/docs/autorskie/Eksplorować-do-krwi.pdf){.przycisk .md:clear-both}
 
@@ -18,7 +18,7 @@ Matronatu publikacji udzieliły Kampania Przeciw Homofobii, Miłość Nie Wykluc
 
 ![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](/media/img/okladka-transpraca-poradnik-dla-pracownikow.png){.md:float-left .md:mr-5 .md:max-w-xl}
 
-Pierwszy w Polsce poradnik skoncentrowany na sytuacji osób transpłciowych na rynku pracy. Naszą publikację kierujemy właśnie do pracowników – poradnik przygotowuje do podjęcia pracy, objaśnia meandry prawa i pomaga w pracowym coming oucie. 
+Pierwszy w Polsce poradnik poświęcony osobom transpłciowym na rynku pracy. Naszą publikację kierujemy właśnie do pracowników – poradnik przygotowuje do podjęcia pracy, objaśnia meandry prawa i pomaga w pracowym coming oucie. 
 
 W poradniku znajdziesz m.in.:{.mb-0}
 - porady dotyczące szukania pracy, pisania CV i rozmowy kwalifikacyjnej;{.list-inside}
@@ -27,7 +27,7 @@ W poradniku znajdziesz m.in.:{.mb-0}
 - porady dotyczące tranzycji w miejscu pracy: jak to zrobić, jak przygotować coming out, czego się spodziewać w kwestii obszarów podzielonych ze względu na płeć (np. szatnie, łazienki);{.list-inside}
 - wskazówki, co robić, gdy twoje prawa są łamane, do kogo się udać i jak się organizować.{.list-inside}
 
-Poradnik kierujemy przede wszystkim do młodych osób trans dopiero zaczynających pracę, stąd miejscami omawiamy zagadnienia podstawowe. Jeśli jednak jesteś na rynku pracy nieco dłużej, także znajdziesz w poradniku przydatne wskazówki dotyczące prawa pracy i przepisów antydyskryminacyjnych.
+Poradnik kierujemy przede wszystkim do młodych osób trans dopiero zaczynających pracę. Jeśli jednak jesteś na rynku pracy nieco dłużej, także znajdziesz w poradniku przydatne wskazówki dotyczące prawa pracy i przepisów antydyskryminacyjnych.
 
 Publikacja wydana we współpracy z Grupą Stonewall. 
 
