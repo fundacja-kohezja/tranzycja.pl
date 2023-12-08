@@ -6,13 +6,15 @@
 
 Pierwsza publikacja w Polsce omawiająca współczesne postaci „terapii konwersyjnych” osób transpłciowych, przeznaczona zarówno dla specjalistów zajmujących się osobami transpłciowymi, jak i dziennikarzy oraz osób zainteresowanych problemami systemowej transfobii. 
 
+W raporcie omawiamy uznane definicje i prawne regulacje „terapii konwersyjnych” oraz ich zastosowanie w trwającej właśnie nagonce na prawa osób trans w USA oraz Wielkiej Brytanii. Poznanie międzynarodowego kontekstu pomoże przygotować polskich specjalistów na to, co może wydarzyć się w naszym kraju w najbliższych latach: wiele z organizacji chcących rozpocząć podobną nagonkę w Polsce używa dokładnie tych samych narracji i argumentów.
 
+W drugiej części raportu osoby autorskie prezentują konkretne metody stosowane przez „terapeutów konwersyjnych” w oparciu o analizę książki dwójki z nich – Marcusa i Susan Evansów, brytyjskich psychoanalityków. Evansowie byli  zapraszani do Polski zarówno przez uznane organizacje psychologiczne i medyczne jak i fundamentalistów chrześcijańskich.
 
 Matronatu publikacji udzieliły m.in. Kampania Przeciw Homofobii, Miłość Nie Wyklucza, Grupa Stonewall, Instytut Splot oraz Pracownia Badań nad Historią i Tożsamościami LGBT+.
 
 [Pobierz!](/media/docs/autorskie/eksplorować-do-krwi.pdf){.przycisk .md:clear-both}
 
-## Trans/Praca. Poradnik dla pracowników
+## Trans/Praca. Poradnik dla pracowników{.md:mt-56}
 
 ![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](/media/img/okladka-transpraca-poradnik-dla-pracownikow.png){.md:float-left .md:mr-5 .md:max-w-xl}
 
