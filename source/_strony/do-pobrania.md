@@ -14,7 +14,7 @@ Matronatu publikacji udzieliły m.in. Kampania Przeciw Homofobii, Miłość Nie 
 
 [Pobierz!](/media/docs/autorskie/eksplorować-do-krwi.pdf){.przycisk .md:clear-both}
 
-## Trans/Praca. Poradnik dla pracowników{.md:mt-56}
+## Trans/Praca. Poradnik dla pracowników{.md:mt-15}
 
 ![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](/media/img/okladka-transpraca-poradnik-dla-pracownikow.png){.md:float-left .md:mr-5 .md:max-w-xl}
 
@@ -49,7 +49,7 @@ Publikacja wydana we współpracy z Grupą Stonewall.
 
 [Pobierz!](/media/docs/autorskie/transpraca-poradnik-dla-pracodawcow.pdf){.przycisk .md:clear-both}
 
-## Ulotka "Pierwsze kroki w tranzycji medycznej"{.md:mt-56}
+## Ulotka "Pierwsze kroki w tranzycji medycznej"{.md:mt-25}
 
 ![Pierwsza strona ulotki "Pierwsze kroki w tranzycji medycznej"](/media/img/okladka-pierwsze-kroki-ulotka.png){.md:float-left .md:mr-5 .md:max-w-xl}
 
