@@ -6,9 +6,9 @@
 
 Pierwsza publikacja w Polsce omawiająca współczesne postaci „terapii konwersyjnych” osób transpłciowych, przeznaczona zarówno dla specjalistów zdrowia psychicznego oraz specjalistów zajmujących się osobami transpłciowymi, jak i dziennikarzy oraz osób zainteresowanych problemami systemowej transfobii. 
 
-W raporcie omawiamy uznane definicje i prawne regulacje „terapii konwersyjnych” oraz ich zastosowanie w trwającej właśnie zmasowanej nagonce na prawa osób trans w USA oraz Wielkiej Brytanii. Nie jest to jednak wyłącznie problem krajów anglosaskich: wiele z organizacji chcących rozpocząć podobną nagonkę w Polsce używa dokładnie tych samych narracji i argumentów, co powiązane z nimi organizacje zachodnie. Poznanie międzynarodowego kontekstu oraz metod działania tych organizacji pomoże przygotować polskich specjalistów, dziennikarzy, aktywistów oraz same osoby transpłciowe na to, co może wydarzyć się w naszym kraju w najbliższych latach.   
+W raporcie omawiamy uznane definicje i prawne regulacje „terapii konwersyjnych” oraz ich zastosowanie w trwającej właśnie zmasowanej nagonce na prawa osób trans w USA oraz Wielkiej Brytanii. Nie jest to jednak wyłącznie problem krajów anglosaskich: wiele z organizacji chcących rozpocząć podobną nagonkę w Polsce używa dokładnie tych samych narracji i argumentów, co powiązane z nimi organizacje zachodnie. Poznanie międzynarodowego kontekstu oraz metod działania tych organizacji pomoże przygotować polskich specjalistów na to, co może wydarzyć się w naszym kraju w najbliższych latach.   
 
-W drugiej części raportu osoby autorskie prezentują konkretne metody stosowane przez „terapeutów konwersyjnych” w oparciu o analizę książki dwójki z nich – Marcusa i Susan Evansów, brytyjskich psychoanalityków. Evansowie byli wielokrotnie zapraszani do Polski zarówno przez uznane organizacje psychologiczne i medyczne (jak Polskie Towarzystwo Psychoterapii Psychodynamicznej), jak i fundamentalistów chrześcijańskich, stanowią też reprezentatywny i bardzo medialny przykład działalności „terapeutów konwersyjnych”. 
+W drugiej części raportu osoby autorskie prezentują konkretne metody stosowane przez „terapeutów konwersyjnych” w oparciu o analizę książki dwójki z nich – Marcusa i Susan Evansów, brytyjskich psychoanalityków. Evansowie byli wielokrotnie zapraszani do Polski zarówno przez uznane organizacje psychologiczne i medyczne (jak Polskie Towarzystwo Psychoterapii Psychodynamicznej), jak i fundamentalistów chrześcijańskich.
 
 Matronatu publikacji udzieliły Kampania Przeciw Homofobii, Miłość Nie Wyklucza, My Rodzice, Kultura Równości, Grupa Stonewall, Instytut Splot oraz Pracownia Badań nad Historią i Tożsamościami LGBT+.   
 
@@ -22,12 +22,13 @@ Pierwszy w Polsce poradnik skoncentrowany na sytuacji osób transpłciowych na r
 
 W poradniku znajdziesz m.in.:{.mb-0}
 - porady dotyczące szukania pracy, pisania CV, rozmowy kwalifikacyjnej, zarówno z perspektywy wspólnej wszystkim pracownikom, jak i tej specyficznie transowej;{.list-inside}
-- podstawy prawa pracy z wyłożonymi jasno różnicami między umową o pracę a umową zlecenie, z omówieniem takich kwestii jak nadgodziny, zapłata, czas pracy, w tym tych obszarów, w których najczęściej w Polsce łamane są prawa pracownicze;{.list-inside}
-- objaśnienie prawa związanego z dyskryminacją i krótkie przedstawienie, co może stanowić dyskryminację według prawa; poradnik nie zastąpi konsultacji z osobą prawniczą, ale daje podstawowe rozeznanie w tym obszarze;{.list-inside}
+- podstawy prawa pracy z wyłożonymi jasno różnicami między umową o pracę a umową zlecenie, z omówieniem takich kwestii jak nadgodziny, zapłata czy czas pracy;{.list-inside}
+- krótkie przedstawienie, co może stanowić dyskryminację według prawa; poradnik nie zastąpi konsultacji z osobą prawniczą, ale daje podstawowe rozeznanie w tym obszarze;{.list-inside}
 - porady dotyczące tranzycji w miejscu pracy: jak to zrobić, jak przygotować coming out, czego się spodziewać, jeśli w twoim miejscu pracy funkcjonują obszary podzielone ze względu na płeć (np. szatnie, łazienki, pomieszczenia socjalne);{.list-inside}
 - wskazówki, co robić, gdy twoje prawa są łamane, do kogo się udać i jak się organizować.{.list-inside}
 
-Poradnik kierujemy przede wszystkim do młodych osób trans dopiero zaczynających pracę, stąd miejscami omawiamy zagadnienia podstawowe, przedstawiając pracownicze abecadło. Jeśli jednak jesteś na rynku pracy nieco dłużej, także znajdziesz w poradniku przydatne wskazówki dotyczące prawa pracy i przepisów antydyskryminacyjnych. 
+Poradnik kierujemy przede wszystkim do młodych osób trans dopiero zaczynających pracę, stąd miejscami omawiamy zagadnienia podstawowe, przedstawiając pracownicze abecadło. Jeśli jednak jesteś na rynku pracy nieco dłużej, także znajdziesz w poradniku przydatne wskazówki dotyczące prawa pracy i przepisów antydyskryminacyjnych.
+
 Publikacja wydana we współpracy z Grupą Stonewall. 
 
 [Pobierz!](/media/docs/autorskie/transpraca-poradnik-dla-pracownikow.pdf){.przycisk .md:clear-both}
