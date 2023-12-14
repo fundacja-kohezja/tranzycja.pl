@@ -65,7 +65,7 @@ W przypadku powtórzenia się sytuacji podobnej do takiej, w której sąd już o
 - W przypadku gdy osoba uznana za „matkę” wie, kim jest drugi rodzic, ale nie ma z jego strony chęci złożenia oświadczenia, to możliwe jest złożenie pozwu o ustalenie „ojcostwa”. Jest to procedura, w ramach której sąd sprawdza, czy dana osoba faktycznie jest „ojcem” dziecka. 
 - W przypadku nieznanego „ojca” w rubrykę wpisuje się tzw. dane kryjące, fikcyjne imię męskie. 
 
-Do tej pory w literaturze prawniczej znany jest jeden przypadek wpisania transpłciowego mężczyzny w miejsce „ojca" – dziecko pochodziło z ze związku z cis kobietą i zapłodnienia in vitro, nasienie uzyskano od anonimowego dawcy, a trans mężczyzna został „ojcem" na podstawie deklaracji potwierdzonej przez „matkę"[^2]. Osoby w takiej kombinacji związkowej mogą uniknąć walki sądowej. 
+Do tej pory w literaturze prawniczej znany jest jeden przypadek wpisania transpłciowego mężczyzny w miejsce „ojca" – dziecko pochodziło z zapłodnienia in vitro i urodziła je partnerka. Nasienie uzyskano od anonimowego dawcy, a trans mężczyzna został „ojcem" na podstawie deklaracji potwierdzonej przez „matkę"[^2]. Osoby w takiej kombinacji związkowej mogą uniknąć walki sądowej. 
 
 ### Kto zostanie wpisany w akt urodzenia dziecka? Omówienie przypadków 
 
