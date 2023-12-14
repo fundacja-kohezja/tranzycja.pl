@@ -81,59 +81,56 @@ Powyższe przypadki dotyczą sytuacji w trakcie sporządzenia aktu urodzenia. W 
 
 #### Kombinacja A 
 
-Osoba rodząca – płeć prawna: **K**, przypisana płeć: **K**. 
+Osoba rodząca – płeć prawna: **K**, przypisana płeć: **K**.  
 Drugi rodzic – płeć prawna: **M**, przypisana płeć: **K**.
 
 Bezproblemowe i omijające konieczność walki w sądzie. W celu zabezpieczenia „ojcostwa" najlepiej jest zawrzeć małżeństwo przed porodem – wówczas „ojcostwo" zostanie uznane automatycznie i dziecko będzie miało prawnie dwóch rodziców. W przypadku związku niesformalizowanego deklaracja „ojcostwa" w USC również jest możliwa. Oboje rodzice zostają prawnymi rodzicami dziecka. 
 
 #### Kombinacja B 
 
-Osoba rodząca – płeć prawna: **M**, przypisana płeć: **K**. 
+Osoba rodząca – płeć prawna: **M**, przypisana płeć: **K**.  
 Drugi rodzic – płeć prawna: **M**, przypisana płeć: **K**.
 
 W przypadku gdy „matką” zostaje prawny mężczyzna, to sytuacja „ojca” jest niejasna. Z jednej strony polskie prawo nie przewiduje możliwości wychowywania dzieci przez pary jednopłciowe, z drugiej pole „ojciec” jest przeznaczone dla mężczyzn. Najprawdopodobniej będzie wymagać orzeczenia sądu, trudno przewidzieć jaka decyzja zostałaby podjęta.
 
 #### Kombinacja C 
 
-Osoba rodząca – płeć prawna: **K**, przypisana płeć: **K**. 
+Osoba rodząca – płeć prawna: **K**, przypisana płeć: **K**.  
 Drugi rodzic – płeć prawna: **K**, przypisana płeć: **K**.
 
 Bez żadnej wątpliwości niemożliwe aż do momentu zmiany prawa w Polsce. Dziecko będzie miało tylko jednego prawnego opiekuna – osobę rodzącą uznaną za jego „matkę”. 
 
 #### Kombinacja D 
 
-Osoba rodząca – płeć prawna: **M**, przypisana płeć: **K**. 
-
+Osoba rodząca – płeć prawna: **M**, przypisana płeć: **K**.  
 Drugi rodzic – płeć prawna: **K**, przypisana płeć: **K**.
 
 Najprawdopodobniej niemożliwe. Dziecko będzie miało tylko jednego prawnego opiekuna – osobę uznaną za jego „matkę”. 
 
 #### Kombinacja E 
 
-Osoba rodząca – płeć prawna: **K**, przypisana płeć: **K**.
-
+Osoba rodząca – płeć prawna: **K**, przypisana płeć: **K**.  
 Drugi rodzic – płeć prawna: **M**, przypisana płeć: **M**.
 
 Sytuacja pozbawiona komplikacji. Po zmianie danych przez któregokolwiek z rodziców prawa rodzicielskie nie ulegają utracie. 
 
 #### Kombinacja F 
 
-Osoba rodząca – płeć prawna: **M**, przypisana płeć: **K**. 
+Osoba rodząca – płeć prawna: **M**, przypisana płeć: **K**.  
 Drugi rodzic – płeć prawna: **M**, przypisana płeć: **M**.
 
 Z jednej strony polskie prawo nie przewiduje możliwości wychowywania dzieci przez pary jednopłciowe, z drugiej pole „ojciec” jest przeznaczone dla mężczyzn. Najprawdopodobniej będzie wymagać orzeczenia sądu, trudno przewidzieć, jaka decyzja zostałaby podjęta.
 
 #### Kombinacja G 
 
-Osoba rodząca – płeć prawna: **K**, przypisana płeć: **K**. 
-
+Osoba rodząca – płeć prawna: **K**, przypisana płeć: **K**.  
 Drugi rodzic – płeć prawna: **K**, przypisana płeć: **M**.
 
 Wymagające orzeczenia sądu. Dotychczasowa praktyka wpisywania prawnych mężczyzn w rubrykę „matka” sugeruje możliwość wpisania prawnej kobiety w rubrykę „ojciec”, szczególnie, jeśli faktycznie jest ona biologicznym rodzicem dziecka. Do takich przypadków jeszcze jednak nie dochodziło i wymagałyby one ustalenia interpretacji prawa przez sąd. 
 
 #### Kombinacja H 
 
-Osoba rodząca – płeć prawna: **M**, przypisana płeć: **K**. 
+Osoba rodząca – płeć prawna: **M**, przypisana płeć: **K**.  
 Drugi rodzic – płeć prawna: **K**, przypisana płeć: **M**.
 
 Podobnie jak w kombinacji G. Główną różnicą jest możliwość zawarcia małżeństwa, co zwiększa szanse na pozytywny wyrok sądu.
