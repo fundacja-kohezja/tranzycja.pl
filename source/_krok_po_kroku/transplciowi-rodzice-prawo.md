@@ -75,6 +75,8 @@ Liczba poszczególnych kombinacji związków, oznaczeń płci w dokumentach oraz
 
 Powyższe przypadki dotyczą sytuacji w trakcie sporządzenia aktu urodzenia. W niektórych przypadkach wskazane mogłoby być zaplanowanie sprawy o ustalenie płci tak, by akt urodzenia został sporządzony w optymalnym momencie (np. dla pary dwóch trans mężczyzn bezpieczniejsza jest kombinacja A niż kombinacja B).
 
+W przypadku par składających się z dwóch osób produkujących komórki jajowe nasienie może być uzyskane od zaprzyjaźnionej osoby w ramach inseminacji domowej lub od anonimowego dawcy w ramach zapłodnienia in vitro. Obie procedury są szczegółowo omówione w [artykule o medycznych aspektach płodności.](https://tranzycja.pl/krok-po-kroku/plodnosc-osob-trans/#czy-istnieja-inne-opcje-zaplodnienia-poza-seksem-penetracyjnym). W przypadku par osób produkujących nasienie opcje są znacznie bardziej ograniczone – omawiamy je w dziale[ FAQ](https://tranzycja.pl/krok-po-kroku/transplciowi-rodzice-prawo/#faq) tego artykułu.
+
 :::spoiler Szczegółowe objaśnienie tabeli
  
 **UWAGA:** Omówienia wszystkich przypadków, w których osobą rodzącą jest osoba z „M” w dokumentach, są spekulacją powstałą na bazie wcześniej opisanego precedensu prawnego, w którym wpisano trans mężczyznę jako „matkę” dziecka. W sytuacji, w której sąd w inny sposób rozwiązałby sytuację transpłciowej osoby rodzącej, poniższe spekulacje będą bezpodstawne. 
