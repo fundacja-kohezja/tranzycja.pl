@@ -296,18 +296,19 @@ Poniżej znajdziecie tabelę porównująca kilka znanych klinik:
 
 | Nazwa kliniki              | Miasto | Koszt     | Wymagania: HRT / Ukończone 18 lat |  Wykonywane cięcia |
 | -------------------------- | ------  | --------- | ------------------------------------------ | ----------------- |
-|UniEstethica (Dr Libondi) | Kraków | 14.8 tys. | Tak / Tak| Keyhole, Peri, Lollipop/Extended Peri, DI|
-|Solumed (Dr Dydymski)| Poznań | 12,6 - 18,6 tys. (niższa cena za metody bezbliznowe)| Nie / Nie | Keyhole, Peri, Lollipop, T-anchor |
-|Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław |	11 tys.|Nie / Nie |	Okołootoczkowe, DI |
-|Gyneka (Szpital św. Róży, Dr Szepieniec)|	Kraków|	12 - 16 tys.|	Nie / Tak	|Okołootoczkowe, T-anchor|
-|LuxMed (Dr Lembas)|	Warszawa|	24 tys.|	Nie / Tak*	|DI|
-|Klinika Timeless (Dr Jaworowski)|	Warszawa|	17 - 21 tys.|	Nie / Nie|	Okołootoczkowe, DI|
-|Esculap (Dr Solarz lub Dr Kielan)|	Bielsko- Biała|	7.5 tys. + max 500 za duży rozmiar|	Nie / Nie |	Fishmouth, DI|
+|UniEstethica (Dr Libondi) | Kraków | 15.9 tys. | Tak / Tak| Keyhole, Peri, Lollipop/Extended Peri, DI|
+|Solumed (Dr Dydymski)| Poznań | 19 - 28 tys. (niższa cena za metody bezbliznowe)| Nie / Nie | Keyhole, Peri, Lollipop, T-anchor, DI |
+|Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław |	11.1 tys.|Nie / Nie |	Okołootoczkowe, DI |
+|Gyneka (Szpital św. Róży, Dr Szepieniec)|	Kraków|	16 - 18 tys.|	Nie / Tak	|Okołootoczkowe, T-anchor|
+|LuxMed (Dr Lembas)|	Warszawa|	25 tys.|	Nie / Tak*	|DI|
+|Klinika Timeless (Dr Jaworowski)|	Warszawa|	17 - 22 tys.|	Nie / Nie|	Okołootoczkowe, DI|
+|Esculap (Dr Solarz lub Dr Kielan)|	Bielsko- Biała|	9.5 - 12 tys. + max 500 za duży rozmiar|	Nie / Nie |	Fishmouth, DI|
 |Klinika Artura Zawisza|	Kraków|	15 - 18 tys.|	? / ?	|Okołootoczkowe, T-anchor, Lollipop|
-|NOA Clinic	|Wrocław|	14,5 tys.|	Tak / Tak |	Okołootoczkowe|
+|NOA Clinic	|Wrocław|	16.6 tys.|	Tak / Tak |	Okołootoczkowe|
+|Medimel |Szczecin|	13 tys.	| ?/Tak	| Okołootoczkowe|
 |Centrum Medyczne Bieńkowski|	Bydgoszcz|	15 tys.|	Tak / Nie |Okołootoczkowe, DI|
 |Centrum Medyczne BIENIEK	|Wrocław|	15 tys.|	Nie / Nie|	Okołootoczkowe, DI|
-|Wilmed	|Warszawa|	8 tys.|	? / ?	|Okołootoczkowe (peri/keyhole)|
+|Wilmed	|Warszawa|	14 tys.|	? / ?	|Okołootoczkowe (peri/keyhole)|
 
 *Dr Lembas poinformował że może operować na osobach poniżej 18 roku życia które mają już wniesioną sprawę do sądu odnośnie ustalenia płci
 
