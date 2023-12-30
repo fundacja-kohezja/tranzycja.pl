@@ -313,7 +313,7 @@ Poniżej znajdziecie tabelę porównująca kilka znanych klinik:
 *Dr Lembas poinformował że może operować na osobach poniżej 18 roku życia które mają już wniesioną sprawę do sądu odnośnie ustalenia płci
 
 :::warning
-Ceny operacji ostatni raz były uaktualniane w lipcu 2022 r. Z czasem ceny operacji mogą się zmieniać z racji na inflację.
+Ceny operacji ostatni raz były uaktualniane we wrześniu 2023 r. Z czasem ceny operacji mogą się zmieniać z racji na inflację.
 :::
 
 Jeżeli żadna z powyższych klinik nie spełnia Twoich wymagań, to zachęcamy do szukania innych rozwiązań. Klinik jest dużo, warto poszukać takiej, która będzie nam odpowiadać, zwłaszcza pod kątem ceny i lokalizacji. Jeżeli chodzi o doświadczenie — osobom z mniejszymi rozmiarami polecamy szukać klinik specjalizujących się w zabiegach dotyczących ginekomastii, a osobom z większymi klinik specjalizujących się w zabiegach plastyki piersi. Te pierwsze będą wprawione w cięciach „bezbliznowych" a te drugie w rozwiązaniach typu „lollipop" czy też „T-anchor".
