@@ -11,12 +11,12 @@
         <meta property="og:title" content="{{ $page->title() ?  $page->title() . ' | ' : '' }}{{ $page->nazwaWitryny }}">
         <meta property="og:description" content="{{ $page->description ?? $page->opisWitryny->pl }}">
         <meta property="og:url" content="{{ $page->baseUrl }}{{ $page->getPath() == '/home' ? '' : $page->getPath() }}">
-        <meta property="og:image" content="{{ $page->baseUrl }}/assets/img/social-share.png">
+        <meta property="og:image" content="{{ $page->baseUrl }}{{ $page->socialmedia ?: '/assets/img/social-share.png' }}">
         <meta property="og:type" content="website">
 
-        <meta name="twitter:image:alt" content="{{ $page->nazwaWitryny }}">
+        <meta name="twitter:image:alt" content="{{ $page->socialmedia ? $page->title() : $page->nazwaWitryny }}">
         <meta name="twitter:description" content="{{ $page->description ?? $page->opisWitryny->pl }}">
-        <meta name="twitter:image" content="{{ $page->baseUrl }}/assets/img/social-share.png">
+        <meta name="twitter:image" content="{{ $page->baseUrl }}{{ $page->socialmedia ?: '/assets/img/social-share.png' }}">
         <meta name="twitter:card" content="summary_large_image">
 
         <title>{{ $page->nazwaWitryny }}{{ ($force_title ?? false) ? (' | ' . $force_title) : ($page->title() ? ' | ' . $page->title() : ' – ' . $page->opisWitryny->pl) }}</title>

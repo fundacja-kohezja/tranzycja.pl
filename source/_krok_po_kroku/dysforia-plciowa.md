@@ -1,6 +1,7 @@
 ---
 kolejnosc: 30
 tags: krok po kroku, definicje
+socialmedia: /media/img/dysforia-plciowa.png
 meta: 
     Autorzy: Nina Kuta, Dag Fajt
     Korekta: lek. Katarzyna Marzęda
