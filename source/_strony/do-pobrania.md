@@ -14,6 +14,8 @@ Matronatu publikacji udzieliły m.in. Kampania Przeciw Homofobii, Miłość Nie 
 
 [Pobierz!](/media/docs/autorskie/eksplorować-do-krwi.pdf){.przycisk .md:clear-both}
 
+Angielska wersja językowa do ściągnięcia [TUTAJ](/media/docs/autorskie/exploring-till-they-bleed.pdf).
+
 ## Trans/Praca. Poradnik dla pracowników{.md:mt-56}
 
 ![Okładka publikacji "Trans/Praca. Poradnik dla pracowników"](/media/img/okladka-transpraca-poradnik-dla-pracownikow.png){.md:float-left .md:mr-5 .md:max-w-xl}
