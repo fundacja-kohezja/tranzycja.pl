@@ -2,7 +2,7 @@
 
 ## Wsparcie medyczne osób transpłciowych. Poradnik dla lekarzy POZ. 
 
-![Okładka publikacji "Wsparcie medyczne osób transpłciowych. Poradnik dla lekarzy POZ."](https://tranzycja.pl/source/media/img/okladka-poradnik-dla-lekarzy-poz.png){.md:float-left .md:mr-5 .md:max-w-xl}
+![Okładka publikacji "Wsparcie medyczne osób transpłciowych. Poradnik dla lekarzy POZ."](/media/img/okladka-poradnik-dla-lekarzy-poz.png){.md:float-left .md:mr-5 .md:max-w-xl}
 
 Kompleksowy poradnik dla lekarzy POZ, ale także innych pracowników ochrony zdrowia, zajmujących się pielęgniarstwem, ratownictwem lub praktyką medyczną w ramach różnych specjalizacji. Znajdziesz w nim najistotniejsze informacje medyczne dotyczące opieki zdrowotnej nad osobami transpłciowymi, opracowane przez zespół tranzycji.pl oraz szerokie grono lekarzy i ekspertów.  
 
