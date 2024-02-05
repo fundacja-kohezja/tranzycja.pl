@@ -1,11 +1,11 @@
 ---
 kolejnosc: 92
-tags: krok po kroku, tranzycja prawna
-meta: 
-    Autorzy: adw. Karolina Gierdal, Nina Kuta
-    Korekta: Julia Zając, Reza Sałejczyk 
+tags: 'krok po kroku, tranzycja prawna'
+meta:
+    Autorzy: 'adw. Karolina Gierdal, Nina Kuta'
+    Korekta: 'Julia Zając, Reza Sałejczyk'
+zaktualizowano: '2024-02-05 22:42:30'
 ---
-
 # Status prawny transpłciowych rodziców
 
 Polskie prawo zostało napisane pod jeden sztywny model rodziny – dziecko ma ojca mężczyznę oraz matkę kobietę. Wychowywanie dzieci przez związki jednopłciowe i/lub poliamoryczne nie jest w jakikolwiek sposób chronione przez prawo, a założenie domyślnej cispłciowości znacząco komplikuje sytuację prawną transpłciowych rodziców. 

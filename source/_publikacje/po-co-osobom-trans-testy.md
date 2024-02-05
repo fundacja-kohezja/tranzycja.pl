@@ -1,10 +1,11 @@
 ---
 tags: publikacje
-meta: 
-  Autorzy: Anna Wiatrowska, adw. Karolina Gierdal
-  Korekta: Julia Zając, Nina Kuta
+meta:
+    Autorzy: 'Anna Wiatrowska, adw. Karolina Gierdal'
+    Korekta: 'Julia Zając, Nina Kuta'
+opublikowano: '2024-02-05 22:42:30'
+zaktualizowano: '2024-02-05 22:42:30'
 ---
-
 # Po co osobom transpłciowym testy psychologiczne?
 
 W Polsce jednym z podstawowych dokumentów zazwyczaj wymaganych do rozpoczęcia terapii hormonalnej, przeprowadzenia operacji afirmującej płeć lub sądowej zmiany oznaczenia płci w dokumentach jest opinia psychologiczna (zwana czasami opinią psychologiczno-seksuologiczną). Tak zwanym opiniowaniem transpłciowości zajmuje się w Polsce niewielka garstka psychologów (najczęściej po studiach podyplomowych z seksuologii), a sama procedura najczęściej obejmuje zastosowanie testów psychologicznych. 
