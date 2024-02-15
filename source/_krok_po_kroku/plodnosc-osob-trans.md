@@ -1,12 +1,12 @@
 ---
 kolejnosc: 86
-tags: krok po kroku, tranzycja medyczna
-meta: 
-    Autorzy: lek. Katarzyna Marzęda, Nina Kuta
-    Konsultacja prawna: adw. Karolina Gierdal
-    Korekta: Julia Zając, Otalia Łysakowska, Reza Sałejczyk 
+tags: 'krok po kroku, tranzycja medyczna'
+meta:
+    Autorzy: 'lek. Katarzyna Marzęda, Nina Kuta'
+    'Konsultacja prawna': 'adw. Karolina Gierdal'
+    Korekta: 'Julia Zając, Otalia Łysakowska, Reza Sałejczyk'
+zaktualizowano: '2024-02-05 22:42:30'
 ---
-
 # Płodność osób transpłciowych
 
 Płodność osób transpłciowych pozostaje tematem lekceważonym. Chęć posiadania biologicznego potomstwa przez wiele lat była uważana przez seksuologów i diagnostów za przeciwwskazanie do tranzycji, co wynikało z heteronormatywnych założeń na temat męskiej oraz żeńskiej „roli reprodukcyjnej”. W niektórych krajach (jak w Słowacji) przymusowa sterylizacja jest osadzonym w prawie wymogiem zmiany oznaczenia płci w dokumentach. Wbrew wyobrażeniom seksuologów, chęć wzięcia udziału w wychowaniu dziecka jest wśród osób transpłciowych wysoka – w zależności od kraju, płci i grupy wiekowej jest to od ok. 30%[^1][^2] do nawet 70%[^3][^4] osób trans. Chęć posiadania biologicznego potomka dotyczy około połowy osób zainteresowanych rodzicielstwem (czyli od 15% do 35%). 
