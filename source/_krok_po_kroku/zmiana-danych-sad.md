@@ -484,7 +484,7 @@ Poniższe wzory zostały przygotowane przez adw. Karolinę Gierdal. Wzory pism m
 - [Wzór wniosku o przyspieszenie rozprawy](https://docs.google.com/document/d/1TU21zhg9XBmNTFCAAVzHBb5R-54V4F4x/edit?usp=drive_link&ouid=107936684266840851469&rtpof=true&sd=true) 
 - [Wzór wniosku o bezpośrednie doręczenie](https://docs.google.com/document/d/1FLLrVZp2HbkgQeTpaGr8NAZKw74pf6S3/edit?usp=drive_link&ouid=107936684266840851469&rtpof=true&sd=true)
 - [Wzór wniosku o udostępnienie danych jednostkowych z rejestru mieszkańców oraz rejestru PESEL](https://drive.google.com/file/d/1iGKHj2zlipgZwbj51y4imTyZCUqhVrQ_/view?usp=drive_link) (wzór państwowy) 
-- [Wzór pełnomocnictwa do doręczeń](https://docs.google.com/document/d/1r3Ku5c1qfTkeQldS5hV2mN2ohVerTmPR/edit?usp=sharing&ouid=107936684266840851469&rtpof=true&sd=true) (wzór państwowy)
+- [Wzór pełnomocnictwa do doręczeń](https://docs.google.com/document/d/1r3Ku5c1qfTkeQldS5hV2mN2ohVerTmPR/edit?usp=sharing&ouid=107936684266840851469&rtpof=true&sd=true)
 
 ## Dodatkowe materiały 
 
