@@ -90,7 +90,7 @@ Treść pozwu może być bardzo istotna dla przebiegu sprawy, stąd **odradzamy 
 Polecany przez nas wzór pozwu, zawierający wszystkie istotne wnioski, przygotowała adw. Karolina Gierdal, a konsultowany był z Grupą Prawną Stowarzyszenia Lambda Warszawa.
 
 - [Wariant dla osób używających żeńskich form gramatycznych](https://docs.google.com/document/d/19dL7DrVHN6Y6OhU75IlaKLzHHjRrrod4/edit?usp=sharing&ouid=107936684266840851469&rtpof=true&sd=true)
-- [Wariant dla osób używających męskich form gramatycznych](https://docs.google.com/document/d/1SXdX-oK1R7tv0x379Ry85-Lt8bd4bM5Y/edit?usp=drive_link&ouid=107936684266840851469&rtpof=true&sd=true)
+- [Wariant dla osób używających męskich form gramatycznych](https://docs.google.com/document/d/1KuGieBfWtpnK6ZLCuonnL30BtTc840gX/edit?usp=drive_link&ouid=107936684266840851469&rtpof=true&sd=true)
 
 Wielu sędziów nie ma dobrego rozeznania w kwestii transpłciowości i z tego względu może zwyczajnie nie wiedzieć, jak prowadzić taki proces czy jaka dokumentacja jest wystarczająca. Z tego względu szczególnie ważne jest powołanie się na dokumenty, które mogą pokierować sędziego w stronę szybszego załatwienia sprawy. Dwa najważniejsze dokumenty w tym obszarze to: 
 
