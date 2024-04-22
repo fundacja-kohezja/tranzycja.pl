@@ -1,11 +1,12 @@
 ---
 tags: tłumaczenie
-meta: 
-  Autorzy: Gaza Group, Queers in Palestine 
-  Tłumaczenie: Nina Kuta
-  Korekta: Dag Fajt, Julia Zając
+meta:
+    Autorzy: 'Gaza Group, Queers in Palestine'
+    Tłumaczenie: 'Nina Kuta'
+    Korekta: 'Dag Fajt, Julia Zając'
+opublikowano: '2024-04-22 17:45:43'
+zaktualizowano: '2024-04-22 17:45:43'
 ---
-
 # Głosy z Gazy: odezwy palestyńskich queerów i feministek przeciwko ludobójstwu
 
 Poniżej przedstawiamy tłumaczenia dwóch odezw opublikowanych w listopadzie 2023 r. na platformie [„Queers in Palestine”](https://queersinpalestine.noblogs.org/) oraz tekstu przemówienia [*Nie ma feminizmu bez Gazy*](https://www.gazagroup.net/No-Feminist-Struggle-Without-Gaza-) opublikowanego 8 marca 2024 r. na stronie „Gaza Group”. 
