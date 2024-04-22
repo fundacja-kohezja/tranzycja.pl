@@ -116,3 +116,8 @@ Chwała ruchowi oporu. Niech żyje nasza międzynarodowa walka. Precz z kolonial
 Nie ma przyszłości bez Gazy. 
 
 Nie ma feminizmu bez Gazy.
+
+[^1]: Abya Yala – przedkolumbijskie określenie na kontynent Ameryki Południowej wywodzące się z języka Indian Kuna. 
+[^2]: Wyspa Żółwia – określenie na kontynent Ameryki Północnej wywodzące się z wierzeń różnych plemion rdzennych Amerykanów. 
+[^3]: Aotearoa – maoryskie określenie na Nową Zelandię. 
+[^4]: Symulakrum – obraz stworzony na podstawie obrazu, nieoparty na rzeczywistości, ale tworzący swoją własną. 
