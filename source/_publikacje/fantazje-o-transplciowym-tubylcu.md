@@ -1,10 +1,11 @@
 ---
-tags: publikacje, trans studies
-meta: 
-    Autorzy: Evan B. Towle i Lynn M. Morgan
-    Tłumaczenie: Michał Petryk
+tags: 'publikacje, trans studies'
+meta:
+    Autorzy: 'Evan B. Towle i Lynn M. Morgan'
+    Tłumaczenie: 'Michał Petryk'
+opublikowano: '2024-04-29 03:45:36'
+zaktualizowano: '2024-04-29 03:45:36'
 ---
-
 # Fantazje o transpłciowym tubylcu. Rewizje pojęcia „trzecia płeć” 
 
 ## Od redakcji 
