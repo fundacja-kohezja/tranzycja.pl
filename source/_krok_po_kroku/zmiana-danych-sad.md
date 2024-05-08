@@ -467,6 +467,8 @@ O historii podejścia do osób transpłciowych w prawie można przeczytać więc
 
 :::info
 Poniższe wzory zostały przygotowane przez adw. Karolinę Gierdal. Wzory pism można przeglądać również [w folderze na GoogleDrive.](https://drive.google.com/drive/folders/1pHwR5KFiLUSdHJjXwSzWzkB2Rq5z02ly?usp=sharing)
+
+By skorzystać ze wzoru należy wybrać zakładkę „Plik", potem opcję „Pobierz", wybrać używany przez Ciebie format (najprawdopodobniej .docx) i edytować pobrany już dokument na swoim dysku. Wzory internetowe nie są do edycji publicznej, więc prośby o udostępnienie dokumentu nie będą akceptowane.
 :::
 
 #### Wzór pozwu o ustalenie płci:
