@@ -79,7 +79,7 @@ Niestety u niekompetentnych specjalistów mogą pojawiać się pytania o zachowa
 
 Zalecenia PTS jako badania opcjonalne wymieniają badanie ginekologiczne u osób transmęskich (USG macicy, USG piersi oraz wymaz z szyjki macicy) oraz urologiczne u osób transkobiecych. Część specjalistów zupełnie je odpuszcza, część może nie zgodzić się wystawić diagnozy bez nich (dotyczy to szczególnie badania ginekologicznego). **Jeśli odczuwasz znaczącą dysforię w związku z nimi, to możesz nie zgodzić się na wykonanie badania i powołać się przy tym na zalecenia PTSu.** 
 
-Część z psychologów będzie wymagać wypełnienia kwestionariuszy MMRI-2 do wystawienia opinii psychologicznej. Niestety może wiązać się to ze znaczącym kosztem.
+Część z psychologów będzie wymagać wypełnienia kwestionariuszy MMPI-2 do wystawienia opinii psychologicznej. Niestety może wiązać się to ze znaczącym kosztem.
 
 Część seksuologów może wymagać badania kariotypu. Nie ma to uzasadnienia klinicznego, ale jest czasami wymagane przez sąd. Jest to jednak spotykane coraz rzadziej i wiele lekarzy i pacjentów odpuszcza sobie wykonanie tego badania.
 
