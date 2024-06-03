@@ -1,10 +1,11 @@
 ---
-tags: trans studies
-meta: 
-  Autorzy: J. Szpilka
-  Korekta: Julia Zając
+tags: 'trans studies'
+meta:
+    Autorzy: 'J. Szpilka'
+    Korekta: 'Julia Zając'
+opublikowano: '2024-06-03 18:01:21'
+zaktualizowano: '2024-06-03 18:01:21'
 ---
-
 # Trzy powody, dla których kink powinien być na Pride’ach 
 
 Dyskusja nad tym, czy kink powinien być dopuszczany do obecności w obrębie wydarzeń typu Pride, na dobre weszła do repertuaru naszych czerwcowych sprzeczek. Czasami można wręcz odnieść wrażenie, że spór o to, czy faceci w psich maskach bądź dziewczyny w obrożach mają prawo do maszerowania podczas manifestacji queerowej dumy, jest niemal równie ważny jak pytanie, czy do tych samych parad należy dopuszczać policjantów, bankierów i durnych polityków. Co więcej, problemy te są powszechnie postrzegane jako powiązane – z jednej strony regularnie powraca argument, że kink na Pride czyni takie imprezy mniej przyjaznymi dla rodzin z dziećmi. Z drugiej zaś można usłyszeć, że niechęć do elementów BDSM podczas Parad Równości to przejaw komercjalizacji Pride’u w ogóle, który z rewolucyjnej manifestacji przekształcił się w spektakl korporacyjnego pinkwashingu. 
