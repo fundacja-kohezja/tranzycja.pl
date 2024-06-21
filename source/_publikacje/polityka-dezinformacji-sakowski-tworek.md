@@ -1,10 +1,11 @@
 ---
-tags: publikacje, krytyka
-meta: 
-  Autorzy: Dag Fajt, Nina Kuta
-  Korekta: Julia Zając, Nina Kuta
+tags: 'publikacje, krytyka'
+meta:
+    Autorzy: 'Dag Fajt, Nina Kuta'
+    Korekta: 'Julia Zając, Nina Kuta'
+opublikowano: '2024-06-21 00:36:01'
+zaktualizowano: '2024-06-21 00:36:01'
 ---
-
 # Polityka dezinformacji. Analiza manipulacji Łukasza Sakowskiego na temat transpłciowych nastolatków.
 
 Z przykrością stwierdzamy, że do grona mediów uczących osoby transpłciowe, by nie spodziewać się po nich szacunku dla tożsamości oraz rzetelnej wiedzy naukowej, dołączyła w tygodniu „Polityka”, która w swoim ostatnim numerze opublikowała kuriozalny artykuł autorstwa dziennikarki Dominiki Tworek oraz aktywisty antytrans Łukasza Sakowskiego. 
