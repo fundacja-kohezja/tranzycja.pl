@@ -161,8 +161,9 @@ niepełnosprawne nie są w stanie podejmować decyzji o sobie, jest dyskryminuj�
 
 *WPATH Files* miał miejsce w marcu 2024 r., a finalna wersja kilkusetstronicowego *Cass Report* została opublikowana w maju. Twierdzenie o wpływie *WPATH Files* na decyzje brytyjskiego NHS jest bezpodstawne i mało realistyczne, tym bardziej, że Wielka Brytania podejmowała działania w celu dalszego ograniczenia dostępu do blokerów dojrzewania lata przed publikacją wycieku[^87]. 
 
-> *Jeszcze więcej „terapeutów” konwersyjnych
-Przed tzw. afirmatywnym podejściem do zmiany płci ostrzegali wybitni specjaliści, w tym amerykański psycholog kliniczny dr James Cantor, który pracował m.in. w Centrum Uzależnień i Zdrowia Psychicznego w Toronto oraz wykładał jako profesor na Uniwersytecie w Toronto, dr Debra Soh – kanadyjska neurobiolożka i autorka badań nad parafiliami seksualnymi z York University, psycholog i genetyk prof. Michael Bailey z Northwestern University czy polski seksuolog i psychiatra prof. Zbigniew Lew-Starowicz, do niedawna prezes Polskiego Towarzystwa Seksuologicznego.*
+## Jeszcze więcej „terapeutów” konwersyjnych
+
+> *Przed tzw. afirmatywnym podejściem do zmiany płci ostrzegali wybitni specjaliści, w tym amerykański psycholog kliniczny dr James Cantor, który pracował m.in. w Centrum Uzależnień i Zdrowia Psychicznego w Toronto oraz wykładał jako profesor na Uniwersytecie w Toronto, dr Debra Soh – kanadyjska neurobiolożka i autorka badań nad parafiliami seksualnymi z York University, psycholog i genetyk prof. Michael Bailey z Northwestern University czy polski seksuolog i psychiatra prof. Zbigniew Lew-Starowicz, do niedawna prezes Polskiego Towarzystwa Seksuologicznego.*
 
 Powoływanie się na argument z autorytetu bez podawania informacji dotyczących dorobku danej osoby jest manipulacją. W tym przypadku służy próbie wybielania co najmniej kontrowersyjnych postaci. 
 
