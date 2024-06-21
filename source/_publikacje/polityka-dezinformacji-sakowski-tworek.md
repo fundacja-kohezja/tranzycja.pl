@@ -136,7 +136,7 @@ Niemieckie Zgromadzenie Medyczne nie jest organem rządowym i nie posiada inicja
 
 ## WPATH
 
-*Jakby tego było mało, na początku marca środowiskiem medycznym wstrząsnął wyciek wewnętrznej korespondencji i nagrań ze spotkań członków World Professional Association for Transgender Health (WPATH), największego na świecie stowarzyszenia aktywistów na rzecz transpłciowości, ale też: psychiatrów, seksuologów, psychologów, chirurgów, endokrynologów i prawników. Jego celem jest upowszechnianie zmiany płci u osób z dysforią płciową. Z wycieku wynika, że członkowie WPATH wiedzą, że tranzycja wcale nie leczy tego zaburzenia. Przyznają, że leki hormonalne podawane w ramach zmiany płci mogą zwiększać ryzyko zapadania na nowotwory.*
+> *Jakby tego było mało, na początku marca środowiskiem medycznym wstrząsnął wyciek wewnętrznej korespondencji i nagrań ze spotkań członków World Professional Association for Transgender Health (WPATH), największego na świecie stowarzyszenia aktywistów na rzecz transpłciowości, ale też: psychiatrów, seksuologów, psychologów, chirurgów, endokrynologów i prawników. Jego celem jest upowszechnianie zmiany płci u osób z dysforią płciową. Z wycieku wynika, że członkowie WPATH wiedzą, że tranzycja wcale nie leczy tego zaburzenia. Przyznają, że leki hormonalne podawane w ramach zmiany płci mogą zwiększać ryzyko zapadania na nowotwory.*
 
 Wyciek tzw. *WPATH Files* nie wstrząsnął środowiskiem medycznym – żadna organizacja medyczna się do niego nie odniosła. Pomimo szerokiego omówienia w prawicowych mediach nie doprowadził on do żadnych znaczących zmian ani w obrębie WPATH, ani innych organizacji nadal współpracujących z WPATH.
 
