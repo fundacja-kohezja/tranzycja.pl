@@ -5,6 +5,10 @@ zaktualizowano: '2024-06-21 09:39:47'
 ---
 # Oświadczenie organizacji LGBT+ w sprawie artykułu Łukasza Sakowskiego i Dominiki Tworek w tygodniku „Polityka"
 
+:::info 
+Poniżej publikujemy treść oświadczenia 43 organizacji LGBT+ przekazanego do redakcji „Polityki". Szczegółową odpowiedź tranzycja.pl na artykuł Sakowskiego i Tworek znajdziesz [**tutaj**](https://tranzycja.pl/publikacje/polityka-dezinformacji-sakowski-tworek/).
+:::
+
 Szanowna redakcjo tygodnika „Polityka”,
 
 z wielkim zaskoczeniem i rozczarowaniem przyjęliśmy informację o ukazaniu się w najnowszym wydaniu „Polityki” artykułu Łukasza Sakowskiego oraz Dominiki Tworek „Tranzycja: nie tak prędko? Może ostrożniej z decyzją o korekcie płci”, który w sposób nierzetelny i manipulacyjny atakuje transpłciowe dzieci oraz ich prawo do opieki medycznej. 
@@ -31,51 +35,49 @@ Wzywamy tygodnik „Polityka” do wycofania artykułu „Tranzycja: nie tak pr�
 
 Z poważaniem
 
-Federacja Znaki Równości
-Feminoteka
-Fundacja Autonomia
-Fundacja Centrum Pozytywnych Zmian
-Fundacja DiversityPL
-Fundacja Dziewuchy Dziewuchom
-Fundacja GrowSPACE
-Fundacja Instytut Spraw Społecznych
-Fundacja Interakcja
-Fundacja PROMENADA
-Fundacja Równik Praw
-Fundacja Równość.org.pl
-Fundacja Trans-Fuzja
-Fundacja „Transpłciowość w rodzinie”
-Fundacja Wiara i Tęcza
-Fundacja Wrzenie
-Fundusz dla Odmiany
-Grupa Nieustającej Pomocy
-Kolektyw Legalna Aborcja
-Kolektyw Rada Języka Neutralnego – zaimki.pl
-Marsz Równości w Gnieźnie
-Marsz Równości w Rawiczu
-Marsz Równości w Rzeszowie
-Oddolne Centrum Społeczno Kulturalne Postój
-Queer nad Odrą
-PrideNews.pl
-Stowarzyszenie Amnesty International
-Stowarzyszenie Fabryka Równości
-Stowarzyszenie Grupa Stonewall
-Stowarzyszenie Kampania Przeciw Homofobii
-Stowarzyszenie Kultura Równości
-Stowarzyszenie Lambda Warszawa
-Stowarzyszenie Marsz Równości w Lublinie
-Stowarzyszenie Miłość Nie Wyklucza
-Stowarzyszenie My, Rodzice
-Stowarzyszenie Prowincja Równości
-Stowarzyszenie Queerowy Maj
-Stowarzyszenie Tęczówka
-Stowarzyszenie Voces Gaudii
-Stowarzyszenie na rzecz osób LGBT „Tolerado”
-Tęczowa Częstochowa
-Tęczowy Sanok
-Tranzycja.pl
-
-
+Federacja Znaki Równości  
+Feminoteka  
+Fundacja Autonomia  
+Fundacja Centrum Pozytywnych Zmian  
+Fundacja DiversityPL  
+Fundacja Dziewuchy Dziewuchom  
+Fundacja GrowSPACE  
+Fundacja Instytut Spraw Społecznych  
+Fundacja Interakcja  
+Fundacja PROMENADA  
+Fundacja Równik Praw  
+Fundacja Równość.org.pl  
+Fundacja Trans-Fuzja  
+Fundacja „Transpłciowość w rodzinie”  
+Fundacja Wiara i Tęcza  
+Fundacja Wrzenie  
+Fundusz dla Odmiany  
+Grupa Nieustającej Pomocy  
+Kolektyw Legalna Aborcja  
+Kolektyw Rada Języka Neutralnego – zaimki.pl  
+Marsz Równości w Gnieźnie  
+Marsz Równości w Rawiczu  
+Marsz Równości w Rzeszowie  
+Oddolne Centrum Społeczno Kulturalne Postój  
+Queer nad Odrą  
+PrideNews.pl  
+Stowarzyszenie Amnesty International  
+Stowarzyszenie Fabryka Równości  
+Stowarzyszenie Grupa Stonewall  
+Stowarzyszenie Kampania Przeciw Homofobii  
+Stowarzyszenie Kultura Równości  
+Stowarzyszenie Lambda Warszawa  
+Stowarzyszenie Marsz Równości w Lublinie  
+Stowarzyszenie Miłość Nie Wyklucza  
+Stowarzyszenie My, Rodzice  
+Stowarzyszenie Prowincja Równości  
+Stowarzyszenie Queerowy Maj  
+Stowarzyszenie Tęczówka  
+Stowarzyszenie Voces Gaudii  
+Stowarzyszenie na rzecz osób LGBT „Tolerado”  
+Tęczowa Częstochowa  
+Tęczowy Sanok  
+Tranzycja.pl  
 
 [^1]: Fajt, D., Kuta, N. (2024). *Polityka dezinformacji. Analiza manipulacji Łukasza Sakowskiego na temat transpłciowych nastolatków.* Tranzycja.pl https://tranzycja.pl/publikacje/polityka-dezinformacji-sakowski-tworek
 [^2]:Cohen-Kettenis, P. T., Schagen, S. E., Steensma, T. D., de Vries, A. L., & Delemarre-van de Waal, H. A. (2011). Puberty suppression in a gender-dysphoric adolescent: a 22-year follow-up. *Archives of Sexual Behavio*r, 40(4), 843–847. https://doi.org/10.1007/s10508-011-9758-9
