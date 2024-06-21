@@ -1,7 +1,8 @@
 ---
-tags: list, publikace
+tags: 'list, publikace'
+opublikowano: '2024-06-21 09:39:47'
+zaktualizowano: '2024-06-21 09:39:47'
 ---
-
 # Oświadczenie organizacji LGBT+ w sprawie artykułu Łukasza Sakowskiego i Dominiki Tworek w tygodniku „Polityka"
 
 Szanowna redakcjo tygodnika „Polityka”,
