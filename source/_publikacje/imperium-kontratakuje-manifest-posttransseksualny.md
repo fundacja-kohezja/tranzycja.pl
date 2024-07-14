@@ -24,8 +24,8 @@ Przekładając tekst Stone, wykorzystujemy do pisania o transpłciowości pojęc
 
 Serdecznie dziękujemy prof. Sandy Stone za zgodę na publikację tłumaczenia!
 
-:::info 
 ### Słowniczek
+:::info 
 
 **Akulturacja** – tu w znaczeniu: dostosowanie się do norm otaczającej kultury i przyjęcie ich jako własne.
 
