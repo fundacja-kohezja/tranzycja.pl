@@ -5,14 +5,10 @@ tags:
     - ' trans studies'
 opublikowano: '2024-07-14 16:28:50'
 zaktualizowano: '2024-07-14 16:28:50'
----
----
-tags: publikacje, trans studies
 meta: 
     Autorzy: Sandy Stone
     Tłumaczenie: Poli Głowacka, Reza Sałajczyk
-    Redakcja: Julia Zając
-    Korekta: Nina Kuta
+    Redakcja: Julia Zając, Nina Kuta
 ---
 
 # Imperium kontratakuje. Manifest posttransseksualny
