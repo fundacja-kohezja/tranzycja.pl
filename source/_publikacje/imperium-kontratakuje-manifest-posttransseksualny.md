@@ -1,5 +1,4 @@
 ---
-title: 'Imperium kontratakuje. Manifest posttransseksualny'
 tags:
     - publikacje
     - ' trans studies'
