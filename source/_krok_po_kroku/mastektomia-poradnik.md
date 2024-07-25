@@ -310,11 +310,12 @@ Poniżej znajdziecie tabelę porównująca kilka znanych klinik:
 |Centrum Medyczne BIENIEK	|Wrocław|	15 tys.|	Nie / Nie |	Okołootoczkowe, DI| 09.23 | 
 |Wilmed	|Warszawa|	15 tys.|	? / ?	|Okołootoczkowe (peri/keyhole)| 07.24 | 
 |Szpital na Klinach | Kraków |	14 tys.|	Nie / Nie	| Okołootoczkowe? | 07.24 | 
-|Dr. Piotr Burszewski |Szczecin| NFZ |	Tak / Tak | Keyhole z przedłużeniem, DI| 07.24 | 
-|Aesthetic Med	|Szczecin| ? |	Tak / Tak | ? | 07.24 | 
-|Aesthethe	|Bytom | ? |	Tak / Tak	| ? | 07.24 | 
+|Dr. Piotr Burszewski** |Szczecin| NFZ |	Tak / Tak | Keyhole z przedłużeniem, DI| 07.24 | 
+|Aesthetic Med**	|Szczecin| ? |	Tak / Tak | ? | 07.24 | 
+|Aesthethe**	|Bytom | ? |	Tak / Tak	| ? | 07.24 | 
 
-*Dr Lembas poinformował że może operować na osobach poniżej 18 roku życia które mają już wniesioną sprawę do sądu odnośnie ustalenia płci
+*Dr Lembas poinformował że może operować na osobach poniżej 18 roku życia które mają już wniesioną sprawę do sądu odnośnie ustalenia płci.
+**Konieczne jest przejście przez sądową zmianę oznaczenia płci.
 
 :::warning
 Zwróć uwagę na ostatnią aktualizację danych — z czasem ceny operacji mogą się zmieniać. Jeśli ceny zawarte powyżej nie są już aktualne, odezwij się do nas na kontakt@tranzycja.pl z odpowiednią informacją. 
