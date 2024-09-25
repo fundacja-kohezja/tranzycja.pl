@@ -9,8 +9,6 @@ Masz pytania lub pomysły którymi chcesz się podzielić? A może chcesz nas we
 
 <script type="text/javascript" src="https://webform.statslive.info/ow/eyJpdiI6IkdnU2pPVWNwUmdPWFpTWURabENMaE1oMEpSMnBcL1B4Tkl1XC9GV21TMjBrTT0iLCJ2YWx1ZSI6InRzXC9XTXZhaUlXM3Q0SVpMdXRRWlBITlNFNmVFbDZLVXJuRHBaUFlibjE0PSIsIm1hYyI6ImVmYzRjOGIwNmVmNjcwODI4NWIzNDVkMmNiYTZlNGU2ZGIzMTVjMTFmNGU5ZWM1ODg2YzNjZTJmN2FhMjE0ZjcifQ=="></script>
 
-Ten projekt może się rozwijać tylko dzięki osobom ze społeczności, które chcą się dzielić swoimi doświadczeniami. Masz jakieś uwagi, pomysły, teksty którymi chcesz się podzielić i wspólnie z nami rozwijać ten projekt? Dołącz do [naszej grupy na FB](https://www.facebook.com/groups/889108318556729)!
-
 ## Skontaktuj się z nami bezpiecznie
 
 Pamiętaj, że w przypadku korzystania z tracydyjnej poczty e-mail oraz innych popularnych komunikatorów, istnieje ryzyko, że wgląd do Twojej korespondencji uzyskają osoby trzecie. Jeśli Twoja wiadomość wymaga zachowania szczególnej poufności, możesz skorzystać z komunikatora Signal (+48732066641) bądź zaszyfrować wiadomość (np. e-mail) za pomocą PGP.
