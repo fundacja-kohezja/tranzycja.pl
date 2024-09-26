@@ -6,10 +6,9 @@ Masz pytania lub pomysły którymi chcesz się podzielić? A może chcesz nas we
 🌐 Facebook: [facebook.com/tranzycjapl](https://www.facebook.com/tranzycjapl/)  
 
 ## Dołącz do naszej społeczności
+Ważna jest dla nas niezależność od korporacji i ich algorytmów, a także transparentność, dlatego chcemy mieć możliwość komunikowania naszych działań bez pośrednictwa mediów społecznościowych. W naszych mailach rozsyłanych ok. raz na miesiąc, będziemy się dzielić nie tylko tym, co publikujemy w mediach społecznościowych, ale również rzeczami, nad którymi aktualnie pracujemy i kierunkami, w jakich zamierzamy się rozwijać. 
 
 <script type="text/javascript" src="https://webform.statslive.info/ow/eyJpdiI6IkdnU2pPVWNwUmdPWFpTWURabENMaE1oMEpSMnBcL1B4Tkl1XC9GV21TMjBrTT0iLCJ2YWx1ZSI6InRzXC9XTXZhaUlXM3Q0SVpMdXRRWlBITlNFNmVFbDZLVXJuRHBaUFlibjE0PSIsIm1hYyI6ImVmYzRjOGIwNmVmNjcwODI4NWIzNDVkMmNiYTZlNGU2ZGIzMTVjMTFmNGU5ZWM1ODg2YzNjZTJmN2FhMjE0ZjcifQ=="></script>
-
-Ten projekt może się rozwijać tylko dzięki osobom ze społeczności, które chcą się dzielić swoimi doświadczeniami. Masz jakieś uwagi, pomysły, teksty którymi chcesz się podzielić i wspólnie z nami rozwijać ten projekt? Dołącz do [naszej grupy na FB](https://www.facebook.com/groups/889108318556729)!
 
 ## Skontaktuj się z nami bezpiecznie
 
