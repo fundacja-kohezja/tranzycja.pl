@@ -18,6 +18,23 @@ Publikacja powstała we współpracy z Grupą Stonewall w ramach inkubatora „W
 
 [Pobierz!](/media/docs/autorskie/poradnik-dla-lekarzy-poz.pdf){.przycisk .mb-1}
 
+## Transpłciowa młodzież w szkole. Podstawy prawne w pytaniach i odpowiedziach. 
+
+![Okładka publikacji "Transpłciowa młodzież w szkole. Podstawy prawne w pytaniach i odpowiedziach."](/media/img/okladka-szkola-podstawy-prawne.png){.md:float-left .md:mr-5 .md:max-w-xl}
+
+W tej broszurze znajdziesz opracowane przez Grupę Prawną Stowarzyszenia Lambda Warszawa odpowiedzi na na najczęstsze pytania związane z prawnymi aspektami obecności transpłciowej młodzieży w szkołach.
+
+- Czy szkoła musi respektować tożsamość płciową ucznia/uczennicy?
+- Czy istnieją podstawy prawne, by używać wybranego imienia ucznia/uczennicy?
+- Co zrobić w sytuacjach lub miejscach, w których tradycyjnie dzieli się uczniów i uczennice ze względu na płeć?
+- Czy uczeń/uczennica musi przedstawić jakąś dokumentację, aby szkoła uznała ich transpłciowość?
+
+Poradnik będzie przydatny nie tylko dla nauczycieli, ale także samych uczniów oraz ich rodziców.
+
+Publikacja powstała we współpracy z Grupą Stonewall.   
+
+[Pobierz!](/media/docs/autorskie/szkola-podstawy-prawne.pdf){.przycisk .mb-1}
+
 ## Eksplorować do krwi. Analiza metod „terapii konwersyjnych” transpłciowości
 
 ![Okładka publikacji "Eksplorować do krwi"](/media/img/okladka-eksplorować-do-krwi.png){.md:float-left .md:mr-5 .md:max-w-xl}
