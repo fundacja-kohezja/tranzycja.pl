@@ -1,6 +1,6 @@
 # Materiały do pobrania
 
-## Wsparcie medyczne osób transpłciowych. Poradnik dla lekarzy POZ. 
+## Wsparcie medyczne osób transpłciowych. Poradnik dla lekarzy POZ.{.md:mt-56}
 
 ![Okładka publikacji "Wsparcie medyczne osób transpłciowych. Poradnik dla lekarzy POZ."](/media/img/okladka-poradnik-dla-lekarzy-poz.png){.md:float-left .md:mr-5 .md:max-w-xl}
 
@@ -18,7 +18,7 @@ Publikacja powstała we współpracy z Grupą Stonewall w ramach inkubatora „W
 
 [Pobierz!](/media/docs/autorskie/poradnik-dla-lekarzy-poz.pdf){.przycisk .mb-1}
 
-## Transpłciowa młodzież w szkole. Podstawy prawne w pytaniach i odpowiedziach. 
+## Transpłciowa młodzież w szkole. Podstawy prawne w pytaniach i odpowiedziach.{.md:mt-56}
 
 ![Okładka publikacji "Transpłciowa młodzież w szkole. Podstawy prawne w pytaniach i odpowiedziach."](/media/img/okladka-szkola-podstawy-prawne.png){.md:float-left .md:mr-5 .md:max-w-xl}
 
@@ -70,7 +70,7 @@ Publikacja wydana we współpracy z Grupą Stonewall.
 
 [Pobierz!](/media/docs/autorskie/transpraca-poradnik-dla-pracownikow.pdf){.przycisk .md:clear-both}
 
-## Trans/Praca. Poradnik dla pracodawców
+## Trans/Praca. Poradnik dla pracodawców{.md:mt-56}
 
 ![Okładka publikacji "Trans/Praca. Poradnik dla pracodawcow"](/media/img/okladka-transpraca-poradnik-dla-pracodawcow.png){.md:float-left .md:mr-5 .md:max-w-xl}
 
