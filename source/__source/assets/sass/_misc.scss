@@ -61,6 +61,47 @@
             background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 36'%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill:%23E53E3E;%7D.cls-2%7Bfill:none;stroke:%23E53E3E;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;%7D%3C/style%3E%3C/defs%3E%3Cpath class='cls-1' d='M25,21h0a2,2,0,0,1-2-2V9a2,2,0,0,1,2-2h0a2,2,0,0,1,2,2V19A2,2,0,0,1,25,21Zm2,6a2,2,0,0,1-2,2h0a2,2,0,0,1-2-2h0a2,2,0,0,1,2-2h0a2,2,0,0,1,2,2ZM25,0A18,18,0,1,0,43,18,18,18,0,0,0,25,0Z'/%3E%3Cpath class='cls-2' d='M8,35A24,24,0,0,1,8,1'/%3E%3Cpath class='cls-2' d='M42,1A24,24,0,0,1,42,35'/%3E%3C/svg%3E");
         }
     }
+    &-layout {
+        @apply .-mx-3;
+        display: grid;
+        grid-template-columns: 30% 1fr;
+        grid-auto-flow: row dense;
+        gap: 0 1em;
+        h2 {
+            font-size: 1.5em;
+        }
+        ul {
+            margin-top: 0;
+        }
+        > :first-child {
+            grid-column: 2 / 3;
+            align-self: center;
+        }
+        > :nth-child(2) {
+            grid-column: 1 / 2;
+            align-self: center;
+            ~ * {
+                grid-column: 1 / 3;
+            }
+        }
+        @media (min-width: 960px) {
+            @apply .p-5;
+            @apply .mx-0;
+            gap: 0 1.5em;
+            > :first-child {
+                grid-column: 2 / 3;
+            }
+            > :nth-child(2) {
+                grid-column: 1 / 2;
+                grid-row: 1 / 100;
+                align-self: start;
+                margin: 0;
+                ~ * {
+                    grid-column: 2 / 3;
+                }
+            }
+        }
+    }
     @include dark {
         &::before {
             opacity: 0.25;
