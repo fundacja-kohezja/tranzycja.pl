@@ -56,6 +56,7 @@ class CustomMdParser implements MarkdownParser
             ->plugin(new Alert, 'info')         // :::info
             ->plugin(new Alert, 'warning')      // :::warning
             ->plugin(new Alert, 'danger')       // :::danger
+            ->plugin(new Alert, 'layout')       // :::layout
             ->plugin(new Spoiler, 'spoiler')    // :::spoiler
             ->plugin(new Footnote)              // [^1]
             ->plugin(new Attributes)            // {.class}
