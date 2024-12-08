@@ -57,7 +57,7 @@ W drugiej części raportu osoby autorskie prezentują konkretne metody stosowan
 
 Matronatu publikacji udzieliły m.in. Kampania Przeciw Homofobii, Miłość Nie Wyklucza, Grupa Stonewall, Instytut Splot oraz Pracownia Badań nad Historią i Tożsamościami LGBT+.
 
-[Pobierz!](/media/docs/autorskie/eksplorować-do-krwi.pdf)
+[Pobierz!](/media/docs/autorskie/eksplorować-do-krwi.pdf){.przycisk}
 
 Angielska wersja językowa do ściągnięcia [TUTAJ](/media/docs/autorskie/exploring-till-they-bleed.pdf).
 
@@ -82,7 +82,7 @@ Poradnik kierujemy przede wszystkim do młodych osób trans dopiero zaczynający
 
 Publikacja wydana we współpracy z Grupą Stonewall. 
 
-[Pobierz!](/media/docs/autorskie/transpraca-poradnik-dla-pracownikow.pdf)
+[Pobierz!](/media/docs/autorskie/transpraca-poradnik-dla-pracownikow.pdf){.przycisk}
 
 :::
 
