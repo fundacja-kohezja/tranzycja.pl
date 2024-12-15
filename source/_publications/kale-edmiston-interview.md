@@ -1,12 +1,6 @@
 ---
-title: Untitled
-tags:
-    - publikacje
-    - ' wywiad'
 opublikowano: '2024-12-15 18:11:26'
 zaktualizowano: '2024-12-15 18:11:26'
----
----
 tags: publikacje, wywiad, english
 meta: 
   Autorzy: dr. Kale Edmiston, Nina Kuta
