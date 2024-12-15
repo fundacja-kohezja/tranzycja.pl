@@ -1,10 +1,11 @@
 ---
-tags: publikacje, wywiad
-meta: 
-  Autorzy: dr. Kale Edmiston, Nina Kuta
-  Korekta: Julia Zając
+tags: 'publikacje, wywiad'
+meta:
+    Autorzy: 'dr. Kale Edmiston, Nina Kuta'
+    Korekta: 'Julia Zając'
+opublikowano: '2024-12-15 18:57:59'
+zaktualizowano: '2024-12-15 18:57:59'
 ---
-
 # Czy transpłciowe nastolatki są zdolne do świadomej decyzji o tranzycji? Wywiad z neuronaukowcem, dr. Edmistonem
 
 ::: info
