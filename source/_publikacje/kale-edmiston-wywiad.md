@@ -1,9 +1,4 @@
 ---
-title: Untitled
-
----
-
----
 tags: publikacje, wywiad
 meta: 
   Autorzy: dr. Kale Edmiston, Nina Kuta
