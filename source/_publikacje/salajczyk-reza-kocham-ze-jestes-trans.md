@@ -69,7 +69,7 @@ Poniżej zajmę się omówieniem kilku aspektów T4T. Trzy motywy, które intuic
 
 ## pożądanie 
 
-„wszystkie osoby trans są hot” 
+„wszystkie osoby trans są hot”  
 „trans ciała są piękne” 
 
 Transowe pożądanie bywa zdradliwe. Nosi klątwę cisheteroseksistowskiej medycyny – wyobrażania sobie transowych podmiotów jako możliwych jedynie heteroseksualnie, a czasem zupełnej odmowy wyobrażania sobie naszych ciał i seksualności inaczej niż jako odrażających i zboczonych, wymagających „korekty”, inherentnie prowadzących do rozczarowania. Bywa niezdarne, zbyt intensywne, bo przez nasze dorastanie wiele z nas nie miało możliwości, żeby się w nim ćwiczyć, ani wiedzy, jak to robić. Bywa krzywdzące, gdy powiela przemocowe schematy i/lub opiera się na logice zinternalizowanej transfobii. Jednak w swojej bezpiecznej formie może stać się punktem zbiegu wyjątkowych doświadczeń. 
