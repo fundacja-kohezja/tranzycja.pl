@@ -7,6 +7,9 @@ zaktualizowano: '2024-12-29 19:45:21'
 ---
 # „kocham, że też jesteś trans” <br/> o trans separatyzmie, trans radości i trans miłości 
 
+![Ilustracja to cyfrowy kolaż, łączący renesansowy obraz na którym Eros i Psyche leżą przytuleni do siebie, niewyraźne tło wydaje się być oknem przez które widać szare, polskie blokowisko.](https://tranzycja.pl/media/img/kochamtrans-eros.jpg)  
+> Reza Sałajczyk, *T4T Eros i Psyche*, 2024
+
 *grudzień 2022*
 ## wstęp//peryferie 
 
@@ -132,7 +135,7 @@ Zdaję sobie sprawę, że pomimo lat asymilacyjnego aktywizmu nadal jesteśmy na
 Pozwolę sobie tutaj przywołać pracę jednej z moich przyjaciółek, grafikę, która dobrze oddaje moje uczucia w interakcjach z cispłciowym światem[^9]. 
 
 ![Ilustracja przedstawiająca osobę lężącą na łóżku wśród poduszek, której ręce i nogi są wydłużone i wyginające się na różne sposoby, jakby plastikowa lalka smażona na patelni](https://tranzycja.pl/media/img/kochamtrans-cybernakulum.jpg)
-> łysakowska otalia, [*try as i might, to them this body is just a spectacle*](https://www.instagram.com/p/CljNzyPNgoC), 2022.
+> otalia łysakowska, [*try as i might, to them this body is just a spectacle*](https://www.instagram.com/p/CljNzyPNgoC), 2022.
 
 W tle widzimy tłum postaci, które obserwują transpłciową podmiotkę. Jej ciało jest porozciągane, wyprane, zmęczone jak zużyty lateksowy kostium. Nasze ciała to spektakl. Odgrywanie klisz i stereotypów, nawigowanie w kolczastym świecie, w którym istnieją bardzo sztywne granice ekspresji i tożsamości. Poruszanie się pomiędzy nimi to nieustanna, wyczerpująca praca. To nie jest tak, że nie możemy się z nimi układać. Oczywiście, że możemy. Ale te poruszenia i układy zawsze są na widoku, zawsze przyciągają uwagę. Jawią się jako spektakularne, mimo że dla nas są zupełnie codzienne. 
 
@@ -196,6 +199,8 @@ Ten tekst jest dedykowany każdej osobie trans, która ma dość życia w świec
 Szukajmy i znajdujmy się. Gubmy, a potem odkrywajmy na nowo. Dawajmy sobie dużo przestrzeni, czułości i troski. 
 
 Kocham, że też jesteś trans. 
+
+*Tekst opublikowany za zgodą osoby autorskiej. Treść i grafiki na licencji [CC BY-NC-ND 4.0 PL](https://creativecommons.org/licenses/by-nc-nd/4.0/pl/).*
 
 [^1]: Internetowy Słownik Języka Polskiego PWN, Separacja, online: https://sjp.pwn.pl/szukaj/separacja.html [dostęp 28.12.2024].
 [^2]: Tak, zamierzam celowo używać słów heteroseksualny i cispłciowy zamiast heteronormatywny, i nic nie możecie z tym zrobić.
