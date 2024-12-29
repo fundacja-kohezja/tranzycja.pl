@@ -8,7 +8,6 @@ zaktualizowano: '2024-12-29 19:45:21'
 # „kocham, że też jesteś trans” <br/> o trans separatyzmie, trans radości i trans miłości 
 
 *grudzień 2022*
-
 ## wstęp//peryferie 
 
 Drogi Transie, Droga Transko, Drogie Transo. To jest tekst dla Ciebie. Pisany z peryferii cispłciowej, heteroseksualnej kultury. Z pograniczy homonormy. Ze skrajów transnormy. 
@@ -111,12 +110,12 @@ Oprócz pozytywnej fetyszyzacji są też po prostu momenty wytchnienia. Możemy 
 
 ## troska 
 
-> New world order, no more gods, only SOPHIE
-> Y'all know God is trans, so let's pray to her and stream *Trophy*
-> Tonight let’s do shit that gets us in cringe comps
-> Make some new behaviors that straight people will infringe on[^6]
+> New world order, no more gods, only SOPHIE  
+> Y'all know God is trans, so let's pray to her and stream *Trophy*  
+> Tonight let’s do shit that gets us in cringe comps  
+> Make some new behaviors that straight people will infringe on[^6]  
 
-*mos thoser*, food house[^7]
+> *mos thoser*, food house[^7]
 
 Od pewnego czasu szukam pracy po rozwiązaniu umowy z poprzednią pracodawczynią. W efekcie jestem wystawione na nieustanny kontakt z cispłciowym światem w postaci osób rekruterskich, menadżerskich itd. Kto z Was ma za sobą takie doświadczenia, doskonale wie, jak wyczerpujące psychicznie jest trwające w nieskończoność pasmo misgenderowania i outowania się jako osoba trans. 
 
@@ -151,7 +150,8 @@ Kocham każdą osobę trans, nawet jeśli nasze relacje są trudne i w niektóry
 
 Ta miłość przejawia się na wiele sposobów. Czasem troską o osoby w trudnej sytuacji, o transową młodzież, która stawia swoje pierwsze kroki w tym poplątanym świecie, często musząc już zmierzyć się z pierwszą przeszkodą w postaci rodziny pochodzenia. Czasem namiętnością i pożądaniem innych transowych ciał, pragnieniem stopienia się w jedno, zapewnienia sobie ciepła i bezpieczeństwa. Czasem bezpośrednim wsparciem finansowym, wpłatą na zrzutkę, zapewnieniem schronienia komuś, kto tego potrzebuje. Czasem po prostu spędzeniem razem dobrze czasu. Nikt nie mówi, że nasze miłości mają być zobowiązujące. Jedyne, czego nam życzę, to żeby były szczere i czyniły świat wokół nas znośniejszym. 
 
-> *Ta kłirowa i transowa sieć troski nie ma środka. W pewnym sensie wyłoniła się, bo normatywne i domyślne ośrodki życia zawiodły, nigdy nie były nam dostępne, bądź nawet przez nas pożądane. Tak wiele wątłych lub zerwanych relacji z rodzinami, które sprowadziły nas na świat lub adoptowały, sceptycyzmu i przysłowiowego uczulenia na normatywne struktury rodzinne, tak wiele interpersonalnego, instytucjonalnego i zawodowego trzymania na dystans, wykluczenia i ostracyzmu. Mogę to podsumować na inne sposoby – jest też dużo radości. Ale byłoby naiwnością zaprzeczać, że rzeczy, które nas łączą, nie są częściowo bezpośrednio związane z emocjonalnym i praktycznym porzuceniem nas przez osoby i instytucje, których potrzebowałyśmy – lub byłyśmy zmuszone potrzebować – żeby przeżyć. To przez to odrzucenie nauczyłyśmy się troszczyć o siebie nawzajem.*   
+> *Ta kłirowa i transowa sieć troski nie ma środka. W pewnym sensie wyłoniła się, bo normatywne i domyślne ośrodki życia zawiodły, nigdy nie były nam dostępne, bądź nawet przez nas pożądane. Tak wiele wątłych lub zerwanych relacji z rodzinami, które sprowadziły nas na świat lub adoptowały, sceptycyzmu i przysłowiowego uczulenia na normatywne struktury rodzinne, tak wiele interpersonalnego, instytucjonalnego i zawodowego trzymania na dystans, wykluczenia i ostracyzmu. Mogę to podsumować na inne sposoby – jest też dużo radości. Ale byłoby naiwnością zaprzeczać, że rzeczy, które nas łączą, nie są częściowo bezpośrednio związane z emocjonalnym i praktycznym porzuceniem nas przez osoby i instytucje, których potrzebowałyśmy – lub byłyśmy zmuszone potrzebować – żeby przeżyć. To przez to odrzucenie nauczyłyśmy się troszczyć o siebie nawzajem.*
+
 > Hil Malatino, *Przetrwać Trans Antagonizm*[^14] 
 
 ## polityczny wybór 
