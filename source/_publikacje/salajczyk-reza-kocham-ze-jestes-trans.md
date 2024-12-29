@@ -1,9 +1,10 @@
 ---
-tags: publikacje, trans studies
-meta: 
-  Autorzy: Reza Sałajczyk
+tags: 'publikacje, trans studies'
+meta:
+    Autorzy: 'Reza Sałajczyk'
+opublikowano: '2024-12-29 19:45:21'
+zaktualizowano: '2024-12-29 19:45:21'
 ---
-
 grudzień 2022
 
 # „kocham, że też jesteś trans” <br/> o trans separatyzmie, trans radości i trans miłości 
