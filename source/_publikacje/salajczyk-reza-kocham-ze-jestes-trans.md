@@ -7,8 +7,8 @@ zaktualizowano: '2024-12-29 19:45:21'
 ---
 # „kocham, że też jesteś trans” <br/> o trans separatyzmie, trans radości i trans miłości 
 
-![Ilustracja to cyfrowy kolaż, łączący renesansowy obraz na którym Eros i Psyche leżą przytuleni do siebie, niewyraźne tło wydaje się być oknem przez które widać szare, polskie blokowisko.](https://tranzycja.pl/media/img/kochamtrans-eros.jpg)
-Reza Sałajczyk, *T4T Eros i Psyche*, 2024
+![Ilustracja to cyfrowy kolaż, łączący renesansowy obraz na którym Eros i Psyche leżą przytuleni do siebie, niewyraźne tło wydaje się być oknem przez które widać szare, polskie blokowisko.](https://tranzycja.pl/media/img/kochamtrans-eros.jpg)  
+> Reza Sałajczyk, *T4T Eros i Psyche*, 2024
 
 *grudzień 2022*
 ## wstęp//peryferie 
