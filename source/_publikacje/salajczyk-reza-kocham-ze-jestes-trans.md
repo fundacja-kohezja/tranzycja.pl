@@ -5,10 +5,9 @@ meta:
 opublikowano: '2024-12-29 19:45:21'
 zaktualizowano: '2024-12-29 19:45:21'
 ---
-<div style="text-align: right">
-grudzień 2022
-</div>
 # „kocham, że też jesteś trans” <br/> o trans separatyzmie, trans radości i trans miłości 
+
+*grudzień 2022*
 
 ## wstęp//peryferie 
 
@@ -112,14 +111,12 @@ Oprócz pozytywnej fetyszyzacji są też po prostu momenty wytchnienia. Możemy 
 
 ## troska 
 
-<div style="text-align: right">
-New world order, no more gods, only SOPHIE
-Y'all know God is trans, so let's pray to her and stream *Trophy*
-Tonight let’s do shit that gets us in cringe comps
-Make some new behaviors that straight people will infringe on [^6][^7]
+> New world order, no more gods, only SOPHIE
+> Y'all know God is trans, so let's pray to her and stream *Trophy*
+> Tonight let’s do shit that gets us in cringe comps
+> Make some new behaviors that straight people will infringe on[^6]
 
-*mos thoser*, food house 
-</div>
+*mos thoser*, food house[^7]
 
 Od pewnego czasu szukam pracy po rozwiązaniu umowy z poprzednią pracodawczynią. W efekcie jestem wystawione na nieustanny kontakt z cispłciowym światem w postaci osób rekruterskich, menadżerskich itd. Kto z Was ma za sobą takie doświadczenia, doskonale wie, jak wyczerpujące psychicznie jest trwające w nieskończoność pasmo misgenderowania i outowania się jako osoba trans. 
 
