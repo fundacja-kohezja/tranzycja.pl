@@ -133,7 +133,7 @@ Te interakcje są dla mnie punktami, w których zbiegają się wszelkie lęki/fa
 
 Zdaję sobie sprawę, że pomimo lat asymilacyjnego aktywizmu nadal jesteśmy na początku drogi do upowszechnienia wiedzy na temat tego, czym jest transpłciowość. Że dopiero wchodzimy w etap, na którym moje kochane rodzeństwo[^8] ma siłę i odwagę otwarcie mówić o tym, że jest trans i/lub niebinarne w miejscach pracy. Że może być out i nie dążyć do ukrywania tego. 
 
-Pozwolę sobie tutaj przywołać pracę jednej z moich przyjaciółek, grafikę, która dobrze oddaje moje uczucia w interakcjach z cispłciowym światem[^9]. 
+Pozwolę sobie tutaj przywołać pracę jednej z moich przyjaciółek, grafikę, która dobrze oddaje moje uczucia w interakcjach z cispłciowym światem. 
 
 ![Ilustracja przedstawiająca osobę lężącą na łóżku wśród poduszek, której ręce i nogi są wydłużone i wyginające się na różne sposoby, jakby plastikowa lalka smażona na patelni](https://tranzycja.pl/media/img/kochamtrans-cybernakulum.jpg)
 > otalia łysakowska, [*try as i might, to them this body is just a spectacle*](https://www.instagram.com/p/CljNzyPNgoC), 2022.
