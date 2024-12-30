@@ -2,6 +2,7 @@
 tags: 'publikacje, trans studies'
 meta:
     Autorzy: 'Reza Sałajczyk'
+    Korekta: 'Agnieszka Wójtowicz-Zając, Julia Zając'
 opublikowano: '2024-12-29 19:45:21'
 zaktualizowano: '2024-12-29 19:45:21'
 ---
