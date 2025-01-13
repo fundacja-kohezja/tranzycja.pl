@@ -1,5 +1,22 @@
 # Materiały do pobrania
 
+
+:::layout
+
+## Transpłciowość w mediach. Wytyczne dotyczące odpowiedzialnej pracy dziennikarskiej.
+
+![Okładka publikacji "Transpłciowość w mediach. Wytyczne dotyczące odpowiedzialnej pracy dziennikarskiej."](/media/img/okladka-transplciowosc-w-mediach.png)
+
+„Transpłciowość w mediach. Wytyczne dotyczące odpowiedzialnej pracy dziennikarskiej” to pierwsza tego typu publikacja w Polsce. Opierając się na kompetencjach kilkunastu osób dziennikarskich doświadczonych w tworzeniu materiałów o transpłciowości oraz ekspertyzie samych osób transpłciowych stworzyłyśmy kompendium wiedzy na każdą okazję.  
+
+Od podstawowych informacji o transpłciowości aż po tematy budzące największe kontrowersje; od przedstawienia zasad traktowania transpłciowych bohaterów i bohaterek materiałów dziennikarskich z szacunkiem po rozrysowanie lokalnych i międzynarodowych sieci powiązań aktywistów antytrans – nieważne, czy tworzysz notkę na blogu, post na social media, artykuł, książkę czy cykl reportaży, z pewnością znajdziesz tutaj informacje i konteksty, które wzbogacą Twoją perspektywę. Publikacja nie mówi nikomu, jak ma myśleć czy jak ma wykonywać swoją pracę, ale oferuje zbiór informacji pomocny w tworzeniu lepszych, bardziej wnikliwych materiałów.  
+
+Publikacja jest w całości dostępna online na stronie [tranzycja.‌pl/transplciowoscwmediach](https://tranzycja.‌pl/transplciowoscwmediach). Wysyłka egzemplarzy dostępna jest poprzez kontakt@tranzycja.pl.
+
+[Pobierz!](/media/docs/autorskie/Transplciowosc-w-Mediach.pdf){.przycisk}
+
+:::
+
 :::layout
 
 ## Wsparcie medyczne osób transpłciowych. Poradnik dla lekarzy POZ.
