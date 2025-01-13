@@ -11,7 +11,7 @@
 
 Od podstawowych informacji o transpłciowości aż po tematy budzące największe kontrowersje; od przedstawienia zasad traktowania transpłciowych bohaterów i bohaterek materiałów dziennikarskich z szacunkiem po rozrysowanie lokalnych i międzynarodowych sieci powiązań aktywistów antytrans – nieważne, czy tworzysz notkę na blogu, post na social media, artykuł, książkę czy cykl reportaży, z pewnością znajdziesz tutaj informacje i konteksty, które wzbogacą Twoją perspektywę. Publikacja nie mówi nikomu, jak ma myśleć czy jak ma wykonywać swoją pracę, ale oferuje zbiór informacji pomocny w tworzeniu lepszych, bardziej wnikliwych materiałów.  
 
-Publikacja jest w całości dostępna online na stronie [tranzycja.‌pl/transplciowoscwmediach](https://tranzycja.‌pl/transplciowoscwmediach). Wysyłka egzemplarzy dostępna jest poprzez kontakt@tranzycja.pl.
+Publikacja jest w całości dostępna online na stronie [tranzycja.‌pl/transplciowoscwmediach](https://tranzycja.‌pl/transplciowoscwmediach). Oferujemy możliwość nieodpłatnej wysyłki egzemplarzy publikacji dla redakcji mediów, indywidualnych dziennikarzy i innych osób zaangażowanych w tworzenie treści w mediach – jeśli wliczasz się w jedną z tych kategorii, zachęcamy do zgłoszenia się przez kontakt@tranzycja.pl.
 
 Matronatu publikacji udzieliły m.in. Oko.Press, Krytyka Polityczna, Gazeta.pl, Amnesty International, Kampania Przeciw Homofobii, Miłość Nie Wyklucza i Fundacja Trans-fuzja.
 
