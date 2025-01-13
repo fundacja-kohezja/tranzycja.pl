@@ -13,6 +13,8 @@ Od podstawowych informacji o transpłciowości aż po tematy budzące największ
 
 Publikacja jest w całości dostępna online na stronie [tranzycja.‌pl/transplciowoscwmediach](https://tranzycja.‌pl/transplciowoscwmediach). Wysyłka egzemplarzy dostępna jest poprzez kontakt@tranzycja.pl.
 
+Matronatu publikacji udzieliły m.in. Oko.Press, Krytyka Polityczna, Gazeta.pl, Amnesty International, Kampania Przeciw Homofobii, Miłość Nie Wyklucza i Fundacja Trans-fuzja.
+
 [Pobierz!](/media/docs/autorskie/Transplciowosc-w-Mediach.pdf){.przycisk}
 
 :::
