@@ -298,7 +298,7 @@ Poniżej znajdziecie tabelę porównująca kilka znanych klinik:
 | -------------------------- | ------  | --------- | ------------------------------------------ | ----------------- | ----------------- |
 |UniEstethica (Dr Libondi) | Kraków | 16.9 tys. | Tak / Tak| Keyhole, Peri, Lollipop/Extended Peri, DI| 07.24 |
 |Solumed (Dr Dydymski)| Poznań | 19 - 28 tys. (niższa cena za metody bezbliznowe)| Nie / Nie | Keyhole, Peri, Lollipop, T-anchor, DI | 09.23 | 
-|Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław |	14 tys.| Tak / Nie |	Okołootoczkowe, DI | 07.24 |
+|Rajska (Dr Pobiedzińska i Dr Moszonkowski***) | Wrocław |	17 tys.| Tak / Nie |	Okołootoczkowe, DI | 12.24 |
 |Gyneka (Szpital św. Róży, Dr Szepieniec)|	Kraków|	16 - 20 tys.|	Nie / Tak	|Okołootoczkowe, T-anchor| 09.23 | 
 |LuxMed (Dr Lembas)|	Warszawa|	26 tys. |	Nie / Tak*	|DI| 07.24 | 
 |Klinika Timeless (Dr Jaworowski)|	Warszawa|	23 tys.|	Nie / Nie|	Okołootoczkowe, DI| 07.24 |
@@ -316,6 +316,7 @@ Poniżej znajdziecie tabelę porównująca kilka znanych klinik:
 
 *Dr Lembas poinformował że może operować na osobach poniżej 18 roku życia które mają już wniesioną sprawę do sądu odnośnie ustalenia płci.
 **Konieczne jest przejście przez sądową zmianę oznaczenia płci.
+***Nie operują osób niebinarnych.
 
 :::warning
 Zwróć uwagę na ostatnią aktualizację danych — z czasem ceny operacji mogą się zmieniać. Jeśli ceny zawarte powyżej nie są już aktualne, odezwij się do nas na kontakt@tranzycja.pl z odpowiednią informacją. 
