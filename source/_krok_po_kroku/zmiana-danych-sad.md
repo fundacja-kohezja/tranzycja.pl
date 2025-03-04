@@ -8,6 +8,11 @@ zaktualizowano: '2024-03-27 12:00:00'
 ---
 # Jak zmienić oznaczenie płci w dokumentach? Poradnik do sądu
 
+:::danger 
+
+W związku ze [stanowiskiem Sądu Najwyższego z dnia 4 marca 2025 r.](https://noizz.pl/lgbt/przelomowy-wyrok-sadu-osoby-trans-nie-beda-musialy-pozywac-rodzicow/6mgtx3f) poniższy artykuł stał się **nieaktualny**. Ustanowiona została nowa procedura nieprocesowa oparta na sprostosowaniu aktu urodzenia oraz pozbawiona pozywania własnych rodziców. Sytuacja jest rozwojowa a dokładny kształt nowej procedury poznamy w praktyce w następnych tygodniach. Jesteśmy w trakcie konsultacji z osobami prawniczymi i dokonamy aktualizacji artykułu, gdy tylko będzie to możliwe.
+:::
+
 W Polsce zmiana oznaczenia płci w dokumentach jest możliwa wyłącznie poprzez proces cywilny o ustalenie płci, w którym pozywa się swoich rodziców. Z tego artykułu dowiesz się, co powinien zawierać pozew, jak może wyglądać sam proces i z jakimi potencjalnymi problemami możesz się zmierzyć w jego trakcie. 
 
 Artykuł ten dotyczy zmiany oznaczenia płci, czyli litery K lub M w dokumentach, oraz numeru PESEL (jego przedostatnia cyfra jest zależna od płci, parzysta dla kobiet, nieparzysta dla mężczyzn). Jeśli nie chcesz na razie zmieniać oznaczenia płci, ale zależy ci na zmianie samego imienia, to kwestię tę możesz rozwiązać na drodze administracyjnej, bez procesu cywilnego. Piszemy o tym szerzej [w innym artykule](https://tranzycja.pl/krok-po-kroku/zmiana-imienia-usc/).
