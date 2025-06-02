@@ -1,8 +1,8 @@
 ---
 title: Untitled
-
+opublikowano: '2025-06-02 15:42:37'
+zaktualizowano: '2025-06-02 15:42:37'
 ---
-
 ---
 tags: 'publikacje, trans studies'
 meta:
