@@ -1,20 +1,14 @@
 ---
 tags: 'publikacje, trans studies'
 meta:
-    Autorzy: 'Margaret Killjoy'
-    Tłumaczenie: 'Dag Fajt'
+    Autorka: 'Margaret Killjoy'
+    Tlumaczenie: 'Dag Fajt'
     Redakcja: 'Julia Zając'
 opublikowano: '2025-06-02 00:05:34'
 zaktualizowano: '2025-06-02 00:05:34'
 ---
 
 # To w porządku, że nic nie jest w porządku
-
-Margaret Killjoy 
-
-Przeł. Dag Fajt 
-
-Red. Julia Zając 
 
 W okresie jesiennym 2016 roku zrobiłam coś bardzo jak na mnie nieoczekiwanego: zaczęłam płacić czynsz. Wcześniej przez jakieś sześć lat mieszkałam w vanie, wtedy zaś wynajęłam pokój w punkowej chacie na wsi, niedaleko Asheville w Karolinie Północnej. Czynsz był bardzo niski. Jako freelancerka projektowałam opracowania graficzne książek oraz sprzedawałam biżuterię i przypinki na Etsy, co z ledwością pozwalało mi utrzymać dach nad głową. 
 
