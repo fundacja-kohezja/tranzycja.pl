@@ -1,8 +1,8 @@
 ---
 tags: 'publikacje, trans studies'
 meta:
-    Autorka: 'Margaret Killjoy'
-    Tlumaczenie: 'Dag Fajt'
+    Autorzy: 'Margaret Killjoy'
+    Tłumacz: 'Dag Fajt'
     Redakcja: 'Julia Zając'
 opublikowano: '2025-06-02 00:05:34'
 zaktualizowano: '2025-06-02 00:05:34'
