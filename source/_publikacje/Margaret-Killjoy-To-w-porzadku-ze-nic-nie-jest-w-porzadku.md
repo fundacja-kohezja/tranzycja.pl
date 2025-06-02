@@ -1,14 +1,12 @@
 ---
-title: Untitled
-opublikowano: '2025-06-02 15:42:37'
-zaktualizowano: '2025-06-02 15:42:37'
----
----
+title: To w porządku, że nic nie jest w porządku. Esej Margaret Killjoy.
 tags: 'publikacje, trans studies'
 meta:
     Autorzy: 'Margaret Killjoy'
     Tłumaczenie: 'Dag Fajt'
     Redakcja: 'Julia Zając'
+opublikowano: '2025-06-02 15:42:37'
+zaktualizowano: '2025-06-02 15:42:37'
 ---
 
 
