@@ -42,7 +42,7 @@ Niniejszy poradnik został przygotowany we współpracy z adw. Karoliną Gierdal
 | Wysokość opłaty – 100 zł zamiast 600 zł. | |
 | Możliwość zmiany właściwego sądu – wcześniej można było zawrzeć umowę, dzięki której przy sprzyjających rodzicach można było przenieść proces do bardziej doświadczonego sądu, obecnie jest to niemożliwe i wymaga zmiany miejsca zameldowania lub zamieszkania osoby. | |
 
-Więcej informacji w tym temacie znajdziesz w sekcji [*Pytania i odpowiedzi*](https://tranzycja.pl/krok-po-kroku/zmiana-danych-sad/#pytania-i-odpowiedzi))
+Więcej informacji w tym temacie znajdziesz w sekcji [*Pytania i odpowiedzi*](https://tranzycja.pl/krok-po-kroku/zmiana-danych-sad/#pytania-i-odpowiedzi).
 
 :::
 
@@ -179,7 +179,7 @@ Masz prawo, aby na rozprawie towarzyszyła ci wskazana przez ciebie osoba zaufan
 
 Możesz wnioskować do sądu o wyłączenie jawności – spowoduje to, że publiczność nie będzie mogła wejść na rozprawę (ale nie przejmuj się – w niezbyt głośnych sprawach zwykłych ludzi raczej nie pojawiają się obce osoby, które chcą wziąć udział w rozprawie jako publiczność). 
 
-Możesz wnioskować do sądu o zdalne przeprowadzenie rozprawy. Temat ten jest szczegółowo omówiony w sekcji [*Pytań i odpowiedzi*](https://tranzycja.pl/krok-po-kroku/zmiana-danych-sad/#pytania-i-odpowiedzi)
+Możesz wnioskować do sądu o zdalne przeprowadzenie rozprawy. Temat ten jest szczegółowo omówiony w sekcji [*Pytań i odpowiedzi*](https://tranzycja.pl/krok-po-kroku/zmiana-danych-sad/#pytania-i-odpowiedzi).
 
 ### Biegli 
 
@@ -262,7 +262,8 @@ By zmienić oznaczenie płci w pozostałych dokumentach konieczny jest nowy dow�
 
 Niestety z racji braku jakichkolwiek procedur dotyczących konkretnie osób trans o zmianę każdego dokumentu musisz wnioskować oddzielnie do instytucji, która go wydała. 
 
-#### Przykładowe dokumenty, na których zmianie może ci zależeć
+:::info
+*Przykładowe dokumenty, na których zmianie może ci zależeć:*
 
 - umowa o pracę (u pracodawcy); 
 - konto bankowe (w placówce banku); 
@@ -280,7 +281,9 @@ Niestety z racji braku jakichkolwiek procedur dotyczących konkretnie osób tran
 - księga wieczysta nieruchomości (we właściwym sądzie rejonowym); 
 - każdy inny dokument sporządzony przy użyciu numeru PESEL. 
 
-W niektórych przypadkach brak konkretnych regulacji może prowadzić do problemów administracyjnych – w takiej sytuacji należy zwrócić się o pomoc do któregoś z linkowanych wyżej zespołów prawniczych. Często instytucje będą zasłaniać się brakiem podstawy prawnej do dokonania takich zmian.  
+W niektórych przypadkach brak konkretnych regulacji może prowadzić do problemów administracyjnych – w takiej sytuacji należy zwrócić się o pomoc do któregoś z linkowanych wyżej zespołów prawniczych. Czasami instytucje będą zasłaniać się brakiem podstawy prawnej do dokonania takich zmian.  
+
+:::
 
 ## Szczególne przypadki 
 
