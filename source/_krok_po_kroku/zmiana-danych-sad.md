@@ -80,7 +80,7 @@ Załączone opinie powinny jednoznacznie wskazywać osobę, której dotyczą. Je
 Z przepisów postępowania cywilnego nie wynika, aby wystawione przez specjalistów opinie mogły utracić ważność z powodu upływu czasu. Pozostają one dokumentami ważnymi dla sądu, możesz więc posłużyć się opinią uzyskaną kilka lat wcześniej.  
 :::
 
-Do pozwu wystarczy załączyć skrócony odpis aktu urodzenia. Odpis zupełny przyda się, jeśli zmieniane były takie dane jak imię czy nazwisko.
+Do wniosku wystarczy załączyć skrócony odpis aktu urodzenia. Odpis zupełny przyda się, jeśli zmieniane były takie dane jak imię czy nazwisko.
 
 **Żadne procedury medyczne nie są konieczne, żeby zmienić oznaczenie płci.** Nie ma żadnego określonego czasu, przez jaki należy być w terapii hormonalnej, ani żadnego zabiegu chirurgicznego, który trzeba przejść. Choć w historii orzecznictwa zdarzało się, że sądy stawiały takie wymogi, to w chwili obecnej możliwe jest uzyskanie zmiany oznaczenia płci nawet bez żadnych interwencji medycznych, a wyłącznie z posiadanymi opiniami od seksuologów. W takich sytuacjach zachęcamy jednak o korzystanie z pomocy prawnika od początku całego procesu, tak by móc zabezpieczyć się na wypadek nieprzychylnego sędziego. 
 
@@ -102,14 +102,14 @@ W większych miastach może funkcjonować kilka sądów rejonowych. Ich właści
 [Wariant dla osób używających męskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(on-jego)-tranzycjapl.docx)
 :::
 
-Polecany przez nas wzór pozwu, zawierający wszystkie istotne wnioski, przygotowała adw. Karolina Gierdal, a konsultowany był z Grupą Prawną Stowarzyszenia Lambda Warszawa. Zawiera również wkład merytoryczny od adw. Mikołaja Świstowskiego i r. pr. Damiana Ruhma.  
+Polecany przez nas wzór wniosku, zawierający wszystkie istotne wnioski, przygotowała adw. Karolina Gierdal, a konsultowany był z Grupą Prawną Stowarzyszenia Lambda Warszawa. Zawiera również wkład merytoryczny od adw. Mikołaja Świstowskiego i r. pr. Damiana Ruhma.  
 
 Treść wniosku może być bardzo istotna dla przebiegu sprawy, stąd odradzamy korzystanie z przypadkowych wzorów tworzonych przez osoby bez przygotowania prawniczego. Zdarza się na przykład, że seksuolodzy oferują napisanie wniosku – najlepiej jest nie korzystać z tego rodzaju dokumentów.  
 
 Wielu sędziów nie ma dobrego rozeznania w kwestii transpłciowości i z tego względu może zwyczajnie nie wiedzieć, jak prowadzić takie postępowanie czy jaka dokumentacja jest wystarczająca. Z tego względu szczególnie ważne jest powołanie się na dokumenty, które mogą pokierować sędziego w stronę szybszego załatwienia sprawy. Dwa najważniejsze to:  
 
 - [zalecenia Polskiego Towarzystwa Seksuologicznego](https://pts-seksuologia.pl/sites/strona/118/zalecenia-pts-dotyczace-opieki-nad-zdrowiem-doroslych-osob-transplciowych--stanowisko-panelu-ekspertow.), które umożliwiają wykazanie, że przeszło się przez poprawną diagnozę transseksualizmu i dodatkowe powoływanie biegłego nie jest konieczne;   
-- [przewodnik dla sędziów przygotowany przez Rzecznika Praw Obywatelskich](https://bip.brpo.gov.pl/sites/default/files/2024-02/Postepowania_w_sprawach_o_uzgodnienie_plci_Przewodnik_www.pdf), zawierający jednoznaczne rekomendacje dla sądów, by nie dopuszczały dowodu z opinii biegłego i rozpatrywały pozwy na posiedzeniu niejawnym, bez wyznaczania rozprawy. 
+- [przewodnik dla sędziów przygotowany przez Rzecznika Praw Obywatelskich](https://bip.brpo.gov.pl/sites/default/files/2024-02/Postepowania_w_sprawach_o_uzgodnienie_plci_Przewodnik_www.pdf), zawierający jednoznaczne rekomendacje dla sądów, by nie dopuszczały dowodu z opinii biegłego i rozpatrywały wnioski na posiedzeniu niejawnym, bez wyznaczania rozprawy. 
 
 Przewodnik wydany przez biuro RPO zachował aktualność w wielu aspektach, mimo zmiany trybu z procesowego na nieprocesowy. Postępowanie dowodowe odbywa się tak samo i takie same są przesłanki wydania postanowienia na posiedzeniu niejawnym, więc rekomendacje RPO są wciąż ważne.  
 
@@ -159,7 +159,7 @@ Sędzia wydaje postanowienie na posiedzeniu niejawnym, bez wzywania cię na rozp
 
 #### Wariant pozytywny: 
 
-Sędzia wyznacza termin rozprawy i wydaje na niej postanowienie. W trakcie rozprawy konieczne jest odpowiedzenie na pytania sędziego dotyczące tranzycji i transpłciowości. W takim wariancie od złożenia pozwu do rozprawy może minąć parę miesięcy, a czasem nawet dłużej, jeśli dany sąd jest bardzo obciążony sprawami i terminy rozpraw są odległe. 
+Sędzia wyznacza termin rozprawy i wydaje na niej postanowienie. W trakcie rozprawy konieczne jest odpowiedzenie na pytania sędziego dotyczące tranzycji i transpłciowości. W takim wariancie od złożenia wniosku do rozprawy może minąć parę miesięcy, a czasem nawet dłużej, jeśli dany sąd jest bardzo obciążony sprawami i terminy rozpraw są odległe. 
 
 #### Warianty mniej lub bardziej czasochłonne: 
 
@@ -210,7 +210,7 @@ Do wniosku o zwolnienie od kosztów zawsze trzeba załączyć oświadczenie o st
 #### Co wpisać w poszczególne rubryki oświadczenia? 
 
 - **Sąd, do którego jest składane oświadczenie:** tu wpisz nazwę sądu rejonowego, do którego składasz wniosek.  
-- **Sygnatura sprawy:** sygnatura sprawy to kod nadawany jej po przyjęciu pozwu przez sąd. Jeśli wniosek nie został jeszcze wniesiony, nie wypełniaj tej rubryki.   
+- **Sygnatura sprawy:** sygnatura sprawy to kod nadawany jej po przyjęciu wniosku przez sąd. Jeśli wniosek nie został jeszcze wniesiony, nie wypełniaj tej rubryki.   
 - **Dane osoby składającej wniosek:** tu wpisz swoje imię i nazwisko z aktu urodzenia oraz swój numer PESEL. Jeśli nie masz PESEL-u, wpisz imiona rodziców. 
 - **Stan rodzinny:** w tym punkcie musisz wymienić wszystkie osoby, z którymi mieszkasz i jednocześnie prowadzisz wspólne gospodarstwo domowe. Oznacza to, że z osób, z którymi można zamieszkiwać, nie umieszczasz tu jedynie swoich współlokatorów, poza tym wpisujesz np. męża/żonę, dziewczynę/chłopaka lub osobę partnerską (osobę, z którą mieszkasz i jednocześnie jesteś w niesformalizowanym związku, tj. „osobę pozostającą we wspólnym pożyciu z wnioskodawcą”), rodziców, dzieci, rodzeństwo, kuzynów, dziadków czy osoby, którymi się opiekujesz. 
 - **Majątek:** w tej sekcji należy wpisać informacje o posiadanym majątku, w tym nieruchomościach, oszczędnościach, papierach wartościowych i prawach majątkowych czy przedmiotach wartościowych. Jeśli którakolwiek z rubryk cię nie dotyczy, wpisz: BRAK. 
@@ -444,7 +444,7 @@ Domyślnie właściwy jest sąd dla miejscowości, w której znajduje się twoje
 
 :::spoiler Czy zaburzenia psychiczne i przeszłe pobyty w szpitalu psychiatrycznym mogą przeszkadzać w procedurze zmiany oznaczenia płci? 
 
-Nie powinny, choć nie ma absolutnej gwarancji, gdyż sędziowie potrafią być bardzo różni. Koniec końców decydujące będą dostarczone z pozwem opinie i ewentualna opinia biegłego. Sędzia nie będzie mieć żadnych informacji o zdrowiu psychicznym poza tymi zawartymi w twoich opiniach.  
+Nie powinny, choć nie ma absolutnej gwarancji, gdyż sędziowie potrafią być bardzo różni. Koniec końców decydujące będą dostarczone z wnioskiem opinie i ewentualna opinia biegłego. Sędzia nie będzie mieć żadnych informacji o zdrowiu psychicznym poza tymi zawartymi w twoich opiniach.  
 ::: 
 
 
