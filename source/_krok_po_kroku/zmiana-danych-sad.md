@@ -21,7 +21,7 @@ Niniejszy poradnik został przygotowany we współpracy z adw. Karoliną Gierdal
 
 ## Ustalenie płci w skrócie 
 
-[INFOGRAFIKA, flowchart całego procesu, na wymiar między kwadratem a A4. Grafika jest linkiem który przenosi do sekcji “Wzór wniosku” (dlatego tam potrzebuję linków na szczycie sekcji), co będzie wynikać z treści infografiki] 
+![Infografika prezentująca jak zmienić oznaczenie płci](https://tranzycja.pl//media/img/wzorwniosku-infografika.png)
 
 - Potrzebujesz mieć 18 lat, 100 zł, odpis swojego aktu urodzenia oraz opinię o niezgodności płciowej od psychologa oraz lekarza psychiatry / lekarza seksuologa. Jeśli masz mniej niż 18 lat, wniosek składają w twoim imieniu rodzice. Nie musisz przejść żadnej operacji czy być określony czas na hormonach. 
 - Z tymi dwiema opiniami możesz złożyć wniosek do sądu rejonowego właściwego dla twojego miejsca zamieszkania. Nasz wzór znajdziesz tutaj, [w wersji transmęskiej](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(on-jego)-tranzycjapl) oraz [transżeńskiej](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(ona-jej)-tranzycjapl). 
@@ -620,5 +620,5 @@ Poniższe wzory zostały przygotowane przez adw. Karolinę Gierdal oraz konsulto
 [Wzór wniosku o doręczenie prawomocnego odpisu postanowienia](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-doreczenie-prawomocnego-odpisu-postanowienia.docx)  
 - [Wzór pełnomocnictwa do doręczeń](https://tranzycja.pl/media/docs/wzory/wzor-pełnomocnictwa-do-doreczen.docx)  
  
-
+Powyższe wzory można ściągnąć również poprzez [dedykowany folder na GoogleDrive](https://drive.google.com/drive/u/0/folders/1pHwR5KFiLUSdHJjXwSzWzkB2Rq5z02ly). 
  
