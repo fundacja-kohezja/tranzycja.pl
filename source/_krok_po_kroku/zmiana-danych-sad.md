@@ -205,7 +205,7 @@ W praktyce największe wydatki związane z postępowaniem o ustalenie płci doty
 
 Jeśli stać cię na opłatę sądową, ale boisz się kosztów opinii biegłego, pamiętaj, że **wniosek o zwolnienie od kosztów można złożyć również w trakcie postępowania**, nawet wtedy, gdy sąd już wydał postanowienie o dopuszczeniu dowodu z opinii biegłego i wezwał cię do uiszczenia zaliczki. Opisujemy tę sytuację w dalszej części tekstu.  
 
-Do wniosku o zwolnienie od kosztów zawsze trzeba załączyć oświadczenie o stanie rodzinnym, majątku, dochodach i źródłach utrzymania. [Tutaj](wzor-oswiadczenia-o-stanie-rodzinnym-majatku-dochodach-i-zrodlach-utrzymania-przykladowy.docx) znajdziesz przykładowe wypełnione oświadczenie razem z komentarzami.
+Do wniosku o zwolnienie od kosztów zawsze trzeba załączyć oświadczenie o stanie rodzinnym, majątku, dochodach i źródłach utrzymania. [Tutaj](https://tranzycja.pl/media/docs/wzory/wzor-oswiadczenia-o-stanie-rodzinnym-majatku-dochodach-i-zrodlach-utrzymania-przykladowy.docx) znajdziesz przykładowe wypełnione oświadczenie razem z komentarzami.
 
 #### Co wpisać w poszczególne rubryki oświadczenia? 
 
@@ -611,8 +611,8 @@ Poniższe wzory zostały przygotowane przez adw. Karolinę Gierdal oraz konsulto
 
 #### Wzory w przypadkach szczególnych: 
 
-- [Wzór oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania (wzór pusty)](https://tranzycja.pl/media/docs/wzory/wzor-oswiadczenia-o-stanie-rodzinnym-majatku-dochodach-i-zrodlach-utrzymania-pusty)  
-- [Wzór oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania (wzór przykładowo uzupełniony)](https://tranzycja.pl/media/docs/wzory/wzor-oswiadczenia-o-stanie-rodzinnym-majatku-dochodach-i-zrodlach-utrzymania-przykladowy)  
+- [Wzór oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania (wzór pusty)](https://tranzycja.pl/media/docs/wzory/wzor-oswiadczenia-o-stanie-rodzinnym-majatku-dochodach-i-zrodlach-utrzymania-pusty.pdf)  
+- [Wzór oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania (wzór przykładowo uzupełniony)](https://tranzycja.pl/media/docs/wzory/wzor-oswiadczenia-o-stanie-rodzinnym-majatku-dochodach-i-zrodlach-utrzymania-przykladowy.docx)  
 - [Wzór wniosku o uzasadnienie postanowienia oddalającego wniosek o zwolnienie od kosztów](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanawienia-oddalajacego-wniosek-o-sprostowanie-aktu-urodzenia.docx)  
 - [Wzór wniosku o uzasadnienie postanowienia oddalającego wniosek o sprostowanie aktu urodzenia](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanawienia-oddalajacego-wniosek-o-sprostowanie-aktu-urodzenia.docx)  
 - [Wzór wniosku o przyspieszenie postępowania](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-przyspieszenie-rozprawy.docx)  
