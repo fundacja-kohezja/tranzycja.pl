@@ -1,6 +1,7 @@
 ---
 title: 'Zalecenia dotyczące opieki afirmującej płeć dla osób niepełnoletnich – nasze stanowisko '
-
+opublikowano: '2025-07-04 18:32:35'
+zaktualizowano: '2025-07-04 18:32:35'
 ---
 ---
 opublikowano: '2025-07-02 12:07:56'
