@@ -6,6 +6,8 @@ meta:
 zaktualizowano: '2021-03-14 12:00:00'
 ---
 
+# Zmiana imienia w USC
+
 :::danger
 _[Stan na 1 sierpnia 2025 r.]_
 
@@ -17,8 +19,6 @@ _[Stan na 1 sierpnia 2025 r.]_
 
 Aktywnie pracujemy nad odświeżeniem tego artykułu we wszystkich obszarach – opisaniem obecnej praktyki urzędów, doprecyzowaniem kwestii prawnych oraz stworzeniem aktualnej listy przyjaznych placówek – traktujemy to zadanie jako absolutny priorytet. Przepraszamy za utrudnienia, ale w obecnej sytuacji ten artykuł nie spełnia naszych standardów, a przede wszystkim – nie odpowiada na Wasze potrzeby.
 :::
-
-# Zmiana imienia w USC
 
 Niektóre osoby decydują się na zmianę imienia z pominięciem sądu, poprzez złożenie wniosku do Urzędu Stanu Cywilnego. Powody mogą być różne - przedłużające tranzycję komplikacje w procesie diagnozy, niechęć do pozywania rodziców i korekty płci metrykalnej, czy też brak realnej alternatywy dla posiadanego oznaczenia metryki w przypadku np. osób niebinarnych.
 
