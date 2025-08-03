@@ -5,20 +5,24 @@ meta:
     Autorzy: Tash Lisiecki
 zaktualizowano: '2021-03-14 12:00:00'
 ---
+
+:::danger
+_[Stan na 1 sierpnia 2025 r.]_
+
+**Uwaga:** Od momentu napisania tego artykułu w 2021 roku w znaczący sposób zmieniły się realia pracy urzędów stanu cywilnego oraz skuteczne praktyki przy składaniu wniosków o zmianę imienia. W praktycznie wszystkich obszarach jest to zmiana na lepsze – np. pojawiła się nowa ścieżka argumentowania wniosków transpłciowością czy możliwość przyjęcia imion stereotypowo męskich lub żeńskich. W ramach niedawnej oceny tekstu znalazłyśmy także nieścisłości w opisach procedur prawnych, które mogą wprowadzać w błąd – szczególnie dotyczy to sekcji opisujących oddalenie i odrzucenie wniosku, czas rozpoznania wniosku i wykonania decyzji USC oraz siłę różnych rodzajów dowodów. Zdezaktualizowała się również lista polecanych urzędów, którą postanowiłyśmy tymczasowo całkiem usunąć z artykułu. 
+
+**Z tych powodów niniejszy tekst nie spełnia naszych obecnych standardów jakości i odradzamy posługiwanie się nim jako jedynym źródłem wiedzy dotyczącym zmiany imienia w USC**. Aktualnych informacji i pomocy najlepiej szukać na grupach wsparcia (stacjonarnych oraz [dostępnych online](https://www.facebook.com/groups/1429825323924186)). Możliwe jest także uzyskanie nieodpłatnych porad na temat procedury zmiany imienia, np. w [Miłość Nie Wyklucza](https://mnw.org.pl/prawo/konsultacje/) lub [Lambdzie Warszawa](https://www.lambdawarszawa.org/wsparcie#04_wsparcie_poradnictwoprawne).
+
+**Wzory wniosków są aktualne i mogą być bezpiecznie używane.** 
+
+Aktywnie pracujemy nad odświeżeniem tego artykułu we wszystkich obszarach – opisaniem obecnej praktyki urzędów, doprecyzowaniem kwestii prawnych oraz stworzeniem aktualnej listy przyjaznych placówek – traktujemy to zadanie jako absolutny priorytet. Przepraszamy za utrudnienia, ale w obecnej sytuacji ten artykuł nie spełnia naszych standardów, a przede wszystkim – nie odpowiada na Wasze potrzeby.
+:::
+
 # Zmiana imienia w USC
 
 Niektóre osoby decydują się na zmianę imienia z pominięciem sądu, poprzez złożenie wniosku do Urzędu Stanu Cywilnego. Powody mogą być różne - przedłużające tranzycję komplikacje w procesie diagnozy, niechęć do pozywania rodziców i korekty płci metrykalnej, czy też brak realnej alternatywy dla posiadanego oznaczenia metryki w przypadku np. osób niebinarnych.
 
-:::warning
-Zachowaj ostrożność, ponieważ **odrzuconego wniosku nie możesz złożyć ponownie** bez znaczączej zmiany okoliczności.
-:::
-
 Dzięki tej stronie dowiesz się jak zmienić imię łatwo, szybko i bez zbędnego stresu. Jeśli natomiast preferujesz formę wideo, możesz zapoznać się z następującym materiałem:
-
-:::spoiler Leo: wideo o zmianie imienia
-{%youtube DDZxyVyRpZo%}
-:::
-
 
 ## Podstawowe informacje
 
@@ -40,10 +44,6 @@ Zmiana danych może nastąpić na wniosek opiekunów prawnych - w przypadku pary
 
 #### Osoby zamieszkałe za granicą
 Choć z zasady wniosek powinien być złożony osobiście, osoby zamieszkałe za granicą mogą go złożyć za pośrednictwem konsula Rzeczypospolitej, wskazując kierownika urzędu stanu cywilnego, któremu ma zostać przekazany wniosek[^23]. Można też samodzielnie wysłać go pocztą lub przez ePUAP.
-
-### Ile trwa zmiana imienia drogą urzędową?
-
-Czas rozpatrywania wniosku bywa różny, w najlepszym wypadku decyzję można dostać od ręki, w najgorszym całość nie powinna potrwać dłużej niż ok. 2 miesiące. Jesli trafisz na urzędnika który chce Ci pomóc, możesz na każdym etapie od razu dostawać zawiadomienia do podpisania (zamiast czekać na dostarczenie ich pocztą), a jeśli na koniec odbierzesz decyzję osobiście, zrzec się od razu pisemnie z przysługującego Ci okresu odwoławczego, co znacząco przyśpieszy całą procedurę i umożliwi wprowadzenie od razu zmian w cyfrowym systemie. Zazwyczaj decyzję otrzymuje się w ciągu tygodnia lub dwóch.
 
 ### Koszty
 
@@ -98,10 +98,6 @@ Zwyczajowo osoby transpłciowe i niebinarne opierają swoje wnioski na art. 4.1.
 Choć *Ustawa o zmianie imienia i nazwiska* nie definiuje jednoznacznie co jest ważnym powodem i pozostawia pole do interpretacji, nawet najbardziej życzliwi urzędnicy póki co nie przyjmują wniosków opartych o inny powód niż wyszczególnione w *Ustawie* przykłady i próba pójścia tą drogą byłaby trudną walką ze sporym ryzykiem odrzucenia wniosku.
 
 Jeśli chcesz, żeby Twój wniosek przeszedł szybko i bezboleśnie, a co najważniejsze, bez zbędnego ryzyka, **należałoby roboczo przyjąć że nie - nie ma możliwości zmiany imienia z powodu transpłciowości/niebinarności.** Nie ma natomiast przeciwwskazań prawnych, żeby prędzej czy później komuś się to udało wywalczyć i ułatwić w ten sposób procedurę dla kolejnych osób.
-
-:::info
-Znasz osobę której udało się zmienić imię dzięki uznaniu przez urzędnika dyskomfortu związanego transpłciowością za "ważny powód"? Podziel się tą informacją ze społecznością!
-:::
 
 Jeśli Twój wniosek został odrzucony z powodu transpłciowości, możesz poprosić o wsparcie prawników organizacji LGBT+ i zakwestionować tę decyzję w sądzie:
 
@@ -223,31 +219,7 @@ Nr telefonu: xxx-xxx-xxx
 Jednym z najważniejszych elementów procesu jest wybranie właściwego urzędu. Z powodu ogólnikowości przepisów, decyzje wydawane przez poszczególne urzędy mogą być drastycznie różne.
 
 :::warning
-Pamiętaj, aby sprawdzić najpierw, czy urząd, w którym chcesz złożyć wniosek jest przyjazny osobom trans/nb, np. poprzez sprawdzenie polecanych urzędów w swojej okolicy na grupach wsparcia, transowych forach itd.
-:::
-
-#### Polecane urzędy ✔
-| Polecane USC | Opis |
-|---|---|
-|Stęszew (p. Poznaniem)|Bardzo miłe panie, pomagają osobm trans i przyśpiszają procedury.|
-|Gdańsk||
-|Kołobrzeg|   |
-|Włocławek||
-|Siedlce|   |
-|Koszalin|   |
-|Wrocław||
-|Kraków|   |
-
-
-#### Odradzane urzędy ❌
-| Odradzane USC | Opis |
-|---|---|
-|Poznań|   |
-|Warszawa - Śródmieście|Przy pl. Andersa - czasem w przypadku dzieci się udaje|
-|Częstochowa|   |
-
-:::info
-Masz informacje o innym urzędzie? [Zostaw komentarz](https://hackmd.io/@tranzycja/HJ5bPZVeO)!
+W tym miejscu znajdowała się lista zaufanych urzędów. Jednakże z powodu jej nieaktualności postanowiłyśmy ją tymczasowo usunąć z artykułu. Informacji o przyjaznych USC szukaj na grupach wsparcia, transowych discordach, wśród znajomych, którzy przechodzili tę procedurę, etc.
 :::
 
 ## Jak złożyć wniosek
@@ -261,10 +233,6 @@ Masz informacje o innym urzędzie? [Zostaw komentarz](https://hackmd.io/@tranzyc
 Nie potrzebujesz natomiast aktu urodzenia - w dowolnym urzędzie uzyskają do niego dostęp zdalnie, za pomocą swojego systemu cyfrowego.
 
 Wniosek o zmianę umienia możesz złożyć osobiście, lub też przesłać pocztą, a nawet poprzez internetową platformę ePUAP.
-
-:::warning
-Za najbezpieczniejszą metodę uznaje się złożenie wniosku osobiście, ponieważ daje największe szanse na pozytywne rozpatrzenie.
-:::
 
 Wnioski złożone zdalnie mogą łatwo zostać odrzucone z przyczyn formalnych, niedostatecznej ilości/jakości dowodów lub też zwyczajnie prywatnych poglądów i upodobań urzędnika.
 
@@ -285,10 +253,6 @@ Jeśli wniosek zostanie odrzucony, to **nie możesz takiego samego wniosku zło�
 Jeśli jednak Twój wniosek został już odrzucony i zależy Ci na uzyskaniu tej konkretnej zmiany, możesz nadal jeszcze o nie zawalczyć.
 
 >Postępowanie administracyjne w zakresie zmiany imienia i nazwiska jest dwuinstancyjne. Prawo zaskarżenia decyzji organu pierwszej instancji wynika z art. 78 Konstytucji RP, zgodnie z którym każda ze stron ma prawo do zaskarżenia orzeczeń i decyzji wydanych w pierwszej instancji. Organem odwoławczym w odniesieniu do decyzji wydanych przez kierownika urzędu stanu cywilnego jest wojewoda.[^2]
-
-:::warning
-Masz doświadczenie z odwoływaniem się od decyzji w sprawie zmieny imienia? Zostaw komentarz!
-:::
 
 Choć katalog przesłanek pozytywnych nie jest katalogiem zamkniętym, na co wskazuje zwrot „istnieją w szczególności”, podkreślenia przez ustawodawcę, iż zmiany można dokonać „wyłącznie” z ważnych powodów, wsmacnia zasadę stabilizacji nazwisk, w związku z którą urzędnicy starają się zachować dużą ostrożność akceptując wniosek. Obecna ustawa nie zawiera definicji pojęcia „ważne powody”, pozostawiając tym samym dużą swobodę organowi administracji w wydaniu rozstrzygnięcia, które ma charakter wysoce uznaniowy. Wydanie decyzji uznaniowej, której treść oparta jest na klauzuli odsyłającej, podlega zaś kontroli sądowej. Na potwierdzenie warto przywołać stanowisko Naczelnego Sądu administracyjnego, zgodnie z którym „użycie przez prawodawcę określeń prawnie niezdefiniowanych (tzw. wyrażeń nieostrych) zobowiązuje organ sprawujący kontrolę legalności decyzji wydanych na podstawie przepisów używających takich określeń — do rozważenia, czy dokonana przez organ administracji państwowej ocena okoliczności sprawy nie nosi cech dowolności lub nie przekroczyła dopuszczalnej granicy swobody interpretacji tych określeń na tle konkretnego stanu faktycznego.
 
