@@ -15,6 +15,8 @@ _[Stan na 1 sierpnia 2025 r.]_
 
 **Z tych powodów niniejszy tekst nie spełnia naszych obecnych standardów jakości i odradzamy posługiwanie się nim jako jedynym źródłem wiedzy dotyczącym zmiany imienia w USC**. Aktualnych informacji i pomocy najlepiej szukać na grupach wsparcia (stacjonarnych oraz [dostępnych online](https://www.facebook.com/groups/1429825323924186)). Możliwe jest także uzyskanie nieodpłatnych porad na temat procedury zmiany imienia, np. w [Miłość Nie Wyklucza](https://mnw.org.pl/prawo/konsultacje/) lub [Lambdzie Warszawa](https://www.lambdawarszawa.org/wsparcie#04_wsparcie_poradnictwoprawne).
 
+**Możecie także zapoznać się z [naszym poradnikiem dla pracowników urzędów stanu cywilnego](https://tranzycja.pl/media/docs/autorskie/zmiana-imienia-informator-usc.pdf).** W rozdziale trzecim znajdziecie precyzyjne informacje o obecnym stanie prawnym oraz naszych rekomendacjach procedur, które są już wprowadzone w niektórych przyjaznych USC. Jednocześnie jest to tekst pisany z myślą o osobach urzędniczych, więc wymaga przebrnięcia przez żargon oraz precyzyjność zbędną dla osób dokonujących zmiany.
+
 **Wzory wniosków są aktualne i mogą być bezpiecznie używane.** 
 
 Aktywnie pracujemy nad odświeżeniem tego artykułu we wszystkich obszarach – opisaniem obecnej praktyki urzędów, doprecyzowaniem kwestii prawnych oraz stworzeniem aktualnej listy przyjaznych placówek – traktujemy to zadanie jako absolutny priorytet. Przepraszamy za utrudnienia, ale w obecnej sytuacji ten artykuł nie spełnia naszych standardów, a przede wszystkim – nie odpowiada na Wasze potrzeby.
