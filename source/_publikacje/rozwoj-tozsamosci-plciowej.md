@@ -1,9 +1,4 @@
 ---
-title: Jak rozwija się tożsamość płciowa?
-
----
-
----
 tags: publikacje
 meta:
     Autorzy: 'Nina Kuta'
