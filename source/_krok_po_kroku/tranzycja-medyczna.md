@@ -1,9 +1,4 @@
 ---
-title: 'Jak rozpocząć tranzycję medyczną? Proces diagnostyczny '
-
----
-
----
 kolejnosc: 50
 tags: krok po kroku, tranzycja medyczna, terapia hormonalna
 meta: 
