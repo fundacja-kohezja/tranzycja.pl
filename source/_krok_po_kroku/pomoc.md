@@ -1,10 +1,4 @@
 ---
-title: Untitled
-
----
-
-
----
 kolejnosc: 99
 tags: krok po kroku
 meta: 
