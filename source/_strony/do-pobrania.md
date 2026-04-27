@@ -6,20 +6,20 @@
 
 ![Okładka publikacji Czy jestem trans? Niezbędnik wsparcia dla nastolatków](/media/img/czyjestemtrans-okladka.jpg)
 
-Przewodnik po transpłciowości i tranzycji przeznaczony dla osób nastoletnich – i tych dopiero poszukujących swojej tożsamości płciowej i tych już pewnych, ale potrzebujących wsparcia w kolejnych krokach.  
+Przewodnik po transpłciowości i tranzycji przeznaczony dla osób nastoletnich – zarówno tych, które dopiero poszukują swojej tożsamości płciowej, jak i tych, które są już jej pewne, ale potrzebują wsparcia w kolejnych krokach. Publikacja stworzona we współpracy z Fundacją Magovox.
 
-Co znajdziecie w środku? 
+W środku znajdziesz: 
 
-- przystosowane do wieku wprowadzenie do płci i transpłciowości, systematyzujące wiedzę i obalające stereotypy, rozróżniające transpłciowość od nienormatywności płciowej czy orientacji seksualnej; 
-- przejście po wszystkich transowych tematach – tranzycji społecznej, coming outu, seksualności, relacji w szkole, relacji z rodziną, kryzysów psychicznych – w każdej oferując garść porad; 
-- listy transowych polecajek: filmów, książek, seriali, gier i innych treści kultury pokazujących różnorodne perspektywy na transpłciowość 
-- realistyczne porady dla trans nastolatków w transfobicznych rodzinach– jak można rozmawiać z nieakceptującymi rodzicami, co zrobić by wytrzymać do osiemnastki, a w najgorszych scenariuszach jak zgłosić przemoc w rodzinie. 
+- przystosowane do wieku wprowadzenie do tematów płci i transpłciowości, systematyzujące wiedzę i obalające stereotypy, rozróżniające transpłciowość od nienormatywności płciowej czy orientacji seksualnej; 
+- przejście po wszystkich transowych tematach – tranzycji społecznej, coming outach, seksualności, relacjach w szkole, relacjach z rodziną, kryzysach psychicznych – w każdym z nich oferujące garść porad; 
+- listy transowych polecajek – filmów, książek, seriali, gier i innych treści kultury pokazujących różnorodne perspektywy na transpłciowość; 
+- realistyczne porady dla trans nastolatków w transfobicznych rodzinach– jak można rozmawiać z nieakceptującymi rodzicami, co zrobić, by wytrzymać do osiemnastki, a w najgorszych scenariuszach, jak zgłosić przemoc w rodzinie. 
 
-Publikacje stworzyły dwie edukatorki w obszarze transpłciowości z wieloletnim doświadczeniem w temacie: Nina Kuta oraz Dag Fajt. Treść skonsultowana została z szerokim gronem eksperckim w obszarze psychologii, seksuologii, edukacji seksualnej, prawa oraz medycyny.  
+Publikację przygotowały dwie specjalizujące się w temacie transpłciowości edukatorki z wieloletnim doświadczeniem: Nina Kuta oraz Dag Fajt. Treść skonsultowana została z szerokim gronem osób eksperckich z zakresu psychologii, seksuologii, edukacji seksualnej, prawa oraz medycyny. Publikacja sfinansowana ze środków Fundacji Magovox.  
 
-Publikację matronatem objęły Fundacja SEXED.PL, Fundacja Growspace, Fundacja Transpłciowość w Rodzinie, Fundacja FEDERA, Fundacja Dziewczyny w Spektrum, Stowarzyszenie My, Rodzice, Stowarzyszenie Lambda Warszawa, Grupa Ponton, Grupa Stonewall oraz The Warsaw House Foundation. 
+Publikację matronatem objęły Fundacja SEXED.PL, Fundacja Growspace, Fundacja „Transpłciowość w rodzinie”, Fundacja FEDERA, Fundacja Dziewczyny w Spektrum, Stowarzyszenie My, Rodzice, Stowarzyszenie Lambda Warszawa, Grupa Ponton, Grupa Stonewall oraz The Warsaw House Foundation. 
 
-Wysyłka egzemplarzy papierowych dostępna za pokryciem kosztów wysyłki. Zgłoszenia przyjmujemy przez [formularz](https://docs.google.com/forms/d/e/1FAIpQLScqj4-hK_a9xmqixOC4BDs7kaQWT2svARN_co4SMFMiZV7__g/viewform).
+Wysyłka egzemplarzy papierowych dostępna za pokryciem kosztów przesyłki. Zgłoszenia przyjmujemy przez [formularz](https://docs.google.com/forms/d/e/1FAIpQLScqj4-hK_a9xmqixOC4BDs7kaQWT2svARN_co4SMFMiZV7__g/viewform).
 
 [Pobierz!](/media/docs/autorskie/czy-jestem-trans-2026.pdf){.przycisk}
 
@@ -31,19 +31,19 @@ Wysyłka egzemplarzy papierowych dostępna za pokryciem kosztów wysyłki. Zgło
 
 ![Okładka publikacji Moje dziecko jest trans. Niezbędnik wsparcia dla Ciebie i Twojego dziecka](/media/img/mojedzieckojesttrans-okladka.jpg)
 
-Kompendium wiedzy o transpłciowości przeznaczony dla rodziców transpłciowych osób niepełnoletnich stworzone we współpracy z Fundacją Magovox. 
+Kompendium wiedzy o transpłciowości przeznaczone dla rodziców transpłciowych osób niepełnoletnich, stworzone we współpracy z Fundacją Magovox. 
 
 W środku znajdziesz: 
-- odpowiedzi na najczęstsze mity spotykane lęki rodziców: „mody” na transpłciowość, detranzycji powiązania transpłciowości z traumami czy problemami wychowawczymi. 
-- porady jak wspierać dziecko w tranzycji, zarówno jeśli chodzi o podejmowanie wspólnie decyzji odnośnie kolejnych kroków, jak i wsparcie w walce z dysforią.  
-- skrót regulacji obowiązujących w szkołach – by żadna placówka nie zasłaniała się nieistniejącymi przepisami mającymi nakazywać misgendering czy zakazujących dostępu do toalet i szatni.  
-- trzeźwe spojrzenie, zauważające lęki rodzica, ale przypominające o potrzebach dziecka i zagrożeniu parentyfikacją. Wspieranie rodzica, by mógł wesprzeć swoje dziecko. 
+- odpowiedzi na najpowszechniejsze mity i najczęściej spotykane lęki rodziców: „moda” na transpłciowość, detranzycja, powiązania transpłciowości z traumami czy problemami wychowawczymi; 
+- porady, jak wspierać dziecko w tranzycji, zarówno jeśli chodzi o podejmowanie wspólnie decyzji co do kolejnych kroków, jak i wsparcie w walce z dysforią;  
+- skrót regulacji obowiązujących w szkołach – by żadna placówka nie zasłaniała się nieistniejącymi przepisami nakazującymi rzekomo misgendering czy zakazującymi dostępu do toalet i szatni; 
+- trzeźwe spojrzenie, które zauważa lęki rodzica, przypominając o potrzebach dziecka i zagrożeniu parentyfikacją – wspieranie rodzica, by mógł wesprzeć swoje dziecko. 
 
-Publikacje stworzyły dwie edukatorki w obszarze transpłciowości z wieloletnim doświadczeniem w temacie: Nina Kuta oraz Dag Fajt. Treść skonsultowana została z szerokim gronem eksperckim w obszarze psychologii, seksuologii, edukacji seksualnej, prawa oraz medycyny. 
+Publikację przygotowały dwie specjalizujące się w temacie transpłciowości edukatorki z wieloletnim doświadczeniem: Nina Kuta oraz Dag Fajt. Treść skonsultowana została z szerokim gronem osób eksperckich z zakresu psychologii, seksuologii, edukacji seksualnej, prawa oraz medycyny.
 
-Publikację matronatem objęły Fundacja SEXED.PL, Fundacja Growspace, Fundacja Transpłciowość w Rodzinie, Fundacja FEDERA, Fundacja Dziewczyny w Spektrum, Stowarzyszenie My, Rodzice, Stowarzyszenie Lambda Warszawa, Grupa Ponton, Grupa Stonewall oraz The Warsaw House Foundation. 
+Publikację matronatem objęły Fundacja SEXED.PL, Fundacja Growspace, Fundacja „Transpłciowość w rodzinie”, Fundacja FEDERA, Fundacja Dziewczyny w Spektrum, Stowarzyszenie My, Rodzice, Stowarzyszenie Lambda Warszawa, Grupa Ponton, Grupa Stonewall oraz The Warsaw House Foundation. 
 
-Wysyłka egzemplarzy papierowych dostępna za pokryciem kosztów wysyłki. Zgłoszenia przyjmujemy przez [formularz](https://docs.google.com/forms/d/e/1FAIpQLScqj4-hK_a9xmqixOC4BDs7kaQWT2svARN_co4SMFMiZV7__g/viewform).
+Wysyłka egzemplarzy papierowych dostępna za pokryciem kosztów przesyłki. Zgłoszenia przyjmujemy przez [formularz](https://docs.google.com/forms/d/e/1FAIpQLScqj4-hK_a9xmqixOC4BDs7kaQWT2svARN_co4SMFMiZV7__g/viewform).
 
 [Pobierz!](/media/docs/autorskie/moje-dziecko-jest-trans-2026.pdf){.przycisk}
 
