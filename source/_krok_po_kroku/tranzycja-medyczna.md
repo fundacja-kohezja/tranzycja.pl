@@ -3,169 +3,170 @@ kolejnosc: 50
 tags: krok po kroku, tranzycja medyczna, terapia hormonalna
 meta: 
     Autorzy: Nina Kuta
-    Korekta: lek. Katarzyna Marzęda, Dag Fajt, Tash Lisiecki
-zaktualizowano: '2022-04-01 12:00:00'
+    Korekta: Julia Zając
+zaktualizowano: '2026-04-24 12:00:00'
 ---
-# Jak rozpocząć tranzycję medyczną? Proces diagnostyczny
 
-:::info [EN: English version of the text](https://tranzycja.pl/en/publications/how-to-start-medical-transition-in-Poland):::
+# Jak rozpocząć tranzycję medyczną? Proces diagnostyczny 
 
-Wiele z działań mogących wchodzić w zakres tranzycji można podjąć samodzielnie (część z nich omawialiśmy w [poprzednich](https://tranzycja.pl/krok-po-kroku/czy-jestem-trans/) [artykułach](https://tranzycja.pl/krok-po-kroku/dysforia-plciowa/)). Uzyskanie dostępu do interwencji medycznych wymaga jednak przejścia przez proces diagnostyczny. W tym tekście znajdziesz podstawowe informacje, które ułatwią Ci jego rozpoczęcie i pozwolą zorientować się w dosyć zagmatwanej sytuacji, w jakiej znajdują się osoby trans w obrębie polskiej służby zdrowia.
-
-:::info
-**Dobrzy specjaliści nie będą zmuszać Cię do żadnego określonego toku tranzycji.** Wszystkie kroki powinny być dobierane indywidualnie, w sposób dostosowany do potrzeb danej osoby. Choć stereotypowo „pełna” tranzycja powinna składać się z terapii hormonalnej, zmiany danych urzędowych, usunięcia gonad oraz operacji genitaliów, to nic nie stoi na przeszkodzie, by wybierać z niej to, co nam odpowiada. 
-
-Jedyną barierą mogą być tu względy prawne — z racji niejasnego statusu prawnego wokół zabiegów powodujących sterylizację, lekarze najczęściej nie będą chcieli się ich podejmować przed zmianą oznaczenia płci w dokumentach.
+:::info 
+[EN: English version of the text](https://tranzycja.pl/en/publications/how-to-start-medical-transition-in-Poland)
 :::
 
-## Jak to wygląda w teorii?
+Wbrew popularnym wyobrażeniom żaden specjalista od zdrowia psychicznego nie jest w stanie „potwierdzić” lub „wykluczyć” transpłciowości u danej osoby. Nigdy nie powstał żaden „test na transpłciowość”, nie mamy jej jednoznacznych biologicznych wskaźników. 
 
-W celu uzyskania dostępu do interwencji medycznych afirmujących płeć, takich jak terapia hormonalna czy mastektomia, potrzebna jest odpowiednia diagnoza. Zgodnie z [zaleceniami Polskiego Towarzystwa Seksuologicznego](https://tranzycja.pl/publikacje/zalecenia-pts/) proces diagnostyczny nie powinien opierać się na weryfikowaniu prawdziwości czyjejś tożsamości, ale na potwierdzeniu, że spełniasz poniższe warunki:
-- od co najmniej 3 miesięcy odczuwasz dysforię płciową (czym jest dysforia przeczytasz [tutaj](https://tranzycja.pl/krok-po-kroku/dysforia-plciowa/));
-- dysforia płciowa nie wynika z innych problemów psychicznych;
-- Twój stan jest na tyle stabilny, by można było wdrożyć interwencje medyczne bez szkody na Twoim zdrowiu — możesz mieć inne problemy psychiczne, ale powinny być one pod odpowiednią kontrolą farmakoterapeutyczną czy psychoterapeutyczną.
+To Ty masz najlepszy dostęp do swoich własnych odczuć i przeżyć, tylko Ty jesteś w stanie określić ich charakter i zdecydować się żyć otwarcie jako osoba transpłciowa. Diagnosta pełni tu rolę słuchacza, który spisuje Twoje odczucia, ale nie ma katalogu „prawdziwych sposobów na bycie osobą transpłciową”. Jeśli wahasz się odnośnie swojej tożsamości, zachęcamy Cię do zapoznania się z naszym artykułem [„Jak poznać, że jestem trans?”](https://tranzycja.pl/krok-po-kroku/czy-jestem-trans/).
 
-Liczba specjalistów biorących udział w procesie diagnostycznym może być różna, ale modelowo powinny być to dwie osoby:
-1. psycholog, najlepiej ze specjalizacją seksuologiczną, który ma za zadanie wystawić opinię psychologiczną. Jest to prawdopodobnie najbardziej czasochłonna część tranzycji, która przeważnie wymaga co najmniej kilku wizyt.
-2. psychiatra lub lekarz ze specjalizacją seksuologiczną. W świetle prawa psycholog nie jest lekarzem, więc nie jest w stanie wystawić diagnozy medycznej. Najczęściej będzie to psychiatra-seksuolog, ale może być też ginekolog-seksuolog, endokrynolog-seksuolog, czy internista-seksuolog. 
+W najnowszej klasyfikacji chorób i zaburzeń ICD-11, wydawanej przez Światową Organizację Zdrowia, transpłciowość została usunięta z działu zaburzeń psychicznych. W zakresie podejścia do osób trans powoli następują zmiany – w wielu krajach na świecie tranzycja medyczna jest dostępna w ramach tzw. [modelu świadomej zgody](https://tranzycja.pl/publikacje/tranzycja-na-zadanie/), pozbawionym elementu diagnozy przez specjalistę zdrowia psychicznego. 
+ 
+W Polsce model ten pozostaje jednak marginalny, a psychiatrzy i psychologowie nadal trzymają pieczę nad dostępem do tranzycji. By uzyskać dostęp do terapii hormonalnej i operacji oraz zmiany oznaczenia płci w dokumentach, w większości przypadków będziesz zmuszon_ do przejścia przez proces diagnostyczny. W poniższym artykule znajdziesz podstawowe informacje, które ułatwią Ci jego rozpoczęcie i pozwolą zorientować się w dosyć zagmatwanej sytuacji, w jakiej znajdują się osoby trans w obrębie polskiej ochrony zdrowia. 
 
-Na ten moment używanym przez NFZ katalogiem chorób i zaburzeń jest ICD-10, w którym jednostką diagnostyczną leżącą najbliżej dysforii płciowej jest "transseksualizm" oznaczany kodem F64 — do zebrania dokumentacji z tym właśnie kodem dążymy. W następnych latach, wraz z implementacją ICD-11, kod i nazwa tej jednostki ulegnie zmianie, ale ma to bardzo umiarkowane przełożenie na sam proces diagnostyczny.
+## Do czego potrzebna jest diagnoza? 
 
-Diagnoza i opinia psychologiczna umożliwiają dalsze kroki. Można się z nimi udać do endokrynologa, by wypisał receptę na hormony i ustalił dawkowanie (po więcej informacji można sięgnąć do naszego artykułu o [feminizującej](https://tranzycja.pl/krok-po-kroku/feminizujaca-terapia-hormonalna/) oraz [maskulinizującej](https://tranzycja.pl/krok-po-kroku/maskulinizujaca-terapia-hormonalna/) terapii hormonalnej). Będą również pomocne w klinikach, w których wykonuje się mastektomie, czy w czasie procesu o zmianę oznaczenia płci w dokumentach. 
+Zanim przejdziemy do przedstawienia szczegółów procesu diagnostycznego, warto najpierw określić do czego zazwyczaj potrzebna Ci będzie psychologiczno-lekarska diagnoza niezgodności płci.  
 
-## Jak to wygląda w praktyce?
+| NIE POTRZEBUJESZ diagnozy do: | POTRZEBUJESZ diagnozy do: |
+| -------- | -------- |
+| tranzycji społecznej, codziennego życia zgodnie z odczuwaną płcią,     | rozpoczęcia terapii hormonalnej,     |
+| [zmiany imienia w Urzędzie Stanu Cywilnego](https://tranzycja.pl/krok-po-kroku/zmiana-imienia-usc/) (w uzasadnieniu można powołać się na transpłciowość, ale nie trzeba),   |     szerokiego dostępu do interwencji chirurgicznych,     |
+| niektórych zabiegów chirurgicznych dostępnych na żądanie: zabiegów z dziedziny chirurgii estetycznej, zmniejszenia/powiększenia piersi, w niektórych klinikach [mastektomii](https://tranzycja.pl/krok-po-kroku/mastektomia-poradnik/).    | zmiany oznaczenia płci w dokumentach,     |
+|  | operacji pozbawiających płodności, takich jak usunięcie macicy/jąder czy operacje genitaliów. W Polsce konieczna jest również zmiana oznaczenia płci.     |
 
-Powyżej opisany model jest często stosowany i kierując się zawartymi w nim wytycznymi dojdziesz w końcu do swoich celów. Jednakże nie jest to jedyna ścieżka diagnostyki - przestrzeganie zaleceń PTSu nie jest w żaden sposób regulowane. Oznacza to, że poszczególni lekarze będą stosować się do nich w różny sposób: część będzie przestrzegać ich co do przecinka, część zupełnie je zignoruje i z lepszym lub gorszym efektem będzie proces układać po swojemu. Ma to swoje pozytywne jak i negatywne skutki: z jednej strony model oparty o zalecenia PTSu może być stosunkowo kosztowny i długotrwały, więc lekarze nie stosujący się do niego mogą być ostoją dla osób trans niebędących w stanie przez niego przejść. Z drugiej, może to prowadzić do wielu patologii i błędów medycznych. 
+## Psychiatra, psycholog czy seksuolog? Do kogo się udać? 
+ 
+Najczęściej stosowany model procesu diagnostycznego niezgodności płciowej jest zawarty w [zaleceniach Polskiego Towarzystwa Seksuologicznego](https://pts-seksuologia.pl/images/ckeditor_photos/Grabski_PsychiatrPolOnlineFirstNr187.pdf_____5f7ad3b021cb6.pdf), które stawiają wymóg przeprowadzenia diagnozy przez dwóch specjalistów (str. 4–5): 
+ 
+- lekarz psychiatra **LUB** lekarz seksuolog (najczęściej z połączoną specjalizacją, psychiatra-seksuolog, ginekolog-seksuolog itp.), 
+- psycholog posiadający certyfikat seksuologa **LUB** psycholog kliniczny **LUB** psychoseksuolog. 
 
-Do często spotykanych wariacji procesu diagnostycznego należą poniższe scenariusze:
+Częstym źródłem nieporozumień jest kwestia tego, kim właściwie jest seksuolog. Lekarz-seksuolog i psycholog-seksuolog nazywani są tym samym określeniem, ale to dwie różne ścieżki edukacji. 
 
-- lekarz-seksuolog może nie wymagać opinii psychologicznej i wystawić diagnozę bez niej opierając się wyłącznie na własnej ekspertyzie;
-- niektórzy lekarze-seksuologowie mogą wypisać receptę na pierwszej wizycie, a diagnozę postawić dopiero po jakimś czasie (zgodnie z tzw. modelem świadomej zgody);
-- jeśli lekarz-seksuolog nie jest psychiatrą, może wymagać dodatkowego zaświadczenia od psychiatry o braku przeciwwskazań do tranzycji.
-- lekarz-seksuolog może zdecydować się samemu wypisać receptę na hormony i ustalić dawkowanie. Jeśli jest endokrynologiem-seksuologiem jest to dosyć naturalnym zjawiskiem, jeśli jednak jest psychiatrą-seksuologiem, to istnieje bardzo duże ryzyko, że nie ma do tego odpowiednich kompetencji. W takim wypadku po uzyskaniu diagnozy najlepiej zanieść ją razem z opinią psychologiczną do endokrynologa.
-- może istnieć opcja obejścia diagnozy medycznej, gdyż niektorzy endokrynolodzy wypiszą receptę na HRT wyłącznie w oparciu o opinię psychologiczną i/lub zaświadczenie o braku przeciwwskazań do tranzycji. 
+Można by się spodziewać, że dzięki swojemu przygotowaniu seksuolodzy są bardziej kompetentni czy zorientowani w tematach związanych z transpłciowością, w praktyce nie jest to jednak prawda, a większość aktualnej wiedzy na ten temat specjaliści i tak muszą zdobywać na własną rękę. Specjalizacja seksuologiczna jest spotykana dość rzadko – zalecenia PTS-u przewidują jednak możliwość, w której nie uzyskujesz opinii ani od lekarza-seksuologa, ani psychologa-seksuologa, stąd można uznać specjalizację seksuologiczną za opcjonalną.
 
-Okoliczność ta znacząco utrudnia nam sformułowanie uniwersalnego poradnika: **w praktyce w zależności od tego, do jakiego lekarza pójdziesz, możesz spotkać się z diametralnie różnym traktowaniem.** Najpewniejszym sposobem na uzyskanie informacji odnośnie podejścia danego lekarza jest udanie się na grupy wsparcia dla osób trans i skorzystanie z opcji szukaj (wpisując np. nazwisko danego lekarza, czy miasto, w którym szukamy specjalisty - niektóre miasta mają też swoje lokalne grupy). 
+Diagnozą odpowiadającą transpłciowości w klasyfikacjach ICD jest oznaczony kodem F64.0 „transseksualizm” (w starszej ICD-10) oraz oznaczona kodem HA60 „niezgodność płciowa” (w przyjętej przez Polskę, ale jeszcze niewdrożonej przez opiekę zdrowotną ICD-11). Opinie od specjalistów mogą zawierać jedną lub obie z tych diagnoz, natomiast dokumenty związane z systemem informatycznym opieki zdrowotnej (recepty, skierowania itp.) będą zawsze zawierać kod z ICD-10. To, jakie jednostki diagnostyczne są wpisane w twojej opinii, jest wyłącznie kwestią formalną, obie diagnozy są równoważne. 
 
-:::success
-Dwie największe grupy wsparcia dla osób trans w Polsce to:
+:::warning 
 
-- [NieCisowianka- Grupa Wsparcia Osób Niebinarnych, Trans i Inter oraz nie-cis](https://www.facebook.com/groups/niecisowiankawsparcie)
-- [Grupa Wsparcia dla Osób Transpłciowych](https://www.facebook.com/groups/transwsparcie/)
-:::
+Nie każdy psycholog czy lekarz będzie chętny do prowadzenia procesu diagnostycznego osobom transpłciowym, a nawet jeśli ma to w swojej ofercie, to jeszcze nie znaczy, że posiada odpowiednie kompetencje. 
 
-:::danger
-**Nie każdy psycholog-seksuolog czy lekarz-seksuolog będzie chętny do prowadzenia procesu diagnostycznego osobom transpłciowym**, a nawet jeśli ma to w swojej ofercie, to jeszcze nie znaczy, że posiada odpowiednie kompetencje. W z związku z tym szukanie specjalistów przez portale typu znanylekarz.pl może nie przynieść pozytywnych rezultatów. Przed umówieniem się na wizytę wskazane jest napisanie maila do lekarza/psychologa z pytaniem czy przyjmuje osoby trans i/lub sprawdzenie opinii o nim na grupach wsparcia. Transprzyjaznych specjalistów można znaleźć również poprzez naszą [mapę](https://mapa.tranzycja.pl/), chociaż zalecamy korzystać z niej w połączeniu z informacjami z grup i serwerów osób trans.
+Przypadkowi specjaliści mogą odmawiać opiniowania, prowadzić je w przestarzały sposób, a nawet dopuszczać się transfobicznej przemocy. W związku z tym szukanie specjalistów przez portale typu znanylekarz.pl może być ryzykowne. Przed umówieniem się na wizytę należy zwrócić uwagę na to, czy na stronie/profilu danego lekarza lub psychologa jest dopisek „LGBT-friendly/trans-friendly”, oraz sprawdzić opinie o nim w społeczności osób trans. 
 
-Jeśli mieszkasz w małym/średnim mieście lub na wsi, to w zdecydowanej większości przypadków wizyty u lekarzy będą wiązały się z podróżą do któregoś z wielkich miast.
-:::
+Posłużyć może do tego kilka społecznościowych zasobów: prowadzona przez nas [mapa specjalistów](https://mapa.tranzycja.pl/), forum [r/TęczowaPolska](https://www.reddit.com/r/TeczowaPolska/) czy znajdująca się na Facebooku [Grupa Wsparcia dla Osób Transpłciowych](https://www.facebook.com/groups/transwsparcie). Można tam umieścić post z pytaniem o specjalistów w danym mieście/rejonie lub skorzystać z opcji „szukaj” do znalezienia specjalistów (używając nazwiska lub słów kluczowych). 
 
-
-## Pytania i odpowiedzi
-
-:::spoiler O co dokładnie pytają seksuolodzy w czasie diagnozy?
-
-Dużo zależy tutaj od konkretnego specjalisty, pytania mogą być bardzo różne. Najczęściej orbitować będą jednak wokół paru konkretnych tematów:
-
-1. Twojego obecnego stanu psychicznego (nastroju, codziennego funkcjonowania, problemów w innych sferach życia) i dyskomfortu związanego z dysforią płciową.
-2. Świadomości odnośnie zmian, które mają zajść w Twoim ciele i w Twoim życiu.
-3. Od jak dawna określasz się w dany sposób, jakie były wczesne oznaki transpłciowości. Często przybiera to formę prośby o przyniesienie tzw. "życiorysu", czyli dokumentu (najczęściej na parę stron) w którym spiszesz dokładnie historię swojej transpłciowości i dysforii płciowej. Nie musi to być pełna autobiografia, możesz skupić się wyłącznie na doświadczeniu płci.
-
-Niestety u niekompetentnych specjalistów mogą pojawiać się pytania o zachowania seksualne, np. o praktyki masturbacji czy preferowane pozycje w seksie. Nie musisz odpowiadać na takie pytania, możesz odmówić.
-
-:::
-
-:::spoiler Czy do wystawienia diagnozy potrzebne są jeszcze jakieś dodatkowe badania?
-
-Zalecenia PTS jako badania opcjonalne wymieniają badanie ginekologiczne u osób transmęskich (USG macicy, USG piersi oraz wymaz z szyjki macicy) oraz urologiczne u osób transkobiecych. Część specjalistów zupełnie je odpuszcza, część może nie zgodzić się wystawić diagnozy bez nich (dotyczy to szczególnie badania ginekologicznego). **Jeśli odczuwasz znaczącą dysforię w związku z nimi, to możesz nie zgodzić się na wykonanie badania i powołać się przy tym na zalecenia PTSu.** 
-
-Część z psychologów będzie wymagać wypełnienia kwestionariuszy MMPI-2 do wystawienia opinii psychologicznej. Niestety może wiązać się to ze znaczącym kosztem.
-
-Część seksuologów może wymagać badania kariotypu. Nie ma to uzasadnienia klinicznego, ale jest czasami wymagane przez sąd. Jest to jednak spotykane coraz rzadziej i wiele lekarzy i pacjentów odpuszcza sobie wykonanie tego badania.
-
-Przed opublikowaniem najnowszych zaleceń PTS od osób trans wielu specjalistów wymagało rutynowego przeprowadzania badań takich jak rezonans magnetyczny głowy, EEG, czy badanie dna oka. Jeśli nie masz żadnych problemów na tle neurologicznym, to ich zrobienie nie ma żadnego sensu klinicznego. **Jeśli specjalista ich od Ciebie wymaga, można ich odmówić powołując się na zalecenia PTSu.**
-
-:::
-
-:::spoiler Czy proces diagnostyczny można przejść na NFZ?
-
-Nie jest to niemożliwe, ale może być bardzo utrudnione, gdyż niewiele osób ze specjalizacją seksuologiczną przyjmuje na NFZ, a ci którzy to robią, często świadczą usługi na bardzo niskim poziomie (jednym z niewielu chlubnych wyjątków będzie tu dr. Aleksandra Krasowska przyjmująca w Warszawie). 
-
-Z powyższych względów zdecydowana większość osób przechodzi diagnostykę prywatnie.
-
-:::
-
-:::spoiler Ile czasu może zająć proces diagnostyczny?
-
-Nie da się stwierdzić. Rekordziści dobierając sobie odpowiednich lekarzy potrafili uwinąć się w miesiąc lub dwa, pechowcy, którzy natrafili na lekarzy stosujących tzw. gatekeeping (utrudnianie, przedłużanie procesu diagnostycznego) mogli ugrzęznąć w nim na lata. Najczęściej spotykaną wartością będzie około pół roku. Do czynników mogących przedłużyć proces diagnostyczny należą:
-
-- robienie go na NFZ: nie ma co liczyć na uwinięcie się szybciej niż w rok;
-- niekompetencja i/lub transfobia lekarza;
-- obecność innych zaburzeń, problemów psychicznych oraz zdrowotnych.
-
-Często spotykana długość to 4-6 wizyt u psychologa i 1-3 wizyty u lekarza-seksuologa. Jeśli chcesz się pospieszyć, to możesz postarać się umówić wizyty szybciej (szczególnie u mniej obleganych lekarzy możliwe jest np. umówienie dwóch wizyt w ciągu tygodnia).
-
-O ile nie ma pewnego sposobu na upewnienie się, że nie spotkasz się z gatekeepingiem, to można postarać się wysondować specjalistę przez spytanie się go jak wielu wizyt będzie wymagać przed wystawianiem opinii lub diagnozy. **Lekarze wiecznie odsyłający na „potem” i nieumiejący określić żadnego jasnego terminu, mimo upływu kolejnych wizyt, mogą nie być godni zaufania.**
+Jeśli mieszkasz w małym/średnim mieście lub na wsi, to w zdecydowanej większości przypadków wizyty u lekarzy będą się wiązały z podróżą do któregoś z wielkich miast. Wizyty online oferują głównie psychologowie i psychiatrzy, dużo rzadziej endokrynolodzy. 
 
 ::: 
 
-:::spoiler Jakie zaburzenia psychiczne mogą utrudniać proces diagnostyczny?
+## Jak wygląda opiniowanie u psychologa? 
 
-Specjaliści mogą przedłużać proces diagnostyczny ze względu na zaburzenia, które w znaczący sposób destabilizują zdrowie psychiczne danej osoby i mogą rzutować na jej zdolność do podejmowania świadomych decyzji (np. trwający epizod manii). Często można również spotkać się z trzymaniem dłużej pacjentów z następującymi problemami psychicznymi:
-- zaburzenia osobowości z pogranicza (*borderline*);
-- zaburzenia osobowości typu dysocjacyjnego;
-- schizofrenia;
-- dysmorfofobia.
+Przebieg opiniowania będzie zależeć od wiedzy, doświadczenia i poglądów psychologa. Z tego względu zachęcamy do znalezienia osoby transprzyjaznej, która napisze opinię, nie przedłużając tego procesu i nie przysparzając szkód psychicznych. 
 
-**Żadne zaburzenia nie są jednak absolutnym przeciwwskazaniem dla tranzycji — osoby transpłciowe czasami miewają też schizofrenię czy dysocjacyjne zaburzenia osobowości.** Specjaliści, którzy z tych powodów odsyłają swoich pacjentów z kwitkiem, wykazują się niekompetencją. W praktyce lekarskiej pacjenci z wyżej wymienionymi problemami mogą spotykać się niestety z ableizmem oraz przeciąganiem diagnostyki w nieskończoność, tym ważniejsze jest więc zrobienie dobrego riserczu przed udaniem się do danego lekarza.
+W przypadku transprzyjaznych psychologów opiniowanie nie ma charakteru weryfikacji Twojej tożsamości czy prób podważania jej. Jego celem jest: 
+- stwierdzenie, że odczuwasz długotrwałą niezgodność między płcią przypisaną przy urodzeniu, a tożsamością płciową; 
+- wykluczenie, że niezgodność płciowa wynika ze współistniejących zaburzeń; 
+- stwierdzenie, że jesteś zdoln_ wyrazić świadomą zgodę na tranzycję i rozumiesz jej następstwa. 
 
-:::
+Opiniowanie ma postać nieustrukturyzowanego wywiadu, w trakcie którego psycholog zadaje serię pytań dotyczących Twojej historii życia, doświadczeń z płcią (najczęściej o to, kiedy zdał_ś sobie sprawę ze swojej transpłciowości i jak to wpłynęło na twoje życie), relacji z ciałem, z rodziną, z przyjaciółmi, relacji romantycznych i seksualnych, planów na przyszłość. Opiniowanie samo w sobie nie jest psychoterapią, gdyż nie będziesz w jego trakcie w kompleksowy sposób mierzyć się ze swoimi problemami, ale może prowadzić do pojawienia się w treści opinii zalecenia podjęcia w przyszłości psychoterapii. 
 
-:::spoiler Czy niebinarność lub niewpasowanie się w normy płciowe może przeszkodzić w procesie diagnostycznym?
+Część psychologów może wpleść w proces opiniowania wizytę poświęconą na wypełnienie testów psychologicznych, choć nie zawsze tak jest – zależy to od preferencji specjalisty. To, czy w procesie opiniowania zawarte są testy, nie ma przełożenia na możliwość późniejszego wykorzystania opinii u innych lekarzy/w sądzie. Testy psychologiczne obejmują tematy cech osobowości i różnych objawów zaburzeń psychologicznych, rzadziej mogą zdarzyć się testy inteligencji czy testy wpasowania się w stereotypy płciowe. U transprzyjaznych psychologów nie trzeba przejmować się wynikami testów, ich zadanie jest pomocnicze i niemożliwe jest wykorzystanie ich do potwierdzenia/wykluczenia transpłciowości – [coraz częściej w ogóle odchodzi się od ich rutynowego stosowania.](https://tranzycja.pl/publikacje/po-co-osobom-trans-testy/) Jeśli zasadność jakiegoś testu wydaje Ci się wątpliwa lub nie chcesz odpowiadać na określone pytania, możesz poinformować o tym psychologa. 
 
-U kompetentnych specjalistów — nie. Niestety nie wszyscy specjaliści posiadają odpowiednią wiedzę i dla części przyznawanie się do tożsamości płciowej innej niż binarna bądź nieheteroseksualna orientacja, nienormatywny płciowo wygląd (np. pomalowane paznokcie u trans mężczyzny) i/lub dążenie do niestandardowej tranzycji medycznej (np. mastektomia bez terapii hormonalnej lub microdosing) może być powodem do przedłużenia diagnostyki lub odmówienia wystawienia diagnozy. Tego rodzaju podejścia są szczęśliwie coraz rzadziej spotykane. 
+Długość opiniowania jest kwestią zależną wyłącznie od oceny psychologa – najczęściej będzie to ok. 3–6 wizyt, ale zdarzać się będą psychologowie opiniujący zarówno krócej (nawet w ramach jednej wizyty), jak i dłużej (np. ponad rok). Dłuższe opiniowanie nie przekłada się na jakość diagnozy – dokument wyrobiony w trakcie 1–3 spotkań będzie miał takie same zastosowania, co dokument stworzony na podstawie rocznego opiniowania; nie istnieją również powody, by sądzić, że opiniowanie jest w stanie przewidzieć, [która osoba będzie zadowolona z tranzycji, a która nie.](https://tranzycja.pl/publikacje/tranzycja-na-zadanie/#5-model-wpathpts-nie-dziala) Jeżeli zależy Ci na większej świadomości siebie i eksploracji uczuć dotyczących płci, lepszym wyborem może być psychoterapia. 
 
-Część osób niebinarnych unika powyższych zagrożeń przez udawanie binarności w czasie procesu diagnostycznego. Inni szukają specjalistów przyjaznych dla osób niebinarnych za pośrednictwem grup wsparcia.
+### Czy mogę otrzymać negatywną opinię? 
 
-:::
+Wiele osób obawia się procesu diagnostycznego, podchodząc do niego jak do sprawdzianu, który można oblać, i zastanawiając się, jakie odpowiedzi przybliżą do uzyskania diagnozy, a jakie od niego oddalą. Faktem jest, że **większość osób opiniowanych, szczególnie korzystających z usług transprzyjaznych psychologów, zyskuje diagnozę transpłciowości.** Choć nie jesteśmy w stanie zagwarantować odpowiedniej wiedzy i podejścia każdego psychologa, to poniższe kwestie nie powinny wpływać na diagnozę: 
 
-:::spoiler Czy osoba niepełnoletnia również może przejść przez proces diagnostyczny?
+- (nie)wpisywanie się w stereotypy płciowe, bycie (trans) kobietą o bardziej męskiej ekspresji, czy (trans) mężczyzną o bardziej kobiecej ekspresji, niepodjęcie jeszcze pożądanych zmian w zakresie ekspresji ze względu na np. obawy dotyczące bezpieczeństwa; 
+- (nie)wpisywanie się w stereotyp „prawdziwej osoby trans”, zazwyczaj rozumiany przez np. bawienie się lalkami/żołnierzykami w dzieciństwie, preferowanie określonego towarzystwa czy deklarowanie niezgodności płciowej od bardzo wczesnych stadiów rozwojowych; 
+- niebinarna tożsamość płciowa; 
+- niestandardowa ścieżka tranzycji, dążenie tylko do niektórych interwencji medycznych; 
+- większość spotykanych na co dzień zaburzeń: depresja, zaburzenia lękowe, zaburzenia odżywiania – nie trzeba ukrywać swojego stanu psychicznego i udawać osoby pozbawionej problemów ze zdrowiem psychicznym, jeżeli jest to coś z czym się mierzysz; 
+- orientacja seksualna czy inne preferencje seksualne (spektrum kinku); 
+- neuroróżnodność (autyzm, ADHD); 
+- przeszłe lub trwające uzależnienie od substancji psychoaktywnych. 
 
-Tak! **Wymagana jest jednak do tego zgoda co najmniej jednego rodzica.** Nie jest to wymóg, który można obejść. U osób w wieku od 16 do 18 lat może być to pisemna zgoda, u osób poniżej 16 roku życia rodzic musi przyjść z dzieckiem na wizytę. Razem z uzyskaniem diagnozy otwiera się możliwość terapii [blokerami dojrzewania](https://tranzycja.pl/krok-po-kroku/blokery-dojrzewania/) (przed 14. rokiem życia) lub terapii hormonalnej. Za zgodą obu rodziców możliwa jest też mastektomia. 
+Istnieją jednak czynniki, które mogą wydłużyć proces diagnostyczny lub doprowadzić do wypisania negatywnej opinii: 
 
-Tylko niektórzy specjaliści będą przyjmować osoby niepełnoletnie (szczególnie poniżej 16 roku życia). Nieocenionym źródłem informacji będzie tutaj internetowa grupa wsparcia dla rodziców transpłciowych dzieci na Facebooku prowadzona przez Ewelinę Negowetti. Grupa nie jest publiczna, dostęp do niej można uzyskać przez zwrócenie się do organizacji My, Rodzice którąś z poniższych dróg.
+- historia występowania psychoz, halucynacji i urojeń; 
+- zaburzenia dysocjacyjne tożsamości (pluralność, DID); 
+- zaburzenia osobowości, w szczególności typu borderline; 
+- szybkie i znaczące zmiany tożsamości płciowej albo pojawienie się zmiany bardzo niedawno, w sposób nagły; 
+- nierealistyczne, wygórowane oczekiwania wobec możliwości tranzycji medycznej, oczekiwania bardzo szybkich, dramatycznych zmian, przekonanie, że zajdą zmiany, które nie są możliwe w wyniku tranzycji medycznej czy że tranzycja naprawi wszystkie posiadane problemy życiowe; 
+- bardziej nietypowe formy ekspresji tożsamości płciowej (np. ksenopłciowość); 
 
-- wiadomość prywatna na [fanpejdżu My, Rodzice](https://www.facebook.com/myrodziceosobLGBTQIA)
-- mail: info@myrodzice.org
-- numer telefonu: 663 925 154
+ 
+
+W powyższych sytuacjach, szczególnie w przypadkach stygmatyzowanych zaburzeń i chorób psychicznych (schizofrenii, DID, zaburzeń osobowości borderline), psychologowie mogą podejrzewać, że transpłciowość jest objawem, w związku z czym będą oczekiwać wcześniejszego przejścia przez odpowiednie leczenie, np. wejścia na leki antypsychotyczne w celu stwierdzenia, czy transpłciowa tożsamość płciowa nadal będzie się utrzymywać. Nie oznacza to, że uzyskanie diagnozy jest niemożliwe, ale potrwa dłużej i często wiązać się będzie ze ściślejszą współpracą różnych specjalistów (np. psychiatry i psychologa). Niektóre osoby transpłciowe znajdujące się w takiej sytuacji życiowej decydują się nie poruszać w trakcie procesu diagnostycznego tematu cech lub objawów, które mogłyby opóźnić uzyskanie opinii.
+
+### Ograniczony model świadomej zgody 
+
+Niektórzy psychologowie wspierający model świadomej zgody (w ramach którego zakłada się dostęp do tranzycji medycznej bez wymogu diagnozy przeprowadzonej przez specjalistę zdrowia psychicznego), starają się wprowadzić go w ograniczony sposób w Polsce – w tym celu znacznie ograniczają czas trwania diagnozy, nawet do 1–2 wizyt. Listę ośrodków i diagnostów stosujących ten model znajdziesz na naszej [mapce specjalistów](https://mapa.tranzycja.pl/), gdy użyjesz filtrów szczegółowych.
+
+Ten rodzaj opiniowania umożliwia zdecydowanym osobom najszybsze i najtańsze rozpoczęcie tranzycji medycznej.  
+
+### Jak powinna wyglądać opinia psychologa? 
+
+Lekarze świadczący opiekę afirmującą płeć (chirurdzy, endokrynolodzy) oraz sądy (w trakcie zmiany oznaczenia płci) będą szukać następujących informacji w opinii psychologicznej: 
+
+- stwierdzenia diagnozy, razem z jej odpowiednim kodem – w ICD-10 będzie to F64.0, „transseksualizm”, w obecnie wprowadzanym ICD-11 będzie to HA60 „niezgodność płciowa”; dowolna z tych diagnoz jest wystarczająca; 
+- stwierdzenia o wykluczeniu innych przyczyn niezgodności/dysforii płciowej; 
+- stwierdzenia o trwałości tożsamości płciowej; 
+- stwierdzenia o braku przeciwwskazań do tranzycji; 
+- stwierdzenia o możliwości wyrażenia świadomej zgody na leczenie afirmujące płeć; 
+- stwierdzenia o zaleceniu zastosowania leczenia afirmującego płeć i/lub sądowej zmiany oznaczenia płci. 
+
+Opinia psychologiczna **nie musi obejmować wszystkich tych elementów** – jej format nie jest ściśle uregulowany, to przede wszystkim dokument mający przekonać konkretną osobę, że opiniowanie miało miejsce i Twoja transpłciowość została przez kogoś zweryfikowana. Wystarczająca opinia powinna zawierać pierwszy z powyższych elementów oraz 1–2 ze wskazanych wyżej przykładowych stwierdzeń.
+
+Opinie psychologiczne mogą mieć bardzo różną długość – mogą zawierać szczegółowy opis Twoich doświadczeń życiowych i obejmować parę stron, mogą być jednostronicowe. Jeśli w trakcie opiniowania wypełniał_ś testy psychologiczne, to w opinii omówione zostaną także ich wyniki. Część psychologów może mylnie uważać, że musi sporządzić opinię, odnosząc się w niej do Ciebie zgodnie z Twoją płcią w dokumentach – nie jest to prawda i nie ma przeszkód, by w treści opinii określano Cię w poprawnym rodzaju gramatycznym. Do zidentyfikowania, że opinia dotyczy właśnie Ciebie, wystarczy numer PESEL.
+
+
+## Czerwone flagi u psychologów 
+
+
+Jeśli w trakcie opiniowania spotkała Cię któraś z niżej wymienionych rzeczy, zdecydowanie zachęcamy do znalezienia innego specjalisty: 
+
+- przekonywanie Cię, że twoja transpłciowość jest w rzeczywistości efektem zaburzenia, traumy, neuroróżnorodności czy np. rozwodu rodziców i innych kwestii związanych z wychowaniem i życiem rodzinnym; 
+- nachalne pytania o życie seksualnego (np. nawyki masturbacji, fantazje seksualne); 
+- mylenie tożsamości płciowej z orientacją seksualną, twierdzenie że jesteś zagubionym gejem czy lesbijką, któr_ pragnie tranzycji, by móc wpasować się w normy społeczne; 
+- nieumiejętność stwierdzenia, jak długo będzie trwał proces opiniowania i kiedy możesz spodziewać się opinii; 
+- bardzo długi czas opiniowania (ponad 10 wizyt lub wymaganie obserwacji powyżej pół roku, zmuszanie do form tranzycji społecznej w trakcie tego okresu – tzw. test prawdziwego życia); 
+- przedstawianie tranzycji jako czegoś niebezpiecznego, niepożądanego, co stanowi ostateczność, przestrzeganie Cię przed nią w sposób niezwiązany z realnymi kwestiami mogącymi przeszkodzić w tranzycji i nieodnoszącymi się do Twojej konkretnej sytuacji; 
+- wiązanie Twojej tożsamości z modą, z przyswajanymi treściami (np. anime, seriale na Netfliksie, gry komputerowe), znajomością z innymi osobami transpłciowymi czy obecnością osób transpłciowych w przestrzeniach, w których funkcjonujesz (szkoła, uczelnia), sugerowanie że transpłciowość jest czymś, czym można się zarazić; 
+- komentowanie Twojego wyglądu; 
+- uzależnienie wypisania pozytywnej opinii od coming outu, naciskanie na coming out; 
+- uzależnienie wypisania pozytywnej opinii od przejścia psychoterapii; 
+-  oczekiwanie od ciebie spełniania tradycyjnych norm płciowych, podważanie twojej tożsamości w związku z nienormatywnym wyglądem płciowym (np. pomalowane paznokcie u trans mężczyzny, brak sukienki, makijażu czy krótsze włosy u trans kobiety); w przypadku osób niebinarnych może to przyjąć formę naciskania na wybór konkretnej, binarnej ekspresji płciowej;  
+- oczekiwania od Ciebie dysforii odnośnie określonych części ciała (np. genitaliów); 
+- oczekiwanie od Ciebie schudnięcia przed wypisaniem opinii; 
+= oczekiwanie od ciebie braku jakichkolwiek problemów ze zdrowiem psychicznym przed wypisaniem opinii. 
+
+
+:::warning
+
+Jeśli spotkało Cię podobne traktowanie, podziel się tym z innymi! Możesz w ten sposób ochronić kolejne osoby przed transfobiczną przemocą. Historię możesz zapostować anonimowo na [Grupie Wsparcia dla Osób Transpłciowych](https://www.facebook.com/groups/transwsparcie) na Facebooku lub przesłać do nas na mapa@tranzycja.pl 
 
 ::: 
 
-:::spoiler Jak często zdarza się, że lekarz odmówi wystawienia diagnozy?
+## Opinia lekarza-psychiatry lub lekarza-seksuologa 
 
-Dosyć rzadko. Najczęściej dotyczy to osób z poważnymi współistniejącymi zaburzeniami i/lub chorobami psychicznymi (np. schizofrenia) lub osób niebinarnych. W obu tych przypadkach jest to objaw niekompetencji lekarza.
+Opiniowanie u lekarza-psychiatry jest najczęściej dużo prostsze i szybsze – większości lekarzy sporządzenie takiej opinii zajmuje jedną wizytę, podczas której przeprowadzają skrócony wywiad o podobnym zakresie, co w przypadku opinii psychologicznej (historia Twojego życia i Twojej tożsamości, historia chorób).  
+ 
+Z tego względu zaświadczenia od psychiatrów są dużo bardziej skrótowe i składają się zwykle z kodu diagnozy oraz zdania o stwierdzeniu braku przeciwwskazań do tranzycji. Takie krótkie zaświadczenie spełnia zalecenia PTS-u. 
 
-:::
+W przeszłości uzyskanie opinii lekarskiej było dużo trudniejsze: specjaliści często wymagali nieuzasadnionych badań neurologicznych (rezonans mózgu) czy genetycznych (kariotyp), a także tzw. testu realnego życia – nawet dwuletniego funkcjonowania zgodnie z płcią odczuwaną przed wypisaniem hormonów. Takie oczekiwania są dzisiaj coraz rzadsze, jeśli jednak trafisz na takiego specjalistę, zdecydowanie od niego uciekaj. 
 
-:::spoiler Jak dużo będzie kosztować proces diagnostyczny?
+## Czy proces diagnostyczny można przejść na NFZ? 
 
-Ponownie jest to pytanie, na które ciężko odpowiedzieć, gdyż zależy to przede wszystkim od liczby wizyt u psychologa/psychiatry. Przy dobrych wiatrach i sprawnym toku można zmieścić się w okolicach 1.000 zł przeznaczonego na wizyty.
+Nie jest to niemożliwe, ale może być bardzo utrudnione, gdyż niewiele osób ze specjalizacją seksuologiczną przyjmuje na NFZ. Ci, którzy to robią, często świadczą usługi na bardzo niskim poziomie. 
 
-Jeśli jesteś osobą transkobiecą i nie posiadasz takich środków, to [Fundusz Solidarnościowy im. Milo Mazurkiewicz](https://www.facebook.com/FunduszMilo) oferuje możliwość sfinansowania tranzycji. Parę razy do roku Fundusz otwiera kolejną turę zbierania wniosków o wsparcie. Najlepiej zaobserwować media społecznościowe Funduszu, by jej nie przegapić.
+Z tego powodu zdecydowana większość osób przechodzi diagnostykę prywatnie. Przy założeniu, że obie opinie wydane zostaną po jednej wizycie jest to koszt w sumie około 1000 zł. Jeśli opiniowanie trwa dłużej i obejmuje testy psychologiczne, koszt samej opinii psychologicznej może zwiększyć się nawet do 3500 zł. 
 
-:::
+## Czy zawsze potrzebuję dwóch opinii? 
 
-:::spoiler Czym jest diagnoza F64.9 i czy to źle, jeśli ją dostał*m?
+Zalecenia PTS-u nie są dokumentem wiążącym – wielu lekarzy będzie się do nich stosować z racji autorytetu towarzystwa medycznego. Ostatecznie jednak każdy lekarz jest odpowiedzialny za swoją własną praktykę medyczną, może więc podejmować decyzje zgodne z innymi zaleceniami (np. międzynarodowymi zaleceniami WPATH, które mówią o tylko jednym specjaliście) lub, w niektórych przypadkach, oferować dany zabieg na żądanie. Dotyczy to przede wszystkich dwóch przypadków: 
+- część endokrynologów wymaga wyłącznie opinii psychologicznej do rozpoczęcia terapii hormonalnej; 
+- część klinik oferuje operacje chirurgiczne na żądanie, bez wymogu jakiejkolwiek dokumentacji niezgodności płciowej – dotyczy to dwóch klinik oferujących mastektomię oraz większości klinik oferujących operacje z dziedziny chirurgii estetycznej (np. powiększenie/zmniejszenie piersi). 
 
-F64.9, czyli "Zaburzenia identyfikacji płciowej, nieokreślone", to jednostka czasami stosowana u osób niebinarych, bądź u osób, u których z jakiegoś powodu lekarz uznał, że nie wpisują się w kryteria F64 "Transseksualizmu". Niestety takie rozpoznanie często wiąże się z problemami, czy to u innych lekarzy, czy to w sądzie, a to z racji skojarzenia tej diagnozy z większą niestabilnością, czy niepewnością.
+Jeśli dążysz wyłącznie do określonych interwencji, właściwsze może być dla Ciebie rozpoczęcie planowania swojej ścieżki tranzycji od końca: np. od zorientowania się w lekarzach przyjmujących w Twoim regionie i wymogach, jakie stawiają przy rozpoczęciu terapii hormonalnej. Możliwe jest też robienie diagnostyki „na raty”, np. wyrobienie opinii psychologicznej, by zacząć terapię hormonalną, a w późniejszym etapie dorobienie opinii psychiatrycznej, by zacząć sprawę w sądzie. 
 
-Jeśli wypisano Ci taką diagnozę, możesz spróbować wyjaśnić swoje obawy lekarzowi i poprosić go o wypisanie nowej. Jeśli lekarz nie chce się na to zgodzić, istnieje również możliwość udania się do innego, bardziej przyjaznego specjalisty z całą dotychczasową dokumentacją medyczną i prośbą o wystawienie nowej diagnozy.
-:::
-
-:::spoiler Specjalista wymaga ode mnie kilku miesięcy funkcjonowania w innej roli płciowej, zanim wystawi mi diagnozę/opinię. Czy to sensowny wymóg?
-
-Nie. Zmień specjalistę. 
-
-Tzw. test realnego życia to przestarzały i szkodliwy wymóg diagnostyczny. Kiedyś diagności wymagali od osób trans długiego okresu funkcjonowania "jako kobieta"/"jako mężczyzna" zanim zgadzali się im cokolwiek wystawić. Miało to za zadanie odsiać "prawdziwe" osoby trans od tych nieprawdziwych, w praktyce miało to negatywny wpływ na zdrowie psychiczne pacjentów oraz narażało ich na ryzyko przemocy ze strony społeczeństwa. Obecnie żadne wytyczne krajowe ani międzynarodowe nie zawierają już testu realnego życia, każda osoba stawiająca takie wymogi postępuje w sposób niekompetentny i szkodliwy.
-
-:::
+ 

@@ -1,5 +1,53 @@
 # Materiały do pobrania
 
+:::layout
+
+## Czy jestem trans? Niezbędnik wsparcia dla nastolatków.
+
+![Okładka publikacji Czy jestem trans? Niezbędnik wsparcia dla nastolatków](/media/img/czyjestemtrans-okladka.jpg)
+
+Przewodnik po transpłciowości i tranzycji przeznaczony dla osób nastoletnich – i tych dopiero poszukujących swojej tożsamości płciowej i tych już pewnych, ale potrzebujących wsparcia w kolejnych krokach.  
+
+Co znajdziecie w środku? 
+
+- przystosowane do wieku wprowadzenie do płci i transpłciowości, systematyzujące wiedzę i obalające stereotypy, rozróżniające transpłciowość od nienormatywności płciowej czy orientacji seksualnej; 
+- przejście po wszystkich transowych tematach – tranzycji społecznej, coming outu, seksualności, relacji w szkole, relacji z rodziną, kryzysów psychicznych – w każdej oferując garść porad; 
+- listy transowych polecajek: filmów, książek, seriali, gier i innych treści kultury pokazujących różnorodne perspektywy na transpłciowość 
+- realistyczne porady dla trans nastolatków w transfobicznych rodzinach– jak można rozmawiać z nieakceptującymi rodzicami, co zrobić by wytrzymać do osiemnastki, a w najgorszych scenariuszach jak zgłosić przemoc w rodzinie. 
+
+Publikacje stworzyły dwie edukatorki w obszarze transpłciowości z wieloletnim doświadczeniem w temacie: Nina Kuta oraz Dag Fajt. Treść skonsultowana została z szerokim gronem eksperckim w obszarze psychologii, seksuologii, edukacji seksualnej, prawa oraz medycyny.  
+
+Publikację matronatem objęły Fundacja SEXED.PL, Fundacja Growspace, Fundacja Transpłciowość w Rodzinie, Fundacja FEDERA, Fundacja Dziewczyny w Spektrum, Stowarzyszenie My, Rodzice, Stowarzyszenie Lambda Warszawa, Grupa Ponton, Grupa Stonewall oraz The Warsaw House Foundation. 
+
+Wysyłka egzemplarzy papierowych dostępna za pokryciem kosztów wysyłki. Zgłoszenia przyjmujemy przez [formularz](https://docs.google.com/forms/d/e/1FAIpQLScqj4-hK_a9xmqixOC4BDs7kaQWT2svARN_co4SMFMiZV7__g/viewform).
+
+[Pobierz!](/media/docs/autorskie/czy-jestem-trans-2026.pdf){.przycisk}
+
+:::
+
+:::layout
+
+## Moje dziecko jest trans. Niezbędnik wsparcia dla Ciebie i Twojego dziecka.
+
+![Okładka publikacji Moje dziecko jest trans. Niezbędnik wsparcia dla Ciebie i Twojego dziecka](/media/img/mojedzieckojesttrans-okladka.jpg)
+
+Kompendium wiedzy o transpłciowości przeznaczony dla rodziców transpłciowych osób niepełnoletnich stworzone we współpracy z Fundacją Magovox. 
+
+W środku znajdziesz: 
+- odpowiedzi na najczęstsze mity spotykane lęki rodziców: „mody” na transpłciowość, detranzycji powiązania transpłciowości z traumami czy problemami wychowawczymi. 
+- porady jak wspierać dziecko w tranzycji, zarówno jeśli chodzi o podejmowanie wspólnie decyzji odnośnie kolejnych kroków, jak i wsparcie w walce z dysforią.  
+- skrót regulacji obowiązujących w szkołach – by żadna placówka nie zasłaniała się nieistniejącymi przepisami mającymi nakazywać misgendering czy zakazujących dostępu do toalet i szatni.  
+- trzeźwe spojrzenie, zauważające lęki rodzica, ale przypominające o potrzebach dziecka i zagrożeniu parentyfikacją. Wspieranie rodzica, by mógł wesprzeć swoje dziecko. 
+
+Publikacje stworzyły dwie edukatorki w obszarze transpłciowości z wieloletnim doświadczeniem w temacie: Nina Kuta oraz Dag Fajt. Treść skonsultowana została z szerokim gronem eksperckim w obszarze psychologii, seksuologii, edukacji seksualnej, prawa oraz medycyny. 
+
+Publikację matronatem objęły Fundacja SEXED.PL, Fundacja Growspace, Fundacja Transpłciowość w Rodzinie, Fundacja FEDERA, Fundacja Dziewczyny w Spektrum, Stowarzyszenie My, Rodzice, Stowarzyszenie Lambda Warszawa, Grupa Ponton, Grupa Stonewall oraz The Warsaw House Foundation. 
+
+Wysyłka egzemplarzy papierowych dostępna za pokryciem kosztów wysyłki. Zgłoszenia przyjmujemy przez [formularz](https://docs.google.com/forms/d/e/1FAIpQLScqj4-hK_a9xmqixOC4BDs7kaQWT2svARN_co4SMFMiZV7__g/viewform).
+
+[Pobierz!](/media/docs/autorskie/moje-dziecko-jest-trans-2026.pdf){.przycisk}
+
+:::
 
 :::layout
 
