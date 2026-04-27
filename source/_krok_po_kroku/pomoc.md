@@ -1,11 +1,11 @@
 ---
 kolejnosc: 99
-tags: krok po kroku
-meta: 
-    Autorzy: Nina Kuta
-    Korekta: Julia Zając
+tags: 'krok po kroku'
+meta:
+    Autorzy: 'Nina Kuta'
+    Korekta: 'Julia Zając'
+zaktualizowano: '2026-04-27 15:04:08'
 ---
-
 # Gdzie szukać wsparcia? Lista organizacji pomocowych
 
 Poniżej znajdziesz listę organizacji zapewniających wsparcie osobom transpłciowych. Zasoby pomocowe podzieliłyśmy na: 
