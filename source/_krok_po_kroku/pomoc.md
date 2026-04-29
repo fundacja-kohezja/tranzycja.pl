@@ -175,16 +175,11 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 ## Hostele 
 
-#### Kraków
-
-- **Grupa Nieustającej Pomocy:** noclegi interwencyjne (kilka nocy); [Facebook](https://www.facebook.com/grupanieustajacejpomocy/?locale=pl_PL), [Instagram](https://www.instagram.com/grupanieustajacejpomocy), e-mail: nieustajacapomoc@riseup.net 
-
 #### Warszawa: 
 
 - **Fundacja PoDrugie:** sieć mieszkań interwencyjnych oraz hostel dla osób w wieku 18–25 lat; kompleksowe wsparcie psychologiczne i prawne, pomoc w usamodzielnieniu się, pomoc materialna (odzież, kosmetyki, środki higieny); [Facebook](https://www.facebook.com/podrugie/), [Instagram](https://www.instagram.com/po_drugie/), [strona internetowa](https://podrugie.pl/), e-mail: fundacja@podrugie.pl  
-- **Grupa Nieustającej Pomocy:** noclegi interwencyjne (kilka nocy); [Facebook](https://www.facebook.com/grupanieustajacejpomocy), [Instagram](https://www.instagram.com/grupanieustajacejpomocy), e-mail: nieustajacapomoc@riseup.net 
 - **Lambda Warszawa:** hostel na 3 miesiące; kompleksowe wsparcie psychologiczne i prawne, pomoc w usamodzielnieniu się, pomoc materialna (podstawowe produkty spożywcze i higieniczne); [Facebook](https://www.facebook.com/lambda.warszawa/), [Instagram](https://www.instagram.com/lambdawarszawa/), [strona internetowa](https://www.lambdawarszawa.org/), e-mail: warszawa@lambdawarszawa.org 
-- **The Warsaw House Foundation:** mieszkanie interwencyjne dla osób w wieku 18–29 lat na czas do 12 miesięcy; kompleksowe wsparcie psychologiczne i pomoc w usamodzielnieniu się; [Facebook](https://www.facebook.com/thewarsawhouse), [Instagram](https://www.instagram.com/thewarsawhouse), [strona internetowa](http://warsawhouse.org/), e-mail: info@warsawhouse.org  
+- **The Warsaw House Foundation:** mieszkanie interwencyjne dla osób w wieku 18–29 lat na czas do 12 miesięcy; kompleksowe wsparcie psychologiczne, pomoc materialna (odzież, kosmetyki, środki higieny), pomoc w usamodzielnieniu się; dostępne dla osób polsko- i anglojęzycznych; [Facebook](https://www.facebook.com/thewarsawhouse), [Instagram](https://www.instagram.com/thewarsawhouse), [strona internetowa](http://warsawhouse.org/), e-mail: info@warsawhouse.org  
 
 #### Wrocław: 
 
@@ -322,7 +317,10 @@ Poniższe organizacje regularnie organizują wydarzenia o tematyce queerowej lub
 #### Kraków:  
 
 - **Federacja Znaki Równości:** grupa wsparcia dla rodziców osób transpłciowych; współorganizowana z Krakowskim Centrum Równości DOM EQ i Spółdzielnią Ogniwo; [Facebook](https://www.facebook.com/domeq.krk), [Instagram](https://www.instagram.com/domeq.krk/), [strona internetowa](https://znakirownosci.org.pl/), e-mail: kontakt@znakirownosci.org.pl 
-- **Fundacja Trans-Fuzja:** grupa wsparcia dla rodziców i bliskich osób transpłciowych; [Facebook](https://www.facebook.com/FundacjaTransFuzja), [Instagram](https://www.instagram.com/trans.fuzja/), [strona internetowa](https://www.transfuzja.org/strona-g%C5%82%C3%B3wna), e-mail: kontakt@transfuzja.org 
+- **Fundacja Trans-Fuzja:** grupa wsparcia dla rodziców i bliskich osób transpłciowych; [Facebook](https://www.facebook.com/FundacjaTransFuzja), [Instagram](https://www.instagram.com/trans.fuzja/), [strona internetowa](https://www.transfuzja.org/strona-g%C5%82%C3%B3wna), e-mail: kontakt@transfuzja.org
+
+#### Olsztyn
+- **Transatlantyk:** organizacja *Olsztyńskich Dni Widoczności Osób Transpłciowych* wspólnie z Fundacją Czulimy oraz Olsztyńskim Marszem Równości. Prowadzenie grupy spotkaniowej dla rodziców dzieci transpłciowych; [Facebook](https://www.facebook.com/profile.php?id=61558665539513), e-mail: transatlantyk.olsztyn@gmail.com
 
 #### Wrocław:  
 - **Kultura Równości:** grupa wsparcia dla osób transpłciowych i ich bliskich; grupa wsparcia Transparent dla rodziców i bliskich osób transpłciowych; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org 
