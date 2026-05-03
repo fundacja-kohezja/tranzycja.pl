@@ -68,7 +68,11 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 #### Szczecin: 
 
-- **Lambda Szczecin:** konsultacje psychologiczne, możliwość wizyty online lub sfinansowania dojazdu dla osób mieszkających w woj. zachodniopomorskim poza Szczecinem; [Facebook](https://www.facebook.com/lambda.szczecin), [Instagram](https://www.instagram.com/lambda.szczecin/), [strona internetowa](https://lambda.szczecin.pl/), e-mail: love@lambda.szczecin.pl 
+- **Lambda Szczecin:** konsultacje psychologiczne, możliwość wizyty online lub sfinansowania dojazdu dla osób mieszkających w woj. zachodniopomorskim poza Szczecinem; [Facebook](https://www.facebook.com/lambda.szczecin), [Instagram](https://www.instagram.com/lambda.szczecin/), [strona internetowa](https://lambda.szczecin.pl/), e-mail: love@lambda.szczecin.pl
+
+#### Toruń:
+
+- **Centrum Równik:** konsultacje psychologiczne (2-4 bezpłatne na osobę) dla osób powyżej 16 roku życia, odbywają się stacjonarnie w Toruniu; [Facebook](https://www.facebook.com/centrum.rownik), [Instagram](https://www.instagram.com/centrum_rownik/), e-mail: rownik.centrum@gmail.com 
 
 #### Wrocław: 
 
@@ -105,10 +109,11 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 ### Ogólnopolskie: 
 
-- **niebinarosc.pl:** spotkania dla osób niebinarnych odbywające się nieregularnie w wielu miastach Polski (m.in. Łódź, Wrocław, Poznań); [Facebook](https://www.facebook.com/niebinarnoscpl/), [Instagram](https://www.instagram.com/niebinarnosc.pl/), [strona internetowa](https://niebinarnosc.pl/), e-mail: kontakt@niebinarnosc.pl 
+- **niebinarnosc.pl:** spotkania dla osób niebinarnych odbywające się nieregularnie w wielu miastach Polski (m.in. Łódź, Wrocław, Poznań); [Facebook](https://www.facebook.com/niebinarnoscpl/), [Instagram](https://www.instagram.com/niebinarnosc.pl/), [strona internetowa](https://niebinarnosc.pl/), e-mail: kontakt@niebinarnosc.pl 
 
 ### Grupy online: 
 
+- **Grupa Stonewall:** grupa wsparcia dla osób LGBTQIA+ z niepełnopsrawnościami; [Facebook](https://www.facebook.com/grupastonewall), [Instagram](https://www.instagram.com/grupastonewall/), [strona internetowa](https://grupa-stonewall.pl/), e-mail: kontakt@grupa-stonewall.pl 	 
 - **Fundacja Otwarta Przestrzeń:** spotkania dla osób transpłciowych; [Facebook](https://www.facebook.com/otwartaprzestrzenfundacja), [Instagram](https://www.instagram.com/otwartaprzestrzen), [strona internetowa](https://otwartaprzestrzen.pl/), e-mail: info@otwartaprzestrzen.pl  
 - **Fundacja Trans-Fuzja:** grupa wsparcia dla osób transpłciowych online; [Facebook](https://www.facebook.com/FundacjaTransFuzja), [Instagram](https://www.instagram.com/trans.fuzja/), [strona internetowa](https://www.transfuzja.org/), e-mail: transfuzjaonline@transfuzja.org  
 
@@ -122,7 +127,9 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 #### Łódź: 
 
-- **Fabryka Równości:** grupa wsparcia dla osób transpłciowych (od 16 roku życia); współorganizowana przez Fundację Trans-Fuzja; [Facebook](https://www.facebook.com/fabrykarownosci), [Instagram](https://www.instagram.com/fabrykarownosci/), [strona internetowa](https://rownasie.org/), e-mail: poczta@rownasie.org 
+- **Fabryka Równości:** grupa wsparcia dla osób transpłciowych (od 16 roku życia); współorganizowana przez Fundację Trans-Fuzja; [Facebook](https://www.facebook.com/fabrykarownosci), [Instagram](https://www.instagram.com/fabrykarownosci/), [strona internetowa](https://rownasie.org/), e-mail: poczta@rownasie.org
+- **Łódzkie Centrum Równości:** grupa wsparcia dla młodzieży transpłciowej i różnorodnej płciowo (11-17 lat); organizowana przez Fundację „W Człowieku Widzieć Brata”. [Facebook](https://www.facebook.com/WCzlowiekuWidziecBrata), [strona internetowa](https://www.pomagajznami.org/), e-mail: fundacja@pomagajznami.org
+
 
 #### Kalisz: 
 
@@ -256,11 +263,17 @@ Poniższe organizacje regularnie organizują wydarzenia o tematyce queerowej lub
 
 #### Lublin:  
 
-- **Biblioteka Azyl:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/BibliotekaAzyl). 
+- **Biblioteka Azyl:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/BibliotekaAzyl).
+- **QLub - Przestrzeń Młodych:** przestrzeń dla osób LGBTQ+ prowadzona przez Stowarzyszenie Unia Równości; wydarzenia integracyjne; [Facebook](https://www.facebook.com/qlub.lublin/), Instagram, e-mail: qlub.lublin@gmail.com 
+- **Q-Racja:** queerowy kolektyw artystyczny; [Instagram](https://www.instagram.com/kolektyw_qracja/).
+- **Trancendens:** transowy kolektyw artystyczno-aktywistyczny; [Facebook](https://www.facebook.com/profile.php?id=61575750061188), [Instagram](https://www.instagram.com/trans.cendens/), e-mail: transcendens.queer@gmail.com
 
 #### Łódź: 
 - **Fabryka Równości:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/fabrykarownosci), [Instagram](https://www.instagram.com/fabrykarownosci), [strona internetowa](https://rownasie.org/), e-mail: poczta@rownasie.org 
-- **Kolektyw Maўego Księcia:** kolektyw literacko-aktywistyczny; [Facebook](https://www.facebook.com/kolektyw.mayego.ksiecia), [Instagram](https://www.instagram.com/kolektyw.mayego.ksiecia). kolektywmayegoksiecia@riseup.net 
+- **Kolektyw Maўego Księcia:** kolektyw literacko-aktywistyczny; [Facebook](https://www.facebook.com/kolektyw.mayego.ksiecia), [Instagram](https://www.instagram.com/kolektyw.mayego.ksiecia). kolektywmayegoksiecia@riseup.net
+
+#### Opole: 
+- **Tęczowe Opole:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/teczowe.opole). [Instagram](https://www.instagram.com/teczowe.opole/), e-mail: teczowe.opole@gmail.com 
 
 #### Piła: 
 - **Tęczowa Piła:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/profile.php?id=61571123681922), e-mail: teczowa_pila@wp.pl 
@@ -268,10 +281,12 @@ Poniższe organizacje regularnie organizują wydarzenia o tematyce queerowej lub
 #### Poznań:  
 
 - **Grupa Stonewall:** wydarzenia integracyjne, drag shows, queerowa klubokawiarnia Lokum Stonewall; [Facebook](https://www.facebook.com/LokumStonewall), [Instagram](https://www.instagram.com/lokumstonewall), [strona internetowa](https://grupa-stonewall.pl/), e-mail: kontakt@grupa-stonewall.pl 
-- **Kolektyw Wilda Panny:** niezależny kolektyw queerowy; [Facebook](https://www.facebook.com/WildaPannyPoznan), [Instagram](https://www.instagram.com/wilda.panny), e-mail: wildapanny@protonmail.com 
+- **Kolektyw Wilda Panny:** niezależny kolektyw queerowy; [Facebook](https://www.facebook.com/WildaPannyPoznan), [Instagram](https://www.instagram.com/wilda.panny), e-mail: wildapanny@protonmail.com
 
-#### Opole: 
-- **Tęczowe Opole:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/teczowe.opole). [Instagram](https://www.instagram.com/teczowe.opole/), e-mail: teczowe.opole@gmail.com 
+#### Rzeszów:
+
+- **Space4Youth:** wydarzenia integracyjne; dostępne w języku polskim, angielskim lub ukraińskim; [Facebook](https://www.facebook.com/ExploreSpace4Youth), [Instagram](https://www.instagram.com/space4youth_rzeszow/), [strona internetowa](https://sites.google.com/psar.pl/s4y-links/strona-g%C5%82%C3%B3wna), e-mail: km@psar.pl 
+- **URequal:** wydarzenia integracyjne; [Instagram](https://www.instagram.com/ur.equal/). 
 
 #### Szczecin: 
 - **Lambda Szczecin:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/lambda.szczecin), [Instagram](https://www.instagram.com/lambda.szczecin/), [strona internetowa](https://lambda.szczecin.pl/), e-mail: love@lambda.szczecin.pl 
@@ -310,26 +325,28 @@ Poniższe organizacje regularnie organizują wydarzenia o tematyce queerowej lub
 
 ### Lokalne: 
 
-#### Warszawa:  
-
-- **Fundacja Transpłciowość w Rodzinie:** warsztaty, konsultacje psychologiczne, spotkania integracyjne; [Facebook](https://www.facebook.com/profile.php?id=61573744517631), [Instagram](https://www.instagram.com/f_transplciowosc.w.rodzinie), [strona internetowa](https://ftwr.org.pl/), e-mail: kontakt@ftwr.org.pl  
-
 #### Kraków:  
 
 - **Federacja Znaki Równości:** grupa wsparcia dla rodziców osób transpłciowych; współorganizowana z Krakowskim Centrum Równości DOM EQ i Spółdzielnią Ogniwo; [Facebook](https://www.facebook.com/domeq.krk), [Instagram](https://www.instagram.com/domeq.krk/), [strona internetowa](https://znakirownosci.org.pl/), e-mail: kontakt@znakirownosci.org.pl 
 - **Fundacja Trans-Fuzja:** grupa wsparcia dla rodziców i bliskich osób transpłciowych; [Facebook](https://www.facebook.com/FundacjaTransFuzja), [Instagram](https://www.instagram.com/trans.fuzja/), [strona internetowa](https://www.transfuzja.org/strona-g%C5%82%C3%B3wna), e-mail: kontakt@transfuzja.org
 
+#### Łódź:
+- **Łódzkie Centrum Równości:** grupa wsparcia dla rodziców osób transpłciowych; organizowana przez Fundację „W Człowieku Widzieć Brata”. [Facebook](https://www.facebook.com/WCzlowiekuWidziecBrata), [strona internetowa](https://www.pomagajznami.org/), e-mail: fundacja@pomagajznami.org
+
 #### Olsztyn
-- **Transatlantyk:** organizacja *Olsztyńskich Dni Widoczności Osób Transpłciowych* wspólnie z Fundacją Czulimy oraz Olsztyńskim Marszem Równości. Prowadzenie grupy spotkaniowej dla rodziców dzieci transpłciowych; [Facebook](https://www.facebook.com/profile.php?id=61558665539513), e-mail: transatlantyk.olsztyn@gmail.com
+- **Transatlantyk:** organizacja *Olsztyńskich Dni Widoczności Osób Transpłciowych* wspólnie z Fundacją CzuliMy oraz Olsztyńskim Marszem Równości. Prowadzenie grupy spotkaniowej dla rodziców dzieci transpłciowych; [Facebook](https://www.facebook.com/profile.php?id=61558665539513), e-mail: transatlantyk.olsztyn@gmail.com
+
+#### Szczecin: 
+- **Lambda Szczecin:** grupa wsparcia dla rodziców osób trans; [Facebook](https://www.facebook.com/lambda.szczecin), [Instagram](https://www.instagram.com/lambda.szczecin/), [strona internetowa](https://lambda.szczecin.pl/), e-mail: love@lambda.szczecin.pl 
+
+#### Tychy: 
+- **Osiedle Q:** grupa wsparcia dla rodziców oraz opiekunów osób LGBTQ+; [Facebook](https://www.facebook.com/p/Tychy-Osiedle-Q-61557065275194/), [Instagram](https://www.instagram.com/tychy_osiedle_q), e-mail: kontakt@tychyosiedleq.pl
+
+#### Warszawa:  
+- **Fundacja Transpłciowość w Rodzinie:** warsztaty, konsultacje psychologiczne, spotkania integracyjne; [Facebook](https://www.facebook.com/profile.php?id=61573744517631), [Instagram](https://www.instagram.com/f_transplciowosc.w.rodzinie), [strona internetowa](https://ftwr.org.pl/), e-mail: kontakt@ftwr.org.pl  
 
 #### Wrocław:  
 - **Kultura Równości:** grupa wsparcia dla osób transpłciowych i ich bliskich; grupa wsparcia Transparent dla rodziców i bliskich osób transpłciowych; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org 
 
-#### Szczecin: 
-
-- **Lambda Szczecin:** grupa wsparcia dla rodziców osób trans; [Facebook](https://www.facebook.com/lambda.szczecin), [Instagram](https://www.instagram.com/lambda.szczecin/), [strona internetowa](https://lambda.szczecin.pl/), e-mail: love@lambda.szczecin.pl 
-
-#### Tychy: 
-- ** Osiedle Q:** grupa wsparcia dla rodziców oraz opiekunów osób LGBTQ+; [Facebook](https://www.facebook.com/p/Tychy-Osiedle-Q-61557065275194/), [Instagram](https://www.instagram.com/tychy_osiedle_q), e-mail: kontakt@tychyosiedleq.pl 
 
  
