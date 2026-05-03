@@ -263,7 +263,10 @@ Poniższe organizacje regularnie organizują wydarzenia o tematyce queerowej lub
 
 #### Lublin:  
 
-- **Biblioteka Azyl:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/BibliotekaAzyl). 
+- **Biblioteka Azyl:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/BibliotekaAzyl).
+- **QLub - Przestrzeń Młodych:** przestrzeń dla osób LGBTQ+ prowadzona przez Stowarzyszenie Unia Równości; wydarzenia integracyjne; [Facebook](https://www.facebook.com/qlub.lublin/), Instagram, e-mail: qlub.lublin@gmail.com 
+- **Q-Racja:** queerowy kolektyw artystyczny; [Instagram](https://www.instagram.com/kolektyw_qracja/).
+- **Trancendens:** transowy kolektyw artystyczno-aktywistyczny; [Facebook](https://www.facebook.com/profile.php?id=61575750061188), [Instagram](https://www.instagram.com/trans.cendens/), e-mail: transcendens.queer@gmail.com
 
 #### Łódź: 
 - **Fabryka Równości:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/fabrykarownosci), [Instagram](https://www.instagram.com/fabrykarownosci), [strona internetowa](https://rownasie.org/), e-mail: poczta@rownasie.org 
