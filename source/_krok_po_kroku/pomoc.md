@@ -76,7 +76,7 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 #### Wrocław: 
 
-- **Kultura Równości:** konsultacje psychologiczne, do 3 bezpłatnych wizyt na osobę; warsztaty rozwojowe, spotkania psychoedukacyjne dla queerowych kobiet (transinkluzywne); [Facebook](https://www.facebook.com/kulturarownosci/), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org 
+- **Kultura Równości:** konsultacje psychologiczne, do 3 bezpłatnych wizyt na osobę, dostępne w języku polskim i ukraińskim; warsztaty rozwojowe, spotkania psychoedukacyjne dla queerowych kobiet (transinkluzywne); interwencje kryzysowe; [Facebook](https://www.facebook.com/kulturarownosci/), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org 
 
 #### Warszawa: 
 
@@ -178,7 +178,7 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 #### Wrocław: 
 
-- **Kultura Równości:** grupa wsparcia dla osób transpłciowych i ich bliskich, grupa wsparcia dla lesbijek (transinkluzywna), grupa wsparcia dla gejów (transinkluzywna), grupa wsparcia dla neuroróżodnych osób LGBT+, grupa wsparcia dla osób LGBT+ 60+; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org 
+- **Kultura Równości:** grupa wsparcia dla osób transpłciowych i ich bliskich, grupa wsparcia dla lesbijek (transinkluzywna), grupa wsparcia dla gejów (transinkluzywna), grupa wsparcia dla neuroróżodnych osób LGBT+, grupa wsparcia dla osób LGBT+ 60+, grupa Anonimowych Narkomanów LGBT+, grupa wsparcia dla queerowych osób migranckich z Ukrainy i innych krajów; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org 
 
 ## Hostele 
 
@@ -311,7 +311,7 @@ Poniższe organizacje regularnie organizują wydarzenia o tematyce queerowej lub
 
 #### Wrocław: 
 
-- **Kultura Równości:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), email: pomoc@kulturarownosci.org 
+- **Kultura Równości:** queerowa przestrzeń Równe Miejsce, wydarzenia integracyjne, biblioteka LGBTQ+; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), email: pomoc@kulturarownosci.org 
 - **Polska Kłirem Kwitnąca**: wydarzenia organizowane wspólnie z Wolną Biblioteką. [Facebook](https://www.facebook.com/profile.php?id=61586922510702), [Instagram](https://www.instagram.com/polskakliremkwitnaca/), email: polskakliremkwitnaca@disroot.org  
 
 ## Dla rodziców: 
