@@ -291,34 +291,33 @@ Na NFZ mastektomia przed 18 rokiem życia jest możliwa po urzędowej zmianie da
 ### Kliniki wykonujące mastektomię 
 
 W Polsce jest bardzo niewiele klinik zajmujących się mastektomią skierowaną do osób transpłciowych, a nie  cispłciowych kobiet z rakiem piersi. 
-Poniżej znajdziecie tabelę porównująca kilka znanych klinik:
+Poniżej znajdziecie tabelę porównująca kilkanaście znanych klinik:
 
 
 | Nazwa kliniki              | Miasto | Koszt     | Wymagania: HRT / Ukończone 18 lat |  Wykonywane cięcia | Data ostatniej aktualizacji danych |
 | -------------------------- | ------  | --------- | ------------------------------------------ | ----------------- | ----------------- |
-|UniEstethica (Dr Libondi) | Kraków | 16.9 tys. | Tak / Tak| Keyhole, Peri, Lollipop/Extended Peri, DI| 07.24 |
-|Solumed (Dr Dydymski)| Poznań | 19 - 28 tys. (niższa cena za metody bezbliznowe)| Nie / Nie | Keyhole, Peri, Lollipop, T-anchor, DI | 09.23 | 
-|Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław |	14 tys.| Tak / Nie |	Okołootoczkowe, DI | 07.24 |
-|Gyneka (Szpital św. Róży, Dr Szepieniec)|	Kraków|	16 - 20 tys.|	Nie / Tak	|Okołootoczkowe, T-anchor| 09.23 | 
-|LuxMed (Dr Lembas)|	Warszawa|	26 tys. |	Nie / Tak*	|DI| 07.24 | 
-|Klinika Timeless (Dr Jaworowski)|	Warszawa|	23 tys.|	Nie / Nie|	Okołootoczkowe, DI| 07.24 |
-|Esculap (Dr Solarz lub Dr Kielan)|	Bielsko- Biała|	9.5 - 12 tys. + max 500 za duży rozmiar|	Nie / Nie |	Fishmouth, DI| 09.23 | 
-|Klinika Artura Zawisza|	Kraków|	15 - 18 tys.|	? / ?	|Okołootoczkowe, T-anchor, Lollipop| 09.23 | 
-|NOA Clinic	|Wrocław|	16.6 tys.|	Tak / Tak |	Okołootoczkowe| 09.23 | 
-|Medimel |Szczecin|	13 tys.	| ?/Tak	| Okołootoczkowe| 09.23 | 
+|UniEstethica (Dr Libondi) | Kraków | 21 tys. | Tak / Tak | Keyhole, Peri, Lollipop/Extended Peri, DI| 11.25 |
+|Solumed (Dr Dydymski)| Poznań | 25 - 28 tys. (niższa cena za metody bezbliznowe)| Nie / Nie | Keyhole, Peri, Lollipop, T-anchor, DI | 02.26 | 
+|Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław |	17 tys.| Tak / Nie |	Okołootoczkowe, DI | 03.26 |
+|Gyneka (Szpital św. Róży, Dr Szepieniec)|	Kraków|	18 - 20 tys.|	Nie / Tak	|Okołootoczkowe, T-anchor| 04.25 | 
+|Klinika Lembas (Dr Lembas)| Zalesie Górskie (Warszawa) |	32 tys. |	Nie / Tak*	|DI| 05.26 | 
+|Klinika Timeless (Dr Jaworowski)|	Warszawa|	30 tys.|	Nie / Nie|	Okołootoczkowe, DI| 04.26 |
+|Klinika Artura Zawisza (Dr Zawisz) |	Kraków|	25 tys.|	? / Tak	|Okołootoczkowe, T-anchor, Lollipop| 05.25 | 
+|NOA Clinic	|Wrocław|	19 tys.|	Tak / Tak |	Okołootoczkowe| 08.25 | 
+|Medimel |Szczecin|	24 - 30 tys. | ?/Tak	| Okołootoczkowe| 01.26 | 
 |Centrum Medyczne Bieńkowski|	Bydgoszcz|	21 tys.|	Tak / Nie |Okołootoczkowe, DI| 07.24 | 
-|Centrum Medyczne BIENIEK	|Wrocław|	15 tys.|	Nie / Nie |	Okołootoczkowe, DI| 09.23 | 
-|Wilmed	|Warszawa|	15 tys.|	? / ?	|Okołootoczkowe (peri/keyhole)| 07.24 | 
-|Szpital na Klinach | Kraków |	14 tys.|	Nie / Nie	| Okołootoczkowe? | 07.24 | 
-|Dr. Piotr Burszewski** |Szczecin| NFZ |	Tak / Tak | Keyhole z przedłużeniem, DI| 07.24 | 
-|Aesthetic Med**	|Szczecin| ? |	Tak / Tak | ? | 07.24 | 
-|Aesthethe**	|Bytom | ? |	Tak / Tak	| ? | 07.24 | 
-
-*Dr Lembas poinformował że może operować na osobach poniżej 18 roku życia które mają już wniesioną sprawę do sądu odnośnie ustalenia płci.
-**Konieczne jest przejście przez sądową zmianę oznaczenia płci.
+|Centrum Medyczne BIENIEK (dr. Jaremków) |Wrocław|	20 tys.|	Nie / Nie |	Okołootoczkowe, DI| 01.26 | 
+|Wilmed	(dr. Starościak) |Warszawa|	21 tys.|	? / Nie	|Okołootoczkowe (peri/keyhole)| 11.25 | 
+|Szpital na Klinach (dr. Górski) | Kraków |	15 tys.|	Nie / Nie	| Okołootoczkowe | 03.25 | 
+|Klinika Sienna (dr. Krajewski) | Kraków |	19 - 24 tys.|	Nie / ?	| Okołootoczkowe, DI | 05.26 | 
+|RP Clinic (dr. Pabiańczyk) | Kraków |	20 - 30 tys.|	Nie / Nie	| Okołootoczkowe, DI | 02.26 | 
+|Szpital św. Anny (dr. Kuźlik) | Piaseczno |	22 tys.|	? / ?	| Peri, DI | 10.25 | 
+|Art Medical Center (dr. Krajewski) | Szczecin |	20 tys.|	? / ?	| ? | 02.26 | 
 
 :::warning
 Zwróć uwagę na ostatnią aktualizację danych — z czasem ceny operacji mogą się zmieniać. Jeśli ceny zawarte powyżej nie są już aktualne, odezwij się do nas na kontakt@tranzycja.pl z odpowiednią informacją. 
+
+Warto zapoznać się również z innym podobnym zasobem, [arkuszem klinik i wyników](https://docs.google.com/spreadsheets/d/1ffWlUR3sOoSj5x7GD4seNvuF30yL1MsPXCYWA0Jhag0/edit?gid=0#gid=0) zbieranych w oparciu o [Grupę Wsparcia Dla Osób Trans](https://www.facebook.com/groups/transwsparcie/) na Facebooku. Dla pełnej użyteczności arkusza należy należeć do grupy na FB.
 :::
 
 Jeżeli żadna z powyższych klinik nie spełnia Twoich wymagań, to zachęcamy do szukania innych rozwiązań. Klinik jest dużo, warto poszukać takiej, która będzie nam odpowiadać, zwłaszcza pod kątem ceny i lokalizacji. Jeżeli chodzi o doświadczenie — osobom z mniejszymi rozmiarami polecamy szukać klinik specjalizujących się w zabiegach dotyczących ginekomastii, a osobom z większymi klinik specjalizujących się w zabiegach plastyki piersi. Te pierwsze będą wprawione w cięciach „bezbliznowych" a te drugie w rozwiązaniach typu „lollipop" czy też „T-anchor".
