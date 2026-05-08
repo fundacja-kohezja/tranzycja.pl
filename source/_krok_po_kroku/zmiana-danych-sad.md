@@ -618,9 +618,9 @@ Poniższe wzory zostały przygotowane przez adw. Karolinę Gierdal oraz konsulto
 
 - [Wzór oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania (wzór pusty)](https://tranzycja.pl/media/docs/wzory/wzor-oswiadczenia-o-stanie-rodzinnym-majatku-dochodach-i-zrodlach-utrzymania-pusty.pdf)  
 - [Wzór oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania (wzór przykładowo uzupełniony)](https://tranzycja.pl/media/docs/wzory/wzor-oswiadczenia-o-stanie-rodzinnym-majatku-dochodach-i-zrodlach-utrzymania-przykladowy.docx)  
-- [Wzór wniosku o uzasadnienie postanowienia oddalającego wniosek o zwolnienie od kosztów](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanawienia-oddalajacego-wniosek-o-zwolnienie-od-kosztow.docx)  
-- [Wzór wniosku o uzasadnienie postanowienia oddalającego wniosek o sprostowanie aktu urodzenia](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanawienia-oddalajacego-wniosek-o-sprostowanie-aktu-urodzenia.docx)
-- [Wzór wniosku o uzasadnienie zawieszenia postępowania](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-zawieszajacego.docx)
+- [Wzór wniosku o uzasadnienie postanowienia oddalającego wniosek o zwolnienie od kosztów](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-oddalajacego-wniosek-o-zwolnienie-od-kosztow.docx)  
+- [Wzór wniosku o uzasadnienie postanowienia oddalającego wniosek o sprostowanie aktu urodzenia](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-oddalajacego-wniosek-o-sprostowanie-aktu-urodzenia.docx)
+- [Wzór wniosku o uzasadnienie postanowienia zawieszającego](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-zawieszajacego.docx)
 - [Wzór wniosku o przyspieszenie postępowania](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-przyspieszenie-rozprawy.docx)  
 - [Wzór wniosku o rozprawę zdalną](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-rozprawe-zdalna.docx)  
 [Wzór wniosku o doręczenie prawomocnego odpisu postanowienia](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-doreczenie-prawomocnego-odpisu-postanowienia.docx)  
