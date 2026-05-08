@@ -1,11 +1,14 @@
 ---
-
+opublikowano: '2026-05-09 12:07:56'
+tags: publikacje
+meta:
+  Autorzy: adw. Karolina Gierdal
+  Korekta: Nina Kuta, Julia Zając
 ---
 
 # Co oznaczają zapytania do TSUE i TK dla procedury uzgodnienia płci? 
 
 W tym artykule omawiamy obecny stan wiedzy na temat możliwych utrudnień w dostępie do uzgodnienia płci w Polsce w związku z zapytaniami o zgodność tej procedury z konstytucją (do Trybunału Konstytucyjnego) oraz prawem unijnym (do Trybunału Sprawiedliwości Unii Europejskiej). 
-
 
 **Co się stało:**
 
@@ -28,7 +31,7 @@ Istnieje sposób na zaradzenie tej sytuacji: pytania do TSUE oraz TK zostały za
 Jako tranzycja.pl starałyśmy dotrzeć się do rodziców osób, których postępowania dotyczą. Do tej pory nam się to nie udało. **Jeśli wiesz, o kogo może chodzić, bardzo prosimy o próbę kontaktu z osobami, wyjaśnienie sytuacji i poproszenie, by zwróciły się do nas.** Wycofanie wniosku będzie bardzo ważne zarówno dla osób, których sprawa dotyczy, jak i dla całej naszej społeczności. 
 :::
 
-Jeśli Twoja sprawa została zawieszona w związku z zapytaniami do TK/TSUE masz dwie opcje. Możesz wycofać wniosek i złożyć go jeszcze raz, choć jest ryzyko, że trafisz na tego samego sędziego. Możesz również złożyć zażalenie na zawieszenie. Przygotowałyśmy już pierwszy potrzebny do tego wzór wniosku (o uzasadnienie zawieszenia, konieczna jest opłata 30 zł). Wzór samego zażalenia jest w trakcie przygotowania, w międzyczasie skontaktuj się z prawnikiem kompetentnym w obszarze tranzycji prawnej (lista organizacji oferujących pomoc prawną dostępna jest [tutaj](https://tranzycja.pl/krok-po-kroku/pomoc/#pomoc-prawna)). 
+Jeśli Twoja sprawa została zawieszona w związku z zapytaniami do TK/TSUE masz dwie opcje. Możesz wycofać wniosek i złożyć go jeszcze raz, choć jest ryzyko, że trafisz na tego samego sędziego. Możesz również złożyć zażalenie na zawieszenie. Przygotowałyśmy już pierwszy potrzebny do tego [wzór wniosku](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-zawieszajacego.docx) (o uzasadnienie zawieszenia, konieczna jest opłata 30 zł). Wzór samego zażalenia jest w trakcie przygotowania, w międzyczasie skontaktuj się z prawnikiem kompetentnym w obszarze tranzycji prawnej (lista organizacji oferujących pomoc prawną dostępna jest [tutaj](https://tranzycja.pl/krok-po-kroku/pomoc/#pomoc-prawna)). 
 
 Jako Stowarzyszenie Tranzycja.pl współpracujemy obecnie z organizacjami pozarządowymi i instytucjami prawnoczłowieczymi, by zbadać inne możliwości działania w tej sytuacji.
 
@@ -37,6 +40,11 @@ Ostatnia aktualizacja artykułu 09.05.2026 r.
 ## Szczegółowe omówienie
 
 ### Zapytanie do Trybunału Konstytucyjnego 
+
+:::info
+[Link do treści zapytania.
+](https://trybunal.gov.pl/sprawy-w-trybunale/art/dopuszczalnosc-zmiany-oznaczenia-plci-w-akcie-urodzenia-maloletniego-w-trybie-sprostowania-opartego-na-kryterium-deklaratywnej-tozsamosci-plciowej-bez-wymogu-uwzglednienia-jego-dobra-i-bez-okreslenia-minimalnego-progu-wieku)
+:::
 
 Sąd Rejonowy w Piotrkowie Trybunalskim zadał pytanie prawne do Trybunału Konstytucyjnego dotyczące „nowego” trybu uzgodnienia płci opartego na sprostowaniu aktu urodzenia. Użyto tutaj procedury, w ramach której sądy mogą zapytać TK, czy prawo, na podstawie którego mają orzekać, jest konstytucyjne (albo czy jest taki sposób jego interpretacji). Pytanie prawne dotyczy konstytucyjności zarówno stosowania procedury sprostowania aktu urodzenia u osób niepełnoletnich, jak i ogólnie samej możliwości zmiany oznaczenia płci, więc potencjalnie może dotknąć również osób dorosłych. Wyrok TK może zapaść niedługo, a może się to wydarzyć nawet za kilka lat – jest to niemożliwe do przewidzenia. Co więcej, nawet jeśli wyrok zapadnie, to jego konsekwencje są trudne do ustalenia z uwagi na obecny status prawny TK. 
 
@@ -47,6 +55,11 @@ Jeśli kryzys w TK się zakończy i dojdzie do wydania wyroku, trudno jest przew
 Biorąc pod uwagę, że duża część sędziów TK jest konserwatywna, naprawdę trudno odgadnąć kierunek odpowiedzi na takie pytania i należy liczyć się z tym, że wyrok może być skrajnie niekorzystny. Co oznaczałoby to dla tranzycji prawnej w Polsce: w tym momencie nie wiadomo. Prawdopodobnie na początku powrót do „starej” procedury, ale trudno powiedzieć, w jakim dokładnie kształcie. Gdyby TK odniósł się też do kryteriów dostępu do tranzycji prawnej, mogłoby okazać się, że dodane zostaną jakieś nowe wymogi w kwestiach dowodowych, na które powoływaliby się sędziowie. Jeśli taki negatywny wyrok zapadłby przy nadal trwającym kryzysie w TK, wielu sędziów może go nie uznawać – znowu jednak nie wiadomo, jak dokładnie wpłynęłoby to na dostęp do uzgodnienia płci. 
 
 ### Zapytanie do Trybunału Sprawiedliwości Unii Europejskiej
+
+:::info 
+[LINK do treści zapytania.
+](https://infocuria.curia.europa.eu/tabs/document/C/2026/C-0129-26-00000000RP-01-P-01/DDP/318849-PL-1-pdf)
+:::
 
 Sąd Rejonowy w Białymstoku zadał pytanie prejudycjalne do Trybunału Sprawiedliwości Unii Europejskiej w sprawie o sprostowanie aktu urodzenia osoby niepełnoletniej. Procedura pytań prejudycjalnych polega na tym, że jeśli sąd w danym kraju UE ma wątpliwość, jak rozstrzygnąć jakąś sprawę, która dotyka prawa unijnego, może zadać TSUE pytanie o wykładnię.
 
@@ -71,7 +84,7 @@ Takie zawieszenie nie jest obligatoryjne: sędziowie orzekający w innych sprawa
 Ponieważ praktyka zawieszania postanowień się nie rozpowszechniła i sprawy wciąż są procedowane, możesz rozważyć cofnięcie wniosku i złożenie go jeszcze raz – jeśli składasz wniosek w tym samym sądzie, zwróć uwagę, czy postępowanie będzie prowadził ten sam sędzia, bo wtedy znów je zawiesi. Cofanie wniosku i wnoszenie go na nowo można powtarzać wielokrotnie.
  
 Dobra wiadomość jest taka, że postanowienie o zawieszeniu można zażalić. W tym celu: 
-- złoż wniosek o uzasadnienie tego postanowienia (link do wzoru), pamiętaj o opłacie 30 zł na konto sądu; 
-- po otrzymaniu postanowienia z uzasadnieniem złóż zażalenie; wkrótce opublikujemy wzory zażaleń, w międzyczasie skontaktuj się z prawnikiem. 
+- złoż wniosek o uzasadnienie tego postanowienia ([WZÓR](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-zawieszajacego.docx)), pamiętaj o opłacie 30 zł na konto sądu; 
+- po otrzymaniu postanowienia z uzasadnieniem złóż zażalenie; wkrótce opublikujemy wzory zażaleń, w międzyczasie skontaktuj się z prawnikiem ([lista organizacji pomocowych](https://tranzycja.pl/krok-po-kroku/pomoc/#pomoc-prawna)). 
 
  
