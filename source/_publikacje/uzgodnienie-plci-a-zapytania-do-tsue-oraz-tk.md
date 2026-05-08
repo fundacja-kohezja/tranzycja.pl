@@ -2,10 +2,10 @@
 opublikowano: '2026-05-09 12:07:56'
 tags: publikacje
 meta:
-  Autorzy: adw. Karolina Gierdal
-  Korekta: Nina Kuta, Julia Zając
+    Autorzy: 'adw. Karolina Gierdal'
+    Korekta: 'Nina Kuta, Julia Zając'
+zaktualizowano: '2026-05-08 21:03:15'
 ---
-
 # Co oznaczają zapytania do TSUE i TK dla procedury uzgodnienia płci? 
 
 W tym artykule omawiamy obecny stan wiedzy na temat możliwych utrudnień w dostępie do uzgodnienia płci w Polsce w związku z zapytaniami o zgodność tej procedury z konstytucją (do Trybunału Konstytucyjnego) oraz prawem unijnym (do Trybunału Sprawiedliwości Unii Europejskiej). 
