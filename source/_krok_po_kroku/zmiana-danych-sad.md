@@ -182,8 +182,7 @@ Możesz wnioskować do sądu o wyłączenie jawności – spowoduje to, że publ
 Możesz wnioskować do sądu o zdalne przeprowadzenie rozprawy. Temat ten jest szczegółowo omówiony w sekcji [*Pytań i odpowiedzi*](https://tranzycja.pl/krok-po-kroku/zmiana-danych-sad/#pytania-i-odpowiedzi).
 
 :::danger
-**UWAGA:** w związku z zapytaniami do Trybunału Konstytucyjnego oraz Trybunału Sprawiedliwości Unii Europejskiej istnieje nowa potencjalna komplikacja w trakcie sprawy: zawieszenie postępowania. Sytuacja związana z TK oraz TSUE jest szczegółowo opisana [w osobnym artykule.](https://tranzycja.pl/publikacje/uzgodnienie-plci-a-zapytania-do-tsue-oraz-tk/) Jeśli sąd wysłał do ciebie pismo informujące o zawieszeniu postępowania możesz albo wycofać wniosek i złożyć go jeszcze raz; albo złożyć wniosek o uzasadnienie zawieszenia ([WZÓR](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-zawieszajacego.docx)), a potem zażalenie.
-:::
+**UWAGA:** w związku z zapytaniami do Trybunału Konstytucyjnego oraz Trybunału Sprawiedliwości Unii Europejskiej istnieje nowa potencjalna komplikacja w trakcie sprawy: zawieszenie postępowania. Sytuacja związana z TK oraz TSUE jest szczegółowo opisana [w osobnym artykule.](https://tranzycja.pl/publikacje/uzgodnienie-plci-a-zapytania-do-tsue-oraz-tk/) Jeśli sąd wysłał do ciebie pismo informujące o zawieszeniu postępowania możesz albo wycofać wniosek i złożyć go jeszcze raz albo złożyć wniosek o uzasadnienie zawieszenia ([WZÓR](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-zawieszajacego.docx)), a potem zażalenie.
 :::
 
 ### Biegli 
