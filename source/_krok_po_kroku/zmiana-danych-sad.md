@@ -181,6 +181,10 @@ Możesz wnioskować do sądu o wyłączenie jawności – spowoduje to, że publ
 
 Możesz wnioskować do sądu o zdalne przeprowadzenie rozprawy. Temat ten jest szczegółowo omówiony w sekcji [*Pytań i odpowiedzi*](https://tranzycja.pl/krok-po-kroku/zmiana-danych-sad/#pytania-i-odpowiedzi).
 
+:::danger
+**UWAGA:** w związku z zapytaniami do Trybunału Konstytucyjnego oraz Trybunału Sprawiedliwości Unii Europejskiej istnieje nowa potencjalna komplikacja w trakcie sprawy: zawieszenie postępowania. Sytuacja związana z TK oraz TSUE jest szczegółowo opisana [w osobnym artykule.](https://tranzycja.pl/publikacje/uzgodnienie-plci-a-zapytania-do-tsue-oraz-tk/) Jeśli sąd wysłał do ciebie pismo informujące o zawieszeniu postępowania możesz albo wycofać wniosek i złożyć go jeszcze raz albo złożyć wniosek o uzasadnienie zawieszenia ([WZÓR](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-zawieszajacego.docx)), a potem zażalenie.
+:::
+
 ### Biegli 
 
 Oprócz tego, czy w danej sprawie zostanie wyznaczona rozprawa, inną losową i nieprzewidywalną kwestią jest to, czy sąd dopuści dowód z opinii biegłego. W czasach poprzedniej procedury wiele sądów okręgowych udawało się przekonać do koncepcji, że opinia biegłego jest w postępowaniu zbędna, jeśli osoba załączyła prywatne opinie z diagnozą F64.0, „Transseksualizm” wg Międzynarodowej Klasyfikacji Chorób ICD-10, lub HA60, „Niezgodność płciowa”, wg nowszej klasyfikacji ICD-11. Mimo to nierzadkie były przypadki powoływania biegłych przez sąd, co znacznie wydłużało postępowanie i generowało wyższe koszty.  
@@ -609,12 +613,13 @@ Poniższe wzory zostały przygotowane przez adw. Karolinę Gierdal oraz konsulto
 - [Wariant dla osób używających męskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(on-jego)-tranzycjapl.docx)  
 - [Wariant dla osób używających żeńskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(ona-jej)-tranzycjapl.docx)  
 
-#### Wzory w przypadkach szczególnych: 
+#### Wzory w przypadkach szczególnych 
 
 - [Wzór oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania (wzór pusty)](https://tranzycja.pl/media/docs/wzory/wzor-oswiadczenia-o-stanie-rodzinnym-majatku-dochodach-i-zrodlach-utrzymania-pusty.pdf)  
 - [Wzór oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania (wzór przykładowo uzupełniony)](https://tranzycja.pl/media/docs/wzory/wzor-oswiadczenia-o-stanie-rodzinnym-majatku-dochodach-i-zrodlach-utrzymania-przykladowy.docx)  
-- [Wzór wniosku o uzasadnienie postanowienia oddalającego wniosek o zwolnienie od kosztów](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanawienia-oddalajacego-wniosek-o-sprostowanie-aktu-urodzenia.docx)  
-- [Wzór wniosku o uzasadnienie postanowienia oddalającego wniosek o sprostowanie aktu urodzenia](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanawienia-oddalajacego-wniosek-o-sprostowanie-aktu-urodzenia.docx)  
+- [Wzór wniosku o uzasadnienie postanowienia oddalającego wniosek o zwolnienie od kosztów](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-oddalajacego-wniosek-o-zwolnienie-od-kosztow.docx)  
+- [Wzór wniosku o uzasadnienie postanowienia oddalającego wniosek o sprostowanie aktu urodzenia](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-oddalajacego-wniosek-o-sprostowanie-aktu-urodzenia.docx)
+- [Wzór wniosku o uzasadnienie postanowienia zawieszającego](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-zawieszajacego.docx)
 - [Wzór wniosku o przyspieszenie postępowania](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-przyspieszenie-rozprawy.docx)  
 - [Wzór wniosku o rozprawę zdalną](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-rozprawe-zdalna.docx)  
 [Wzór wniosku o doręczenie prawomocnego odpisu postanowienia](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-doreczenie-prawomocnego-odpisu-postanowienia.docx)  
