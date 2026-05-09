@@ -23,10 +23,10 @@ W tym artykule omawiamy obecny stan wiedzy na temat możliwych utrudnień w dost
 Istnieje sposób na zaradzenie tej sytuacji: pytania do TSUE oraz TK zostały zadane w kontekście konkretnych postępowań. Jeśli osoby, których dotyczą te postępowania, wycofają swoje wnioski, wówczas pytania również zostaną wycofane.  
 
 :::warning
-**POMÓŻ NAM JE ZNALEŹĆ** 
+**POMÓŻ NAM ICH ZNALEŹĆ** 
 
-- Sąd Rejonowy w Białymstoku, zapytanie do TSUE, osoba niepełnoletnia 
-- Sąd Rejonowy w Piotrkowie Trybunalskim, zapytanie do TK, osoba niepełnoletnia, trans chłopak 
+- Sąd Rejonowy w Białymstoku, zapytanie do TSUE, osoba niepełnoletnia, trans chłopak.
+- Sąd Rejonowy w Piotrkowie Trybunalskim, zapytanie do TK, osoba niepełnoletnia, trans chłopak. 
 
 Jako tranzycja.pl starałyśmy dotrzeć się do rodziców osób, których postępowania dotyczą. Do tej pory nam się to nie udało. **Jeśli wiesz, o kogo może chodzić, bardzo prosimy o próbę kontaktu z osobami, wyjaśnienie sytuacji i poproszenie, by zwróciły się do nas.** Wycofanie wniosku będzie bardzo ważne zarówno dla osób, których sprawa dotyczy, jak i dla całej naszej społeczności. 
 :::
