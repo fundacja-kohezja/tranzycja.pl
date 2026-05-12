@@ -223,7 +223,7 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 ##### Wrocław: 
 
-- **Transfriendly Gabinet:** bezpłatne wykonywanie zastrzyków, przyuczanie do samodzielnego ich wykonywania, zlecanie badań laboratoryjnych ze zniżką; [Facebook](https://www.facebook.com/profile.php?id=100087104342783), e-mail: jessicakozdrowicz@gmail.com 
+- **Transfriendly Gabinet:** bezpłatne wykonywanie zastrzyków, przyuczanie do samodzielnego ich wykonywania, zlecanie badań laboratoryjnych ze zniżką; [Facebook](https://www.facebook.com/profile.php?id=100087104342783), e-mail: jessimiaczerwinska@gmail.com
 
 ## Queerowe wydarzenia integracyjne 
 
@@ -314,7 +314,7 @@ Poniższe organizacje regularnie organizują wydarzenia o tematyce queerowej lub
 - **Kultura Równości:** queerowa przestrzeń Równe Miejsce, wydarzenia integracyjne, biblioteka LGBTQ+; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), email: pomoc@kulturarownosci.org 
 - **Polska Kłirem Kwitnąca**: wydarzenia organizowane wspólnie z Wolną Biblioteką. [Facebook](https://www.facebook.com/profile.php?id=61586922510702), [Instagram](https://www.instagram.com/polskakliremkwitnaca/), email: polskakliremkwitnaca@disroot.org  
 
-## Dla rodziców: 
+## Dla rodziców 
 
 ### Ogólnopolskie: 
 
