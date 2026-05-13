@@ -2,8 +2,7 @@
 opublikowano: '2026-05-09 12:07:56'
 tags: publikacje
 meta:
-    Autorzy: 'adw. Karolina Gierdal'
-    Korekta: 'Nina Kuta, Julia Zając'
+    Autorzy: 'zespół tranzycja.pl'
 zaktualizowano: '2026-05-08 21:03:15'
 ---
 # Co oznaczają zapytania do TSUE i TK dla procedury uzgodnienia płci? 
@@ -38,6 +37,11 @@ Jako Stowarzyszenie Tranzycja.pl współpracujemy obecnie z organizacjami pozarz
 Ostatnia aktualizacja artykułu 09.05.2026 r. 
 
 ## Szczegółowe omówienie
+
+:::info
+
+Poniższe analizy przygotowane zostały przez adw. Karolinę Gierdal
+:::
 
 ### Zapytanie do Trybunału Konstytucyjnego 
 
@@ -81,9 +85,13 @@ Takie zawieszenie nie jest obligatoryjne: sędziowie orzekający w innych sprawa
 
 ### Co możesz zrobić, gdy dostał_ś informację o zawieszeniu Twojej sprawy?
 
-Ponieważ praktyka zawieszania postanowień się nie rozpowszechniła i sprawy wciąż są procedowane, możesz rozważyć cofnięcie wniosku i złożenie go jeszcze raz – jeśli składasz wniosek w tym samym sądzie, zwróć uwagę, czy postępowanie będzie prowadził ten sam sędzia, bo wtedy znów je zawiesi. Cofanie wniosku i wnoszenie go na nowo można powtarzać wielokrotnie.
- 
-Dobra wiadomość jest taka, że postanowienie o zawieszeniu można zażalić. W tym celu: 
+**Pierwsze rozwiązanie**
+Kodeks postępowania cywilnego dopuszcza cofnięcie wniosku. Jeśli Sąd nie uzna takiego cofnięcia za niedopuszczalne, to wyda postanowienie o umorzeniu postępowania. W takiej sytuacji wniosek może być potem ponownie złożony bez obaw o zarzut, że sprawa została prawomocnie rozstrzygnięta.
+
+Jeśli Sąd uznałby cofnięcie za niedopuszczalne (co w praktyce zdarza się bardzo rzadko, ponieważ muszą tu zaistnieć pewne wyjątkowe okoliczności), to w takiej sytuacji przysługuje ci prawo do wniesienia zażalenia. Złoż wniosek o uzasadnienie postanowienia i skontaktuj się z prawnikiem ([lista organizacji pomocowych](https://tranzycja.pl/krok-po-kroku/pomoc/#pomoc-prawna)).
+
+**Drugie rozwiązanie**
+Postanowienie o zawieszeniu można zażalić. W tym celu: 
 - złoż wniosek o uzasadnienie tego postanowienia ([WZÓR](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-uzasadnienie-postanowienia-zawieszajacego.docx)), pamiętaj o opłacie 30 zł na konto sądu; 
 - po otrzymaniu postanowienia z uzasadnieniem złóż zażalenie; wkrótce opublikujemy wzory zażaleń, w międzyczasie skontaktuj się z prawnikiem ([lista organizacji pomocowych](https://tranzycja.pl/krok-po-kroku/pomoc/#pomoc-prawna)). 
 
