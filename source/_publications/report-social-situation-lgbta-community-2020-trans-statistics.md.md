@@ -7,7 +7,7 @@ meta:
 opublikowano: '2022-12-12 18:25:36'
 zaktualizowano: '2022-12-12 18:25:36'
 ---
-# What does the "social situation of LGBTA people in Poland 2019-2020" report say about trans people?
+# What does the "Social situation of LGBTA people in Poland 2019-2020" report say about trans people?
 
 The recently published report produced together by the Kampania Przeciwko Homofobii (Campaign Against Homophobia) and Lambda Warszawa Association, is a true compendium of knowledge with over 300 pages of statistics, charts and percentages. Many people may find it difficult to dig through such a long report, so we tried to briefly present a selection of information from the report that specifically concerns the trans community.
 
